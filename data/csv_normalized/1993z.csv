@@ -1,0 +1,906 @@
+1993,Zemřelé ženy podle podrobného seznamu příčin smrti a věku,,,,,,,,,,,,,,,,,,,,,,,
+MKN (1976),Název,Celkem,0,1,2,3,4,5-9,10-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85+
+,,,,,,,,,,,,,,,,,,,,,,,,
+,CELKEM ZEMŘELÝCH ŽEN,59 005,425,31,22,16,14,52,64,141,153,158,190,399,652,1 087,1 238,1 763,3 336,5 666,7 803,8 257,13 228,14 310
+,,,,,,,,,,,,,,,,,,,,,,,,
+I,Infekční a parazitární nemoci,148,1,2,-,-,-,1,-,2,-,1,3,3,2,3,5,7,6,16,22,19,29,26
+1,Cholera,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2,Břišní tyfus,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+3,Jiné infekce způsobené salmonelami,11,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,4,2,1,1
+4,Bacilární úplavice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+5,Jiné otravy potravinami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+6,Amébová úplavice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+7,Jiné protozoární střevní nemoci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+8,Střevní infekce způsobené jinými organismy,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+9,"Nepřesně určené střevní infekce, infekční průjmová onemocnění blíže neurčená",4,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1
+10,Primární tuberkulózní infekce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+11,Tuberkulóza plic,47,-,-,-,-,-,-,-,-,-,-,3,1,1,-,-,-,1,3,11,4,13,10
+12,Jiná tuberkulóza dýchacího ústrojí,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1
+13,Tuberkulóza mozkomíšních plen a centrální nervové soustavy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+14,"Tuberkulóza střev, pobřišnice a uzlin okruží",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+15,Tuberkulóza kostí a kloubů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+16,Tuberkulóza močového a pohlavního ústrojí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+17,Tuberkulóza jiných orgánů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+18,"Miliární, diseminovaná tuberkulóza",6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,3
+20,Mor,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+21,Tularémie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+22,"Uhlák, sněť slezinná",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+23,Vlnivá horečka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+24,Vozhřivka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+25,Melioidosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+26,Horečka z krysího kousnutí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+27,Jiné zoonotické bakteriální nemoci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+30,Malomocenství,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+31,Nemoci způsobené jinými mykobakteriemi,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+32,Záškrt,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+33,Dávivý kašel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+34,Streptokoková angína a spála,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+35,Růže,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,1,2,1
+36,Meningokové infekce,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+37,Tetanus,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+38,Septikémie,53,-,-,-,-,-,-,-,1,-,1,-,2,1,1,4,5,1,9,5,7,11,5
+39,Aktinomykotické infekce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+40,Jiné bakteriální nemoci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+41,Bakteriální infekce při onemocněních zařazených jinde nebo s blíže neurčenou lokalizací,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+42,Syndrom získaného selhání imunity,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+45,Akutní dětská obrna,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+46,Pomalá virová infekce centrální nervové soustavy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+47,Meningitis způsobené enterovirem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+48,Jiné enterovirové nemoci centrální nervové soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+49,"Jiné virové nemoci centrální nervové soustavy, nepřenášené členovci",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+50,Neštovice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+51,Kravské neštovice a paravakcinie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+52,Plané neštovice,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+53,Pásový opar,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+54,Prostý opar,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+55,Spalničky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+56,Zarděnky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+57,Jiné virové nemoci s vyrážkou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+60,Žlutá zimnice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+61,Dengue,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+62,Virový zánět mozku přenášený komáry,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+63,Virový zánět mozku přenášený klíšťaty,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+64,Virový zánět mozku přenášený jinými nebo blíže neurčenými členovci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+65,Hemoragická horečka přenášená členovci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+66,Jiné virové nemoci přenášené členovci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+70,Virový zánět jater,6,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,2,1,-,-,-,2
+71,Vzteklina,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+72,Epidemický zánět příušnic,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+73,"Ornithosis, psittacosis",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+74,Specifické nemoci působené virem Coxsackie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+75,Infekční mononukleóza,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+76,Trachom,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+77,Jiné nemoci spojivky působené viry a chlamydiemi,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+78,Jiné nemoci působené viry a chlamydiemi,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+79,Virové infekce při onemocněních zařazených jinde nebo s blíže neurčenou lokalizací,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+80,Epidemická skvrnivka - přenášená vešmi,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+81,Jiná skvrnivka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+82,Rickettsiózy přenášené klíšťaty,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+83,Jiné rickettsiózy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+84,Malárie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+85,Leishmaniosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+86,Trypanosomiasis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+87,Návratná horečka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+88,Jiné nemoci přenášené členovci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+90,Vrozená syfilis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+91,Čerstvá syfilis s příznaky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+92,Čerstvá syfilis latentní,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+93,Kardiovaskulární syfilis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+94,Neurosyfilis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+95,Jiné formy pozdní syfilidy s příznaky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+96,Pozdní syfilid latentní,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+97,Jiná nebo blíže neurčená syfilis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+98,Gonokoková onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+99,Jiné pohlavní nemoci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+100,Leptospirosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+101,Vincentova angína,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+102,Frambézie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+103,Pinta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+104,Jiné spirochétové infekce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+110,Dermatophytosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+111,"Dermatomycosis, jiná nebo blíže neurčená",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+112,"Candidosis, moniliasis",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+114,Coccidioidomycosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+115,Histoplasmosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+116,Blastomykotické infekce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+117,Jiné mykózy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+118,Dermatomykózy působené potenciálně parazitárními houbami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+120,Schistosomiasis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+121,Jiné infekce trematody,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+122,"Echinococcosis, hydatidosis - měchožil",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+123,Jiné infekce cestody,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+124,Trichinosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+125,Filariasis a dracontiasis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+126,Ankylostomiasis a necatoriasis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+127,Jiné střevní helmintiázy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+128,Jiné a blíže neurčené helmintiázy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+129,Střevní parazitismus blíže neurčený,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+130,Toxoplasmosis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+131,Trichomoniasis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+132,Zavšivení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+133,Acariasis (svrab),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+134,Jiná napadení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+135,Sarcoidosis,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+136,Jiné a blíže neoznačené infekční a parazitární nemoci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+137,Pozdní následky tuberkulózy,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1
+138,Pozdní následky akutní poliomyelitidy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+139,Pozdní následky jiných infekčních a parazitárních nemocí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+II,Novotvary,12 716,1,3,5,2,3,13,4,20,32,38,67,154,297,532,641,795,1 394,1 891,1 986,1 575,1 895,1 368
+140,Zhoubný novotvar rtu,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3
+141,Zhoubný novotvar jazyka,19,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,-,4,3,5,-,2,1
+142,Zhoubný novotvar slinné žlázy,15,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,2,2,2,3,3
+143,Zhoubný novotvar dásně,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,2
+144,Zhoubný novotvar ústní spodiny,7,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,-,1,2,-
+145,Zhoubný novotvar jiné nebo blíže neurčené části úst,8,-,-,-,-,-,-,-,-,1,-,-,-,-,1,1,-,-,1,2,2,-,-
+146,Zhoubný novotvar ústní částí hltanu,13,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,4,4,-,2,1,1,-
+147,Zhoubný novotvar nosohltanu,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,-,-,1,1
+148,Zhoubný novotvar hypofaryngu,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,-,2,-
+149,"Zhoubný novotvar jiné nebo nepřesně určené lokalizace v oblasti rtu, ústní dutiny nebo hltanu",3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,1
+150,Zhoubný novotvar jícnu,61,-,-,-,-,-,-,-,-,-,1,-,-,1,2,3,3,4,8,9,9,7,14
+151,Zhoubný novotvar žaludku,887,-,-,-,-,-,-,-,-,2,-,5,7,13,23,23,28,63,124,135,130,180,154
+152,Zhoubný novotvar tenkého střeva včetně dvanáctníku,31,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,-,4,4,5,3,8,3
+153,Zhoubný novotvar tlustého střeva,1 145,-,-,-,-,-,-,-,-,1,2,4,7,12,26,42,57,110,154,200,167,219,144
+154,"Zhoubný novotvar konečníku, rektosigmoidálního spojení nebo řiti",815,-,-,-,-,-,-,-,-,-,1,1,6,17,26,33,37,82,132,135,107,146,92
+155,Zhoubný novotvar jater a intrahepatálních žlučových cest,357,-,-,1,-,-,-,-,-,-,-,-,1,6,9,14,22,36,66,64,47,53,38
+156,Zhoubný novotvar žlučníku a extrahepatálních žlučových cest,690,-,-,-,-,-,-,-,-,-,-,-,2,6,18,23,31,69,108,124,108,130,71
+157,Zhoubný novotvar slinivky břišní,692,-,-,-,-,-,-,-,-,-,-,1,4,12,9,19,45,83,104,131,101,114,69
+158,Zhoubný novotvar retroperitonea nebo pobřišnice,55,-,-,-,-,1,-,-,-,1,-,-,1,2,2,3,3,4,13,11,3,8,3
+159,Zhoubný novotvar jiné nebo nepřesně určené lokalizace v oblasti trávicího ústrojí nebo pobřišnice,237,-,-,-,-,-,-,-,-,-,-,-,-,1,2,3,8,15,24,28,34,63,59
+160,"Zhoubný novotvar nosních dutin, středního ucha nebo obličejových dutin",14,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-,1,3,1,1,2,3
+161,Zhoubný novotvar hrtanu,14,-,-,-,-,-,-,-,-,1,-,-,1,-,1,1,1,-,-,5,-,4,-
+162,"Zhoubný novotvar průdušnice, průdušek a plic",947,-,-,-,-,-,-,-,1,-,-,-,5,22,46,60,76,134,181,136,97,116,73
+163,Zhoubný novotvar pohrudnice,22,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,3,4,-,2,5,4
+164,"Zhoubný novotvar brzlíku, srdce nebo mezihrudí",16,-,-,-,-,-,-,-,1,-,-,1,-,1,-,-,1,4,1,-,2,3,2
+165,Zhoubný novotvar jiné nebo nepřesně určené lokalizace v oblasti dýchacích ústrojí nebo nitrohrudn,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,1,4,2
+170,Zhoubný novotvar kosti nebo kloubní chrupavky,59,-,-,-,-,-,1,-,1,1,1,-,1,2,4,5,1,7,6,15,6,4,4
+171,Zhoubný novotvar pojivové nebo jiné měkké tkáně,51,-,-,1,-,-,2,-,1,-,1,-,3,3,3,3,3,1,3,11,5,6,5
+172,Zhoubný melanom kůže,172,-,-,-,-,-,-,-,-,5,3,1,7,12,13,9,7,18,21,17,20,21,18
+173,Jiný zhoubný novotvar kůže,72,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,2,4,6,19,38
+174,Zhoubný novotvar ženského prsu,1 946,-,-,-,-,-,-,-,-,1,5,13,42,75,127,154,166,245,290,261,199,207,161
+175,Zhoubný novotvar mužského prsu,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+179,Zhoubný novotvar neurčené části dělohy,142,-,-,-,-,-,-,-,-,-,-,-,-,4,5,2,7,16,16,37,22,17,16
+180,Zhoubný novotvar děložního čípku,478,-,-,-,-,-,-,-,-,-,2,14,25,29,55,42,34,59,56,50,38,47,27
+181,Zhoubný novotvar lůžka - placenty,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+182,Zhoubný novotvar děložního těla,402,-,-,-,-,-,-,-,-,-,1,1,1,4,10,12,26,48,72,79,57,53,38
+183,Zhoubný novotvar vaječníku nebo jiných adnex dělohy,710,-,-,-,-,-,-,-,-,-,1,3,10,26,52,57,58,103,105,117,64,73,41
+184,Zhoubný novotvar jiného nebo blíže neoznačeného ženského pohlavního orgánu,189,-,-,-,-,-,-,-,-,-,-,-,2,4,4,6,9,17,23,32,28,34,30
+185,Zhoubný novotvar předstojné žlázy,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+186,Zhoubný novotvar varlete,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+187,Zhoubný novotvar pyje nebo jiného mužského pohlavního orgánu,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+188,Zhoubný novotvar močového měchýře,193,-,-,-,-,-,-,-,-,-,-,-,1,1,1,4,8,12,22,36,31,41,36
+189,Zhoubný novotvar ledviny nebo jiného nebo blíže neurčeného močového orgánu,504,-,-,-,2,1,2,-,1,1,-,-,2,7,20,29,43,71,91,68,70,59,37
+190,Zhoubný novotvar oka,11,-,-,-,-,-,-,-,1,-,-,1,-,-,1,-,-,1,1,2,-,2,2
+191,Zhoubný novotvar mozku,254,-,1,2,-,-,4,1,3,6,-,5,7,7,28,20,33,31,45,35,12,9,5
+192,Zhoubný novotvar jiné nebo blíže neurčené části nervové soustavy,8,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,2,1,2,1,-,-,-
+193,Zhoubný novotvar štítné žlázy,87,-,-,-,-,-,-,-,-,-,1,-,2,-,1,3,6,6,11,22,9,16,10
+194,Zhoubný novotvar jiné žlázy s vnitřní sekrecí nebo příbuzné tkáně,26,-,-,-,-,-,-,-,-,-,-,-,2,-,2,2,1,7,2,8,-,1,1
+195,Zhoubný novotvar jiné nebo nepřesně určené lokalizace,90,-,1,-,-,-,-,-,-,1,1,-,1,-,1,3,3,9,9,11,15,15,20
+196,Sekundární nebo blíže neurčený zhoubný novotvar mízních uzlin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+197,Sekundární zhoubný novotvar dýchací nebo trávicí soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+198,Sekundární zhoubný novotvar jiné určené lokalizace,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+199,Zhoubný novotvar bez určení lokalizace,290,-,-,-,-,-,-,-,-,-,1,5,1,2,2,15,12,30,38,55,39,48,42
+200,Lymforarkom a retikulosarkom,52,-,-,-,-,-,-,-,-,2,2,1,1,-,2,4,1,2,7,8,7,8,7
+201,Hodgkinova nemoc,78,-,-,-,-,-,1,-,3,4,6,4,3,4,2,2,5,9,5,8,9,10,3
+202,Jiný zhoubný novotvar mízní nebo histiocytární tkáně,161,1,-,-,-,-,-,1,-,1,2,1,2,4,4,3,11,13,30,18,29,27,14
+203,Mnohočetný myelom a imunoproliferativní novotvary,158,-,-,-,-,-,-,-,-,-,-,-,-,1,4,6,5,11,33,27,28,32,11
+204,Lymfatická leukémie,152,-,-,1,-,-,1,1,2,-,1,-,1,3,3,4,5,14,17,25,22,27,25
+205,Myeloidní leukémie,185,-,1,-,-,1,2,1,3,4,4,2,5,6,11,13,14,17,27,17,13,25,19
+206,Monocytární leukémie,10,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,3,2,2
+207,Jiná určená leukémie,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,2,1,-
+208,Leukémie blíže neurčeného buněčného typu,41,-,-,-,-,-,-,-,-,-,1,-,1,1,-,2,1,3,7,7,11,4,3
+210,"Nezhoubný novotvar rtu, ústní dutiny a hltanu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+211,Nezhoubný novotvar jiné části trávicí soustavy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+212,Nezhoubný novotvar dýchacích nebo nitrohrudních orgánů,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+213,Nezhoubný novotvar kosti nebo kloubní chrupavky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+214,Lipom,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+215,Jiný nezhoubný novotvar pojivové nebo jiné měkké tkáně,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+216,Nezhoubný novotvar kůže,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+217,Nezhoubný novotvar prsu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+218,Leiomyom dělohy,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-
+219,Jiný nezhoubný novotvar dělohy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+220,Nezhoubný novotvar vaječníku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+221,Nezhoubný novotvar jiného ženského pohlavního orgánu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+222,Nezhoubný novotvar mužských pohlavních orgánů,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+223,Nezhoubný novotvar ledviny nebo jiného močového orgánu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+224,Nezhoubný novotvar oka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+225,Nezhoubný novotvar mozku nebo jiné části nervové soustavy,40,-,-,-,-,-,-,-,-,-,-,2,-,1,1,4,6,8,9,4,1,3,1
+226,Nezhoubný novotvar štítné žlázy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+227,Nezhoubný novotvar jiné žlázy s vnitřní sekrecí nebo příbuzné tkáně,9,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,1,1,-,4,-,-,-
+228,Hemangiom a lymfangiom jakékoliv lokalizace,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+229,Nezhoubný novotvar jiné nebo blíže neurčené lokalizace,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+230,Carcinoma in situ trávicí soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+231,Carcinoma in situ dýchací soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+232,Carcinoma in situ kůže,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+233,"Carcinoma in situ prsu, močového nebo pohlavního ústrojí",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+234,Carcinoma in situ jiné nebo blíže neurčené lokalizace,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+235,Novotvar neurčené povahy trávicí nebo dýchací soustavy,16,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,4,4,3,3
+236,Novotvar neurčené povahy močového nebo pohlavního ústrojídýchacího ústrojí,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1
+237,Novotvar neurčené povahy žlázy s vnitřní sekrecí nebo nervové soustavy,8,-,-,-,-,-,-,-,1,-,1,-,-,3,-,-,1,1,1,-,-,-,-
+238,Novotvar neurčené povahy jiné nebo blíže neurčené lokalizace nebo tkáně,26,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,2,4,3,6,5,3
+239,Novotvary neurčené morfologie,4,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,2
+,,,,,,,,,,,,,,,,,,,,,,,,
+III,"Nemoci žláz s vnitřní sekrecí, výživy a přeměny látek a poruchy imunity",966,5,-,-,-,-,3,3,-,5,1,3,7,7,18,14,35,72,126,173,147,198,149
+240,Struma prostá nebo blíže neurčená,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+241,"Struma uzlová, netoxická-struma nodosa",2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-
+242,Tyreotoxikóza se strumou nebo bez ní,4,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,1,-,-,1
+243,Vrozená hypotyreóza (kretinismus a jiné),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+244,Získaná hypotyreóza (myxedém a jiné),3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-
+245,Zánět štítné žlázy - thyreoiditis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+246,Jiné nemoci štítné žlázy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+250,"Cukrovka, úplavice cukrová",923,-,-,-,-,-,-,-,-,-,-,2,5,7,16,13,35,67,125,168,144,195,146
+251,Jiné poruchy vnitřní sekrece slinivky břišní,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+252,Nemoci příštítných tělísek - paratyreoidey,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+253,Nemoci mozkového podvěsku - hypofýzy - a hypothalamo-hypofyzárních vztahů,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+254,Nemoci brzlíku - thymu,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+255,Nemoci nadledvin,3,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1
+256,Poruchy činnosti vaječníků,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+257,Poruchy činnosti varlat,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+258,Polyglandulární dysfunkce a příbuzné poruchy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+259,Jiné nemoci žláz s vnitřní sekrecí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+260,Kvašiorkor,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+261,Nutriční marasmus,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+262,Jiná těžká proteinokalorická podvýživa,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+263,Jiná nebo blíže neurčená proteinokalorická podvýživa,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+264,Karence vitaminu A,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+265,Karence thiaminu nebo niacinu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+266,Karence jiných složek komplexu B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+267,Karence kyseliny askorbové,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+268,Karence vitaminu D,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+269,Jiné nutriční karence,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+270,Poruchy transportu a metabolismu aminokyselin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+271,Poruchy transportu a metabolismu uhlovodanů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+272,Poruchy metabolismu lipidů,2,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+273,Poruchy metabolismu plasmatických proteinů,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+274,Dna,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+275,Poruchy metabolismu minerálů,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+276,"Poruchy rovnováhy tekutin, elektrolytů a acidobazické rovnováhy",5,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,1
+277,Jiné a blíže neurčené poruchy přeměny látek,12,1,-,-,-,-,1,1,-,4,1,-,1,-,-,1,-,-,1,1,-,-,-
+278,Otylost - obesitas - a jiné hyperlimentace,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+279,Poruchy postihující mechanismus imunity,5,1,-,-,-,-,1,1,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+IV,Nemoci krve a krvetvorných orgánů,83,2,1,-,-,-,-,1,1,-,-,1,2,2,1,3,4,6,13,12,11,12,11
+280,Chudokrevnost z nedostatku železa,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-,3,2
+281,Jiné karenční anémie,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,2
+282,Dědičné hemolytické anémie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+283,Získané hemolytické anémie,9,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,1,-,2,1,-
+284,Aplastická anémie,16,-,-,-,-,-,-,1,-,-,-,-,2,-,-,-,-,2,3,3,3,2,-
+285,Jiné a blíže neurčené anémie,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,1,2,1,4
+286,Koagulační vady,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1,-,-,-
+287,Purpura a jiné krvácivé stavy,7,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,2,1,-,1,-,1,-
+288,Nemoci bílých krvinek (agranulocytóza a jiné),4,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,2,-,-,-,-
+289,Ostatní nemoci krve a krvetvorných orgánů,20,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,1,-,4,4,3,2,3
+,,,,,,,,,,,,,,,,,,,,,,,,
+V,Duševí poruchy,29,-,-,-,-,-,-,-,-,-,1,1,1,1,3,2,3,3,2,4,5,-,3
+290,Senilní a presenilní organická psychotická onemocnění,11,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,5,-,3
+291,Alkoholické psychózy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+292,Toxické psychózy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+293,Přechodná organická psychotická onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+294,Jiná organická psychotická onemocnění (chronická),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+295,Schizofrenní psychózy,5,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,1,-,-,-,-
+296,Afektivní psychózy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+297,Paranoidní stavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+298,Jiné neorganické psychózy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+299,Psychózy vznikající specifiky v dětství,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+300,Neurotické poruchy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+301,Poruchy osobnosti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+302,Sexuální úchylky a poruchy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+303,Závislost na alkoholu,12,-,-,-,-,-,-,-,-,-,1,1,1,-,2,2,2,2,-,1,-,-,-
+304,Závislost na návykových látkách,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+305,Zneužívání návykových látek bez závislosti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+306,Somatické funkční poruchy vyvolané duševními faktory,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+307,"Zvláštní příznaky a syndromy, nezařazené jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+308,Akutní reakce na stress (přechodné situační poruchy),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+309,Adaptační reakce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+310,Specifické nepsychotické duševní poruchy po organickém poškození mozku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+311,Depresivní poruchy nezařazené jinde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+312,Poruchy chování nezařazené jinde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+313,Poruchy emocí specifické pro dětství a dospívání,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+314,Hyperkinetický syndrom v dětství,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+315,Specifická opožďování ve vývoji,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+316,Psychické faktory sdružené s nemocemi zařazenými jinde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+317,Lehká duševní zaostalost (IQ 50-70),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+318,Jiná přesně určená duševní zaostalost (IQ pod 50),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+319,Duševní zaostalost blíže neurčená,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+VI,Nemoci nervové soustavy a smyslových orgánů,450,10,3,3,1,1,5,13,12,8,9,8,18,29,40,27,38,34,49,43,26,39,34
+320,Bakteriální zánět mozkových nebo míšních plen - bakteriální meningitis,18,3,1,-,-,1,-,-,1,-,-,-,-,-,2,-,1,2,3,2,1,1,-
+321,Meningitis vyvolaná jinými organismy,2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-
+322,Meningitis z blíže neurčené příčiny,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-
+323,"Zánět mozku, míchy nebo mozku i míchy",11,-,1,-,-,-,-,1,2,-,1,-,-,-,-,2,1,1,1,1,-,-,-
+324,Nitrolební nebo nitropáteřní hlíza,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+325,Flebitis nebo thromboflebitis nitrolebních žilních splavů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+326,Pozdní následky nitrolebních hlízy nebo pyogenní infekce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+330,"Mozkové degenerace, projevující se obyčejně v dětství",5,1,-,-,-,-,1,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+331,Jiné mozkové degenerace,111,-,1,-,-,-,1,1,1,4,1,1,-,6,5,4,6,7,12,9,8,22,22
+332,Parkinsonova nemoc,23,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,5,6,3,4,2
+333,Jiné extrapyramidové nemoci a poruchy s abnormálními pohyby,9,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,2,2,1,1,-,-,-
+334,Spinocerebelární nemoci,4,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,1,-,-,-,-,-,-
+335,Nemoci buněk předních rohů,31,3,-,-,-,-,-,1,-,-,-,-,-,1,2,2,5,-,5,5,5,2,-
+336,Jiné nemoci míchy,6,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,2,-,1,-,1,1
+337,Nemoci autonomní nervové soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+340,Mnohočetná skleróza,95,-,-,-,-,-,-,-,-,-,-,1,6,9,15,12,14,10,11,9,2,2,4
+341,Jiné demyelinizující nemoci centrální nervové soustavy,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,3,3,2,-,-,-
+342,Hemiplegie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+343,Dětská mozková obrna,23,2,-,2,1,-,2,4,5,-,2,1,1,1,2,-,-,-,-,-,-,-,-
+344,Jiné paralytické syndromy,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+345,Padoucnice-epilepsie,51,-,-,-,-,-,1,2,1,4,5,3,6,6,9,3,4,3,2,1,1,-,-
+346,Migréna,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+347,Kataplexie a narkolepsie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+348,Jiné nemoci mozku,40,1,-,1,-,-,-,-,1,-,-,-,2,2,2,1,2,3,5,4,5,6,5
+349,Jiné a blíže neurčené nemoci nervové soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+350,Nemoci trojklaného nervu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+351,Nemoci lícního nervu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+352,Nemoci jiných mozkových nervů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+353,Nemoci nervových kořenů a pletení,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+354,Mononeuritis horní končetiny a mononeuritis multiplex,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+355,Mononeuritis dolní končetiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+356,Dědičná nebo idiopatická periferní neuropatie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+357,Zánětlivá nebo toxická neuropatie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+358,Myoneurální poruchy,4,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,2,-,1,-
+359,Svalové dystrofie a jiné myopatie,2,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+360,Nemoci očního bulbu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+361,Odchlípení a defekty sítnice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+362,Jiné nemoci sítnice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+363,Chorioretinální záněty a jizvy a jiné nemoci cévnatky - chorioidey,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+364,Nemoci duhovky a řasnatého tělesa,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+365,Zelený zákal - glaukom,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+366,Zákal čočky - katarakta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+367,Poruchy refrakce a akomodace,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+368,Poruchy vidění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+369,Slepota a slabozrakost,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+370,Zánět rohovky - keratitis,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+371,Rohovkové zákaly a jiné nemoci rohovky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+372,Nemoci spojivky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+373,Záněty očních víček,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+374,Jiné nemoci očních víček,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+375,Nemoci slzného ústrojí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+376,Nemoci očnice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+377,Nemoci zrakového nervu a zrakových drah,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+378,Šilhání a jiné poruchy pohybů oka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+379,Jiné nemoci oka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+380,Nemoci zevního ucha,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+381,Nehnisavý zánět středního ucha a poruchy Eustachovy trubice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+382,Hnisavý nebo blíže neurčený zánět středního ucha,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+383,Zánět bradavkového výběžku a příbuzná onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+384,Nemoci bubínku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+385,Jiné nemoci středního ucha a bradavkového výběžku,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+386,Vertiginózní syndromy a jiné nemoci vestibulárního ústrojí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+387,Otoskleróza (otospongióza),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+388,Jiné nemoci ucha,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+389,Poruchy sluchu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+VII,Nemoci oběhové soustavy,35 595,4,-,2,1,-,-,5,10,18,16,21,60,119,248,322,599,1 432,2 865,4 609,5 420,9 246,10 598
+390,Revmatická horečka bez postižení srdce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+391,Revmatická horečka s postižením srdce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+392,Revmatická chorea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+393,Chronická revmatická perikarditis,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+394,Nemoci dvojcípé chlopně,161,-,-,-,-,-,-,-,-,-,1,2,-,4,11,11,14,31,21,25,19,14,8
+395,Nemoci aortální chlopně,66,-,-,-,-,-,-,-,-,-,-,-,-,2,4,3,2,12,12,13,8,6,4
+396,Současné onemocnění chlopně dvojcípé a aortální,114,-,-,-,-,-,-,-,-,-,1,-,1,1,6,4,10,12,18,22,24,10,5
+397,Jiná postižení srdeční nitroblány,3,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-,-,-,-
+398,Jiné revmatické nemoci srdce,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+401,Esenciální hypertense,266,-,-,-,-,-,-,-,-,-,-,-,-,2,6,12,14,21,27,39,39,59,47
+402,Hypertensní kardiopatie,137,-,-,-,-,-,-,-,-,-,-,-,2,2,2,1,7,13,15,24,18,31,22
+403,Hypertensní nefropatie,23,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,4,5,4,5
+404,Hypertensní nefropatie a kardiopatie,18,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,3,3,3,3,4
+405,Sekundární hypertense,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+410,Akutní infarkt myokardu,6 638,-,-,-,-,-,-,-,-,3,1,4,11,32,61,95,196,467,866,1 273,1 103,1 406,1 120
+411,Jiné akutní nebo subakutní formy ischemické choroby srdeční,94,-,-,-,-,-,-,-,-,-,-,-,3,6,6,5,8,8,14,16,6,13,9
+412,Infarkt myokardu starší než 8 týdnů,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,-,1,2
+413,Angina pectoris,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+414,Jiné formy chronické ischemická choroby srdeční,8 447,-,-,-,-,-,-,-,-,-,-,3,2,6,19,37,94,252,511,954,1 252,2 345,2 972
+415,Akutní postižení srdce při onemocnění plic,439,-,-,-,-,-,-,-,-,1,-,1,4,5,8,13,10,26,61,52,70,102,86
+416,Chronické cor pulmonale,88,-,-,-,-,-,-,-,-,1,1,-,3,1,-,5,8,10,14,12,13,10,10
+417,Jiné nemoci plicního oběhu,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+420,Akutní zánět osrdečníku,7,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,1,-,2,1,1
+421,Akutní nebo a subakutní zánět srdeční nitroblány,18,-,-,-,-,-,-,1,-,1,-,1,-,1,1,-,3,1,2,1,4,1,1
+422,Akutní zánět srdečního svalu,11,1,-,-,1,-,-,-,-,-,1,-,-,-,1,-,2,3,-,1,-,1,-
+423,Jiné nemoci osrdečníku,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+424,Jiné nemoci srdeční nitroblány,57,1,-,-,-,-,-,-,-,-,1,1,-,1,-,3,5,6,7,8,9,8,7
+425,Kardiomyopatie,39,-,-,-,-,-,-,1,2,-,-,-,3,3,4,4,1,6,3,2,3,4,3
+426,Poruchy vedení srdečních vzruchů,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+427,Srdeční arytmie,128,-,-,-,-,-,-,-,-,-,1,1,-,1,-,1,1,5,8,31,12,35,32
+428,Selhání srdce,683,1,-,1,-,-,-,-,3,1,2,-,3,2,13,12,18,45,68,78,103,144,189
+429,Nepřesně popsané srdeční nemoci a komplikace,141,-,-,1,-,-,-,1,-,-,-,-,-,1,2,6,6,5,14,21,12,37,35
+430,Subarachnoidální kvácení,150,1,-,-,-,-,-,2,5,6,1,4,3,11,21,13,14,13,13,16,8,13,6
+431,Mozkové krvácení,906,-,-,-,-,-,-,-,-,1,2,1,6,12,28,35,40,68,102,136,132,182,161
+432,Jiné nebo blíže neurčené nitrolební krvácení,7,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,1,3,1
+433,Okluze nebo stenóza mimolebečních tepen,15,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,2,-,1,2,6
+434,Okluze mozkových tepen,1 382,-,-,-,-,-,-,-,-,-,-,-,3,4,5,9,10,64,124,184,215,394,370
+435,Přechodná mozková ischemie,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+436,"Akutní, ale nepřesně určená cévní onemocnění mozku",7 160,-,-,-,-,-,-,-,-,-,1,-,3,5,18,20,66,214,508,937,1 162,2 112,2 114
+437,Jiná a nepřesně určená cévní onemocnění mozku,2 068,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,15,28,82,167,317,604,852
+438,Pozdní následky cévních onemocnění mozku,8,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,2,2,2
+440,"Ateroskleróza (mimo tepny mozkové, věnčité, mezenterickou, plicní a ledvinné tepénky)",5 618,-,-,-,-,-,-,-,-,-,-,-,2,3,7,15,24,69,271,483,772,1 557,2 415
+441,Výduť srdečnice,111,-,-,-,-,-,-,-,-,-,-,1,5,4,9,2,3,12,14,19,16,11,15
+442,Jiné výdutě,7,-,-,-,-,-,-,-,-,-,-,-,2,2,-,-,1,1,-,-,-,1,-
+443,Jiné nemoci periferních tepen,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2
+444,Tepenný vmetek nebo trombóza,62,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,2,8,9,10,23,6
+446,Polyarteriitis nodosa a příbuzná onemocnění,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+447,Jiné nemoci tepen a tepének,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,2,4
+448,Nemoci vlásečnic,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+451,Zánět žil,389,-,-,-,-,-,-,-,-,2,1,1,2,5,11,8,19,23,52,54,62,80,69
+452,Trombóza vrátnice,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-
+453,Jiné žilní embolie a trombózy,55,-,-,-,-,-,-,-,-,1,-,1,1,1,2,1,2,1,12,7,4,16,6
+454,Žilní městky na dolních končetinách,43,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,1,5,2,12,9,5,6
+455,Hemoroidy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+456,Žilní městky jiných lokalizací,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-
+457,Neinfekční nemoci mízních cest,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+458,Hypotense,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+459,Jiné nemoci oběhové soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+VIII,Nemoci dýchací soustavy,2 116,14,4,3,1,-,1,2,3,12,8,11,12,25,32,33,53,80,188,216,287,503,628
+460,Akutní zánět nosohltanu,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+461,Akutní zánět vedlejších nosních dutin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+462,Akutní zanět hltanu,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+463,Akutní zánět mandlí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+464,Akutní zánět hrtanu a průdušnice,7,-,3,-,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,1
+465,Akutní infekce horních cest dýchacích na více místech nebo na místě blíže neurčeném NS,3,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,1,-,-,-,1
+466,Akutní zánět průdušek a průdušinek,37,4,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,1,4,4,4,8,10
+470,Vybočení nosní přepážky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+471,Nosní polypy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+472,Chronický zánět hltanu nebo nosohltanu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+473,Chronický zánět vedlejších nosních dutin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+474,Chronické nemoci mandlí a adenoidní tkáně,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+475,Peritonsilární hlíza,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+476,Chronický zánět hrtanu nebo hrtanu a průdušnice,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+477,Alergická rýma (i senná rýma),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+478,Jiné nemoci horních dýchacích cest,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+480,Virový zánět plic,22,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,2,1,5,12
+481,Pneumokokový zánět plic,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,4,1,-,8
+482,Jiný bakteriální zánět plic,21,-,-,-,-,-,-,-,-,-,1,-,-,2,-,1,-,-,2,2,1,5,7
+483,Zánět plic způsobený jiným určeným původcem,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,4,3
+484,Zánět plic při infekčních nemocech zařazených jinde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+485,Bronchopneumonie,952,10,1,3,-,-,-,-,1,7,2,4,4,8,10,7,15,28,67,76,144,240,325
+486,Pneumonie způsobená blíže neurčeným původcem,46,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,2,2,1,7,17,14
+487,Chřipka (i se zánětem plic nebo jinými projevy),77,-,-,-,-,-,1,1,-,-,-,-,3,1,-,-,1,-,4,3,10,20,33
+490,Zánět průdušek neurčený blíže jako akutní nebo chronický,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,3,3,2,4,6
+491,Chronický zánět průdušek,582,-,-,-,-,-,-,-,-,-,-,-,1,4,6,12,16,23,62,76,78,145,159
+492,Rozedma plic,85,-,-,-,-,-,-,-,-,-,-,-,-,1,3,1,4,8,10,11,15,18,14
+493,Astma,103,-,-,-,-,-,-,1,1,4,3,5,-,3,4,5,6,7,19,14,8,8,15
+494,Rozšíření průdušek,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-
+495,Exogenní alergická alveolitis,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+496,"Chronická obstrukce dýchacích cest, nezařazená jinde",33,-,-,-,-,-,-,-,-,-,-,1,-,-,-,3,2,2,4,2,5,9,5
+500,Pneumokonióza uhlokopů,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+501,Asbestóza,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+502,Pneumokonióza způsobená jiným křemičitým prachem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+503,Pneumokonióza způsobená jiným anorganickým prachem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+504,Pneumopatie způsobená vdechováním jiného prachu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+505,Pneumokonióza blíže neurčená,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+506,Onemocnění dýchacího ústrojí způsobená chemickými dýmy a parami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+507,Pneumonitis způsobená pevnými nebo tekutými látkami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+508,Onemocnění dýchacího ústrojí způsobená jinými nebo blíže neurčenými vnějšími činiteli,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+510,Empyém,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,2,1,1
+511,Zánět pohrudnice,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-
+512,Pneumotorax,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+513,Hlíza plic nebo mezihrudí,5,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,1,-,2,-,-,-
+514,Plicní překrvení nebo městnání krve v plicích,33,-,-,-,-,-,-,-,-,-,1,-,1,2,-,1,1,-,2,2,2,9,12
+515,Pozánětlivá fibróza plic,23,-,-,-,-,-,-,-,-,-,-,-,1,1,3,1,3,2,2,4,2,3,1
+516,Jiná alveolární  nebo parietoalveolární pneumopatie,14,-,-,-,-,-,-,-,-,-,-,-,1,1,2,1,1,1,1,4,2,-,-
+517,Postižení plic při nemocech zařazených jinde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+518,Jiné nemoci plic,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,2,-,1,1
+519,Jiné nemoci dýchací soustavy,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+IX,Nemoci trávicí soustavy,1 804,2,3,1,2,-,2,3,1,6,9,10,29,43,68,69,95,119,200,262,239,342,299
+520,Poruchy vývoje a erupce zubů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+521,Nemoci tvrdých zubních tkání,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+522,Nemoci dřeně a periapikálních tkání,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+523,Nemoci dásní a parodontu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+524,Dentofaciální anomálie včetně vad skusu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+525,Jiné nemoci a stavy zubů a podpůrných tkání,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+526,Nemoci čelistí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+527,Nemoci slinných žláz,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+528,Nemoci měkkých ústních tkání  mimo specifická poškození dásně a jazyka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+529,Nemoci a jiné stavy jazyka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+530,Nemoci jícnu,17,-,-,-,-,-,-,1,1,-,-,-,-,2,-,2,2,-,-,3,2,3,1
+531,Žaludeční vřed,160,-,-,-,-,-,-,-,-,-,-,1,1,5,1,4,4,14,13,16,23,44,34
+532,Dvanáctníkový vřed,84,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,2,4,7,16,16,18,16
+533,Peptický vřed blíže neurčené lokalizace,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,2
+534,Gastrojejunální vřed,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1
+535,Zánět žaludku a dvanáctníku,10,-,2,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1,3,2,1
+536,Poruchy funkce žaludku,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+537,Jiné nemoci žaludku a dvanáctníku,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,1,2
+540,Akutní apendicitis,12,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-,2,2,6
+541,Apendicitis blíže neurčená,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+542,Jiná apendicitis,2,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+543,Jiné nemoci červovitého přívěsku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+550,Tříselná kýla,17,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,2,2,6,5
+551,Jiná kýla břišní dutiny s gangrénou,19,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,2,3,7,2,2
+552,Jiná kýla břišní dutiny s neprůchodností bez gangrény,25,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,4,6,1,7,6
+553,Jiná kýla břišní dutiny bez  neprůchodnosti nebo gangrény,15,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,2,2,2,5,1
+555,Enteritis regionalis,15,-,-,-,-,-,-,-,-,-,-,-,1,2,4,-,2,-,1,-,1,2,2
+556,Idiopatická proktokolitis,6,-,-,-,-,-,-,-,-,1,1,-,-,-,1,-,-,1,1,-,1,-,-
+557,Vaskulární insuficience střeva,126,1,-,-,-,-,-,-,-,-,2,-,1,-,2,-,2,7,9,12,34,33,23
+558,Jiná neinfekční gastroenteritis nebo kolitis,9,1,1,-,1,-,-,-,-,-,-,1,-,1,-,-,-,-,-,1,1,-,2
+560,Neprůchodnost sřev bez kýly,136,-,-,-,-,-,-,1,-,-,2,-,2,2,4,1,4,3,10,15,19,31,42
+562,Střevní divertikly,25,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,1,1,4,10,5
+564,"Funkční poruchy trávení, nezařazené jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+565,Řitní trhliny a píštěle,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+566,Absces  řitní a konečníkové krajiny,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+567,Zánět pobřišnice,77,-,-,-,-,-,-,-,-,-,-,-,1,2,3,1,3,3,10,12,12,17,13
+568,Jiné nemoci pobřišnice,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2
+569,Jiné nemoci střev,13,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,1,3,1,3,3,-
+570,Akutní a subakutní nekróza jater,17,-,-,-,-,-,-,-,-,-,-,1,-,-,4,1,1,1,1,5,2,1,-
+571,Chronické nemoci jater a cirhóza,531,-,-,-,-,-,-,-,-,4,3,2,16,26,35,41,51,53,88,80,51,50,31
+572,Jaterní hlíza a následky chronických nemocí jater,19,-,-,-,-,-,1,-,-,1,-,-,-,1,-,-,-,1,2,4,2,4,3
+573,Jiné nemoci jater,16,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,4,-,3,1,3,2,1
+574,Žlučové kameny,192,-,-,-,-,-,-,-,-,-,-,-,1,1,3,5,5,9,18,39,22,43,46
+575,Jiné nemoci žlučníku,47,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,4,6,6,12,17
+576,Jiné nemoci žlučových cest,21,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,1,4,4,5,4
+577,Nemoci slinivky břišní,136,-,-,-,1,-,-,1,-,-,-,2,6,-,5,7,10,10,13,22,12,26,21
+578,Žaludeční nebo střevní krvácení,36,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,3,2,9,1,9,10
+579,Střevní malabsorpce,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+X,Nemoci močové a pohlavní soustavy,922,-,-,-,-,-,-,1,2,1,2,-,4,8,18,26,37,70,115,162,137,202,137
+580,Akutní zánět ledvin,15,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,2,2,1,3,2,3,-
+581,Nefrotický syndrom,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-
+582,Chronický zánět ledvin,65,-,-,-,-,-,-,-,1,1,1,-,1,2,3,3,2,7,9,4,10,13,8
+583,Nefritis nebo nefropatie neurčená blíže jako akutní nebo chronická,32,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,1,-,5,8,4,6,4
+584,Akutní selhání ledvin,28,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,3,2,5,2,8,7
+585,Chronické selhání ledvin,270,-,-,-,-,-,-,1,-,-,1,-,1,1,8,6,15,19,25,52,38,65,38
+586,Selhání ledvin blíže neurčené,37,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,3,4,10,4,7,7
+587,Skleróza ledvin blíže neurčená,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,2,1,1
+588,Nemoci vznikající z porušené funkce ledvin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+589,Malá ledvina z neznámé příčiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+590,Infekce ledvin,375,-,-,-,-,-,-,-,-,-,-,-,-,3,2,8,13,29,54,65,60,78,63
+591,Hydronefróza,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-,2,3,-
+592,Kameny v ledvině a močovodu,36,-,-,-,-,-,-,-,-,-,-,-,1,-,2,2,-,2,9,7,5,6,2
+593,Jiné nemoci ledvin a močovodu,22,-,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,1,2,5,3,5,3
+594,Kameny v dolní části močového ústrojí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+595,Zánět močového měchýře,14,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,4,4,2
+596,Jiné nemoci měchýře,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+597,Zánět močové trubice a uretrální syndrom,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+598,Zúžení močové trubice,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+599,Jiné nemoci močové trubice a močového ústrojí vůbec,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,3,2
+600,Zbytnění předstojné žlázy,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+601,Zánětlivé nemoci  předstojné žlázy,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+602,Jiné nemoci předstojné žlázy,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+603,Vodní kýla,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+604,Zánět varlat a nadvarlat,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+605,Hypertrofie předkožky a fimóza,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+606,Mužská neplodnost,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+607,Nemoci pyje,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+608,Jiné nemoci mužských pohlavních orgánů,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+610,Nezhoubné dysplazie prsů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+611,Jiné nemoci prsů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+614,"Zánětlivé nemoci  vaječníků, vejcovodů, pánevního vaziva a pobřišnice",3,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,1,-,-,-
+615,Zánětlivé nemoci dělohy mimo čípek,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+616,"Zánětlivé nemoci děložního čípku, pochvy a vulvy",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+617,Endometrióza,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+618,Výhřez pohlavních orgánů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+619,Píštěle postihující ženské pohlavní ústrojí,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+620,"Nezánětlivé nemoci vaječníků, vejcovodů a širokého vazu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+621,Nemoci dělohy nezařazené jinde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+622,Nezánětlivé nemoci děložního čípku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+623,Nezánětlivé nemoci pochvy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+624,Nezánětlivé nemoci vulvy a hráze,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+625,Bolest a jiné příznaky sdružené se ženskými pohlavními orgány,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+626,Poruchy menstruace a jiné abnormální krvácení ze ženského pohlavního ústrojí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+627,Menopauzální a postmenopauzální poruchy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+628,Ženská neplodnost,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+629,Jiné nemoci ženských pohlavních orgánů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+XI,"Komplikace těhotenství, porodu a šestinedělí",14,-,-,-,-,-,-,-,1,2,3,1,7,-,-,-,-,-,-,-,-,-,-
+630,Zásněť hroznová,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+631,Jiný abnormální produkt početí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+632,Zamlklý (nevypuzený) potrat,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+633,Mimoděložní těhotenství,1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+634,Samovolný potrat,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+635,Legálně indukovaný potrat,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+636,Ilegálně indukovaný potrat,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+637,Potrat blíže neurčený,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+638,Nezdařený pokus o potrat,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+639,Komplikace po porodu nebo mimoděložním nebo molárním těhotenství,2,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-,-,-
+640,Krvácení v časném těhotenství,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+641,"Krvácení před porodem, předčasné odloučení lůžka nebo vcestné lůžko",1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+642,"Hypertense komplikující těhotenství, porod nebo šestinedělí",1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+643,Nadměrné zvracení v těhotenství,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+644,Předčasný nebo hrozící porod,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+645,Prodloužené těhotenství,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+646,"Jiné komplikace těhotenství, nezařazené jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+647,"Infekční a parazitární onemocnění matky, zařaditelná jinam, ale komplikující těhotenství, porod nebo šestinedělí",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+648,"Jiná onemocnění matky zařaditelná jinam, ale komplikující těhotenství, porod nebo šestinedělí",2,-,-,-,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+650,Spontánní porod bez komplikací,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+651,Mnohočetné těhotenství,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+652,Nepravidelná poloha nebo naléhání plodu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+653,Nepoměr,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+654,Abnormalita pánevních orgánů nebo měkkých tkání,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+655,"Známá nebo suspektní abnormalita plodu, vedoucí k léčbě těhotné",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+656,Jiné stavy plodu a lůžka vedoucí k léčbě těhotné,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+657,Polyhydramnion,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+658,Jiné poruchy plodových obalů a plodové vody,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+659,"Jiné indikace pro péči nebo zákrok, souvisící s porodem, nezařazené jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+660,Poruchy průběhu porodu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+661,Poruchy vypuzujících sil,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+662,Prodloužený porod,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+663,Poruchy pupečníku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+664,Poranění hráze nebo vulvy při porodu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+665,Jiné porodní poranění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+666,Poporodní krvácení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+667,Zadržené lůžko nebo blány bez krvácení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+668,Komplikace po podání anestetik nebo analgetik při porodu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+669,"Jiné komplikace porodu, nezařazené jinde",2,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-
+670,Větší puerperální infekce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+671,Žilní komplikace v těhotenství nebo šestinedělí,2,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-,-,-,-
+672,Horečka neznámého původu v šestinedělí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+673,Porodnická embolie plic,2,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+674,"Jiné a blíže neurčené komplikace šestinedělí, nezařazené  jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+675,"Infekce prsu nebo bradavky, sdružené porodem",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+676,Jiné nemoci prsu sdružené s porodem a poruchy laktace,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+XII,Nemoci kůže a podkožního vaziva,19,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,2,3,4,6
+680,Furunkl a karbunkl,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+681,Flegmóna nebo absces prstu ruky nebo nohy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+682,Jiná flegmóna nebo absces,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3,1,1,1,-
+683,Akutní zánět mízních uzlin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+684,Impetigo,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+685,Pilonidální cysta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+686,Jiné místní infekce kůže a podkožního vaziva,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+690,Dermatosis erythematosquamosa (seboroický zánět kůže),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+691,Atopický ekzém a příbuzná onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+692,Kontaktní dermatitis (ekzém) a jiné ekzémy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+693,Dermatitis vyvolaná požitými látkami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+694,Puchýřnaté dermatózy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+695,Erytémová onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+696,lupénka a podobná onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+697,Lišej,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+698,Svědění a příbuzná onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+700,Kuří oka a mozoly,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+701,Jiná hypertrofická a atrofická onemocnění kůže,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+702,Jiné dermatózy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+703,Nemoci nehtů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+704,Nemoci vlasů a vlasových míšků,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+705,Nemoci potních žláz,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+706,Nemoci mazových žláz,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+707,Chronický kožní vřed,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,2,2,5
+708,Kopřivka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+709,Jiné nemoci kůže a podkožního vaziva,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+XIII,Nemoci svalové a kosterní soustavy a pojivové tkáně,36,-,-,-,-,-,-,1,-,-,-,-,-,-,4,2,1,5,3,5,6,6,3
+710,Difúzní nemoci pojivové tkáně (kolagenní nemoci),10,-,-,-,-,-,-,1,-,-,-,-,-,-,2,2,-,2,1,-,1,1,-
+711,Artropatie sdružené s infekcemi,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+712,Krystalové artropatie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+713,Artropatie při jiných nemocech zařazených jinde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+714,Progresivní polyartritis a jiné chronické systémové polyartritidy,15,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,2,1,4,4,1,1
+715,Osteoartróza a příbuzné nemoci,2,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-
+716,Jiné a blíže neurčené artropatie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+717,Vnitřní poruchy kolenního kloubu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+718,Jiné vnitřní poruchy kloubů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+719,Jiné a blíže neurčené poruchy kloubů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+720,Spondyliti ankylosans a jiné zánětlivé spondylopatie,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+721,Spondylóza a příbuzné nemoci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+722,Nemoci meziobratlových plotének,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+723,Jiné nemoci krční krajiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+724,Jiné a blíže neurčené nemoci zad,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+725,Polymyalgia rheumatica,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+726,Periferní antézopatie a příbuzné syndromy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+727,"Jiné nemoci synovie, šlach a pouzder",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+728,"Nemoci svalů, vazů a povázek",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+729,Jiné nemoci měkkých tkání,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+730,"Zánět kostní dřeně, zánět okostice a jiné infekce postihující kost",5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,3,1
+731,Osteitis deformans a osteopatie sdružené s jinými nemocemi zařazenými jinde,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+732,Osteochondropatie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+733,Jiné nemoci kostí a chrupavek,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+734,Plochá noha,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+735,Získané deformity prstů nohy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+736,Jiné získané deformity končetin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+737,Zkřivení páteře,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+738,Jiné získané deformity končetin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+739,"Nealopatická poškození, nezařazená jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+XIV,Vrozené vady,163,120,7,4,4,5,6,8,4,1,1,1,-,1,1,-,-,-,-,-,-,-,-
+740,Anencefalus a podobné vady,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+741,Rozštěp páteře,6,6,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+742,Jiné vrozené vady nervové soustavy,28,12,3,3,3,2,1,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+743,Vrozené vady oka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+744,"Vrozené vady ucha, obličeje a krku",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+745,Vrozené vady srdečního bulbu a uzávěrů srdečních přepážek,33,25,1,1,-,-,-,2,2,-,-,1,-,1,-,-,-,-,-,-,-,-,-
+746,Jiné vrozené vady srdce,31,23,1,-,-,2,2,2,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+747,Jiné vrozené vady oběhové soustavy,7,4,-,-,1,-,-,-,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+748,Vrozené vady dýchací soustavy,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+749,Rozštěp patra a rozštěp rtu,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+750,Jiné vrozené vady horní části trávicí soustavy,2,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+751,Jiné vrozené vady trávicí soustavy,8,6,1,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+752,Vrozené vady pohlavního ústrojí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+753,Vrozené vady močového ústrojí,5,4,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+754,Některé vrozené deformity svalstva a kostry,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+755,Jiné vrozené vady končetin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+756,Jiné vrozené vady svalstva a kostry,12,12,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+757,"Vrozené vady kůže, podkožního vaziva, vlasů, nehtů a prsů",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+758,Vrozené vady chromosomů,14,11,-,-,-,-,1,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+759,Jiné a blíže neurčené vrozené vady,14,13,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+XV,Některá onemocnění vzniklá v perinatálním období,236,236,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+760,"Postižení plodu nebo novorozence onemocněním matky, které nemusí souviset s posledním těhotenství",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+761,Postižení plodu nebo novorozence mateřskou komplikací těhotenství,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+762,"Postižení plodu nebo novorozence komplikací lůžka, pupečníku nebo blan",2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+763,Postižení plodu nebo novorozence jinou komplikací porodu,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+764,Nízká váha nebo podvýživa plodu,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+765,Stavy souvisící se zkrácenou délkou těhotenství nebo blíže neurčenou nízkou porodní vahou,145,145,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+766,Stavy souvisící s prodlouženým těhotenstvím nebo velkou porodní vahou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+767,Poranění za porodu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+768,Nitroděložní hypoxie nebo porodní asfyxie,32,32,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+769,Syndrom respirační tísně,15,15,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+770,Jiná respirační onemocnění plodu nebo novorozence,7,7,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+771,Infekce specifické pro perinatální období,5,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+772,Krvácení plodu nebo novorozence,18,18,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+773,Hemolytická nemoc plodu nebo novorozence způsobená izoimunizací,3,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+774,Jiná perinatální žloutenka,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+775,"Endokrinní a metabolická onemocnění, specifická pro plod a novorozence",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+776,Hematologická onemocnění plodu nebo novorozence,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+777,Perinatální onemocnění trávicí soustavy,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+778,Onemocnění postihující kůži a podkožní vazivo nebo regulaci teploty u plodu nebo novorozence,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+779,Jiná a nepřesně určená onemocnění vzniklá v perinatálním období,2,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+XVI,Příznaky a znaky nemocí a nedostatečně charakterizované stavy,364,10,-,-,-,1,-,-,1,1,2,-,3,3,3,5,5,6,12,19,32,75,186
+780,Celkové příznaky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+781,"Příznaky od nervové, svalové nebo kosterní soustavy",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+782,Příznaky na kůži nebo na jiné povrchové tkáni,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+783,"Příznaky týkající se výživy, přeměny látek a vývoje",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+784,Příznaky týkající se hlavy nebo krku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+785,Příznaky od oběhové soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+786,Příznaky od dýchací soustavy a jiné příznaky hrudních onemocnění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+787,Příznaky od trávicí soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+788,Příznaky od močové soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+789,Jiné příznaky břišní a pánevní,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+790,Nespecifické abnormální nálezy při vyšetření krve,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+791,Nespecifické abnormální nálezy při vyšetření moči,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+792,Nespecifické abnormální nálezy v jiných tělesných látkách,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+793,Nespecifické abnormální nálezy při radiologickém nebo jiném vyšetření tělesných orgánů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+794,Nespecifické abnormální výsledky funkčních vyšetření,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+795,Nespecifické abnormální nálezy histologické a imunologické,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+796,Jiné nespecifické abnormální nálezy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+797,Stařecká sešlost bez psychózy,266,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,2,6,27,57,172
+798,Náhlé úmrtí z neznámé příčiny,51,10,-,-,-,1,-,-,-,-,-,-,1,3,-,2,4,2,4,5,2,13,4
+799,Jiné nepřesně určené a neznámé příčiny nemocnosti a úmrtnosti,47,-,-,-,-,-,-,-,1,1,2,-,2,-,3,3,1,2,6,8,3,5,10
+,,,,,,,,,,,,,,,,,,,,,,,,
+XVII,Poranění a otravy,3 344,20,8,4,5,4,21,23,84,67,67,63,99,115,116,89,91,108,183,288,350,677,862
+800,Zlomenina lebeční klenby,60,1, -,3, -, -,2,2,8, -,6,3,2,3,4,1,2,4,1,4,5,3,6
+801,Zlomenina lebeční spodiny  ,124, -,1, -, -,1,4,5,18,10,8,3,6,6,6,6,3,5,7,11,9,9,6
+802,Zlomenina obličejových kosti  , -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+803,Jiná nebo ns zlomenina lebky,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -
+804,Mnohočetné zlomeniny postihující lebku ,21, -, -, -, -, -, -,1,2,2,1,1,2,3,2, -, -,2,2,1, -,2, -
+805,Zlomenina páteře bez poškození míchy ,27, -, -, -, -, -, -, -,1, -, -, -, -, -,1, -, -,1,5,5,5,3,6
+806,Zlomenina  páteře  s  poškozením míchy,39, -, -, -, -, -, -, -, -,1,3,1,4,2,4,2,3,2,3,5, -,6,3
+807,"Zlomenina žebra (žeber) hrudní kosti, hrtanu nebo průdušnice",38, -, -, -, -, -, -, -,2, -, -,2,2,3,1,1, -, -,5,1,4,7,10
+808,Zlomenina pánve ,63, -, -, -, -, -, -, -, -, -,1,1, -, -, -,1, -, -,5,5,9,20,21
+809,Nepřesně  určené  zlomeniny kosti trupu,6, -, -, -, -, -, -, -, -,1, -,1, -, -, -, -, -, -, -,2,2, -, -
+810,Zlomenina klíční kosti ,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1
+811,Zlomenina  lopatky ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+812,Zlomenina pažní kosti ,20, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,2,2,8,8
+813,Zlomenina  kosti loketní a  (nebo) vřetenní,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1
+814,Zlomenina zápěstní kosti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+815,Zlomenina záprstní kosti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+816,Zlomenina jednoho nebo více článků prstů ruky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+818,Nepřesně určené zlomeniny horní končetiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+819,Mnohočetné zlomeniny postihující obě horní končetiny nebo horní končetinu současně se žebrem (h. k.),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+820,Zlomenina krčku stehenní kosti ,1 420, -, -, -, -, -, -, -, -, -, -, -,1, -, -,1,6,16,38,110,187,429,632
+821,Zlomenina  jiné nebo ns části stehenní kosti ,137, -, -, -, -, -, -, -, -, -, -, -, -, -,2, -,1,2,7,14,14,41,56
+822,Zlomenina čéšky ,4, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,3, -, -,1
+823,Zlomenina holenní a (nebo) lýtkové kosti,22, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -,2,1,1,4,4,9
+824,Zlomenina kotníku ,8, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,4,1,1,2
+825,Zlomenina jedné nebo více nártních a (nebo zanártních) kostí, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+826,Zlomenina jednoho nebo více článků prstů nohy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+827,Jiné mnohočetné nebo nepřesně určené zlomeniny dolní končetiny, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+828,"Mnohočetné zlomeniny postihující obě dolní končetiny, dolní a horní končetinu současně se žebrem ",4, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -,3, -
+829,Zlomenina blíže neurčené kosti,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -
+831,Vymknutí ramene,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+835,Vymknutí kyčle,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ 836,Vymknutí kolena,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+838,Vymknutí nohy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+840,Podvrtnutí nebo namožení ramene nebo nadloktí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+843,Podvrtnutí nebo namožení kyčle,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+850,Otřes mozku,8, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -,1, -, -, -,6
+851,Roztržení nebo zhmoždění mozku,141, -, -, -,2,1,3,4,7,4,5,2,8,14,12,7,7,11,11,11,12,12,8
+852,Subarachnoidalní subduralní nebo extradurální  krvácení po úraze,34, -, -, -, -,1, -,2, -,1,1, -,3, -,1,1,5,2,1,2,1,3,10
+853,Jiné nebo ns nitrolební krvácení po úraze,6,1, -, -, -, -, -, -,1, -, -, -, -,1, -, -, -,1, -,1,1, -, -
+854,Nitrolební poranění jiné nebo ns povahy,4, -, -, -, -, -, -, -, -, -, -, -,1, -,1, -,1, -, -, -, -, -,1
+860,Traumatický pneumotorax nebo hemotorax,12, -, -, -, -, -, -,1,1,1, -,1, -,1,1, -, -,1,1, -,2,1,1
+861,Poranění srdce nebo plic,64,1, -, -,1, -,1,1,9,5,3,8,3,5,4, -,6,3,5,5, -,4, -
+862,Poranění jiných nebo ns hrudních orgánů,5, -, -, -, -, -, -, -, -, -,1,1, -,1, -,1,1, -, -, -, -, -, -
+863,Poranění žaludku nebo střev,1, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -, -
+864,Poranění jater,9, -, -, -, -, -, -, -,1,3,1, -, -, -,1, -,1,1, -, -, -,1, -
+865,Poranění sleziny,3, -, -, -, -, -, -, -, -,1, -, -,1,1, -, -, -, -, -, -, -, -, -
+866,Poranění ledvin(y),2, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -, -, -, -,1, -
+867,Poranění pánevních orgánů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+868,Poranění jiných nitrobřišních orgánů,6, -, -, -, -, -, -, -, -,1, -, -,1, -, -,2, -,1, -,1, -, -, -
+869,Vnitřní poranění ns nebo nepřesně určených orgánů,168,1, -, -, -, -,4,2,17,10,6,7,19,12,9,8,5,4,13,20,10,15,6
+871,Otevřená rána očního bulbu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+873,Jiná otevřena rána hlavy,1, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -
+874,Otevřena rána krku,6, -, -, -,1, -, -, -, -, -,1,2, -, -, -, -, -, -,1, -, -,1, -
+875,Otevřena rána (stěny) hrudníku, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+877,Otevřená rána hyždí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+879,Otevřena  rána  jiného nebo ns místa nebo končetiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+880,Otevřená rána ramene,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+881,"Otevřená rána lokte, předloktí",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+882,Otevřená rána ruky mimo zranění postihující prsty,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+884,Mnohočetné nebo blíže neurčené rány horní končetiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+885,Traumatická amputace palce ruky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+886,Traumatická amputace jiného prstu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+887,Traumatická amputace paže nebo ruky, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+890,Otevřená rána kyčle nebo stehna,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+891,"Otevřená rána kolena, bérce nebo kotníku",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+892,Otevřená rána nohy mimo zranění postihující samotný prst,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+893,Otevřená rána prstu nohy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+894,Mnohočetné nebo blíže neurčené otevřené rány dolní končetiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+895,Traumatická amputace prstu nohy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+896,Traumatická amputace chodidla,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+897,Traumatická amputace dolní(ch) končetin(y) nad kotníkem,1, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -, -, -, -
+900,Poranění cév hlavy nebo krku,11, -, -, -, -, -,1, -,1,2, -, -,1, -,1, -,1,1,1, -,1, -,1
+901,Poranění cév hrudníku,10, -, -, -, -, -, -, -,1, -, -,1, -,1, -, -,1,1,3, -, -, -,2
+902,Poranění cév břicha nebo pánve,3, -, -, -, -, -,1, -, -,1, -, -, -,1, -, -, -, -, -, -, -, -, -
+903,Poranění cév horní končetiny,11, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -,2,1,4, -, -,2,1
+904,Poranění cév dolní končetiny nebo ns míst,2, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -,1, -
+907,Pozdní následky poranění nervové soustavy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+908,Pozdní následky jiných nebo ns poranění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+910,"Povrchová poranění obličeje,krku nebo části hlavy mimo oko",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+911,Povrchní poranění trupu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+920,"Zhmoždění obličeje, vlasové části nebo krku",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+922,Zhmoždění trupu, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+923,Zhmoždění horní končetiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+924,Zhmoždění dolní končetiny nebo jiných nebo ns míst,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1
+925,Tržně zhmožděné zranění obličeje , -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+926,Tržné zhmožděné poranění trupu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+927,Tržné zhmožděné poranění horní končetiny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+928,Tržně zhmožděné poranění dolní končetiny, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+929,Tržně  zhmožděné zranění mnoha nebo ns míst, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+930,Cizí těleso ve vnějším oku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+931,Cizí těleso v uchu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+933,Cizí těleso v hltanu nebo hrtanu,70,10,2, -, -, -,1, -, -,1, -,1,3,8,5,4,4,3,4,6,8,7,3
+934,"Cizí těleso v průdušnici, průdušce nebo plicích",12,1,1, -, -, -, -, -, -, -, -, -,1,1, -, -, -,1, -,1,3,3, -
+935,"Cizí těleso v ústech, jícnu nebo žaludku",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+936,Cizí těleso ve střevě mimo konečník, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+937,Cizí těleso v řiti nebo konečníku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+938,Cizí těleso v trávicím ústrojí bez bližšího určení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+941,Popálenina obličeje hlavy a (nebo) krku, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+942,Popálenina trupu,3, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,2,1
+943,Popálenina horní končetiny mimo zápěstí a ruky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+944,Popálenina  zapěstí a  (nebo) ruky(ou),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+945,Popálenina dolní(ch) končetin(y), -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+946,Popáleniny mnoha určených míst,10, -, -, -, -, -, -, -, -, -, -, -,1,1, -, -,1, -, -,3, -,1,3
+947,Popáleniny vnitřních orgánů,2, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -, -, -, -, -,1
+948,Popáleniny tříděné podle rozsahu postiženého povrchu těla,15, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,2,1,3,1,5,3
+949,Popáleniny ns,5, -, -, -, -, -, -, -, -, -, -, -,1,1, -, -,1, -, -, -,1,1, -
+951,Poranění jiného mozkového nervu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+952,Poranění míchy bez zjevného poranění páteře,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+958,Některé časné komplikace úrazu,12, -, -, -, -, -, -,1, -,1, -, -,1, -,3, -, -,3, -,1, -, -,2
+959,Jiná a ns poranění,7, -, -, -, -, -, -, -, -,1,1, -,1, -, -, -, -,1,1, -,1, -,1
+ 960,Otrava antibiotiky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+ 961,Otrava jinými prostřeky proti infekcím,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+962,Otravy hormony a jejich syntetickými náhradami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+963,Otrava látkami působícími přímo na celý organismus,1, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -, -
+964,Otrava látkami působícími na složky krve, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+965,"Otravy analgetiky, antipyretiky a antirevmatiky",2, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -,1, -, -, -
+966,Otravy antikonvulzivy a leky proti Parkinsonově nemoci,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -
+967,Otravy sedativy a hypnotiky,10, -, -, -, -, -, -, -, -, -,1, -, -, -,2, -,2,1, -,2,2, -, -
+968,Otravy jinými látkami s tlumivým účinkem na cns,2, -, -, -, -, -, -, -, -, -, -, -,1,1, -, -, -, -, -, -, -, -, -
+969,Otravy psychofarmaky,6, -, -, -, -, -, -, -, -, -, -, -,1, -,2,1,1, -, -, -, -,1, -
+970,otrava stimulancií CNS,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+971,Otravy látkami působícími především na autonomní nervovou soustavu, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+972,Otravy látkami působícími především na oběhovou soustavu,3, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -, -, -,1,1, -, -
+973,Otravy látkami působícími především na trávící soustavu, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+975,Otravy látkami působícími především na hladké nebo nebo kosterní svaly nebo dýchací soustasvu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+976,Otravy látkami působícími především na kůži a (nebo) sliznici,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+977,Otravy jinými nebo ns léky a přípravky,81, -, -, -, -, -, -, -,3,7,6,6,4,7,10,6,7,4,6,4,4,5,2
+979,Otrava jinými očkkovacíma a biologickými látkami,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1
+980,Toxické účinky alkoholu,24, -, -, -, -, -, -, -, -, -,1,3,2,5,4,5,2,2, -, -, -, -, -
+981,Toxické  účinky  výrobku  z ropy,1, -,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -
+982,Toxické účinky rozpustidel  mimo výrobky z ropy,2, -, -, -, -, -, -, -, -, -, -, -, -,1, -,1, -, -, -, -, -, -, -
+983,"Toxické účinky leptavých aromatických látek, kyselin a žíravých alkálií",2, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1,1, -, -, -, -, -, -
+984,Toxický účinek olova a jeho sloučenin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+985,Toxický účinek jiných kovů,1, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -, -, -, -
+986,Toxické účinky kysličníku uhelnatého,132, -, -, -, -, -, -,1,2,2,6,1,3,6,10,3,2,4,13,12,24,27,16
+987,"Toxické účinky jiných plynů, dýmů nebo par ",31, -, -, -, -, -, -, -, -, -, -, -,2,1,1,2, -, -,7,3,5,5,5
+988,Toxické účinky škodlivých látek požítých v potravě,1, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -, -
+989,Toxické účinky jiných látek používaných převážně mimo lékařství,8, -, -, -, -, -, -, -, -,1, -, -, -,2,1,2,1, -, -, -, -,1, -
+990,Účinky záření ns,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+991,Účinky snížené teploty,35, -,1, -, -, -, -, -, -, -,1, -,3,1,2,2,1,3,3,3,2,7,6
+992,Účinky horka a světla,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+993,Účinky tlaku vzduchu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+994,Účinky jiných vnějších příčin,352,5,2,1,1,1,4,3,8,9,13,17,20,22,24,30,21,22,31,38,28,33,19
+995,Některé nepříznivé účinky nezařazené jinde,2, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -,1, -, -, -, -
+996,Komplikace specifické pro některé přesně určené výkony,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+997,Komplikace postihující určité telesné soustavy a nezařazené jinde,2, -, -, -, -, -, -, -, -, -, -, -, -,1, -, -, -, -, -,1, -, -, -
+998,Jiné komplikace výkonu nezařazené jinde,2, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -,1, -,1, -, -, -
+999,Komplikace lékařské péče nezařazené jinde, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -

@@ -1,0 +1,436 @@
+2004,Zemřelé ženy podle podrobného seznamu příčin smrti a věku - úrazy a otravy podle vnější příčiny,,,,,,,,,,,,,,,,,,,,,,,
+MKN (1993),Název,Celkem,0,1,2,3,4,5-9,10-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85 +
+,,,,,,,,,,,,,,,,,,,,,,,,
+VN,Vnější příčiny poranění a otrav,2413,13,2,-,2,1,12,14,45,56,50,51,59,75,118,120,97,81,100,154,308,462,593
+,,,,,,,,,,,,,,,,,,,,,,,,
+DN,Dopravní nehody,335,1,1,-,-,-,7,6,20,35,25,22,14,27,27,19,23,20,20,22,19,21,6
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Chodec zraněný při dopravní nehodě     V01-V09,82,-,-,-,-,-,2,1,-,2,3,1,4,6,5,6,4,9,6,10,11,9,3
+V01,Chodec zraněný při srážce s jízdním kolem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V02,Chodec zraněný při srážce s 2 nebo 3 kolovým motorovým vozidlem,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-
+V03,"Chodec zraněný při srážce s automobilem osobním, dodávkovým nebo lehkým nákladním",46,-,-,-,-,-,2,-,-,2,1,-,3,4,1,2,2,8,5,6,4,5,1
+V04,Chodec zraněný při srážce s těžkým nákladním vozidlem nebo autobusem,7,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-,1,-,2,1,-
+V05,Chodec zraněný při srážce s železničním vlakem nebo s železničním vozidlem,20,-,-,-,-,-,-,-,-,-,2,-,1,2,2,3,1,1,-,3,2,1,2
+V06,Chodec zraněný při srážce s jiným nemotorovým vozidlem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V09,Chodec zraněný při jiných a neurčených dopravních nehodách,5,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,1,1,2,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Cyklista zraněný při dopravní nehodě     V10-V19,25,-,-,-,-,-,-,-,1,-,-,1,-,1,5,2,4,-,4,4,1,2,-
+V10,Cyklista zraněný při srážce s chodcem nebo zvířetem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+V11,Cyklista zraněný při srážce s jiným jízdním kolem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V12,Cyklista zraněný při srážce s 2 nebo 3 kolovým motorovým vozidlem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V13,"Cyklista zraněný při srážce s automobilem osobním,dodávkovým  nebo lehkým nákladním",12,-,-,-,-,-,-,-,-,-,-,-,-,-,3,2,2,-,3,1,1,-,-
+V14,Cyklista zraněný při srážce s těžkým nákladním vozidlem nebo autobusem,2,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,-
+V15,Cyklista zraněný při srážce s železničním vlakem nebo železničním vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V16,Cyklista zraněný při srážce s jiným nemotorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V17,Cyklista zraněný při srážce s pevnou překážkou [s připevněným nebo stojícím předmětem],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V18,Cyklista zraněný při dopravní nehodě bez srážky,5,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,2,-,1,-
+V19,Cyklista zraněný při jiným a neurčených dopravních nehodách,4,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,2,-,1,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Jezdec na motocyklu zraněný při dopravní nehodě    V20-V29,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V20,Jezdec na motocyklu zraněný při srážce s chodcem nebo zvířetem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V21,Jezdec na motocyklu zraněný při srážce s jízdním kolem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V22,Jezdec na motocyklu zraněný při srážce s 2 nebo 3 kolovým motorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V23,"Jezdec na motocyklu zraněný při srážce s automobilem osobním, dodávkovým nebo lehkým nákladním",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V24,Jezdec na motocyklu zraněný při srážce s těžkým nákladním vozidlem nebo autobusem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V25,Jezdec na motocyklu zraněný při srážce s železničním vlakem nebo  železničním vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V26,Jezdec na motocyklu zraněný při srážce s jiným nemotorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V27,Jezdec na motocyklu zraněný při srážce s pevnou překážkou [s připevněným nebo stojícím předmětem],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V28,Jezdec na motocyklu zraněný při dopravní nehodě bez srážky,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V29,Jezdec na motocyklu zraněný při jiných a neurčených dopravních nehodách,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Člen osádky tříkolového motorového vozidla zraněný při dopravní nehodě     V30-V39,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V30,Člen osádky tříkolového motorového vozidla zraněný při srážce s chodcem nebo zvířetem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V31,Člen osádky tříkolového motorového vozidla zraněný při srážce s jízdním kolem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V32,Člen osádky tříkolového motorového vozidla zraněný při srážce s jiným 2 nebo 3 kolovým motorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V33,"Člen osádky tříkolového motorového vozidla zraněný při srážce s automobilem osobním, dodávkovým  nebo lehkým nákladním",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V34,Člen osádky tříkolového motorového vozidla zraněný při srážce s těžkým nákladním vozidlem nebo autobusem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V35,Člen osádky tříkolového motorového vozidla zraněný při srážce s železničním vlakem nebo železničním vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V36,Člen osádky tříkolového motorového vozidla zraněný při srážce s jiným nemotorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V37,Člen osádky tříkolového motorového vozidla zraněný při srážce s pevnou překážkou [s připevněným nebo stojícím předmětem],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V38,Člen osádky tříkolového motorového vozidla zraněný při dopravní nehodě bez srážky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V39,Člen osádky tříkolového motorového vozidla zraněný při jiných a neurčených dopravních nehodách,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Člen osádky osobního automobilu zraněný při dopravní nehodě     V40-V49,93,-,-,-,-,-,3,2,7,18,12,9,2,9,4,4,8,3,1,4,2,2,3
+V40,Člen osádky osobního automobilu zraněný při srážce chodcem nebo zvířetem,5,-,-,-,-,-,-,-,-,-,3,1,1,-,-,-,-,-,-,-,-,-,-
+V41,Člen osádky osobního automobilu zraněný při srážce s jízdním kolem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V42,Člen osádky osobního automobilu zraněný při srážce s dvou nebo tříkolovým motorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V43,"Člen osádky osobního automobilu zraněný při srážce s automobilem osobním, dodávkovým nebo lehkým nákladním",28,-,-,-,-,-,1,1,3,6,3,2,1,2,2,2,1,1,1,2,-,-,-
+V44,Člen osádky osobního automobilu zraněný při srážce s těžkým nákladním vozidlem nebo autobusem,18,-,-,-,-,-,2,-,-,4,-,3,-,3,1,1,1,1,-,1,1,-,-
+V45,Člen osádky osobního automobilu zraněný při srážce s železničním vlakem nebo železničním vozidlem,6,-,-,-,-,-,-,-,2,1,1,-,-,-,-,-,1,-,-,-,-,1,-
+V46,Člen osádky osobního automobilu zraněný při srážce s jiným nemotorovým vozidlem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+V47,Člen osádky osobního automobilu zraněný při srážce s pevnou překážkou [s připevněným nebo stojícím předmětem],20,-,-,-,-,-,-,-,2,5,4,3,-,2,-,1,2,1,-,-,-,-,-
+V48,Člen osádky osobního automobilu zraněný při dopravní nehodě bez srážky,3,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,1
+V49,Člen osádky osobního automobilu zraněný při jiných a neurčených dopravních nehodách,12,-,-,-,-,-,-,1,-,1,-,-,-,2,1,-,3,-,-,1,1,-,2
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při dopravní nehodě     V50-V59,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V50,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při srážce s chodcem nebo zvířetem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V51,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při srážce s jízdním kolem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V52,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při srážce s dvou nebo tříkolovým motorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V53,"Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při srážce s automobilem osobním, dodávkovým či lehkým nákladním",1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V54,Člen osádky dodávkového či lehkého nákladního automobilu zraněný při srážce s těžkým nákladním vozidlem nebo autobusem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V55,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při srážce s železničním vlakem nebo železničním vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V56,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při srážce s jiným nemotorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V57,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při srážce s pevnou překážkou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V58,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při dopravní nehodě bez srážky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V59,Člen osádky dodávkového nebo lehkého nákladního automobilu zraněný při jiných a neurčených dopravních nehodách,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Člen osádky těžkého nákladního vozidla zraněný při dopravní nehodě     V60-V69,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+V60,Člen osádky těžkého nákladního vozidla zraněný při srážce s chodcem nebo zvířetem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V61,Člen osádky těžkého nákladního vozidla zraněný při srážce s jizdním kolem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V62,Člen osádky těžkého nákladního vozidla zraněný při srážce s dvou nebo tříkolovým motorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V63,"Člen osádky těžkého nákladního vozidla zraněný při srážce s automobilem osobním, dodávkovým nebo lehkým nákladním",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V64,Člen osádky těžkého nákladního vozidla zraněný při srážce s těžkým nákladní vozidlem nebo autobusem,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+V65,Člen osádky těžkého nákladního vozidla zraněný při srážce s železničním vlakem nebo železničním vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V66,Člen osádky těžkého nákladního vozidla zraněný při srážce s jiným nemotorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V67,Člen osádky těžkého nákladního vozidla zraněný při srážce s pevnou překážkou [s připevněným nebo stojícím předmětem],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V68,Člen osádky těžkého nákladního vozidla zraněný při dopravní nehodě bez srážky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V69,Člen osádky těžkého nákladního vozidla zraněný při jiných a neurčených dopravních nehodách,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Člen osádky autobusu zraněný při dopravní nehodě     V70-V79,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V70,Člen osádky autobusu zraněný při srážce s chodcem nebo zvířetem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V71,Člen osádky autobusu zraněný při srážce s jízdním kolem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V72,Člen osádky autobusu zraněný při srážce s dvou nebo tříkolovým motorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V73,"Člen osádky autobusu zraněný při srážce s automobilem osobním, dodávkovým nebo lehkým nákladním",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V74,Člen osádky autobusu zraněný při srážce s těžkým nákladním vozidlem nabo autobusem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V75,Člen osádky autobusu zraněný při srážce s železničním vlakem nebo železničním vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V76,Člen osádky autobusu zraněný při srážce s jiným nemotorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V77,Člen osádky autobusu zraněný při srážce s pevnou překážkou [s připevněným nebo stojícím předmětem],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V78,Člen osádky autobusu zraněný při dopravní nehodě bez srážky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V79,Člen osádky autobusu zraněný při jiných a neurčených dopravních nehodách,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Jiné nehody při pozemní dopravě     V80 - V89,131,1,1,-,-,-,2,3,11,15,10,11,8,10,11,7,7,8,9,4,5,8,-
+V80,Jezdec na zvířeti nebo člen osádky vozidla taženého zvířetem zraněný při dopravní nehodě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V81,Člen osádky železničního vlaku nebo železničního vozidla zraněný při dopravní nehodě,1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+V82,Člen osádky vozu pouliční dráhy zraněný při dopravní nehodě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V83,Člen osádky zvláštního vozidla určeného zejména pro průmyslové prostory zraněný při dopravní nehodě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V84,Člen osádky zvláštního vozidla určeného především pro zemědělství zraněný při dopravní nehodě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V85,Člen osádky zvláštního stavebního vozidla zraněný při dopravní nehodě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V86,"Člen osádky terénního či jiného motorového vozidla určeného hlavně pro mimosilniční provoz, zraněný při dopravní nehodě",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V87,"Provozní [silniční] nehoda určeného typu, ale s neznámým způsobem dopravy oběti",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+V88,"Neprovozní [mimosilniční] nehoda určeného typu, ale s neznámým způsobem dopravy oběti",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V89,"Nehoda motorového nebo nemotorového vozidla, typ vozidla neurčen",129,1,1,-,-,-,2,3,11,15,10,11,8,10,10,7,7,7,9,4,5,8,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Nehody při vodní dopravě     V90 - V94,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V90,Nehoda plavidla jako příčina [u]tonutí a potopení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V91,Nehoda plavidla jako příčina jiného poranění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V92,"(U)tonutí a potopení v souvislosti s vodní dopravou, bez nehody plavidla",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V93,"Nehoda na palubě plavidla bez nehody plavidla, která není příčinou [u]tonutí a potopení",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V94,Jiné a neurčené nehody při vodní dopravě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Nehody při dopravě vzduchem a vesmírným prostorem      V95 - V97,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V95,Nehoda letounu s pohonem jako příčina zranění člena osádky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V96,Nehoda letounu bez pohonu jako příčina zranění člena osádky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V97,Jiné určené nehody při dopravě vzduchem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Jiné a neurčené dopravní nehody     V98 - V99,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V98,Jiné určené dopravní nehody,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+V99,Neurčená dopravní nehoda,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Jiné vnější příčiny náhodných poranění     W00 - X59,2078,12,1,-,2,1,5,8,25,21,25,29,45,48,91,101,74,61,80,132,289,441,587
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Pády       W00 - W19,1213,1,-,-,-,-,-,1,3,1,3,3,5,4,10,12,13,12,17,70,200,333,525
+W00,Pád na rovině na ledu a sněhu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W01,"Pád na rovině následkem uklouznutí, zakopnutí nebo klopýtnutí",476,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,2,3,5,14,79,121,250
+W02,"Pád na ledních bruslích, lyžích, kolečkových bruslích nebo skateboardech",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W03,Jiné pády na rovině ze srážky s nebo strčení jinou osobou,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+W04,Pád při nesení nebo podpírání jinými osobami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W05,Pád s invalidního vozíku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W06,Pád s postele,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1
+W07,Pád se židle,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+W08,Pád s [týkající se] jiného nábytku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W09,Pád s [týkající se] vybavení hřiště,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W10,Pád na schodech a stupních nebo s nich,24,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1,3,3,2,7,5
+W11,Pád na nebo se žebříku,14,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-,3,1,3,5
+W12,Pád na nebo s lešení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W13,Pád s(z)budovy nebo konstrukce nebo propadnutí,11,-,-,-,-,-,-,-,1,-,1,1,1,1,1,1,1,-,1,-,2,-,-
+W14,Pád se stromu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W15,Pád se skály,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,1,-,-,-,-,-,-
+W16,"Potopení se nebo skok do vody jako příčina jiného poranění, než je [u]tonutí nebo potopení",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W17,Jiný pád z jedné úrovně na druhou,5,-,-,-,-,-,-,-,-,-,-,-,3,1,-,-,-,-,-,-,1,-,-
+W18,Jiný pád na rovině,10,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,1,4,3
+W19,Neurčený pád,667,1,-,-,-,-,-,1,1,1,1,2,-,-,8,9,8,8,7,49,113,197,261
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Vystavení neživotným mechanickým silám        W20 - W49,9,-,-,-,-,-,-,-,-,1,-,-,-,2,-,1,2,1,1,-,1,-,-
+W20,"Udeření hozeným, vrženým nebo padajícím předmětem",4,-,-,-,-,-,-,-,-,-,-,-,-,2,-,-,1,1,-,-,-,-,-
+W21,Udeření sportovním nářadím [vybavením] nabo náraz na ně,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W22,Udeření jinými předměty nebo náraz na ně,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W23,"Zachycení, rozdrcení, zmáčknutí nebo uskřípnutí do předmětů nebo mezi ně",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W24,"Kontakt se zařízeními na zvedání a přenos, nezařazenými jinde",1,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+W25,Kontakt s ostrým sklem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W26,"Kontakt s nožem, mečem nebo dýkou",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+W27,Kontakt s ručním nástrojem bez pohonu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W28,Kontakt se sekačkou trávy s pohonem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W29,Kontakt s jinými ručními nástroji na pohon a stroji v domácnosti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W30,Kontakt se zemědělskými stroji,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W31,Kontakt s jiným  a neurčeným strojem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W32,"Výstřel z krátké jednoruční střelné zbraně, pistole, revolveru",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+W33,"Výstřel z pušky, brokovnice a větší ruční střelné zbraně",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W34,Výstřel z jiných a neurčených střelných zbraní,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W35,Výbuch a prasknutí kotle,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W36,Výbuch a prasknutí tlakové nádoby na plyn,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W37,"Výbuch a prasknutí stlačené pneumatiky, potrubí nebo hadice",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W38,Výbuch a prasknutí jiných určených tlakových zařízení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W39,Výstřel ohňostroje,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W40,Výbuch jiných látek,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+W41,Vystavení proudu pod vysokým tlakem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W42,Vystavení hluku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W43,Vystavení vibracím,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W44,Cizí těleso vniklé do oka nebo okem nebo přirozeným otvorem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W45,Cizí těleso nebo předmět proniklý kůží,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W49,Vystavení jiným a neurčeným neživotným mechanickým silám,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Vystavení životným mechanickým silám       W50 - W64,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,-,-,-
+W50,"Zasažení, úder, kopnutí, zkroucení, kousnutí nebo poškrábání jinou osobou",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W51,Uhození se o jinou osobu nebo náraz do jiné osoby,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W52,"Rozdrcení, umačkání nebo ušlapání davem při lidské panice",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W53,Kousnutí krysou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W54,Kousnutí nebo úder psem,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+W55,Kousnutí nebo úder jinými savci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W56,Kontakt s mořským živočichem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W57,Kousnutí nebo štípnutí [budnutí] nejedovatým hmyzem a jinými nejedovatými členovci,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-,-
+W58,Kousnutí a úder krokodýlem nebo aligátorem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W59,Kousnutí nebo rozdrcení jiným plazy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W60,Kontakt s rostlinnými trny a ostny a ostrými listy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W64,Vystavení jiným a neurčeným životním mechanickým silám,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Náhodné [u]tonutí a potopení       W65 - W74,47,-,1,-,1,-,3,-,1,-,1,2,1,1,5,3,-,6,6,3,3,4,6
+W65,(U)tonutí a potopení při pobytu ve vaně,6,-,-,-,-,-,-,-,-,-,-,1,1,-,1,1,-,-,1,1,-,-,-
+W66,(U)tonutí a potopení po pádu do vany,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W67,(U)tonutí a potopení při pobytu v bazénu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W68,(U)tonutí a potopení po pádu do bazénu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W69,(U)tonutí a potopení při pobytu v přírodní vodě,5,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-,-,1,-,1,-,1,-
+W70,(U)tonutí a potopení při pádu do příodní vody,8,-,-,-,-,-,-,-,1,-,-,-,-,-,1,2,-,2,1,-,-,1,-
+W73,Jiné určené (u)tonutí a potopení,2,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+W74,Neurčené (u)tonutí a potopení,26,-,1,-,-,-,2,-,-,-,1,1,-,1,2,-,-,3,4,1,3,2,5
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Jiná náhodná ohrožení dýchání       W75 - W84,103,7,-,-,-,-,1,1,-,-,1,1,2,5,5,15,8,3,7,9,16,11,11
+W75,Náhodné (za)dušení a (u)škrcení v posteli,2,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+W76,Jiné náhodné oběšení a (u)škrcení,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+W77,Ohrožení dýchání způsobené zavalením [zasypáním] pdající zeminou a jinými hmotami,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,1,-
+W78,Vdechnutí žaludečního obsahu,80,5,-,-,-,-,1,-,-,-,1,1,1,3,5,13,7,3,4,7,13,7,9
+W79,Vdechnutí nebo polknutí potravy jako příčina ucpání dýchacích cest,8,1,-,-,-,-,-,-,-,-,-,-,-,1,-,1,1,-,1,1,1,1,-
+W80,Vdechnutí nebo polknutí jiných předmětů jako příčina ucpání dýchacích cest,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-
+W81,Uzavření nebo zachycení v prostředí s nízkým obsahem kyslíku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W83,Jiná určená ohrožení dýchání,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-
+W84,Neurčené ohrožení dýchání,4,-,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,2
+,,,,,,,,,,,,,,,,,,,,,,,,
+,"Vystavení elektrickému proudu, ozáření a extrémní okolní teplotě a tlaku vzduchu        W85 - W99",3,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,1
+W85,Dotyk elektrického vedení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W86,Vystavení jinému určenému elektrickému proudu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W87,Vystavení neurčenému elektrickému proudu,2,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-
+W88,Vystavení ionizujícímu záření,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W89,Vystavení uměle vytvořenému viditelnému a ultrafialovému světlu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W90,Vystavení jinému neionizujícímu záření,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W91,Vystavení neurčenému typu záření,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W92,Vystavení nadměrnému horku uměle vytvořenému,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W93,Vystavení nadměrnému chladu uměle vytvořenému,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+W94,Vystavení vysokému a nízkému tlaku vzduchu a jeho změnám,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+W99,Vystavení jiným a neurčeným faktorům okolního prostředí vytvořeným uměle,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,"Vystavení kouři, ohni, dýmu a plamenům       X00 - X09",27,-,-,-,1,1,-,-,-,-,-,2,1,1,-,2,1,1,2,-,3,7,5
+X00,Vystavení nekontrolovanému ohni [požáru] v budově nebo konstrukci,2,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,1,-
+X01,Vystavení nekontrolovanému ohni [požáru] mimo budovy a konstrukce,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+X02,Vystavení kontrolovanému ohni v budovách a konstrukcích,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X03,Vystavení kontrolovanému ohni mimo budovy a konstrukce,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X04,Vystavení vznícení vysoce hořlavých hmot,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+X05,Vystavení vznícení nebo tavení nočního prádla,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X06,Vystavení vznícení nebo tavení jiného šatstva a oděvů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X08,"Vystavení jinému určenému kouři, dýmu, ohni a plamenům",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+X09,"Vystavení neurčenému kouři, dýmu, ohni a plamenům",22,-,-,-,1,1,-,-,-,-,-,1,1,1,-,1,1,1,2,-,3,5,4
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Kontakt s horkem a horkými látkami      X10 - X19,5,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,-,1,-,2,-
+X10,"Kontakt s horkými nápoji, potravou, tukem a oleji na vaření",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X11,Kontakt s horkou vodou z vodovodu,2,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,1,-
+X12,Kontakt s jiným horkými tekutinami,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+X13,Kontakt s vodní párou a jinými horkými výpary,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X14,Kontakt s horkým vzduchem a plyny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X15,Kontakt s horkými zařízeními v domácnosti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X16,"Kontakt s horkými topnými zařízeními, radiátory a rourami",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X17,"Kontakt s horkými stroji, přístroji a nástroji",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X18,Kontakt s jinými horkými kovy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X19,Kontakt s jiným a neurčeným horkem a horkými látkami,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Kontakt s jedovatými živočichy a rostlinami      X20 - X29,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+X20,Kontakt s jedovatými hady a ještěrkami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X21,Kontakt s jedovatými pavouky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X22,Kontakt se štíry (škorpiony),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X23,"Kontakt se sršni,vosami a včelami",1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+X24,Kontakt se stonožkami a jedovatými [tropickými] stonožkami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X25,Kontakt s jinými určenými jedovatými členovci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X26,Kontakt s jedovatým mořským živočichem a rostlinou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X27,Kontakt s jinými určenými jedovatými živočichy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X28,Kontakt s jinými určenými jedovatými rostlinami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X29,Kontakt s neurčeným jedovatým živočichem nebo rostlinou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Vystavení přírodním silám       X30 - X39,24,-,-,-,-,-,-,-,-,-,-,1,1,2,2,2,2,2,1,1,6,2,2
+X30,Vystavení nadměrnému přírodnímu horku,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X31,Vystavení nadměrnému přírodnímu chladu,23,-,-,-,-,-,-,-,-,-,-,1,1,2,2,2,2,1,1,1,6,2,2
+X32,Vystavení slunečnímu záření,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X33,Oběť blesku,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+X34,Oběť zemětřesení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X35,Oběť výbuchu sopky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X36,"Oběť laviny, sesuvu půdy a jiných zemských pohybů",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X37,Oběť přírodní katastrofické bouře,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X38,Oběť povodně (záplavy),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X39,Vystavení jiným a neurčeným přírodním silám,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Náhodná otrava škodlivými látkami      X40 - X49,66,-,-,-,-,-,-,1,4,2,3,1,3,8,12,8,3,3,6,2,4,6,-
+X40,"Náhodná otrava neopiátovými analgetiky, antipyretiky a antirevmatiky a expozice jejich působení",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+X41,"Náhodná otrava antiepileptiky, sedativy-hypnotiky, antiparkinsoniky, psychotropními léky a expozice, nezařazená jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X42,"Náhodná otrava narkotiky a psychodysleptiky [halucinogeny] a expozice jejich působení, nezařazená jinde",3,-,-,-,-,-,-,-,-,1,1,-,-,-,1,-,-,-,-,-,-,-,-
+X43,Náhodná otrava jinými léčivy působícími na autonomní nervovou soustavu a expozice jejich působení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X44,"Náhodná otrava jinými a neurčenými léky, léčivy, návykovými a biologickými látkami a expozice jejich působení",16,-,-,-,-,-,-,1,1,-,1,-,1,3,2,2,-,2,1,-,2,-,-
+X45,Náhodná otrava alkoholem a expozice jeho působení,30,-,-,-,-,-,-,-,-,-,1,-,-,5,9,5,3,1,5,-,-,1,-
+X46,Náhodná otrava organickými rozpustidly a halogenovanými uhlovodíky a jejich parami a expozice jejich působení,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+X47,Náhodná otrava jinými plyny a parami a expozice jejich působení,14,-,-,-,-,-,-,-,2,1,-,1,2,-,-,1,-,-,-,2,2,3,-
+X48,Náhodná otrava pesticidy a expozice jejich působení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X49,Náhodná otrava jinými a neurčenými chemikáliemi a škodlivými látkami a expozice jejich působení,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,"Přetížení, cestování a strádání       X50 - X57",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X50,Přetížení a namáhavé nebo opakované pohyby,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X51,Cestování a pohyb,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X52,Prodloužený pobyt v beztížném prostředí,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X53,Nedostatek potravy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X54,Nedostatek vody,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X57,Neurčené strádání,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Náhodné vystavení jiným a neurčeným faktorům      X58 - X59,101,1,-,-,-,-,-,-,2,3,3,-,2,1,5,5,3,4,10,8,10,29,15
+X58,Vystavení jiným  určeným faktorům,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X59,Vystavení neurčeným faktorům,101,1,-,-,-,-,-,-,2,3,3,-,2,1,5,5,3,4,10,8,10,29,15
+,,,,,,,,,,,,,,,,,,,,,,,,
+SE,Úmyslné sebepoškození         X60 - X84,297,-,-,-,-,-,-,3,8,6,8,16,16,11,32,40,30,18,21,26,29,24,9
+X60,"Úmyslné sebeotrávení neopiátovými analgetiky, antipyretiky a antirevmatiky a expozice jejich působení",4,-,-,-,-,-,-,-,-,-,1,-,-,1,1,-,1,-,-,-,-,-,-
+X61,"Úmyslné sebeotrávení antiepileptiky, sedativy-hypnotiky, antiparkinsoniky, psychotropními léky a expozice, nezařazené jinde",25,-,-,-,-,-,-,-,1,-,-,1,3,1,4,1,3,-,2,1,5,2,1
+X62,"Úmyslné sebeotrávení narkotiky a psychodysleptiky [halucinogeny] a expozice jejich působení, nezařazené jinde",3,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-,1,-,-,-,-
+X63,Úmyslné sebeotrávení jinými léčivy působícími na autonomní nervovou soustavu a expozice jejich působení,3,-,-,-,-,-,-,-,1,-,-,-,-,-,1,1,-,-,-,-,-,-,-
+X64,"Úmyslné sebeotrávení jinými a neurčenými léky, léčivy, návykovými a biologickými látkami a expozice jejich působení",20,-,-,-,-,-,-,-,2,1,-,-,3,1,1,5,1,-,-,1,2,3,-
+X65,Úmyslné sebeotrávení alkoholem a expozice jeho působení,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+X66,Úmyslné sebeotrávení organickými rozpustidly a halogenovanými uhlovodíky a jejich parami a expozice jejich působení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X67,Úmyslné sebeotrávení jinými plyny a parami a expozice jejich působení,3,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,2,-,-,-,-,-
+X68,Úmyslné sebeotrávení pesticidy a expozice jejich působení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X69,Úmyslné sebeotrávení jinými a neurčenými chemikáliemi a škodlivými látkami a expozice jejich působení,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,1,-,-
+X70,"Úmyslné sebepoškození oběšením, [u]škrcením a [za]dušením",128,-,-,-,-,-,-,1,3,1,4,7,3,2,10,18,15,10,10,13,15,12,4
+X71,Úmyslné sebepoškození (u)topením a potopením,18,-,-,-,-,-,-,-,-,1,-,-,-,1,3,1,3,-,1,4,1,1,2
+X72,"Úmyslné sebepoškození výstřelem z pistole, revolveru",5,-,-,-,-,-,-,1,-,-,-,1,2,-,-,-,1,-,-,-,-,-,-
+X73,"Úmyslné sebepoškození výstřelem z pušky, brokovnice a větší ruční střelné zbraně",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X74,Úmyslné sebepoškození výstřelem z jiné a neurčené střelné zbraně,4,-,-,-,-,-,-,-,-,2,-,1,-,-,1,-,-,-,-,-,-,-,-
+X75,Úmyslné sebepoškození výbušnou látkou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X76,"Úmyslné sebepoškození kouřem, dýmem a ohněm",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X77,"Úmyslné sebepoškození vodní parou, horkými výpary a horkými předměty",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X78,Úmyslné sebepoškození ostrým předmětem,12,-,-,-,-,-,-,-,-,-,1,-,-,1,2,3,-,2,1,1,1,-,-
+X79,Úmyslné sebepoškození tupým předmětem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X80,Úmyslné sebepoškození skokem s výše,50,-,-,-,-,-,-,1,1,-,-,3,2,1,6,9,3,3,4,6,3,6,2
+X81,Úmyslné sebepoškození skokem nebo lehnutím si před pohybující se předmět,8,-,-,-,-,-,-,-,-,-,1,-,2,1,1,-,2,-,1,-,-,-,-
+X82,Úmyslné sebepoškození havárií motorového vozidla,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+X83,Úmyslné sebepoškození jinými určenými prostředky,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+X84,Úmyslné sebepoškození neurčenými prostředky,9,-,-,-,-,-,-,-,-,1,-,1,-,-,1,2,1,1,1,-,1,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+NA,Napadení [útok]           X85 - Y09,40,1,-,-,-,-,1,1,3,5,3,-,2,5,7,1,2,2,-,1,3,2,1
+X85,"Napadení léky, léčivy, návykovými a biologickými látkami",1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+X86,Napadení žíravou látkou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X87,Napadení pesticidy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X88,Napadení plyny a parami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X89,Napadení jinými určenými chemikáliemi a škodlivými látkami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X90,Napadení neurčenou chemickou nebo škodlivou látkou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X91,"Napadení oběšením, (u)škrcením a (za)dušením",11,-,-,-,-,-,-,-,1,1,-,-,-,1,2,1,1,-,-,1,2,1,-
+X92,Napadení (u)topením a potopením,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X93,"Napadení výstřelem z pistole, revolveru",1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+X94,"Napadení výstřelem z pušky, brokovnice a větší ruční střelné zbraně",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+X95,Napadení výstřelem z jiné a neurčené střelné zbraně,2,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+X96,Napadení výbušnou látkou,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X97,"Napadení kouřem, dýmem a ohněm",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-
+X98,"Napadení vodní parou, horkými výpary a horkými předměty",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X99,Napadení ostrým předmětem,11,1,-,-,-,-,1,-,1,2,-,-,-,2,2,-,1,-,-,-,-,-,1
+Y00,Napadení tupým předmětem,1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+Y01,Napadení shozením s výše,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y02,Napadení strčením nebo umístěním oběti před pohybující se předmět,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y03,Napadení zasažením motorovým vozidlem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y04,Napadení tělesnou silou,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-
+Y05,Sexuální napadení s použitím tělesné síly,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y06,Zanedbání a opuštění,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y07,Jiné syndromy špatného zacházení,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+Y08,Napadení jinými určenými způsoby,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y09,Napadení neurčenými způsoby,9,-,-,-,-,-,-,-,1,2,2,-,2,1,1,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Případ [událost] nezjištěného úmyslu      Y10 - Y34,131,2,-,-,-,-,-,1,4,3,2,2,12,6,11,11,10,7,7,9,14,19,11
+Y10,"Otrava neopiátovými analgetiky, antipyretiky a antirevmatiky a expozice jejich působení, nezjištěného úmyslu",1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y11,"Otrava antiepileptiky, sedativy-hypnotiky, antiparkinsoniky a psychotropními léky a expozice nezařazená jinde, nezjištěného úmyslu",4,-,-,-,-,-,-,-,-,-,-,-,2,-,1,-,-,1,-,-,-,-,-
+Y12,"Otrava narkotiky a psychodysleptiky [halucinogeny] a expozice jejich působení,nezařazená jinde, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y13,"Otrava jinými léčivy působícími na autonomní nervovou soustavu, a expozice jejich působení, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y14,"Otrava jinými a neurčenými léky, léčivy, návykovými a biologickými látkami a expozice jejich působení, nezjištěného úmyslu",3,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-,-,-,1,-,-,-,-
+Y15,"Otrava alkoholem a expozice jeho působení, nezjištěného úmyslu",5,-,-,-,-,-,-,-,-,-,-,-,1,-,2,-,2,-,-,-,-,-,-
+Y16,"Otrava organickými rozpustidly a halogenovanými uhlovodíky a jejich parami a expozice jejich působení, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y17,"Otrava jinými plyny a parami a expozice jejich působení, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y18,"Otrava pesticidy a expozice jejich působení, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y19,"Otrava jinými a neurčenými chemikáliemi a škodlivými látkami a expozice jejich působení, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y20,"Oběšení, (u)škrcení a (za)dušení, nezjištěného úmyslu",2,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-
+Y21,"(U)topení a potopení, nezjištěného úmyslu",7,-,-,-,-,-,-,-,-,-,-,-,1,-,-,1,-,-,2,1,1,1,-
+Y22,"Výstřel z pistole, revolveru, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y23,"Výstřel z pušky, brokovnice a větší ruční střelné zbraně. nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y24,"Výstřel z jiné a neurčené střelné zbraně, nezjištěného úmyslu",1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Y25,"Kontakt s výbušnou látkou, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y26,"Vystavení kouři, dýmu a ohni, nezjištěného úmyslu",3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,1
+Y27,"Kontakt s vodní párou, horkými výpary a horkými předměty. nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y28,"Kontakt s ostrým předmětem, nezjištěného úmyslu",1,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+Y29,"Kontakt s tupým předmětem, nezjištěného úmyslu",1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Y30,"Pád, skok nebo strčení s výšky, nezjištěného úmyslu",9,1,-,-,-,-,-,-,1,1,1,-,2,-,-,2,-,-,-,-,-,-,1
+Y31,"Pád, položení nebo vběhnutí před nebo do pohybující[ho] se předmět[u], nezjištěného úmyslu",2,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,1,-,-,-,-,-,-
+Y32,"Nehoda motorového vozidla, nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y33,"Jiné určené případy (události), nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y34,"Neurčený případ (událost), nezjištěného úmyslu",92,1,-,-,-,-,-,1,2,1,1,2,3,4,7,8,7,6,3,7,12,18,9
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Zákonný zákrok a válečné operace       Y35 - Y36,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y35,Zákonný zákrok,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y36,Válečné operace,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Komplikace zdravotní péče        Y40 - Y84,6,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,1,1,-,2,1
+Y40,Systémová antibiotika,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y41,Jiné systémové protiinfekční a protiparazitární prostředky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y42,"Hormony a jejich syntetické náhrady a antagonisté, nezařazené[-í] jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y43,Prostředky působící přímo na celý organismus,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y44,Prostředky působící primárně na krevní složky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y45,"Analgetika, antipyretika a protizánětlivá léčiva",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y46,Antiepileptika a antiparkinsonická léčiva,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y47,"Sedativa, hypnotika a antianxiózní léčiva",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y48,Anestetika a terapeutické plyny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y49,"Psychotropní léčiva, nezařazená jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y50,"Stimulancia centrální nervové soustavy, nezařazená jinde",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y51,Léčiva působící primárně na autonomní nervovou soustavu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y52,Prostředky působící primárně na kardiovaskulární soustavu,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1
+Y53,Prostředky působící primárně na gastrointestinální soustavu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y54,"Prostředky působící primárně na vodní rovnováhu, přeměnu minerálů a metabolismus kyseliny močové",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y55,Prostředky působící primárně na hladké a kosterní svalstvo a dýchací soustavu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y56,"Lokální prostředky působící primárně na kůži a sliznici a léčiva oční ušní, nosní, krční a zubní",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y57,"Jiné a neurčené léky, léčiva a návykové látky",1,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+Y58,Očkovací látky proti bakteriím,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y59,Jiné a neurčené očkovací a biologické látky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y60,"Neúmyslné říznutí, píchnutí, perforace nebo krvácení při zdravotní péči",2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,-
+Y61,Cizí těleso náhodně ponechané v těle při zdravotní péči,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y62,Selhání sterilizačních opatření při zdravotní péči,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y63,Chyba v dávkování při zdravotní péči,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y64,Kontaminované léčebné a biologické látky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y65,Jiné nehody při zdravotní péči,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y66,Neposkytnutí lékařské péče [operační a léčebné],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y69,Neurčená nehoda při zdravotní péči,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+Y70,Nežádoucí příhody související s anesteziologickými přístroji [pomůckami],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y71,Nežádoucí příhody související s kardiovaskulárními přístroji (pomůckami),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y72,"Nežádoucí příhody související s ušními, nosními, krčními přístroji (pomůckami)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y73,Nežádoucí příhody související s gastroenterologickými a urologickými přístroji [pomůckami],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y74,Nežádoucí příhody související s přístroji [pomůckami] pro celkové nemocniční a osobní použití,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y75,Nežádoucí příhody související s neurologickými přístroji [pomůckami],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y76,Nežádoucí příhody související s porodnickými a gynekologickými přístroji [pomůckami],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y77,Nežádoucí příhody související s očními přístroji (pomůckami),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y78,Nežádoucí příhody související s radiologickými přístroji [pomůckami],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y79,Nežádoucí příhody související s ortopedickými přístroji [pomůckami],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y80,Nežádoucí příhody související s přístroji [pomůckami] fyzikální medicíny,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y81,Nežádoucí příhody související s přístroji [pomůckami] obecné a plastické chirurgie,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y82,Nežádoucí příhody související s jinými a neurčenými lékařskými přístroji [pomůckami],-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y83,"Operace a jiné operační výkony jako příčina abnormální reakce nebo pozdější komplikace, bez zmínky o nehodě při výkonu",1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+Y84,"Jiné vyšetřovací a léčebné výkony jako příčina abnormální reakce pacienta nebo pozdější komplikace, bez zmínky o nehodě při výkonu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,,,,,
+,Následky vnějších příčin nemocnosti a úmrtnosti (Y85-Y89) ,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1,-,-,-
+Y85,Následky dopravních nehod,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,1,-,-,-
+Y86,Následky jiných nehod,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y87,"Následky úmyslného sebepoškození, napadení [útoku] a případů [událostí] nezjištěného úmyslu",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y88,Následky při zdravotní péči jako vnější příčině,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Y89,Následky jiných vnějších příčin,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

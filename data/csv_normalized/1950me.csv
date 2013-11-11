@@ -1,0 +1,180 @@
+1950,Zemřelí muži podle podrobného seznamu příčin smrti a věku - úrazy a otravy podle vnější příčiny,,,,,,,,,,,,,,,,
+MKN (1948),Název,Celkem,0,1,2,3,4,5-14,15-24,25-34,35-44,45-54,55-64,65-74,75-84,85+,Nezjiš- těno
+,,,,,,,,,,,,,,,,,
+VN,Úrazy a otravy podle vnější příčiny,4535,53,69,77,66,48,249,736,654,794,670,488,373,213,40,5
+,,,,,,,,,,,,,,,,,
+D1,Úrazy na železnicích,175,1,2,2,1,-,2,21,32,58,30,14,8,4,-,-
+E800,Úrazy na železnicích postihující železniční zaměstnance,86,-,-,-,-,-,-,6,16,35,21,6,1,1,-,-
+E801,Úrazy na železnicích postihující cestující,19,-,-,-,-,-,-,5,3,4,1,2,4,-,-,-
+E802,Úrazy na železnicích postihující jiné a blíže neoznačené osoby,70,1,2,2,1,-,2,10,13,19,8,6,3,3,-,-
+,,,,,,,,,,,,,,,,,
+D2,Dopravní úrazy motorovými vozidly,581,-,-,4,8,8,43,115,124,110,83,42,27,15,2,-
+E810,Dopravní úraz motorovými vozidly při srážce s vlakem,29,-,-,-,-,-,2,7,5,5,6,1,2,1,-,-
+E811,Dopravní úraz motorovými vozidly při srážce s pouliční drahou,2,-,-,-,-,-,-,-,-,1,-,1,-,-,-,-
+E812,Dopravní úraz motorovými vozidly způsobený chodcům,134,-,-,4,4,5,28,9,7,18,17,15,13,13,1,-
+E813,Dopravní úraz motorovými vozidly způsobený cyklistům,10,-,-,-,-,-,1,1,-,1,1,4,2,-,-,-
+E814,Dopravní úraz motorovými vozidly způsobený řidičům nebo spolujezdcům na motocyklech při srážce s vozidlem nemotorovým nebo jiným předmětem,9,-,-,-,-,-,-,3,4,2,-,-,-,-,-,-
+E815,Dopravní úraz motorovými vozidly způsobený řidičům nebo spolujezdcům na motocyklech při srážce s jiným motorovým vozidlem ,45,-,-,-,-,-,1,10,14,9,5,5,1,-,-,-
+E816,"Jiný dopravní úraz motorovými vozidly, jde-li o dvě motorová vozidla nebo několik vozidel",8,-,-,-,-,-,-,3,2,2,1,-,-,-,-,-
+E817,Dopravní úraz motorovými vozidly způsobený posádce motorového vozidla při srážce s chodcem nebo cyklistou,2,-,-,-,-,-,-,-,-,1,-,-,1,-,-,-
+E818,Dopravní úraz motorovými vozidly při srážce se zvířaty nebo vozidly taženými zvířaty,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E819,Dopravní úraz motorovými vozidly při srážce s předměty pevnými nebo blíže neurčenými,15,-,-,-,-,1,-,3,3,4,2,2,-,-,-,-
+E820,Dopravní úraz motorovými vozidly během sestupování a nastupování,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+E821,"Dopravní úraz motorovými vozidly způsobený řidiči motocyklu, nejde-li o srážku",13,-,-,-,-,-,-,7,4,-,2,-,-,-,-,-
+E822,Dopravní úraz motorovými vozidly při převrhnutí na silnici,15,-,-,-,-,-,-,6,3,3,3,-,-,-,-,-
+E823,Dopravní úraz motorovými vozidly při vybočení ze silnice,6,-,-,-,1,-,-,1,2,-,1,1,-,-,-,-
+E824,Jiný dopravní úraz motorovými vozidly bez srážky,59,-,-,-,1,-,4,14,14,9,11,3,1,1,1,-
+E825,Dopravní úraz motorovými vozidly neurčené povahy,233,-,-,-,2,2,7,50,66,55,34,10,7,-,-,-
+,,,,,,,,,,,,,,,,,
+D3,Úrazy motorovými vozidly nedopravní,23,-,-,-,-,1,2,6,6,4,3,1,-,-,-,-
+E830,Nedopravní úraz motorovými vozidly  způsobený chodcům,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+E831,Nedopravní úraz motorovými vozidly  způsobený cyklistům,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E832,Nedopravní úraz motorovými vozidly  způsobený řidičům nebo spolujezdcům na motocyklech,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E833,"Jiný nedopravní úraz motorovými vozidly, jde-li o dvě motorová vozidla nebo několik vozidel",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E834,Nedopravní úraz motorovými vozidly  při nastupování a sestupování,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+E835,Nedopravní úraz motorovými vozidly  jiné nebo neurčené povahy,21,-,-,-,-,1,1,6,6,4,2,1,-,-,-,-
+E836,Úraz motorovými vozidly nedopravní způsobený,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,
+D4,Úrazy jinými silničními vozidly,62,1,1,-,-,1,7,3,9,7,16,10,6,-,-,1
+E840,Úraz způsobený chodcům vozy pouliční dopravy,7,-,1,-,-,-,-,-,1,2,1,1,1,-,-,-
+E841,"Ostatní druhy úrazu vozy pouliční dopravy , vyjma srážku s motorovým vozidlem ",4,-,-,-,-,-,-,1,1,-,-,2,-,-,-,-
+E842,Úraz způsobený chodcům cyklisty,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E843,"Úraz způsobený cyklistům, ne však při srážce  s motorovým  vozidlem ",20,-,-,-,-,-,6,-,1,3,5,3,2,-,-,-
+E844,Úraz způsobený chodcům jinými nemotorovými silničními vozidly ,5,1,-,-,-,1,-,-,-,-,3,-,-,-,-,-
+E845,Jiný druh úrazu nemotorovými silničními vozidly ,26,-,-,-,-,-,1,2,6,2,7,4,3,-,-,1
+,,,,,,,,,,,,,,,,,
+D5,Úrazy při vodní dopravě,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+E850,Úraz cestujících na malých člunech způsobený potopením,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E851,Ostatní druhy úrazu při vodní dopravě způsobený potopením,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E852,Pád se schodů nebo žebříku při vodní dopravě,1,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+E853,Jiný pád do hloubky při vodní dopravě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E854,Pád na rovině při vodní dopravě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E855,Neoznačený pád při vodní dopravě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E856,Úraz stroji při vodní dopravě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E857,Jiný označený úraz při vodní dopravě,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E858,Úraz při vodní dopravě neurčené povahy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,
+D6,Letecké úrazy ,46,-,-,-,-,-,-,22,10,13,1,-,-,-,-,-
+E860,Úraz způsobený posádce vojenské letadla,26, ,-,-,-,-,-,16,6,4,-,-,-,-,-,-
+E861,Poranění způsobené cestujícím při nehodách dopravních letadel,2,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-
+E862,Jiné poranění v dopravních letadlech,5,-,-,-,-,-,-,-,2,2,1,-,-,-,-,-
+E863,Poranění způsobené cestujícím při nehodách jiných letadel,4,-,-,-,-,-,-,1,1,2,-,-,-,-,-,-
+E864,Letecký úraz způsobený na letišti osobám mimo letadlo,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+E865,Letecký úraz způsobený jinde než na letišti osobám mimo letadlo,2,-,-,-,-,-,-,1,-,1,-,-,-,-,-,-
+E866,Jiný a blíže neoznačený letecký úraz ,6,-,-,-,-,-,-,2,-,4,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,
+,Náhodné otravy látkami pevnými a tekutinami,61,2,6,4,2,1,1,3,6,11,14,5,6,-,-,-
+E870,Náhodná otrava morfiem a jinými deriváty opia,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+E871,Náhodná otrava kyselinou barbiturovou a jejími deriváty,2,-,1,-,-,-,-,-,-,1,-,-,-,-,-,-
+E872,Náhodná otrava aspirinem a salicyláty,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E873,Náhodná otrava bromidy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E874,Náhodná otrava jinými analgetiky a uspávacími prostředky,2,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-
+E875,Náhodná otrava sulfonamidy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E876,Náhodná otrava strychninem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E877,"Náhodná otrava belladonou, skopolaminem a atropinem",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E878,Náhodná otrava jinými a neurčenými léčivy,1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+E879,Náhodná otrava škodlivými potravinami,3,-,-,1,1,-,-,-,1,-,-,-,-,-,-,-
+E880,Náhodná otrava alkoholem,28,-,-,-,-,1,-,1,4,7,7,2,6,-,-,-
+E881,Náhodná otrava naftovými produkty,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+E882,Náhodná otrava průmyslovými rozpustidly,2,-,1,-,-,-,-,-,-,-,1,-,-,-,-,-
+E883,"Náhodná otrava leptavými aromatickými látkami, kyselinami a žíravinami",3,-,1,-,-,-,-,-,-,1,1,-,-,-,-,-
+E884,Náhodná otrava rtutí a jejími sloučeninami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E885,Náhodná otrava olovem a jeho sloučeninami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E886,Náhodná otrava arsenem a antimonem a jejich sloučeninami,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E887,Náhodná otrava fluoridy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E888,Náhodná otrava jinými a neurčenými látkami pevnými a tekutými,18,2,2,3,1,-,-,2,1,1,3,3,-,-,-,-
+,,,,,,,,,,,,,,,,,
+,Náhodné otravy plynem a parami,76,1,5,1,3,4,3,16,11,6,12,4,6,4,-,-
+E890,Náhodná otrava svítiplynem,12,-,1,-,-,-,-,5,2,-,2,-,2,-,-,-
+E891,Náhodná otrava výfukovým plynem motorových vozidel,1,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+E892,Náhodná otrava jiným kysličníkem uhelnatým,57,1,2,1,3,4,3,10,8,5,9,4,3,4,-,-
+E893,Náhodná otrava kyanovodíkem,1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-
+E894,Náhodná otrava jinými určenými plyny a parami,2,-,2,-,-,-,-,-,-,-,-,-,-,-,-,-
+E895,Náhodná otrava neurčenými plyny a parami,3,-,-,-,-,-,-,-,-,1,1,-,1,-,-,-
+,,,,,,,,,,,,,,,,,
+,Náhodné pády,133,1,2,2,3,2,8,6,10,14,18,17,27,18,5,-
+E900,Pád na schodech ,9,-,-,-,-,-,-,-,-,2,1,2,2,1,1,-
+E901,Pád se žebříku ,6,-,-,-,-,-,-,1,1,-,-,2,1,1,-,-
+E902,Jiný pád do hloubky,69,1,1,2,2,-,7,4,7,11,13,9,10,1,1,-
+E903,Pád na rovině,12,-,-,-,-,-,-,-,-,-,1,2,4,4,1,-
+E904,Neurčený pád ,37,-,1,-,1,2,1,1,2,1,3,2,10,11,2,-
+,,,,,,,,,,,,,,,,,
+,Jiné náhodné úrazy,1873,38,53,61,48,30,173,381,230,276,218,163,128,58,16,-
+E910,Náhodný úraz způsobený padajícími předměty,43,-,-,-,-,-,5,6,4,15,7,2,3,1,-,-
+E911,Náhodný úraz způsobený vozidly,12,-,-,-,1,-,1,2,-,2,3,2,1,-,-,-
+E912,Náhodný úraz způsobený stroji a nástroji,39,-,-,-,-,-,1,10,7,10,4,6,1,-,-,-
+E913,Náhodný úraz způsobený řeznými a bodnými nástroji,4,-,-,-,-,1,-,-,-,2,1,-,-,-,-,-
+E914,Náhodný úraz způsobený elektrickým proudem,84,-,1,1,-,-,9,22,20,15,8,8,-,-,-,-
+E915,Náhodný úraz způsobený výbuchem parního kotle,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E916,Náhodný úraz způsobený ohněm a výbuchem hořlavých látek,62,-,1,3,2,3,4,4,9,9,4,5,9,6,3,-
+E917,"Náhodný úraz způsobený vřelou substancí, leptavou tekutinou nebo parou",51,5,11,11,12,3,3,1,2,-,1,-,-,1,1,-
+E918,Náhodný úraz způsobený zářením,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E919,Náhodný úraz způsobený střelnou zbraní,85,1,1,-,-,1,28,30,8,8,2,5,1,-,-,-
+E920,Cizí těleso vniklé do oka a jeho adnexů,1,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-
+E921,Vdechnutí nebo vniknutí potravy do hrtanu a jiných cest dýchacích působící ucpání nebo udušení,19,12,1,3,-,-,-,-,-,2,-,-,1,-,-,-
+E922,Vdechnutí nebo vniknutí jiných předmětů do hrtanu působící ucpání nebo udušení,4,1,1,1,-,-,1,-,-,-,-,-,-,-,-,-
+E923,Cizí těleso vniklé do jiných otvorů těla,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+E924,Náhodné mechanické udušení v posteli a kočárku,5,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E925,Náhodné mechanické udušení za jiných nebo neoznačených okolností,28,11,2,1,-,1,5,3,-,-,4,-,1,-,-,-
+E926,Nedostatek péče o děti ve věku do jednoho roku,1,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E927,Náhodný úraz způsobený kousnutím nebo uštknutím  jedovatými  živočichy a hmyzem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E928,Jiný náhodný úraz způsobený zvířaty,28,-,-,1,1,-,1,2,1,4,3,4,4,6,1,-
+E929,Náhodné tonutí,318,-,27,33,19,10,55,90,26,18,12,11,11,3,3,-
+E930,Vysoký a  nízký tlak vzduchu,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E931,"Nadměrné horko, úžeh a úpal",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E932,Nadměrný chlad,5,-,-,-,-,-,-,-,-,1,1,1,2,-,-,-
+E933,"Hlad, žízeň a  jiné strádání ",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E934,Přírodní katastrofa,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E935,Blesk,10,-,-,-,-,-,-,5,1,2,-,1,1,-,-,-
+E936,Jiný a neurčený náhodný úraz,892,2,7,7,12,11,55,146,128,139,132,112,92,41,8,-
+E937,"Úraz v dolech, v lomech",181,-,-,-,1,-,5,60,24,49,35,6,1,-,-,-
+,,,,,,,,,,,,,,,,,
+,Komplikace způsobené neléčebnými lékařskými zákroky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E940,Generalisovaná vakcína po vakcinaci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E941,Zánět mozku (encephalitis) povakcinační,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E942,Jiné komplikace očkování po neštovicích,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E943,Žloutenka a hepatitis po profylaktické injekci sera a podobné imunisaci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E944,Jiné komplikace profylaktického očkování ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E945,Komplikace při anestesii v případech neléčebných zákroků,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E946,Jiné komplikace způsobené neléčebnými lékařskými zákroky,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,
+,Léčebné  nehody a pozdní komplikace léčebných zákroků,2,-,-,1,-,-,-,-,-,-,1,-,-,-,-,-
+E950,Léčebná nehoda při chirurgickém ošetření,2,-,-,1,-,-,-,-,-,-,1,-,-,-,-,-
+E951,Léčebná nehoda při infusi nebo transfusi,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E952,Léčebná nehoda při místní aplikaci,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E953,Léčebná nehoda při užívání léčiv a biologických látek,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E954,Léčebná nehoda při anestesii,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E955,Jiná nebo blíže neurčená léčebná nehoda ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E956,Pozdní komplikace chirurgických operací,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E957,Pozdní komplikace amputačních pahýlů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E958,Pozdní komplikace po ozařování,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E959,Pozdní komplikace jiných druhů léčení,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,
+,Pozdní následky otrav a úrazů,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+E960,Pozdní následek náhodných úrazů motorovými vozidly,1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+E961,Pozdní následek náhodných otrav,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E962,Pozdní následek jiných náhodných úrazů,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E963,Pozdní následek sebepoškození,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E964,Pozdní následky úrazů způsobených úmyslně jinou osobou (ne ve válce),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+E965,Pozdní následky úrazů vzniklých válečnými operacemi,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,
+SE,Sebevraždy a sebepoškození,1379,-,-,-,-,-,7,137,185,269,262,227,162,113,17,-
+E970,Sebevražda a sebepoškození otravou analgetiky a uspávacími prostředky,6,-,-,-,-,-,-,-,3,1,1,1,-,-,-,-
+E971,Sebevražda a sebepoškození otravou jinými pevnými látkami a tekutinami,37,-,-,-,-,-,-,2,10,10,7,5,3,-,-,-
+E972,Sebevražda a sebepoškození otravou plyny v domácím používání,54,-,-,-,-,-,1,4,15,8,10,9,5,2,-,-
+E973,Sebevražda a sebepoškození otravou jinými plyny,4,-,-,-,-,-,-,-,1,2,-,1,-,-,-,-
+E974,Sebevražda a sebepoškození věšením a škrcením,873,-,-,-,-,-,5,64,90,152,177,159,119,92,15,-
+E975,Sebevražda a sebepoškození  tonutím (utonutím),44,-,-,-,-,-,-,-,3,9,8,13,7,4,-,-
+E976,Sebevražda a sebepoškození  zbraněmi a výbušninami,206,-,-,-,-,-,-,54,37,59,26,21,5,3,1,-
+E977,Sebevražda a sebepoškození  nástroji řeznými a bodnými,30,-,-,-,-,-,-,1,2,3,7,7,5,4,1,-
+E978,Sebevražda a sebepoškození  skokem s vysokého místa,31,-,-,-,-,-,-,1,8,5,7,3,5,2,-,-
+E979,Sebevražda a sebepoškození  jinými a blíže neurčenými prostředky ,94,-,-,-,-,-,1,11,16,20,19,8,13,6,-,-
+E97a,Sebevražda vlakem,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,,,,,
+NA,Usmrcení nebo poranění způsobená úmyslně jinou osobou (ne ve válce),122,9,-,2,1,1,3,26,31,26,12,4,2,1,-,4
+E980,Úmyslné otrávení,5,-,-,2,-,-,2,-,-,-,-,-,-,1,-,-
+E981,Napadení  střelnou zbraní a výbušninou,30,-,-,-,1,1,1,3,8,10,5,1,-,-,-,-
+E982,Napadení  nástroji řeznými a bodnými,5,1,-,-,-,-,-,1,-,2,-,-,1,-,-,-
+E983,Napadení  jinými prostředky,23,8,-,-,-,-,-,3,4,1,1,3,1,-,-,2
+E984,Zranění způsobená zákrokem policie,26,-,-,-,-,-,-,12,6,4,2,-,-,-,-,2
+E985,Poprava,33,-,-,-,-,-,-,7,13,9,4,-,-,-,-,-
