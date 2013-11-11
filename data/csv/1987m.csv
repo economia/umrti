@@ -1,0 +1,914 @@
+1987;Zemøelí mui podle podrobného seznamu pøíèin smrti a vìku;"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+MKN (1976);Název;Celkem;0;1;2;3;4;5-9;10-14;15-19;20-24;25-29;30-34;35-39;40-44;45-49;50-54;55-59;60-64;65-69;70-74;75-79;80-84;85+
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"";CELKEM ZEMØELİCH MUÙ;64 404;923;56;25;27;35;137;146;301;390;398;611;1 033;1 615;2 002;2 988;5 065;7 709;7 655;8 880;11 846;7 987;4 575
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+I;Infekèní a parazitární nemoci;193;10;2;1;-;1;1;1;1;-;2;1;3;14;6;11;18;20;23;20;33;12;13
+1;Cholera;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+2;Bøišní tyfus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+3;Jiné infekce zpùsobené salmonelami;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;1;1
+4;Bacilární úplavice;2;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+5;Jiné otravy potravinami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+6;Amébová úplavice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+7;Jiné protozoární støevní nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+8;Støevní infekce zpùsobené jinımi organismy;4;1;-;1;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-
+9;Nepøesnì urèené støevní infekce, infekèní prùjmová onemocnìní blíe neurèená;5;2;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-
+10;Primární tuberkulózní infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+11;Tuberkulóza plic;74;-;-;-;-;-;-;-;-;-;-;1;-;4;3;7;8;9;12;6;13;6;5
+12;Jiná tuberkulóza dıchacího ústrojí;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+13;Tuberkulóza mozkomíšních plen a centrální nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+14;Tuberkulóza støev, pobøišnice a uzlin okruí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+15;Tuberkulóza kostí a kloubù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+16;Tuberkulóza moèového a pohlavního ústrojí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+17;Tuberkulóza jinıch orgánù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+18;Miliární, diseminovaná tuberkulóza;7;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;1;1;1;2;-;-
+20;Mor;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+21;Tularémie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+22;Uhlák, snì slezinná;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+23;Vlnivá horeèka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+24;Vozhøivka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+25;Melioidosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+26;Horeèka z krysího kousnutí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+27;Jiné zoonotické bakteriální nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+30;Malomocenství;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+31;Nemoci zpùsobené jinımi mykobakteriemi;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+32;Záškrt;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+33;Dávivı kašel;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+34;Streptokoková angína a spála;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+35;Rùe;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+36;Meningokové infekce;3;1;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+37;Tetanus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+38;Septikémie;38;3;-;-;-;-;-;-;-;-;1;-;1;4;2;2;6;2;1;7;5;2;2
+39;Aktinomykotické infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+40;Jiné bakteriální nemoci;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+41;Bakteriální infekce pøi onemocnìních zaøazenıch jinde nebo s blíe neurèenou lokalizací;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+42;Syndrom získaného selhání imunity;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+45;Akutní dìtská obrna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+46;Pomalá virová infekce centrální nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+47;Meningitis zpùsobené enterovirem;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+48;Jiné enterovirové nemoci centrální nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+49;Jiné virové nemoci centrální nervové soustavy, nepøenášené èlenovci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+50;Neštovice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+51;Kravské neštovice a paravakcinie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+52;Plané neštovice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+53;Pásovı opar;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+54;Prostı opar;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+55;Spalnièky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+56;Zardìnky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+57;Jiné virové nemoci s vyrákou;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+60;lutá zimnice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+61;Dengue;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+62;Virovı zánìt mozku pøenášenı komáry;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+63;Virovı zánìt mozku pøenášenı klíšaty;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+64;Virovı zánìt mozku pøenášenı jinımi nebo blíe neurèenımi èlenovci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+65;Hemoragická horeèka pøenášená èlenovci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+66;Jiné virové nemoci pøenášené èlenovci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+70;Virovı zánìt jater;17;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;3;3;4;4;-;-
+71;Vzteklina;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+72;Epidemickı zánìt pøíušnic;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+73;Ornithosis, psittacosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+74;Specifické nemoci pùsobené virem Coxsackie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+75;Infekèní mononukleóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+76;Trachom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+77;Jiné nemoci spojivky pùsobené viry a chlamydiemi;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+78;Jiné nemoci pùsobené viry a chlamydiemi;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+79;Virové infekce pøi onemocnìních zaøazenıch jinde nebo s blíe neurèenou lokalizací;6;3;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-
+80;Epidemická skvrnivka - pøenášená vešmi;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+81;Jiná skvrnivka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+82;Rickettsiózy pøenášené klíšaty;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+83;Jiné rickettsiózy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+84;Malárie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+85;Leishmaniosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+86;Trypanosomiasis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+87;Návratná horeèka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+88;Jiné nemoci pøenášené èlenovci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+90;Vrozená syfilis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+91;Èerstvá syfilis s pøíznaky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+92;Èerstvá syfilis latentní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+93;Kardiovaskulární syfilis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+94;Neurosyfilis;3;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;-;-;-;-
+95;Jiné formy pozdní syfilidy s pøíznaky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+96;Pozdní syfilid latentní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+97;Jiná nebo blíe neurèená syfilis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+98;Gonokoková onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+99;Jiné pohlavní nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+100;Leptospirosis;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+101;Vincentova angína;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+102;Frambézie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+103;Pinta;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+104;Jiné spirochétové infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+110;Dermatophytosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+111;Dermatomycosis, jiná nebo blíe neurèená;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+112;Candidosis, moniliasis;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+114;Coccidioidomycosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+115;Histoplasmosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+116;Blastomykotické infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+117;Jiné mykózy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+118;Dermatomykózy pùsobené potenciálnì parazitárními houbami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+120;Schistosomiasis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+121;Jiné infekce trematody;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+122;Echinococcosis, hydatidosis - mìchoil;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+123;Jiné infekce cestody;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+124;Trichinosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+125;Filariasis a dracontiasis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+126;Ankylostomiasis a necatoriasis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+127;Jiné støevní helmintiázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+128;Jiné a blíe neurèené helmintiázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+129;Støevní parazitismus blíe neurèenı;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+130;Toxoplasmosis;1;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+131;Trichomoniasis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+132;Zavšivení;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+133;Acariasis (svrab);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+134;Jiná napadení;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+135;Sarcoidosis;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-
+136;Jiné a blíe neoznaèené infekèní a parazitární nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+137;Pozdní následky tuberkulózy;18;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;4;-;5;2;4
+138;Pozdní následky akutní poliomyelitidy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+139;Pozdní následky jinıch infekèních a parazitárních nemocí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+II;Novotvary;15 465;4;5;2;7;7;30;27;25;38;65;89;213;392;572;1 022;1 705;2 490;2 248;2 212;2 466;1 351;495
+140;Zhoubnı novotvar rtu;19;-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;2;1;4;-;2;4;3
+141;Zhoubnı novotvar jazyka;91;-;-;-;-;-;-;-;-;-;-;-;6;12;8;16;16;10;10;7;3;1;2
+142;Zhoubnı novotvar slinné lázy;31;-;-;-;-;-;-;-;-;-;-;1;-;-;3;-;3;8;6;1;3;1;5
+143;Zhoubnı novotvar dásnì;7;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;-;-;1;-;-;2;-
+144;Zhoubnı novotvar ústní spodiny;33;-;-;-;-;-;-;-;-;-;-;-;3;2;5;8;5;3;3;1;3;-;-
+145;Zhoubnı novotvar jiné nebo blíe neurèené èásti úst;16;-;-;-;-;-;-;-;-;-;-;-;-;1;3;2;3;1;1;-;2;2;1
+146;Zhoubnı novotvar ústní èástí hltanu;75;-;-;-;-;-;-;-;-;-;-;-;2;11;8;10;11;12;10;5;4;1;1
+147;Zhoubnı novotvar nosohltanu;31;-;-;-;-;-;-;-;1;-;-;1;5;4;2;6;2;4;3;1;1;1;-
+148;Zhoubnı novotvar hypofaryngu;51;-;-;-;-;-;-;-;-;-;-;-;2;4;4;8;5;14;5;3;3;2;1
+149;Zhoubnı novotvar jiné nebo nepøesnì urèené lokalizace v oblasti rtu, ústní dutiny nebo hltanu;21;-;-;-;-;-;-;-;-;-;-;-;-;-;2;4;5;1;3;-;3;3;-
+150;Zhoubnı novotvar jícnu;236;-;-;-;-;-;-;-;-;-;1;-;1;8;20;21;28;46;35;21;36;12;7
+151;Zhoubnı novotvar aludku;1 312;-;-;-;-;-;-;-;-;2;1;9;19;20;35;67;111;179;181;231;253;147;57
+152;Zhoubnı novotvar tenkého støeva vèetnì dvanáctníku;38;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;6;7;5;10;6;1;2
+153;Zhoubnı novotvar tlustého støeva;1 075;-;-;-;-;-;-;-;-;1;2;2;16;17;20;48;88;155;181;178;215;113;39
+154;Zhoubnı novotvar koneèníku, rektosigmoidálního spojení nebo øiti;1 015;-;-;-;-;-;-;-;-;1;1;5;5;20;29;64;92;153;154;167;179;102;43
+155;Zhoubnı novotvar jater a intrahepatálních luèovıch cest;455;-;-;-;1;-;-;2;1;-;1;2;6;9;10;22;58;107;70;64;69;27;6
+156;Zhoubnı novotvar luèníku a extrahepatálních luèovıch cest;294;-;-;-;-;-;-;-;-;-;-;-;1;5;6;12;22;37;51;43;54;42;21
+157;Zhoubnı novotvar slinivky bøišní;756;-;-;-;-;-;-;-;-;-;1;1;12;24;36;44;76;135;118;120;122;47;20
+158;Zhoubnı novotvar retroperitonea nebo pobøišnice;47;-;1;-;-;-;-;-;-;-;1;-;3;3;4;-;3;8;5;8;7;2;2
+159;Zhoubnı novotvar jiné nebo nepøesnì urèené lokalizace v oblasti trávicího ústrojí nebo pobøišnice;167;-;-;-;-;-;-;-;-;-;-;-;-;1;6;6;8;18;28;23;42;20;15
+160;Zhoubnı novotvar nosních dutin, støedního ucha nebo oblièejovıch dutin;23;-;-;-;-;-;-;-;-;1;-;-;-;3;3;-;2;6;-;4;1;2;1
+161;Zhoubnı novotvar hrtanu;272;-;-;-;-;-;-;-;-;-;-;-;9;14;25;29;35;52;27;27;28;21;5
+162;Zhoubnı novotvar prùdušnice, prùdušek a plic;4 965;-;-;-;-;-;-;-;-;1;3;7;31;116;201;431;712;981;813;631;648;303;87
+163;Zhoubnı novotvar pohrudnice;32;-;-;-;-;-;-;-;-;1;-;-;1;-;4;-;5;9;6;1;3;1;1
+164;Zhoubnı novotvar brzlíku, srdce nebo mezihrudí;50;-;-;-;-;-;-;2;-;-;1;3;2;6;3;4;6;6;4;3;6;3;1
+165;Zhoubnı novotvar jiné nebo nepøesnì urèené lokalizace v oblasti dıchacích ústrojí nebo nitrohrudn;12;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;3;1;1;4;-
+170;Zhoubnı novotvar kosti nebo kloubní chrupavky;72;-;-;-;-;-;2;1;3;1;5;1;2;5;-;4;10;8;7;12;3;6;2
+171;Zhoubnı novotvar pojivové nebo jiné mìkké tkánì;45;1;-;-;-;-;2;1;2;1;-;-;3;5;2;1;4;4;7;2;6;4;-
+172;Zhoubnı melanom kùe;170;-;-;-;-;-;-;-;-;2;2;4;13;4;9;17;33;16;17;21;20;6;6
+173;Jinı zhoubnı novotvar kùe;68;1;-;-;-;-;-;-;-;-;-;-;-;3;-;2;2;8;4;9;8;15;16
+174;Zhoubnı novotvar enského prsu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+175;Zhoubnı novotvar muského prsu;13;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;1;-;4;4;1
+179;Zhoubnı novotvar neurèené èásti dìlohy;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+180;Zhoubnı novotvar dìloního èípku;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+181;Zhoubnı novotvar lùka - placenty;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+182;Zhoubnı novotvar dìloního tìla;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+183;Zhoubnı novotvar vajeèníku nebo jinıch adnex dìlohy;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+184;Zhoubnı novotvar jiného nebo blíe neoznaèeného enského pohlavního orgánu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+185;Zhoubnı novotvar pøedstojné lázy;1 088;-;-;-;-;-;-;1;-;1;-;-;1;1;4;17;48;78;142;221;283;215;76
+186;Zhoubnı novotvar varlete;73;-;-;-;-;-;-;-;6;6;18;9;6;8;6;1;2;1;3;1;3;3;-
+187;Zhoubnı novotvar pyje nebo jiného muského pohlavního orgánu;25;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;4;-;6;7;5;1
+188;Zhoubnı novotvar moèového mìchıøe;542;-;-;-;-;-;-;1;-;-;-;-;3;2;8;15;46;82;65;96;130;66;28
+189;Zhoubnı novotvar ledviny nebo jiného nebo blíe neurèeného moèového orgánu;608;-;-;-;-;-;2;-;-;1;1;1;6;20;32;58;99;104;79;77;80;38;10
+190;Zhoubnı novotvar oka;13;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;2;3;2;2;1;-
+191;Zhoubnı novotvar mozku;268;-;2;1;-;2;5;3;2;5;10;8;18;12;26;29;36;37;33;22;10;6;1
+192;Zhoubnı novotvar jiné nebo blíe neurèené èásti nervové soustavy;25;-;-;-;-;-;-;-;1;2;-;2;-;1;1;3;4;-;2;4;3;2;-
+193;Zhoubnı novotvar štítné lázy;29;-;-;-;-;-;-;-;-;-;-;1;1;-;-;4;2;4;6;4;5;2;-
+194;Zhoubnı novotvar jiné lázy s vnitøní sekrecí nebo pøíbuzné tkánì;22;-;-;1;-;1;1;-;1;-;-;-;1;3;1;-;4;-;3;3;1;1;1
+195;Zhoubnı novotvar jiné nebo nepøesnì urèené lokalizace;69;-;-;-;1;-;-;-;1;-;1;4;4;-;-;3;5;14;6;12;8;6;4
+196;Sekundární nebo blíe neurèenı zhoubnı novotvar mízních uzlin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+197;Sekundární zhoubnı novotvar dıchací nebo trávicí soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+198;Sekundární zhoubnı novotvar jiné urèené lokalizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+199;Zhoubnı novotvar bez urèení lokalizace;223;-;-;-;-;-;1;-;-;1;1;2;1;11;12;9;9;30;30;30;45;27;14
+200;Lymforarkom a retikulosarkom;81;-;-;-;-;-;-;3;1;2;1;3;1;5;8;6;9;10;7;11;11;3;-
+201;Hodgkinova nemoc;89;-;-;-;-;-;1;-;-;3;1;6;6;6;2;6;10;13;10;10;7;6;2
+202;Jinı zhoubnı novotvar mízní nebo histiocytární tkánì;188;1;-;-;1;-;2;3;-;3;4;4;8;8;6;10;15;31;24;25;34;7;2
+203;Mnohoèetnı myelom a imunoproliferativní novotvary;103;-;-;-;-;-;-;-;-;-;-;-;1;2;2;5;9;24;13;20;16;8;3
+204;Lymfatická leukémie;224;-;1;-;2;3;12;5;2;-;-;3;1;3;1;6;17;28;26;38;49;22;5
+205;Myeloidní leukémie;158;-;1;-;2;1;1;3;2;1;6;7;8;5;9;10;13;20;19;15;17;17;1
+206;Monocytární leukémie;9;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;2;-;1;3;-;1;-
+207;Jiná urèená leukémie;12;-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;1;2;1;-;4;1;-
+208;Leukémie blíe neurèeného bunìèného typu;46;-;-;-;-;-;1;1;-;1;1;1;3;-;2;1;8;6;4;3;7;7;-
+210;Nezhoubnı novotvar rtu, ústní dutiny a hltanu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+211;Nezhoubnı novotvar jiné èásti trávicí soustavy;4;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;-;-;-;-;-
+212;Nezhoubnı novotvar dıchacích nebo nitrohrudních orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+213;Nezhoubnı novotvar kosti nebo kloubní chrupavky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+214;Lipom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+215;Jinı nezhoubnı novotvar pojivové nebo jiné mìkké tkánì;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+216;Nezhoubnı novotvar kùe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+217;Nezhoubnı novotvar prsu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+218;Leiomyom dìlohy;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+219;Jinı nezhoubnı novotvar dìlohy;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+220;Nezhoubnı novotvar vajeèníku;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+221;Nezhoubnı novotvar jiného enského pohlavního orgánu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+222;Nezhoubnı novotvar muskıch pohlavních orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+223;Nezhoubnı novotvar ledviny nebo jiného moèového orgánu;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;-
+224;Nezhoubnı novotvar oka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+225;Nezhoubnı novotvar mozku nebo jiné èásti nervové soustavy;25;-;-;-;-;-;-;1;1;-;-;-;1;2;-;3;4;5;1;6;-;-;1
+226;Nezhoubnı novotvar štítné lázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+227;Nezhoubnı novotvar jiné lázy s vnitøní sekrecí nebo pøíbuzné tkánì;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;2;1;-;-
+228;Hemangiom a lymfangiom jakékoliv lokalizace;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+229;Nezhoubnı novotvar jiné nebo blíe neurèené lokalizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+230;Carcinoma in situ trávicí soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+231;Carcinoma in situ dıchací soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+232;Carcinoma in situ kùe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+233;Carcinoma in situ prsu, moèového nebo pohlavního ústrojí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+234;Carcinoma in situ jiné nebo blíe neurèené lokalizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+235;Novotvar neurèené povahy trávicí nebo dıchací soustavy;16;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;3;3;4;3;1
+236;Novotvar neurèené povahy moèového nebo pohlavního ústrojídıchacího ústrojí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+237;Novotvar neurèené povahy lázy s vnitøní sekrecí nebo nervové soustavy;5;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;1;-;2;-;-
+238;Novotvar neurèené povahy jiné nebo blíe neurèené lokalizace nebo tkánì;15;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;3;1;1;2;2;4;-
+239;Novotvary neurèené morfologie;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+III;Nemoci láz s vnitøní sekrecí, vıivy a pøemìny látek a poruchy imunity;865;15;-;-;1;1;3;1;1;1;1;4;12;18;21;39;60;100;124;146;174;104;39
+240;Struma prostá nebo blíe neurèená;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+241;Struma uzlová, netoxická-struma nodosa;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+242;Tyreotoxikóza se strumou nebo bez ní;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-
+243;Vrozená hypotyreóza (kretinismus a jiné);1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+244;Získaná hypotyreóza (myxedém a jiné);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+245;Zánìt štítné lázy - thyreoiditis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+246;Jiné nemoci štítné lázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+250;Cukrovka, úplavice cukrová;821;-;-;-;-;-;-;-;-;-;1;1;12;17;19;38;60;99;123;140;173;101;37
+251;Jiné poruchy vnitøní sekrece slinivky bøišní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+252;Nemoci pøíštítnıch tìlísek - paratyreoidey;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+253;Nemoci mozkového podvìsku - hypofızy - a hypothalamo-hypofyzárních vztahù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+254;Nemoci brzlíku - thymu;8;7;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+255;Nemoci nadledvin;7;2;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;2;-;-;1
+256;Poruchy èinnosti vajeèníkù;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+257;Poruchy èinnosti varlat;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+258;Polyglandulární dysfunkce a pøíbuzné poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+259;Jiné nemoci láz s vnitøní sekrecí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+260;Kvašiorkor;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+261;Nutrièní marasmus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+262;Jiná tìká proteinokalorická podvıiva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+263;Jiná nebo blíe neurèená proteinokalorická podvıiva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+264;Karence vitaminu A;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+265;Karence thiaminu nebo niacinu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+266;Karence jinıch sloek komplexu B;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+267;Karence kyseliny askorbové;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+268;Karence vitaminu D;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+269;Jiné nutrièní karence;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+270;Poruchy transportu a metabolismu aminokyselin;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+271;Poruchy transportu a metabolismu uhlovodanù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+272;Poruchy metabolismu lipidù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+273;Poruchy metabolismu plasmatickıch proteinù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+274;Dna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+275;Poruchy metabolismu minerálù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+276;Poruchy rovnováhy tekutin, elektrolytù a acidobazické rovnováhy;3;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1;-;1;-
+277;Jiné a blíe neurèené poruchy pøemìny látek;17;5;-;-;-;1;2;1;1;-;-;3;-;-;-;-;-;-;1;1;1;-;1
+278;Otylost - obesitas - a jiné hyperlimentace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+279;Poruchy postihující mechanismus imunity;3;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;1;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+IV;Nemoci krve a krvetvornıch orgánù;76;1;2;-;-;-;1;2;-;2;-;-;-;2;4;2;5;10;10;8;19;3;5
+280;Chudokrevnost z nedostatku eleza;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+281;Jiné karenèní anémie;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-
+282;Dìdièné hemolytické anémie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+283;Získané hemolytické anémie;7;-;2;-;-;-;-;1;-;-;-;-;-;-;-;-;1;1;-;-;2;-;-
+284;Aplastická anémie;14;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;2;3;1;3;1;3
+285;Jiné a blíe neurèené anémie;10;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;1;1;4;1;1
+286;Koagulaèní vady;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+287;Purpura a jiné krvácivé stavy;3;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-;-;-;1;-;-;-
+288;Nemoci bílıch krvinek (agranulocytóza a jiné);9;1;-;-;-;-;1;-;-;-;-;-;-;-;1;-;2;1;1;-;2;-;-
+289;Ostatní nemoci krve a krvetvornıch orgánù;28;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;6;5;4;6;1;1
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+V;Duševí poruchy;210;-;-;-;-;-;-;-;1;2;3;11;15;21;16;23;21;36;15;14;21;5;6
+290;Senilní a presenilní organická psychotická onemocnìní;33;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;5;14;4;6
+291;Alkoholické psychózy;4;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;-;-;-;-;-;-;-
+292;Toxické psychózy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+293;Pøechodná organická psychotická onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+294;Jiná organická psychotická onemocnìní (chronická);1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+295;Schizofrenní psychózy;7;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;4;-;1;-;-;-
+296;Afektivní psychózy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-
+297;Paranoidní stavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+298;Jiné neorganické psychózy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+299;Psychózy vznikající specifiky v dìtství;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+300;Neurotické poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+301;Poruchy osobnosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+302;Sexuální úchylky a poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+303;Závislost na alkoholu;158;-;-;-;-;-;-;-;-;-;3;10;14;19;14;21;21;28;13;7;7;1;-
+304;Závislost na návykovıch látkách;2;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+305;Zneuívání návykovıch látek bez závislosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+306;Somatické funkèní poruchy vyvolané duševními faktory;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+307;Zvláštní pøíznaky a syndromy, nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+308;Akutní reakce na stress (pøechodné situaèní poruchy);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+309;Adaptaèní reakce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+310;Specifické nepsychotické duševní poruchy po organickém poškození mozku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+311;Depresivní poruchy nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+312;Poruchy chování nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+313;Poruchy emocí specifické pro dìtství a dospívání;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+314;Hyperkinetickı syndrom v dìtství;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+315;Specifická opoïování ve vıvoji;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+316;Psychické faktory sdruené s nemocemi zaøazenımi jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+317;Lehká duševní zaostalost (IQ 50-70);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+318;Jiná pøesnì urèená duševní zaostalost (IQ pod 50);3;-;-;-;-;-;-;-;-;2;-;-;-;1;-;-;-;-;-;-;-;-;-
+319;Duševní zaostalost blíe neurèená;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+VI;Nemoci nervové soustavy a smyslovıch orgánù;505;33;4;7;5;4;24;31;29;16;15;36;24;31;21;30;45;38;31;31;27;15;8
+320;Bakteriální zánìt mozkovıch nebo míšních plen - bakteriální meningitis;45;14;-;-;-;-;-;-;3;-;1;-;4;2;-;3;3;5;4;2;2;2;-
+321;Meningitis vyvolaná jinımi organismy;3;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+322;Meningitis z blíe neurèené pøíèiny;6;1;-;-;-;-;1;-;1;-;-;-;-;1;-;-;-;1;-;1;-;-;-
+323;Zánìt mozku, míchy nebo mozku i míchy;12;2;1;-;1;-;-;2;1;-;1;-;-;-;-;1;2;-;-;-;-;1;-
+324;Nitrolební nebo nitropáteøní hlíza;11;-;-;-;-;-;-;-;1;-;1;-;-;1;1;3;2;2;-;-;-;-;-
+325;Flebitis nebo thromboflebitis nitrolebních ilních splavù;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
+326;Pozdní následky nitrolebních hlízy nebo pyogenní infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+330;Mozkové degenerace, projevující se obyèejnì v dìtství;6;1;1;-;-;-;3;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+331;Jiné mozkové degenerace;56;2;-;-;-;-;1;-;1;4;-;1;2;3;2;4;7;4;6;5;6;5;3
+332;Parkinsonova nemoc;34;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;5;5;5;7;4;3;3
+333;Jiné extrapyramidové nemoci a poruchy s abnormálními pohyby;11;-;-;-;-;-;1;-;-;-;1;1;1;-;1;2;2;1;1;-;-;-;-
+334;Spinocerebelární nemoci;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+335;Nemoci bunìk pøedních rohù;37;5;-;2;-;-;-;-;1;-;-;-;1;2;1;3;3;10;2;3;3;-;1
+336;Jiné nemoci míchy;9;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;3;4;1;-
+337;Nemoci autonomní nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+340;Mnohoèetná skleróza;59;-;-;-;-;-;-;-;-;-;-;7;3;7;7;7;8;6;4;2;4;3;1
+341;Jiné demyelinizující nemoci centrální nervové soustavy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+342;Hemiplegie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+343;Dìtská mozková obrna;71;2;-;4;4;2;12;19;10;4;3;6;2;-;1;-;-;-;-;2;-;-;-
+344;Jiné paralytické syndromy;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+345;Padoucnice-epilepsie;92;-;-;-;-;2;4;7;5;6;8;17;10;8;7;3;6;3;4;2;-;-;-
+346;Migréna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+347;Kataplexie a narkolepsie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+348;Jiné nemoci mozku;26;2;2;1;-;-;2;2;1;-;-;2;-;4;1;-;1;1;2;3;2;-;-
+349;Jiné a blíe neurèené nemoci nervové soustavy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+350;Nemoci trojklaného nervu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+351;Nemoci lícního nervu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+352;Nemoci jinıch mozkovıch nervù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+353;Nemoci nervovıch koøenù a pletení;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+354;Mononeuritis horní konèetiny a mononeuritis multiplex;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+355;Mononeuritis dolní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+356;Dìdièná nebo idiopatická periferní neuropatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+357;Zánìtlivá nebo toxická neuropatie;5;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;2;-;1;-;-;-;-
+358;Myoneurální poruchy;4;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;1;1;-;-
+359;Svalové dystrofie a jiné myopatie;7;-;-;-;-;-;-;-;4;1;-;-;-;1;-;-;1;-;-;-;-;-;-
+360;Nemoci oèního bulbu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+361;Odchlípení a defekty sítnice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+362;Jiné nemoci sítnice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+363;Chorioretinální zánìty a jizvy a jiné nemoci cévnatky - chorioidey;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+364;Nemoci duhovky a øasnatého tìlesa;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+365;Zelenı zákal - glaukom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+366;Zákal èoèky - katarakta;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+367;Poruchy refrakce a akomodace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+368;Poruchy vidìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+369;Slepota a slabozrakost;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+370;Zánìt rohovky - keratitis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+371;Rohovkové zákaly a jiné nemoci rohovky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+372;Nemoci spojivky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+373;Zánìty oèních víèek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+374;Jiné nemoci oèních víèek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+375;Nemoci slzného ústrojí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+376;Nemoci oènice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+377;Nemoci zrakového nervu a zrakovıch drah;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+378;Šilhání a jiné poruchy pohybù oka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+379;Jiné nemoci oka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+380;Nemoci zevního ucha;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+381;Nehnisavı zánìt støedního ucha a poruchy Eustachovy trubice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+382;Hnisavı nebo blíe neurèenı zánìt støedního ucha;3;2;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+383;Zánìt bradavkového vıbìku a pøíbuzná onemocnìní;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+384;Nemoci bubínku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+385;Jiné nemoci støedního ucha a bradavkového vıbìku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+386;Vertiginózní syndromy a jiné nemoci vestibulárního ústrojí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+387;Otoskleróza (otospongióza);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+388;Jiné nemoci ucha;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+389;Poruchy sluchu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+VII;Nemoci obìhové soustavy;33 866;9;1;-;-;-;1;3;13;23;45;94;249;502;758;1 221;2 320;3 847;4 127;5 153;7 196;5 137;3 167
+390;Revmatická horeèka bez postiení srdce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+391;Revmatická horeèka s postiením srdce;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-
+392;Revmatická chorea;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+393;Chronická revmatická perikarditis;3;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;2;-;-;-;-
+394;Nemoci dvojcípé chlopnì;101;-;-;-;-;-;-;-;1;-;-;-;9;5;10;12;15;20;15;2;10;1;1
+395;Nemoci aortální chlopnì;97;-;-;-;-;-;-;-;-;-;1;3;1;10;3;6;17;12;17;20;4;3;-
+396;Souèasné onemocnìní chlopnì dvojcípé a aortální;72;-;-;-;-;-;-;-;-;-;1;-;1;6;10;6;11;13;10;5;3;4;2
+397;Jiná postiení srdeèní nitroblány;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
+398;Jiné revmatické nemoci srdce;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;-;-;-
+401;Esenciální hypertense;82;-;-;-;-;-;-;-;-;-;-;1;-;1;3;9;3;12;8;16;18;10;1
+402;Hypertensní kardiopatie;103;-;-;-;-;-;-;-;-;-;-;-;1;1;4;5;11;16;16;14;18;14;3
+403;Hypertensní nefropatie;31;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;3;-;3;-;12;7;5
+404;Hypertensní nefropatie a kardiopatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+405;Sekundární hypertense;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+410;Akutní infarkt myokardu;10 457;-;-;-;-;-;-;-;1;3;9;38;90;213;351;608;1 080;1 681;1 608;1 580;1 817;956;422
+411;Jiné akutní nebo subakutní formy ischemické choroby srdeèní;214;-;-;-;-;-;-;-;-;2;-;2;10;14;22;23;36;31;27;16;18;7;6
+412;Infarkt myokardu starší ne 8 tıdnù;17;-;-;-;-;-;-;-;-;-;1;-;-;1;1;2;1;4;2;1;3;1;-
+413;Angina pectoris;13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;3;2;3
+414;Jiné formy chronické ischemická choroby srdeèní;6 621;-;-;-;-;-;-;-;-;1;7;9;45;68;113;174;348;624;680;967;1 529;1 199;857
+415;Akutní postiení srdce pøi onemocnìní plic;504;-;-;-;-;-;-;-;-;3;2;-;4;7;15;19;35;48;71;88;107;61;44
+416;Chronické cor pulmonale;147;-;-;-;-;-;-;-;1;-;-;-;3;-;4;6;19;26;11;22;26;19;10
+417;Jiné nemoci plicního obìhu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+420;Akutní zánìt osrdeèníku;7;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;2;1;2;-
+421;Akutní nebo a subakutní zánìt srdeèní nitroblány;22;-;-;-;-;-;-;-;-;-;-;-;1;1;1;4;1;6;4;2;2;-;-
+422;Akutní zánìt srdeèního svalu;18;-;-;-;-;-;-;-;-;1;3;4;2;3;1;1;2;-;1;-;-;-;-
+423;Jiné nemoci osrdeèníku;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;1;-;1
+424;Jiné nemoci srdeèní nitroblány;53;-;-;-;-;-;-;-;1;-;2;-;2;7;-;3;7;6;7;5;7;4;2
+425;Kardiomyopatie;93;4;1;-;-;-;1;3;1;3;2;2;10;13;10;8;7;13;3;4;3;4;1
+426;Poruchy vedení srdeèních vzruchù;4;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;2;1;-
+427;Srdeèní arytmie;69;-;-;-;-;-;-;-;-;-;-;-;-;1;3;5;4;8;7;12;13;12;4
+428;Selhání srdce;1 121;1;-;-;-;-;-;-;3;4;7;5;18;28;34;40;95;128;132;156;202;158;110
+429;Nepøesnì popsané srdeèní nemoci a komplikace;124;1;-;-;-;-;-;-;-;-;1;2;3;5;7;4;8;12;24;17;24;12;4
+430;Subarachnoidální kvácení;128;3;-;-;-;-;-;-;1;1;4;5;7;15;13;16;12;13;12;6;11;4;5
+431;Mozkové krvácení;1 190;-;-;-;-;-;-;-;-;3;1;13;20;41;58;53;83;161;154;177;195;142;89
+432;Jiné nebo blíe neurèené nitrolební krvácení;13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;2;3;3;1;-
+433;Okluze nebo stenóza mimolebeèních tepen;37;-;-;-;-;-;-;-;1;-;-;-;1;3;-;1;5;8;6;3;5;4;-
+434;Okluze mozkovıch tepen;1 532;-;-;-;-;-;-;-;2;-;-;1;-;16;27;47;98;150;186;263;368;240;134
+435;Pøechodná mozková ischemie;18;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;3;2;4;6;1
+436;Akutní, ale nepøesnì urèená cévní onemocnìní mozku;5 560;-;-;-;-;-;-;-;-;-;1;2;5;11;22;78;210;448;642;970;1 474;1 088;609
+437;Jiná a nepøesnì urèená cévní onemocnìní mozku;1 440;-;-;-;-;-;-;-;-;-;1;-;3;4;6;12;27;71;101;223;382;369;241
+438;Pozdní následky cévních onemocnìní mozku;34;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;3;3;5;7;7;7
+440;Ateroskleróza (mimo tepny mozkové, vìnèité, mezenterickou, plicní a ledvinné tepénky);3 213;-;-;-;-;-;-;-;-;1;-;-;4;11;22;49;119;220;279;450;774;718;566
+441;Vıdu srdeènice;166;-;-;-;-;-;-;-;1;-;-;1;-;4;3;6;15;34;16;37;37;9;3
+442;Jiné vıdutì;19;-;-;-;-;-;-;-;-;-;-;1;-;-;2;1;1;2;1;6;4;1;-
+443;Jiné nemoci periferních tepen;9;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;-;3;-;1;2;-
+444;Tepennı vmetek nebo trombóza;64;-;-;-;-;-;-;-;-;-;-;1;1;-;1;3;3;8;7;15;14;8;3
+446;Polyarteriitis nodosa a pøíbuzná onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+447;Jiné nemoci tepen a tepének;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+448;Nemoci vláseènic;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+451;Zánìt il;341;-;-;-;-;-;-;-;-;1;-;2;6;6;6;14;27;47;43;45;72;45;27
+452;Trombóza vrátnice;3;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;2;-
+453;Jiné ilní embolie a trombózy;68;-;-;-;-;-;-;-;-;-;-;-;1;3;-;2;6;10;14;10;13;4;5
+454;ilní mìstky na dolních konèetinách;35;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2;2;5;3;5;9;7;1
+455;Hemoroidy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+456;ilní mìstky jinıch lokalizací;8;-;-;-;-;-;-;-;-;-;-;-;-;3;1;-;1;1;1;-;-;1;-
+457;Neinfekèní nemoci mízních cest;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+458;Hypotense;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+459;Jiné nemoci obìhové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+VIII;Nemoci dıchací soustavy;3 445;56;4;3;3;3;4;5;9;16;7;12;38;60;76;112;239;329;357;459;737;573;343
+460;Akutní zánìt nosohltanu;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+461;Akutní zánìt vedlejších nosních dutin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+462;Akutní zanìt hltanu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+463;Akutní zánìt mandlí;3;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+464;Akutní zánìt hrtanu a prùdušnice;6;1;-;-;-;-;-;-;-;2;-;-;1;-;-;-;1;-;1;-;-;-;-
+465;Akutní infekce horních cest dıchacích na více místech nebo na místì blíe neurèeném NS;2;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;1
+466;Akutní zánìt prùdušek a prùdušinek;26;4;1;1;1;-;-;1;-;-;-;1;-;2;-;-;1;1;1;2;4;2;4
+470;Vyboèení nosní pøepáky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+471;Nosní polypy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+472;Chronickı zánìt hltanu nebo nosohltanu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+473;Chronickı zánìt vedlejších nosních dutin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+474;Chronické nemoci mandlí a adenoidní tkánì;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+475;Peritonsilární hlíza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+476;Chronickı zánìt hrtanu nebo hrtanu a prùdušnice;2;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-
+477;Alergická rıma (i senná rıma);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+478;Jiné nemoci horních dıchacích cest;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+480;Virovı zánìt plic;28;4;1;-;-;-;1;-;-;-;-;1;-;1;1;-;2;-;1;1;5;7;3
+481;Pneumokokovı zánìt plic;25;1;-;1;-;-;-;-;-;-;1;-;1;1;1;-;3;1;2;3;4;5;1
+482;Jinı bakteriální zánìt plic;16;2;1;-;-;-;-;-;1;-;-;-;1;1;1;1;1;1;2;-;2;1;1
+483;Zánìt plic zpùsobenı jinım urèenım pùvodcem;6;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2;1;1;-
+484;Zánìt plic pøi infekèních nemocech zaøazenıch jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+485;Bronchopneumonie;875;24;1;-;1;2;3;1;7;8;4;3;14;14;16;27;43;53;76;96;215;159;108
+486;Pneumonie zpùsobená blíe neurèenım pùvodcem;71;9;-;-;-;-;-;1;-;-;-;-;3;1;4;2;6;3;5;9;15;8;5
+487;Chøipka (i se zánìtem plic nebo jinımi projevy);40;4;-;1;-;-;-;1;-;1;-;1;-;3;-;-;3;-;2;1;6;7;10
+490;Zánìt prùdušek neurèenı blíe jako akutní nebo chronickı;20;1;-;-;-;-;-;-;-;-;-;1;1;1;1;-;1;2;2;1;4;4;1
+491;Chronickı zánìt prùdušek;1 410;1;-;-;-;-;-;-;-;-;-;2;8;18;27;42;100;157;153;214;292;253;143
+492;Rozedma plic;262;-;-;-;-;-;-;-;-;-;-;-;1;2;4;12;23;24;41;36;52;40;27
+493;Astma;138;-;-;-;-;-;-;1;-;3;-;2;3;6;5;10;12;21;24;14;20;12;5
+494;Rozšíøení prùdušek;15;-;-;-;-;-;-;-;-;-;-;-;2;1;-;1;2;2;-;3;3;-;1
+495;Exogenní alergická alveolitis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+496;Chronická obstrukce dıchacích cest, nezaøazená jinde;99;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;6;9;15;16;25;16;8
+500;Pneumokonióza uhlokopù;239;-;-;-;-;-;-;-;-;-;-;-;-;4;1;10;25;38;24;38;51;35;13
+501;Asbestóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+502;Pneumokonióza zpùsobená jinım køemièitım prachem;23;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;2;8;8;2;1
+503;Pneumokonióza zpùsobená jinım anorganickım prachem;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-
+504;Pneumopatie zpùsobená vdechováním jiného prachu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+505;Pneumokonióza blíe neurèená;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+506;Onemocnìní dıchacího ústrojí zpùsobená chemickımi dımy a parami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+507;Pneumonitis zpùsobená pevnımi nebo tekutımi látkami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+508;Onemocnìní dıchacího ústrojí zpùsobená jinımi nebo blíe neurèenımi vnìjšími èiniteli;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+510;Empyém;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;1;-;-
+511;Zánìt pohrudnice;6;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-;-;1;1;1
+512;Pneumotorax;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+513;Hlíza plic nebo mezihrudí;21;1;-;-;-;-;-;-;-;1;-;-;-;-;1;4;3;3;-;1;3;2;2
+514;Plicní pøekrvení nebo mìstnání krve v plicích;61;-;-;-;-;-;-;-;-;1;2;-;-;-;3;-;1;6;3;7;17;16;5
+515;Pozánìtlivá fibróza plic;11;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;1;1;1;2;1;-;1
+516;Jiná alveolární  nebo parietoalveolární pneumopatie;10;1;-;-;-;1;-;-;-;-;-;1;1;-;2;1;-;2;-;-;1;-;-
+517;Postiení plic pøi nemocech zaøazenıch jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+518;Jiné nemoci plic;10;-;-;-;-;-;-;-;-;-;-;-;-;2;1;-;1;-;-;3;3;-;-
+519;Jiné nemoci dıchací soustavy;7;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;2;-;1;2;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+IX;Nemoci trávicí soustavy;2 585;18;1;1;-;-;-;2;3;2;14;42;110;181;170;210;263;350;295;291;345;198;89
+520;Poruchy vıvoje a erupce zubù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+521;Nemoci tvrdıch zubních tkání;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+522;Nemoci døenì a periapikálních tkání;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+523;Nemoci dásní a parodontu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+524;Dentofaciální anomálie vèetnì vad skusu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+525;Jiné nemoci a stavy zubù a podpùrnıch tkání;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+526;Nemoci èelistí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+527;Nemoci slinnıch láz;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+528;Nemoci mìkkıch ústních tkání  mimo specifická poškození dásnì a jazyka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+529;Nemoci a jiné stavy jazyka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+530;Nemoci jícnu;23;1;-;-;-;-;-;-;-;-;-;-;2;1;3;1;2;4;1;1;4;3;-
+531;aludeèní vøed;199;-;-;-;-;-;-;-;-;-;-;3;"                             ";8;5;14;15;26;18;29;51;24;6
+532;Dvanáctníkovı vøed;144;-;-;-;-;-;-;-;-;-;-;1;6;11;5;10;11;22;13;16;24;18;7
+533;Peptickı vøed blíe neurèené lokalizace;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;2;-
+534;Gastrojejunální vøed;2;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-
+535;Zánìt aludku a dvanáctníku;6;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;1;1;2;-;-
+536;Poruchy funkce aludku;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+537;Jiné nemoci aludku a dvanáctníku;5;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;1;-;-;2;-;-
+540;Akutní apendicitis;37;1;-;-;-;-;-;-;1;-;1;-;2;2;1;2;2;4;9;3;4;4;1
+541;Apendicitis blíe neurèená;2;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-;-;-
+542;Jiná apendicitis;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;2;-;-
+543;Jiné nemoci èervovitého pøívìsku;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+550;Tøíselná kıla;34;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;3;8;8;8;3
+551;Jiná kıla bøišní dutiny s gangrénou;8;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;2;-;2;1
+552;Jiná kıla bøišní dutiny s neprùchodností bez gangrény;13;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;2;2;3;2
+553;Jiná kıla bøišní dutiny bez  neprùchodnosti nebo gangrény;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;2;1
+555;Enteritis regionalis;10;1;-;-;-;-;-;-;-;-;-;-;-;2;2;1;2;-;-;-;1;1;-
+556;Idiopatická proktokolitis;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-;2;-
+557;Vaskulární insuficience støeva;100;2;-;-;-;-;-;-;-;-;-;1;-;3;1;4;5;11;9;27;23;7;7
+558;Jiná neinfekèní gastroenteritis nebo kolitis;12;2;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;2;2;-;3;1;-
+560;Neprùchodnost søev bez kıly;104;5;-;-;-;-;-;2;-;-;1;-;6;2;3;3;9;7;13;17;15;14;7
+562;Støevní divertikly;16;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;2;1;3;3;3;1;1
+564;Funkèní poruchy trávení, nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+565;Øitní trhliny a píštìle;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-
+566;Absces  øitní a koneèníkové krajiny;6;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;1;2;-;-
+567;Zánìt pobøišnice;49;-;-;-;-;-;-;-;-;-;1;1;-;6;2;1;4;4;8;7;9;5;1
+568;Jiné nemoci pobøišnice;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-
+569;Jiné nemoci støev;10;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;-;2;2;1;2;-;-
+570;Akutní a subakutní nekróza jater;23;1;-;-;-;-;-;-;-;-;1;-;2;2;4;1;2;4;1;2;1;-;2
+571;Chronické nemoci jater a cirhóza;1 245;-;-;-;-;-;-;-;1;1;7;28;66;109;105;139;160;203;155;103;98;55;15
+572;Jaterní hlíza a následky chronickıch nemocí jater;29;1;-;-;-;-;-;-;-;-;-;-;-;2;1;-;2;6;5;4;5;2;1
+573;Jiné nemoci jater;27;2;1;1;-;-;-;-;-;-;1;-;-;2;3;3;1;2;3;3;1;4;-
+574;luèové kameny;126;-;-;-;-;-;-;-;-;-;-;1;3;1;2;4;11;14;14;24;27;13;12
+575;Jiné nemoci luèníku;53;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;3;4;5;10;12;10;5
+576;Jiné nemoci luèovıch cest;33;-;-;-;-;-;-;-;-;-;-;1;-;2;1;-;-;5;2;5;7;4;6
+577;Nemoci slinivky bøišní;212;-;-;-;-;-;-;-;1;-;2;5;21;19;21;19;21;21;21;16;27;12;6
+578;aludeèní nebo støevní krvácení;28;-;-;-;-;-;-;-;-;-;-;-;1;1;1;4;5;1;3;2;6;1;3
+579;Støevní malabsorpce;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+X;Nemoci moèové a pohlavní soustavy;1 514;2;-;-;-;-;1;3;-;1;5;11;24;32;40;49;69;124;155;242;351;257;148
+580;Akutní zánìt ledvin;16;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;-;2;1;5;1;3;1
+581;Nefrotickı syndrom;4;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;2;-;-;-;-
+582;Chronickı zánìt ledvin;151;-;-;-;-;-;-;1;-;1;1;4;8;10;10;18;12;28;15;13;18;7;5
+583;Nefritis nebo nefropatie neurèená blíe jako akutní nebo chronická;27;1;-;-;-;-;-;-;-;-;1;-;1;-;2;1;7;3;2;1;4;3;1
+584;Akutní selhání ledvin;20;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;1;2;4;8;3;-
+585;Chronické selhání ledvin;222;-;-;-;-;-;-;1;-;-;2;3;5;3;14;6;12;23;27;34;43;30;19
+586;Selhání ledvin blíe neurèené;51;-;-;-;-;-;1;-;-;-;-;-;3;1;1;-;5;2;6;8;11;9;4
+587;Skleróza ledvin blíe neurèená;8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;2;1;-;1;1
+588;Nemoci vznikající z porušené funkce ledvin;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-
+589;Malá ledvina z neznámé pøíèiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+590;Infekce ledvin;501;1;-;-;-;-;-;-;-;-;1;2;6;14;9;20;25;39;53;90;132;77;32
+591;Hydronefróza;13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;2;4;1;2
+592;Kameny v ledvinì a moèovodu;44;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2;8;6;12;10;3;2
+593;Jiné nemoci ledvin a moèovodu;18;-;-;-;-;-;-;-;-;-;-;1;1;2;1;1;2;3;2;1;2;1;1
+594;Kameny v dolní èásti moèového ústrojí;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;2
+595;Zánìt moèového mìchıøe;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;2;-
+596;Jiné nemoci mìchıøe;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+597;Zánìt moèové trubice a uretrální syndrom;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+598;Zúení moèové trubice;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+599;Jiné nemoci moèové trubice a moèového ústrojí vùbec;11;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;4;3
+600;Zbytnìní pøedstojné lázy;408;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;13;31;69;109;109;73
+601;Zánìtlivé nemoci  pøedstojné lázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+602;Jiné nemoci pøedstojné lázy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+603;Vodní kıla;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+604;Zánìt varlat a nadvarlat;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+605;Hypertrofie pøedkoky a fimóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+606;Muská neplodnost;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+607;Nemoci pyje;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+608;Jiné nemoci muskıch pohlavních orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+610;Nezhoubné dysplazie prsù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+611;Jiné nemoci prsù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+614;Zánìtlivé nemoci  vajeèníkù, vejcovodù, pánevního vaziva a pobøišnice;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+615;Zánìtlivé nemoci dìlohy mimo èípek;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+616;Zánìtlivé nemoci dìloního èípku, pochvy a vulvy;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+617;Endometrióza;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+618;Vıhøez pohlavních orgánù;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+619;Píštìle postihující enské pohlavní ústrojí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+620;Nezánìtlivé nemoci vajeèníkù, vejcovodù a širokého vazu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+621;Nemoci dìlohy nezaøazené jinde;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+622;Nezánìtlivé nemoci dìloního èípku;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+623;Nezánìtlivé nemoci pochvy;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+624;Nezánìtlivé nemoci vulvy a hráze;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+625;Bolest a jiné pøíznaky sdruené se enskımi pohlavními orgány;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+626;Poruchy menstruace a jiné abnormální krvácení ze enského pohlavního ústrojí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+627;Menopauzální a postmenopauzální poruchy;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+628;enská neplodnost;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+629;Jiné nemoci enskıch pohlavních orgánù;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+XI;Komplikace tìhotenství, porodu a šestinedìlí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+630;Zásnì hroznová;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+631;Jinı abnormální produkt poèetí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+632;Zamlklı (nevypuzenı) potrat;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+633;Mimodìloní tìhotenství;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+634;Samovolnı potrat;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+635;Legálnì indukovanı potrat;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+636;Ilegálnì indukovanı potrat;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+637;Potrat blíe neurèenı;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+638;Nezdaøenı pokus o potrat;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+639;Komplikace po porodu nebo mimodìloním nebo molárním tìhotenství;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+640;Krvácení v èasném tìhotenství;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+641;Krvácení pøed porodem, pøedèasné odlouèení lùka nebo vcestné lùko;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+642;Hypertense komplikující tìhotenství, porod nebo šestinedìlí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+643;Nadmìrné zvracení v tìhotenství;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+644;Pøedèasnı nebo hrozící porod;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+645;Prodlouené tìhotenství;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+646;Jiné komplikace tìhotenství, nezaøazené jinde;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+647;Infekèní a parazitární onemocnìní matky, zaøaditelná jinam, ale komplikující tìhotenství, porod nebo šestinedìlí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+648;Jiná onemocnìní matky zaøaditelná jinam, ale komplikující tìhotenství, porod nebo šestinedìlí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+650;Spontánní porod bez komplikací;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+651;Mnohoèetné tìhotenství;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+652;Nepravidelná poloha nebo naléhání plodu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+653;Nepomìr;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+654;Abnormalita pánevních orgánù nebo mìkkıch tkání;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+655;Známá nebo suspektní abnormalita plodu, vedoucí k léèbì tìhotné;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+656;Jiné stavy plodu a lùka vedoucí k léèbì tìhotné;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+657;Polyhydramnion;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+658;Jiné poruchy plodovıch obalù a plodové vody;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+659;Jiné indikace pro péèi nebo zákrok, souvisící s porodem, nezaøazené jinde;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+660;Poruchy prùbìhu porodu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+661;Poruchy vypuzujících sil;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+662;Prodlouenı porod;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+663;Poruchy pupeèníku;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+664;Poranìní hráze nebo vulvy pøi porodu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+665;Jiné porodní poranìní;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+666;Poporodní krvácení;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+667;Zadrené lùko nebo blány bez krvácení;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+668;Komplikace po podání anestetik nebo analgetik pøi porodu;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+669;Jiné komplikace porodu, nezaøazené jinde;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+670;Vìtší puerperální infekce;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+671;ilní komplikace v tìhotenství nebo šestinedìlí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+672;Horeèka neznámého pùvodu v šestinedìlí;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+673;Porodnická embolie plic;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+674;Jiné a blíe neurèené komplikace šestinedìlí, nezaøazené  jinde;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+675;Infekce prsu nebo bradavky, sdruené porodem;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+676;Jiné nemoci prsu sdruené s porodem a poruchy laktace;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+XII;Nemoci kùe a podkoního vaziva;20;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;1;5;1;3;5;2
+680;Furunkl a karbunkl;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+681;Flegmóna nebo absces prstu ruky nebo nohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+682;Jiná flegmóna nebo absces;13;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;1;3;1;2;2;1
+683;Akutní zánìt mízních uzlin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+684;Impetigo;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+685;Pilonidální cysta;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+686;Jiné místní infekce kùe a podkoního vaziva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+690;Dermatosis erythematosquamosa (seboroickı zánìt kùe);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+691;Atopickı ekzém a pøíbuzná onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+692;Kontaktní dermatitis (ekzém) a jiné ekzémy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+693;Dermatitis vyvolaná poitımi látkami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+694;Puchıønaté dermatózy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-
+695;Erytémová onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+696;lupénka a podobná onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+697;Lišej;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+698;Svìdìní a pøíbuzná onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+700;Kuøí oka a mozoly;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+701;Jiná hypertrofická a atrofická onemocnìní kùe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+702;Jiné dermatózy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+703;Nemoci nehtù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+704;Nemoci vlasù a vlasovıch míškù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+705;Nemoci potních láz;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+706;Nemoci mazovıch láz;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+707;Chronickı koní vøed;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;1;1
+708;Kopøivka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+709;Jiné nemoci kùe a podkoního vaziva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+XIII;Nemoci svalové a kosterní soustavy a pojivové tkánì;19;-;-;-;-;-;-;-;-;1;-;-;-;-;-;4;1;1;4;3;4;1;-
+710;Difúzní nemoci pojivové tkánì (kolagenní nemoci);5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;1;-;1;-;-;-
+711;Artropatie sdruené s infekcemi;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+712;Krystalové artropatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+713;Artropatie pøi jinıch nemocech zaøazenıch jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+714;Progresivní polyartritis a jiné chronické systémové polyartritidy;10;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;4;2;3;-;-
+715;Osteoartróza a pøíbuzné nemoci;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+716;Jiné a blíe neurèené artropatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+717;Vnitøní poruchy kolenního kloubu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+718;Jiné vnitøní poruchy kloubù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+719;Jiné a blíe neurèené poruchy kloubù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+720;Spondyliti ankylosans a jiné zánìtlivé spondylopatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+721;Spondylóza a pøíbuzné nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+722;Nemoci meziobratlovıch plotének;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+723;Jiné nemoci krèní krajiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+724;Jiné a blíe neurèené nemoci zad;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+725;Polymyalgia rheumatica;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+726;Periferní antézopatie a pøíbuzné syndromy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+727;Jiné nemoci synovie, šlach a pouzder;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+728;Nemoci svalù, vazù a povázek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+729;Jiné nemoci mìkkıch tkání;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+730;Zánìt kostní døenì, zánìt okostice a jiné infekce postihující kost;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-
+731;Osteitis deformans a osteopatie sdruené s jinımi nemocemi zaøazenımi jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+732;Osteochondropatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+733;Jiné nemoci kostí a chrupavek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+734;Plochá noha;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+735;Získané deformity prstù nohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+736;Jiné získané deformity konèetin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+737;Zkøivení páteøe;1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
+738;Jiné získané deformity konèetin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+739;Nealopatická poškození, nezaøazená jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+XIV;Vrozené vady;289;237;11;5;3;2;10;7;3;5;2;-;3;-;1;-;-;-;-;-;-;-;-
+740;Anencefalus a podobné vady;7;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+741;Rozštìp páteøe;9;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+742;Jiné vrozené vady nervové soustavy;23;15;4;-;2;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+743;Vrozené vady oka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+744;Vrozené vady ucha, oblièeje a krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+745;Vrozené vady srdeèního bulbu a uzávìrù srdeèních pøepáek;56;42;3;2;1;1;1;2;-;2;1;-;1;-;-;-;-;-;-;-;-;-;-
+746;Jiné vrozené vady srdce;54;42;-;2;-;-;5;1;2;1;-;-;-;-;1;-;-;-;-;-;-;-;-
+747;Jiné vrozené vady obìhové soustavy;20;16;-;1;-;1;1;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
+748;Vrozené vady dıchací soustavy;5;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+749;Rozštìp patra a rozštìp rtu;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+750;Jiné vrozené vady horní èásti trávicí soustavy;12;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+751;Jiné vrozené vady trávicí soustavy;13;13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+752;Vrozené vady pohlavního ústrojí;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+753;Vrozené vady moèového ústrojí;12;11;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+754;Nìkteré vrozené deformity svalstva a kostry;2;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+755;Jiné vrozené vady konèetin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+756;Jiné vrozené vady svalstva a kostry;19;18;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+757;Vrozené vady kùe, podkoního vaziva, vlasù, nehtù a prsù;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+758;Vrozené vady chromosomù;22;14;2;-;-;-;1;1;1;1;-;-;2;-;-;-;-;-;-;-;-;-;-
+759;Jiné a blíe neurèené vrozené vady;29;27;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+XV;Nìkterá onemocnìní vzniklá v perinatálním období;465;465;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+760;Postiení plodu nebo novorozence onemocnìním matky, které nemusí souviset s posledním tìhotenství;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+761;Postiení plodu nebo novorozence mateøskou komplikací tìhotenství;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+762;Postiení plodu nebo novorozence komplikací lùka, pupeèníku nebo blan;15;15;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+763;Postiení plodu nebo novorozence jinou komplikací porodu;4;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+764;Nízká váha nebo podvıiva plodu;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+765;Stavy souvisící se zkrácenou délkou tìhotenství nebo blíe neurèenou nízkou porodní vahou;182;182;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+766;Stavy souvisící s prodlouenım tìhotenstvím nebo velkou porodní vahou;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+767;Poranìní za porodu;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+768;Nitrodìloní hypoxie nebo porodní asfyxie;110;110;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+769;Syndrom respiraèní tísnì;45;45;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+770;Jiná respiraèní onemocnìní plodu nebo novorozence;35;35;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+771;Infekce specifické pro perinatální období;7;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+772;Krvácení plodu nebo novorozence;48;48;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+773;Hemolytická nemoc plodu nebo novorozence zpùsobená izoimunizací;4;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+774;Jiná perinatální loutenka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+775;Endokrinní a metabolická onemocnìní, specifická pro plod a novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+776;Hematologická onemocnìní plodu nebo novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+777;Perinatální onemocnìní trávicí soustavy;4;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+778;Onemocnìní postihující kùi a podkoní vazivo nebo regulaci teploty u plodu nebo novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+779;Jiná a nepøesnì urèená onemocnìní vzniklá v perinatálním období;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+XVI;Pøíznaky a znaky nemocí a nedostateènì charakterizované stavy;219;21;1;-;-;-;-;-;-;3;3;7;6;3;8;7;12;26;9;7;28;26;52
+780;Celkové pøíznaky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+781;Pøíznaky od nervové, svalové nebo kosterní soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+782;Pøíznaky na kùi nebo na jiné povrchové tkáni;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+783;Pøíznaky tıkající se vıivy, pøemìny látek a vıvoje;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+784;Pøíznaky tıkající se hlavy nebo krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+785;Pøíznaky od obìhové soustavy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+786;Pøíznaky od dıchací soustavy a jiné pøíznaky hrudních onemocnìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+787;Pøíznaky od trávicí soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+788;Pøíznaky od moèové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+789;Jiné pøíznaky bøišní a pánevní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+790;Nespecifické abnormální nálezy pøi vyšetøení krve;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+791;Nespecifické abnormální nálezy pøi vyšetøení moèi;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+792;Nespecifické abnormální nálezy v jinıch tìlesnıch látkách;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+793;Nespecifické abnormální nálezy pøi radiologickém nebo jiném vyšetøení tìlesnıch orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+794;Nespecifické abnormální vısledky funkèních vyšetøení;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+795;Nespecifické abnormální nálezy histologické a imunologické;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+796;Jiné nespecifické abnormální nálezy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+797;Staøecká sešlost bez psychózy;94;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;2;2;3;15;22;49
+798;Náhlé úmrtí z neznámé pøíèiny;64;18;-;-;-;-;-;-;-;-;1;2;1;1;4;2;7;11;4;2;7;3;1
+799;Jiné nepøesnì urèené a neznámé pøíèiny nemocnosti a úmrtnosti;60;3;1;-;-;-;-;-;-;3;1;5;5;2;4;5;5;13;2;2;6;1;2
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+XVII;Poranìní a otravy;4 668;52;25;6;8;17;62;64;213;278;240;304;339;358;307;258;300;337;254;294;441;305;206
+800;Zlomenina lebeèní klenby;131;2;1;-;2;-;-;2;11;9;6;7;10;7;12;4;18;14;7;6;9;3;1
+801;"Zlomenina lebeèní spodiny  ";371;-;-;-;1;2;8;6;32;34;19;32;24;25;21;27;28;33;25;10;21;17;6
+802;"Zlomenina oblièejovıch kosti  ";3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;-;-;-
+803;Jiná nebo ns zlomenina lebky;13;-;-;1;-;-;1;-;1;-;1;1;-;1;-;1;-;-;2;-;3;1;-
+804;"Mnohoèetné zlomeniny postihující lebku ";61;-;-;-;1;-;1;1;9;6;5;2;5;2;3;6;3;3;3;7;2;1;1
+805;"Zlomenina páteøe bez poškození míchy ";32;-;-;-;-;-;1;-;1;-;-;-;2;4;3;1;3;1;2;2;2;8;2
+806;Zlomenina  páteøe  s  poškozením míchy;107;-;-;-;-;2;4;2;7;13;5;6;13;7;6;8;9;7;5;3;6;1;3
+807;Zlomenina ebra (eber) hrudní kosti, hrtanu nebo prùdušnice;105;-;-;-;-;-;-;-;4;4;8;3;9;5;4;7;8;8;4;11;9;13;8
+808;"Zlomenina pánve ";50;-;-;-;-;-;-;1;2;2;-;2;2;3;1;4;1;3;2;1;9;10;7
+809;Nepøesnì  urèené  zlomeniny kosti trupu;10;-;-;-;-;-;-;-;-;-;2;-;1;-;3;1;1;-;-;1;-;1;-
+810;"Zlomenina klíèní kosti ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+811;"Zlomenina  lopatky ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+812;"Zlomenina paní kosti ";13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;4;3;3
+813;Zlomenina  kosti loketní a  (nebo) vøetenní;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-
+814;Zlomenina zápìstní kosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+815;Zlomenina záprstní kosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+816;Zlomenina jednoho nebo více èlánkù prstù ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+818;Nepøesnì urèené zlomeniny horní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+819;Mnohoèetné zlomeniny postihující obì horní konèetiny nebo horní konèetinu souèasnì se ebrem (h. k.);36;-;-;-;-;-;-;1;2;-;2;-;1;3;4;3;3;1;5;4;3;2;2
+820;"Zlomenina krèku stehenní kosti ";491;-;-;-;-;-;-;-;-;-;-;-;-;3;3;3;13;33;34;72;110;121;99
+821;"Zlomenina  jiné nebo ns èásti stehenní kosti ";51;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;9;8;6;6;10;7
+822;"Zlomenina èéšky ";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-
+823;Zlomenina holenní a (nebo) lıtkové kosti;14;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;3;2;1;3;1;1;-
+824;"Zlomenina kotníku ";7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;1;1;-;1
+825;Zlomenina jedné nebo více nártních a (nebo zanártních) kostí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+826;Zlomenina jednoho nebo více èlánkù prstù nohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+827;Jiné mnohoèetné nebo nepøesnì urèené zlomeniny dolní konèetiny;4;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;2;-;-
+828;"Mnohoèetné zlomeniny postihující obì dolní konèetiny, dolní a horní konèetinu souèasnì se ebrem ";16;-;-;-;-;-;-;-;-;-;3;1;1;1;-;2;1;2;1;2;2;-;-
+829;Zlomenina blíe neurèené kosti;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+831;Vymknutí ramene;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+835;Vymknutí kyèle;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+" 836";Vymknutí kolena;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+838;Vymknutí nohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+840;Podvrtnutí nebo namoení ramene nebo nadloktí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+843;Podvrtnutí nebo namoení kyèle;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+850;Otøes mozku;10;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;5;2;1
+851;Roztrení nebo zhmodìní mozku;305;1;-;-;-;3;5;9;22;30;18;21;22;26;26;14;26;20;13;17;19;8;5
+852;Subarachnoidalní subduralní nebo extradurální  krvácení po úraze;40;2;-;-;-;-;-;2;1;1;2;1;1;3;1;3;2;5;2;5;5;3;1
+853;Jiné nebo ns nitrolební krvácení po úraze;8;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;1;1;-;-;3;-;1
+854;Nitrolební poranìní jiné nebo ns povahy;7;-;1;-;-;-;-;-;-;1;-;1;-;-;-;1;-;-;1;1;1;-;-
+860;Traumatickı pneumotorax nebo hemotorax;20;-;-;-;-;-;-;2;1;1;1;2;2;4;1;3;1;-;-;-;1;1;-
+861;Poranìní srdce nebo plic;107;1;1;-;1;-;1;-;12;12;7;9;8;14;12;8;5;4;3;1;6;1;1
+862;Poranìní jinıch nebo ns hrudních orgánù;11;-;-;-;-;-;-;-;-;-;2;2;1;2;-;1;2;1;-;-;-;-;-
+863;Poranìní aludku nebo støev;7;-;-;-;-;-;1;-;1;-;1;-;1;1;-;-;-;-;-;1;1;-;-
+864;Poranìní jater;35;-;-;-;-;-;1;2;11;5;1;-;5;3;1;2;2;-;-;1;-;1;-
+865;Poranìní sleziny;6;-;-;-;-;-;1;-;1;-;-;-;-;1;1;-;-;1;-;-;1;-;-
+866;Poranìní ledvin(y);3;-;-;-;-;-;-;-;-;-;-;1;-;-;2;-;-;-;-;-;-;-;-
+867;Poranìní pánevních orgánù;2;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-
+868;Poranìní jinıch nitrobøišních orgánù;9;-;-;-;-;-;-;-;1;-;-;-;-;3;-;-;-;1;1;1;-;1;1
+869;Vnitøní poranìní ns nebo nepøesnì urèenıch orgánù;279;-;-;-;-;-;1;3;17;20;19;32;29;26;25;16;17;14;16;11;18;10;5
+871;Otevøená rána oèního bulbu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+873;Jiná otevøena rána hlavy;5;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;1;-;-;1;1;-;-
+874;Otevøena rána krku;3;-;-;-;-;-;-;1;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-
+875;Otevøena rána (stìny) hrudníku;7;-;-;-;-;-;-;-;-;2;-;1;1;-;-;-;-;-;-;1;1;1;-
+877;Otevøená rána hydí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+879;Otevøena  rána  jiného nebo ns místa nebo konèetiny;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+880;Otevøená rána ramene;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+881;Otevøená rána lokte, pøedloktí;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
+882;Otevøená rána ruky mimo zranìní postihující prsty;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+884;Mnohoèetné nebo blíe neurèené rány horní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+885;Traumatická amputace palce ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+886;Traumatická amputace jiného prstu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+887;Traumatická amputace pae nebo ruky;2;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+890;Otevøená rána kyèle nebo stehna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+891;Otevøená rána kolena, bérce nebo kotníku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+892;Otevøená rána nohy mimo zranìní postihující samotnı prst;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+893;Otevøená rána prstu nohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+894;Mnohoèetné nebo blíe neurèené otevøené rány dolní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+895;Traumatická amputace prstu nohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+896;Traumatická amputace chodidla;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+897;Traumatická amputace dolní(ch) konèetin(y) nad kotníkem;7;-;-;-;-;-;-;-;-;1;1;1;1;1;-;-;-;-;1;-;1;-;-
+900;Poranìní cév hlavy nebo krku;11;-;-;-;-;-;-;-;-;2;2;1;1;1;-;1;1;-;-;2;-;-;-
+901;Poranìní cév hrudníku;6;-;-;-;-;-;-;-;2;1;1;-;-;1;-;-;-;-;-;1;-;-;-
+902;Poranìní cév bøicha nebo pánve;4;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;1;1;-;-;-
+903;Poranìní cév horní konèetiny;20;-;-;-;-;-;-;-;-;1;1;2;3;4;2;-;2;2;-;2;-;-;1
+904;Poranìní cév dolní konèetiny nebo ns míst;4;-;-;-;-;-;-;-;-;1;-;2;-;-;-;-;-;-;-;-;1;-;-
+907;Pozdní následky poranìní nervové soustavy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-
+908;Pozdní následky jinıch nebo ns poranìní;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+910;Povrchová poranìní oblièeje,krku nebo èásti hlavy mimo oko;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+911;Povrchní poranìní trupu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+920;Zhmodìní oblièeje, vlasové èásti nebo krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+922;Zhmodìní trupu;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-
+923;Zhmodìní horní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+924;Zhmodìní dolní konèetiny nebo jinıch nebo ns míst;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;1;1
+925;"Trnì zhmodìné zranìní oblièeje ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+926;Trné zhmodìné poranìní trupu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+927;Trné zhmodìné poranìní horní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+928;Trnì zhmodìné poranìní dolní konèetiny;2;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-
+929;Trnì  zhmodìné zranìní mnoha nebo ns míst;2;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-
+930;Cizí tìleso ve vnìjším oku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+931;Cizí tìleso v uchu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+933;Cizí tìleso v hltanu nebo hrtanu;137;31;5;-;-;1;2;2;3;10;5;5;6;11;10;12;6;10;5;4;8;-;1
+934;Cizí tìleso v prùdušnici, prùdušce nebo plicích;9;2;-;-;-;-;1;-;-;-;-;-;1;1;-;2;-;-;-;-;1;-;1
+935;Cizí tìleso v ústech, jícnu nebo aludku;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+936;Cizí tìleso ve støevì mimo koneèník;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+937;Cizí tìleso v øiti nebo koneèníku;1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
+938;Cizí tìleso v trávicím ústrojí bez blišího urèení;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+941;Popálenina oblièeje hlavy a (nebo) krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+942;Popálenina trupu;10;-;-;-;-;-;-;-;-;1;-;-;-;1;-;1;-;1;1;-;-;2;3
+943;Popálenina horní konèetiny mimo zápìstí a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+944;Popálenina  zapìstí a  (nebo) ruky(ou);1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+945;Popálenina dolní(ch) konèetin(y);6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;2;1
+946;Popáleniny mnoha urèenıch míst;21;1;-;-;-;-;-;-;-;-;1;1;1;-;2;2;1;3;2;2;4;1;-
+947;Popáleniny vnitøních orgánù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+948;Popáleniny tøídìné podle rozsahu postieného povrchu tìla;33;-;1;-;2;-;1;1;1;2;-;3;2;2;3;-;2;5;2;-;4;2;-
+949;Popáleniny ns;17;-;1;-;-;-;-;1;1;-;-;-;1;4;1;1;2;-;2;-;1;-;2
+951;Poranìní jiného mozkového nervu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+952;Poranìní míchy bez zjevného poranìní páteøe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+958;Nìkteré èasné komplikace úrazu;17;-;-;-;-;-;-;-;-;3;2;2;1;2;2;-;1;1;1;1;-;1;-
+959;Jiná a ns poranìní;16;-;-;-;-;-;-;-;1;-;1;-;1;-;4;-;-;2;1;-;3;2;1
+" 960";Otrava antibiotiky;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+" 961";Otrava jinımi prostøeky proti infekcím;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+962;Otravy hormony a jejich syntetickımi náhradami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+963;Otrava látkami pùsobícími pøímo na celı organismus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+964;Otrava látkami pùsobícími na sloky krve;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+965;Otravy analgetiky, antipyretiky a antirevmatiky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+966;Otravy antikonvulzivy a leky proti Parkinsonovì nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+967;Otravy sedativy a hypnotiky;9;-;-;-;-;-;-;-;-;-;-;1;-;1;2;1;2;-;1;-;1;-;-
+968;Otravy jinımi látkami s tlumivım úèinkem na cns;2;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-
+969;Otravy psychofarmaky;6;-;-;-;-;-;-;-;-;-;1;1;-;-;1;2;-;1;-;-;-;-;-
+970;otrava stimulancií CNS;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+971;Otravy látkami pùsobícími pøedevším na autonomní nervovou soustavu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+972;Otravy látkami pùsobícími pøedevším na obìhovou soustavu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+973;Otravy látkami pùsobícími pøedevším na trávící soustavu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+975;Otravy látkami pùsobícími pøedevším na hladké nebo nebo kosterní svaly nebo dıchací soustasvu;2;-;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+976;Otravy látkami pùsobícími pøedevším na kùi a (nebo) sliznici;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+977;Otravy jinımi nebo ns léky a pøípravky;43;-;1;-;-;-;-;-;1;5;6;3;5;6;3;3;2;2;2;1;2;1;-
+979;Otrava jinımi oèkkovacíma a biologickımi látkami;2;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;-;-;-
+980;Toxické úèinky alkoholu;47;-;-;-;-;-;-;-;-;2;4;6;4;9;7;3;5;7;-;-;-;-;-
+981;Toxické  úèinky  vırobku  z ropy;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1;-;-;-;-
+982;Toxické úèinky rozpustidel  mimo vırobky z ropy;10;-;-;-;-;-;-;-;1;2;4;2;-;-;-;-;1;-;-;-;-;-;-
+983;Toxické úèinky leptavıch aromatickıch látek, kyselin a íravıch alkálií;7;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;1;-;1;2;-;-
+984;Toxickı úèinek olova a jeho slouèenin;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+985;Toxickı úèinek jinıch kovù;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+986;Toxické úèinky kyslièníku uhelnatého;355;-;-;1;-;-;-;2;12;19;32;45;37;27;25;9;13;23;16;29;38;21;6
+987;"Toxické úèinky jinıch plynù, dımù nebo par ";10;-;-;-;-;-;-;-;-;2;-;2;-;2;-;2;1;-;-;-;-;-;1
+988;Toxické úèinky škodlivıch látek poítıch v potravì;2;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-
+989;Toxické úèinky jinıch látek pouívanıch pøevánì mimo lékaøství;22;1;-;-;-;-;1;-;2;1;1;2;2;4;1;1;3;1;-;-;1;1;-
+990;Úèinky záøení ns;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+991;Úèinky sníené teploty;100;-;-;-;-;-;1;-;1;5;3;8;6;8;14;4;10;11;4;7;10;6;2
+992;Úèinky horka a svìtla;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+993;Úèinky tlaku vzduchu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+994;Úèinky jinıch vnìjších pøíèin;1 305;11;12;4;1;9;31;26;50;74;70;89;123;121;94;92;88;93;71;68;104;45;29
+995;Nìkteré nepøíznivé úèinky nezaøazené jinde;6;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;2;1;-;1;-;-
+996;Komplikace specifické pro nìkteré pøesnì urèené vıkony;4;-;-;-;-;-;-;-;-;-;-;-;2;-;2;-;-;-;-;-;-;-;-
+997;Komplikace postihující urèité telesné soustavy a nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+998;Jiné komplikace vıkonu nezaøazené jinde;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;1;-;-;-;-
+999;Komplikace lékaøské péèe nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"";Vyrovnávací poloka;-;-;-;-;-;-;-;-;3;2;-4;-;-4;-;2;-;6;-;-2;-1;1;-5;2
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"";"";"Kontrolou souètu skupin kódù event. jednotlivıch kódù v nìkterıch vìkovıch skupinách byl zjištìn rozdíl oproti celkovému poètu zemøelıch muù uvedenému v publikaci Pohyb obyvatelstva.  ";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"";"";rozdíl oproti souètu za jednotlivé pøíèiny.;"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"";"";Nebylo mono zjistit, u které pøíèiny se rozdíl nachází ( publikace Pohyb obyvatelstva má velmi nekvalitní tisk),;"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+"";"";a proto bylo nutné zavést vyrovnávací poloku.;"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
