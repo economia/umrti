@@ -1,217 +1,217 @@
-1975	Zemøelí mui podle podrobného seznamu pøíèin smrti a vìku - úrazy a otravy podle vnìjší pøíèiny																							
-MKN (1966)	Název	Celkem	0	1	2	3	4	5-9	10-14	15-19	20-24	25-29	30-34	35-39	40-44	45-49	50-54	55-59	60-64	65-69	70-74	75-79	80-84	85+
+1975	ZemÅ™elÃ­ muÅ¾i podle podrobnÃ©ho seznamu pÅ™Ã­Äin smrti a vÄ›ku - Ãºrazy a otravy podle vnÄ›jÅ¡Ã­ pÅ™Ã­Äiny																							
+MKN (1966)	NÃ¡zev	Celkem	0	1	2	3	4	5-9	10-14	15-19	20-24	25-29	30-34	35-39	40-44	45-49	50-54	55-59	60-64	65-69	70-74	75-79	80-84	85+
 																								
-VN	Úrazy, otravy a násilí (vnìjší pøíèina)	5251	78	27	20	18	21	101	85	272	426	412	338	271	314	332	360	234	378	397	423	336	220	188
+VN	Ãšrazy, otravy a nÃ¡silÃ­ (vnÄ›jÅ¡Ã­ pÅ™Ã­Äina)	5251	78	27	20	18	21	101	85	272	426	412	338	271	314	332	360	234	378	397	423	336	220	188
 																								
-D1	Úrazy na eleznicích	147	-	-	1	-	1	-	-	9	26	13	3	10	9	13	19	16	2	9	6	7	3	-
-E800	Sráka se eleznièními vozidly v pohybu	5	-	-	-	-	-	-	-	-	-	2	-	-	-	-	1	-	1	1	-	-	-	-
-E801	Náraz na nepohyblivı pøedmìt	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E802	Vykolejení bez pøedchozí sráky 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E803	Vıbuch, oheò, popálení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E804	Pád ve vlaku nebo z vlaku	9	-	-	-	-	-	-	-	-	3	1	-	1	-	1	-	2	-	1	-	-	-	-
-E805	Zachycení eleznièním vozidlem v pohybu	132	-	-	1	-	1	-	-	9	22	10	3	9	9	12	18	14	1	7	6	7	3	-
-E806	Jinı blíe popsanı úraz  na eleznici	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E807	Úraz na eleznici NS	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+D1	Ãšrazy na Å¾eleznicÃ­ch	147	-	-	1	-	1	-	-	9	26	13	3	10	9	13	19	16	2	9	6	7	3	-
+E800	SrÃ¡Å¾ka se Å¾elezniÄnÃ­mi vozidly v pohybu	5	-	-	-	-	-	-	-	-	-	2	-	-	-	-	1	-	1	1	-	-	-	-
+E801	NÃ¡raz na nepohyblivÃ½ pÅ™edmÄ›t	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E802	VykolejenÃ­ bez pÅ™edchozÃ­ srÃ¡Å¾ky 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E803	VÃ½buch, oheÅˆ, popÃ¡lenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E804	PÃ¡d ve vlaku nebo z vlaku	9	-	-	-	-	-	-	-	-	3	1	-	1	-	1	-	2	-	1	-	-	-	-
+E805	ZachycenÃ­ Å¾elezniÄnÃ­m vozidlem v pohybu	132	-	-	1	-	1	-	-	9	22	10	3	9	9	12	18	14	1	7	6	7	3	-
+E806	JinÃ½ blÃ­Å¾e popsanÃ½ Ãºraz  na Å¾eleznici	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E807	Ãšraz na Å¾eleznici NS	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-D2	Dopravní úrazy motorovımi vozidly	1195	4	2	7	7	7	45	17	111	144	113	97	52	54	75	80	51	80	86	87	44	23	9
-E810	Sráka motorového vozidla s vlakem	19	-	-	-	-	-	-	1	3	2	2	1	1	1	2	1	1	2	1	1	-	-	-
-E811	Sráka motorového vozidla s vozem poulièní dráhy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E812	Jiná sráka motorového vozidla s jinım motorovım vozidel	143	1	1	-	1	-	-	1	16	23	15	17	8	6	9	16	9	8	5	3	3	1	-
-E813	Sráka motorového vozidla s jinım vozidlem	50	-	-	-	1	-	4	2	-	1	1	2	1	2	5	2	2	9	9	5	3	1	-
-E814	Sráka motorového vozidla s chodcem	283	2	-	4	4	6	26	3	10	12	11	12	9	7	17	16	15	15	30	46	21	12	5
-E815	Náraz motorového vozidla na nepohyblivı pøedmìt 	53	-	-	-	-	-	1	-	7	17	9	5	6	-	2	2	1	1	1	1	-	-	-
-E816	Úraz beze sráky následkem ztráty vlády nad vozidlem	20	-	-	-	-	1	-	-	3	4	2	3	1	2	3	-	-	-	1	-	-	-	-
-E817	Úraz motorovım vozidlem pøi nastupování nebo vystupování	2	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-
-E818	Jinı úraz motorovım vozidlem beze sráky	13	-	-	-	-	-	-	-	-	1	2	2	-	-	3	-	3	1	-	1	-	-	-
-E819	Úraz motorovım vozidlem NS	612	1	1	3	1	-	13	10	72	84	71	55	26	36	34	43	20	43	39	30	17	9	4
+D2	DopravnÃ­ Ãºrazy motorovÃ½mi vozidly	1195	4	2	7	7	7	45	17	111	144	113	97	52	54	75	80	51	80	86	87	44	23	9
+E810	SrÃ¡Å¾ka motorovÃ©ho vozidla s vlakem	19	-	-	-	-	-	-	1	3	2	2	1	1	1	2	1	1	2	1	1	-	-	-
+E811	SrÃ¡Å¾ka motorovÃ©ho vozidla s vozem pouliÄnÃ­ drÃ¡hy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E812	JinÃ¡ srÃ¡Å¾ka motorovÃ©ho vozidla s jinÃ½m motorovÃ½m vozidel	143	1	1	-	1	-	-	1	16	23	15	17	8	6	9	16	9	8	5	3	3	1	-
+E813	SrÃ¡Å¾ka motorovÃ©ho vozidla s jinÃ½m vozidlem	50	-	-	-	1	-	4	2	-	1	1	2	1	2	5	2	2	9	9	5	3	1	-
+E814	SrÃ¡Å¾ka motorovÃ©ho vozidla s chodcem	283	2	-	4	4	6	26	3	10	12	11	12	9	7	17	16	15	15	30	46	21	12	5
+E815	NÃ¡raz motorovÃ©ho vozidla na nepohyblivÃ½ pÅ™edmÄ›t 	53	-	-	-	-	-	1	-	7	17	9	5	6	-	2	2	1	1	1	1	-	-	-
+E816	Ãšraz beze srÃ¡Å¾ky nÃ¡sledkem ztrÃ¡ty vlÃ¡dy nad vozidlem	20	-	-	-	-	1	-	-	3	4	2	3	1	2	3	-	-	-	1	-	-	-	-
+E817	Ãšraz motorovÃ½m vozidlem pÅ™i nastupovÃ¡nÃ­ nebo vystupovÃ¡nÃ­	2	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-
+E818	JinÃ½ Ãºraz motorovÃ½m vozidlem beze srÃ¡Å¾ky	13	-	-	-	-	-	-	-	-	1	2	2	-	-	3	-	3	1	-	1	-	-	-
+E819	Ãšraz motorovÃ½m vozidlem NS	612	1	1	3	1	-	13	10	72	84	71	55	26	36	34	43	20	43	39	30	17	9	4
 																								
-D3	Úrazy motorovımi vozidly mimo dopravu	21	-	-	-	-	1	1	1	2	6	1	1	1	2	-	2	1	1	-	1	-	-	-
-E820	Sráka s pohybujícím se pøedmìtem mimo dopravu	9	-	-	-	-	-	-	-	1	4	-	1	-	-	-	2	-	1	-	-	-	-	-
-E821	Náraz na nepohyblivı pøedmìt mimo dopravu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E822	Úraz pøi nastupování nebo vystupování mimo dopravu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E823	Jinı nebo NS úraz mimo dopravu	12	-	-	-	-	1	1	1	1	2	1	-	1	2	-	-	1	-	-	1	-	-	-
+D3	Ãšrazy motorovÃ½mi vozidly mimo dopravu	21	-	-	-	-	1	1	1	2	6	1	1	1	2	-	2	1	1	-	1	-	-	-
+E820	SrÃ¡Å¾ka s pohybujÃ­cÃ­m se pÅ™edmÄ›tem mimo dopravu	9	-	-	-	-	-	-	-	1	4	-	1	-	-	-	2	-	1	-	-	-	-	-
+E821	NÃ¡raz na nepohyblivÃ½ pÅ™edmÄ›t mimo dopravu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E822	Ãšraz pÅ™i nastupovÃ¡nÃ­ nebo vystupovÃ¡nÃ­ mimo dopravu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E823	JinÃ½ nebo NS Ãºraz mimo dopravu	12	-	-	-	-	1	1	1	1	2	1	-	1	2	-	-	1	-	-	1	-	-	-
 																								
-D4	Jiné úrazy silnièními vozidly	34	-	-	-	-	-	-	-	1	1	1	-	1	1	2	3	3	4	6	6	3	1	1
-E825	Úraz poulièní drahou, mimo sráku s motorovım vozidlem	16	-	-	-	-	-	-	-	-	1	-	-	-	-	1	1	2	1	2	4	2	1	1
-E826	Úraz jízdním kolem ,  mimo sráku s motorovım vozidlem nebo tramvají	17	-	-	-	-	-	-	-	1	-	-	-	1	1	1	2	1	3	4	2	1	-	-
-E827	Úraz zpùsobenı jinım silnièním vozidlem bez motoru	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
+D4	JinÃ© Ãºrazy silniÄnÃ­mi vozidly	34	-	-	-	-	-	-	-	1	1	1	-	1	1	2	3	3	4	6	6	3	1	1
+E825	Ãšraz pouliÄnÃ­ drahou, mimo srÃ¡Å¾ku s motorovÃ½m vozidlem	16	-	-	-	-	-	-	-	-	1	-	-	-	-	1	1	2	1	2	4	2	1	1
+E826	Ãšraz jÃ­zdnÃ­m kolem ,  mimo srÃ¡Å¾ku s motorovÃ½m vozidlem nebo tramvajÃ­	17	-	-	-	-	-	-	-	1	-	-	-	1	1	1	2	1	3	4	2	1	-	-
+E827	Ãšraz zpÅ¯sobenÃ½ jinÃ½m silniÄnÃ­m vozidlem bez motoru	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-D5	Úrazy pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E830	Sráka, ztroskotání, pøevrení mající za následek potopení 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E831	Sráka, ztroskotání, pøevrení bez potopení 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E832	Jiné potopení nebo utonutí pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E833	Pád na schodech nebo ze ebøíku pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E834	Jinı pád s vıšky  pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E835	Jinı a NS pád pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E836	Úraz u stroje pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E837	Vıbuch, oheò, popálení pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E838	Jinı nebo NS úraz pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+D5	Ãšrazy pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E830	SrÃ¡Å¾ka, ztroskotÃ¡nÃ­, pÅ™evrÅ¾enÃ­ majÃ­cÃ­ za nÃ¡sledek potopenÃ­ 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E831	SrÃ¡Å¾ka, ztroskotÃ¡nÃ­, pÅ™evrÅ¾enÃ­ bez potopenÃ­ 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E832	JinÃ© potopenÃ­ nebo utonutÃ­ pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E833	PÃ¡d na schodech nebo ze Å¾ebÅ™Ã­ku pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E834	JinÃ½ pÃ¡d s vÃ½Å¡ky  pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E835	JinÃ½ a NS pÃ¡d pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E836	Ãšraz u stroje pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E837	VÃ½buch, oheÅˆ, popÃ¡lenÃ­ pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E838	JinÃ½ nebo NS Ãºraz pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-D6	Úrazy pøi dopravì vzduchem a mimovzdušnım prostorem	70	-	-	2	-	-	1	-	-	3	1	8	8	10	11	9	5	8	4	-	-	-	-
-E840	Nehoda motorového letadla pøi stratu nebo pøistávání	31	-	-	-	-	-	-	-	-	1	1	1	2	3	5	5	3	6	4	-	-	-	-
-E841	Jiná nebo NS nehoda motorového letadla	37	-	-	2	-	-	1	-	-	1	-	7	6	7	6	4	1	2	-	-	-	-	-
+D6	Ãšrazy pÅ™i dopravÄ› vzduchem a mimovzduÅ¡nÃ½m prostorem	70	-	-	2	-	-	1	-	-	3	1	8	8	10	11	9	5	8	4	-	-	-	-
+E840	Nehoda motorovÃ©ho letadla pÅ™i stratu nebo pÅ™istÃ¡vÃ¡nÃ­	31	-	-	-	-	-	-	-	-	1	1	1	2	3	5	5	3	6	4	-	-	-	-
+E841	JinÃ¡ nebo NS nehoda motorovÃ©ho letadla	37	-	-	2	-	-	1	-	-	1	-	7	6	7	6	4	1	2	-	-	-	-	-
 E842	Nehoda letadla bez motoru	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-
-E843	Pád v letadle, na letadle  nebo z letadla	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E844	Jinı blíe psanı úraz pøi dopravì vzduchem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-E845	Nehoda kosmické lodi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E846	Úraz pøi dopravì vzduchem ne prostorem NS	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E843	PÃ¡d v letadle, na letadle  nebo z letadla	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E844	JinÃ½ blÃ­Å¾e psanÃ½ Ãºraz pÅ™i dopravÄ› vzduchem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+E845	Nehoda kosmickÃ© lodi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E846	Ãšraz pÅ™i dopravÄ› vzduchem ne prostorem NS	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Náhodné otravy léky a drogami	6	-	-	-	-	-	-	-	1	-	-	1	1	-	1	-	1	-	-	1	-	-	-
-E850	Antibiotiky a jinımi prostøedky proti infekcím	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E851	Hormony a jejich syntetickımi náhradami	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
-E852	Látkami primárnì pùsobícími na celı organismus a sloky krve	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	NÃ¡hodnÃ© otravy lÃ©ky a drogami	6	-	-	-	-	-	-	-	1	-	-	1	1	-	1	-	1	-	-	1	-	-	-
+E850	Antibiotiky a jinÃ½mi prostÅ™edky proti infekcÃ­m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E851	Hormony a jejich syntetickÃ½mi nÃ¡hradami	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
+E852	LÃ¡tkami primÃ¡rnÄ› pÅ¯sobÃ­cÃ­mi na celÃ½ organismus a sloÅ¾ky krve	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 E853	Analgetiky a antipyretiky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 E854	Sedativy a hypnotiky	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
-E855	Léky pùsobícími primárnì na nervovou soustavu a psychofarmaky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E856	Jinımi ataraktiky a stimulaci CNS	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E857	Látkami pùsobícími na ústrojí obìhu krevního	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E858	Léky pùsobícími na ústrojí trávicí	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
-E859	Náhodné otravy jinımi léèivy	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-
+E855	LÃ©ky pÅ¯sobÃ­cÃ­mi primÃ¡rnÄ› na nervovou soustavu a psychofarmaky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E856	JinÃ½mi ataraktiky a stimulaci CNS	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E857	LÃ¡tkami pÅ¯sobÃ­cÃ­mi na ÃºstrojÃ­ obÄ›hu krevnÃ­ho	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E858	LÃ©ky pÅ¯sobÃ­cÃ­mi na ÃºstrojÃ­ trÃ¡vicÃ­	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
+E859	NÃ¡hodnÃ© otravy jinÃ½mi lÃ©Äivy	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-
 																								
-	Náhodné otravy jinımi pevnımi nebo tekutımi látkami	57	-	-	-	-	-	1	2	6	5	7	2	4	4	4	6	2	3	3	4	2	1	1
+	NÃ¡hodnÃ© otravy jinÃ½mi pevnÃ½mi nebo tekutÃ½mi lÃ¡tkami	57	-	-	-	-	-	1	2	6	5	7	2	4	4	4	6	2	3	3	4	2	1	1
 E860	Alkohol	30	-	-	-	-	-	-	-	-	4	6	1	2	3	4	5	2	1	2	-	-	-	-
-E861	Èisticí a lešticí prostøedky	4	-	-	-	-	-	-	-	3	-	-	-	-	-	-	-	-	-	-	-	-	-	1
-E862	Dezinfekèní  prostøedky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E861	ÄŒisticÃ­ a leÅ¡ticÃ­ prostÅ™edky	4	-	-	-	-	-	-	-	3	-	-	-	-	-	-	-	-	-	-	-	-	-	1
+E862	DezinfekÄnÃ­  prostÅ™edky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 E863	Barvy atd.	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
-E864	Vırobky z ropy a  jiná rozpustidla 	6	-	-	-	-	-	-	-	3	-	-	-	1	-	-	1	-	-	1	-	-	-	-
-E865	Pesticidy, umìlá hnojiva, prostøedky pro vıivu rostlin	4	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	2	1	-	-
-E866	Tìké kovy a jejich páry	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E867	íravé a leptavé látky nezaøaditelné jinam	2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-
-E868	Škodlivé potraviny a jedovaté rostliny	6	-	-	-	-	-	1	1	-	1	-	1	-	-	-	-	-	1	-	-	-	1	-
-E869	Jiné a NS látky pevné a tekuté	4	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-	1	-	1	-	-	-
+E864	VÃ½robky z ropy a  jinÃ¡ rozpustidla 	6	-	-	-	-	-	-	-	3	-	-	-	1	-	-	1	-	-	1	-	-	-	-
+E865	Pesticidy, umÄ›lÃ¡ hnojiva, prostÅ™edky pro vÃ½Å¾ivu rostlin	4	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	2	1	-	-
+E866	TÄ›Å¾kÃ© kovy a jejich pÃ¡ry	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E867	Å½Ã­ravÃ© a leptavÃ© lÃ¡tky nezaÅ™aditelnÃ© jinam	2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-
+E868	Å kodlivÃ© potraviny a jedovatÃ© rostliny	6	-	-	-	-	-	1	1	-	1	-	1	-	-	-	-	-	1	-	-	-	1	-
+E869	JinÃ© a NS lÃ¡tky pevnÃ© a tekutÃ©	4	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-	1	-	1	-	-	-
 																								
-	Náhodné otravy plyny a parami	198	1	1	1	-	-	-	1	7	11	10	10	9	9	12	9	8	11	21	27	24	16	10
-E870	Plyn rozvádìnı potrubím	169	1	-	-	-	-	-	-	5	9	9	4	4	7	8	7	8	11	21	26	24	16	9
-E871	Zkapalnìnı plyn z ropy rozváenı v pøenosnıch nádobách	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E872	Jinı uitkovı plyn	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E873	Vıfukovı plyn motorovıch vozidel	12	-	-	-	-	-	-	-	-	1	-	3	4	1	2	1	-	-	-	-	-	-	-
-E874	Kyslièník uhelnatı z neúplného spalování domácích paliv	8	-	1	1	-	-	-	1	1	1	-	1	-	-	1	-	-	-	-	-	-	-	1
-E875	Kyslièník uhelnatı vzniklı jinım zpùsobem	5	-	-	-	-	-	-	-	-	-	-	2	1	1	-	1	-	-	-	-	-	-	-
-E876	Jiné plyny a páry	3	-	-	-	-	-	-	-	-	-	1	-	-	-	1	-	-	-	-	1	-	-	-
-E877	Plyny a páry NS	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	NÃ¡hodnÃ© otravy plyny a parami	198	1	1	1	-	-	-	1	7	11	10	10	9	9	12	9	8	11	21	27	24	16	10
+E870	Plyn rozvÃ¡dÄ›nÃ½ potrubÃ­m	169	1	-	-	-	-	-	-	5	9	9	4	4	7	8	7	8	11	21	26	24	16	9
+E871	ZkapalnÄ›nÃ½ plyn z ropy rozvÃ¡Å¾enÃ½ v pÅ™enosnÃ½ch nÃ¡dobÃ¡ch	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E872	JinÃ½ uÅ¾itkovÃ½ plyn	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E873	VÃ½fukovÃ½ plyn motorovÃ½ch vozidel	12	-	-	-	-	-	-	-	-	1	-	3	4	1	2	1	-	-	-	-	-	-	-
+E874	KysliÄnÃ­k uhelnatÃ½ z neÃºplnÃ©ho spalovÃ¡nÃ­ domÃ¡cÃ­ch paliv	8	-	1	1	-	-	-	1	1	1	-	1	-	-	1	-	-	-	-	-	-	-	1
+E875	KysliÄnÃ­k uhelnatÃ½ vzniklÃ½ jinÃ½m zpÅ¯sobem	5	-	-	-	-	-	-	-	-	-	-	2	1	1	-	1	-	-	-	-	-	-	-
+E876	JinÃ© plyny a pÃ¡ry	3	-	-	-	-	-	-	-	-	-	1	-	-	-	1	-	-	-	-	1	-	-	-
+E877	Plyny a pÃ¡ry NS	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Náhodné pády	767	6	1	-	1	1	5	5	11	25	21	14	12	29	23	24	26	46	72	99	130	98	118
-E880	Pád na schodech nebo se schodù nebo stupòù	48	-	-	-	-	-	-	-	-	2	3	-	-	4	-	2	2	5	6	11	9	1	3
-E881	Pád na ebøíku nebo se ebøíku nebo lešení	24	-	-	-	-	-	-	-	-	-	1	1	-	1	1	1	2	5	6	1	4	1	-
-E882	Pád z budovy nebo jiné stavby	36	-	1	-	1	1	1	1	2	6	6	5	-	4	3	-	-	-	2	1	-	2	-
-E883	Pád do jámy nebo jiného otvoru v pùdì	9	-	-	-	-	-	-	-	2	-	-	-	-	1	-	-	2	1	-	-	3	-	-
-E884	Jinı pád s jedné úrovnì na jinou	141	1	-	-	-	-	2	3	6	13	8	7	5	11	8	8	8	11	16	11	13	7	3
-E885	Pád na rovinì následkem uklouznutí, zakopnutí nebo klopıtnutí	387	1	-	-	-	-	-	1	-	1	-	-	1	-	5	2	7	15	33	52	85	79	105
-E886	Pád na rovinì následkem sráky s jinou osobou	2	-	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-	-
-E887	Jinı pád na rovinì a pád NS	120	4	-	-	-	-	2	-	1	3	3	1	6	7	5	11	5	9	9	23	16	8	7
+	NÃ¡hodnÃ© pÃ¡dy	767	6	1	-	1	1	5	5	11	25	21	14	12	29	23	24	26	46	72	99	130	98	118
+E880	PÃ¡d na schodech nebo se schodÅ¯ nebo stupÅˆÅ¯	48	-	-	-	-	-	-	-	-	2	3	-	-	4	-	2	2	5	6	11	9	1	3
+E881	PÃ¡d na Å¾ebÅ™Ã­ku nebo se Å¾ebÅ™Ã­ku nebo leÅ¡enÃ­	24	-	-	-	-	-	-	-	-	-	1	1	-	1	1	1	2	5	6	1	4	1	-
+E882	PÃ¡d z budovy nebo jinÃ© stavby	36	-	1	-	1	1	1	1	2	6	6	5	-	4	3	-	-	-	2	1	-	2	-
+E883	PÃ¡d do jÃ¡my nebo jinÃ©ho otvoru v pÅ¯dÄ›	9	-	-	-	-	-	-	-	2	-	-	-	-	1	-	-	2	1	-	-	3	-	-
+E884	JinÃ½ pÃ¡d s jednÃ© ÃºrovnÄ› na jinou	141	1	-	-	-	-	2	3	6	13	8	7	5	11	8	8	8	11	16	11	13	7	3
+E885	PÃ¡d na rovinÄ› nÃ¡sledkem uklouznutÃ­, zakopnutÃ­ nebo klopÃ½tnutÃ­	387	1	-	-	-	-	-	1	-	1	-	-	1	-	5	2	7	15	33	52	85	79	105
+E886	PÃ¡d na rovinÄ› nÃ¡sledkem srÃ¡Å¾ky s jinou osobou	2	-	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-	-
+E887	JinÃ½ pÃ¡d na rovinÄ› a pÃ¡d NS	120	4	-	-	-	-	2	-	1	3	3	1	6	7	5	11	5	9	9	23	16	8	7
 																								
-	Úrazy zpùsobené ohnìm	59	-	1	-	1	-	4	3	2	6	2	2	5	2	3	1	-	1	6	5	8	5	2
-E890	Poár v obytném domì	7	-	-	-	-	-	2	1	-	-	-	-	-	-	-	-	-	-	2	-	1	-	1
-E891	Poár v jiné budovì nebo stavbì	3	-	-	-	-	-	1	-	1	-	-	-	-	-	1	-	-	-	-	-	-	-	-
-E892	Poár mimo budovy a stavby	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
-E893	Vznícení odìvu	6	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	1	1	-	2	1
-E894	Vznícení vysoce vznìtlivıch hmot	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
-E895	Kontrolovanı oheò v obytném domì	5	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	1	1	1	1	-
-E896	Kontrolovanı oheò v jiné budovì nebo stavbì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E897	Kontrolovanı oheò mimo budovy a stavby	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-E898	Jiné blíe popsané ohnì 	3	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-	1	-
-E899	Oheò NS 	32	-	1	-	1	-	1	2	1	4	1	2	4	1	1	1	-	1	2	2	6	1	-
+	Ãšrazy zpÅ¯sobenÃ© ohnÄ›m	59	-	1	-	1	-	4	3	2	6	2	2	5	2	3	1	-	1	6	5	8	5	2
+E890	PoÅ¾Ã¡r v obytnÃ©m domÄ›	7	-	-	-	-	-	2	1	-	-	-	-	-	-	-	-	-	-	2	-	1	-	1
+E891	PoÅ¾Ã¡r v jinÃ© budovÄ› nebo stavbÄ›	3	-	-	-	-	-	1	-	1	-	-	-	-	-	1	-	-	-	-	-	-	-	-
+E892	PoÅ¾Ã¡r mimo budovy a stavby	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
+E893	VznÃ­cenÃ­ odÄ›vu	6	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	1	1	-	2	1
+E894	VznÃ­cenÃ­ vysoce vznÄ›tlivÃ½ch hmot	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
+E895	KontrolovanÃ½ oheÅˆ v obytnÃ©m domÄ›	5	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	1	1	1	1	-
+E896	KontrolovanÃ½ oheÅˆ v jinÃ© budovÄ› nebo stavbÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E897	KontrolovanÃ½ oheÅˆ mimo budovy a stavby	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+E898	JinÃ© blÃ­Å¾e popsanÃ© ohnÄ› 	3	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-	1	-
+E899	OheÅˆ NS 	32	-	1	-	1	-	1	2	1	4	1	2	4	1	1	1	-	1	2	2	6	1	-
 																								
-	Úrazy zpùsobené pøírodními vlivy nebo vlivy ivotního prostøedí	31	-	-	-	-	-	-	-	-	3	3	1	1	1	5	2	3	6	2	2	-	1	1
-E900	Úèinky horka	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E901	Úèinky chladu	20	-	-	-	-	-	-	-	-	1	2	-	1	1	4	1	3	4	-	2	-	-	1
-E902	Úèinky tlaku vzduchu 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E903	Úèinky pohybu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E904	Úèinky hladu, íznì, jiného strádání a nedostatku péèe	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E905	Kousnutí nebo bodnutí jedovatımi  zvíøaty nebo hmyzem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
-E906	Jiné úrazy zpùsobené zvíøaty	5	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	2	1	-	-	1	-
+	Ãšrazy zpÅ¯sobenÃ© pÅ™Ã­rodnÃ­mi vlivy nebo vlivy Å¾ivotnÃ­ho prostÅ™edÃ­	31	-	-	-	-	-	-	-	-	3	3	1	1	1	5	2	3	6	2	2	-	1	1
+E900	ÃšÄinky horka	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E901	ÃšÄinky chladu	20	-	-	-	-	-	-	-	-	1	2	-	1	1	4	1	3	4	-	2	-	-	1
+E902	ÃšÄinky tlaku vzduchu 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E903	ÃšÄinky pohybu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E904	ÃšÄinky hladu, Å¾Ã­znÄ›, jinÃ©ho strÃ¡dÃ¡nÃ­ a nedostatku pÃ©Äe	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E905	KousnutÃ­ nebo bodnutÃ­ jedovatÃ½mi  zvÃ­Å™aty nebo hmyzem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
+E906	JinÃ© Ãºrazy zpÅ¯sobenÃ© zvÃ­Å™aty	5	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	2	1	-	-	1	-
 E907	Blesk	5	-	-	-	-	-	-	-	-	2	-	1	-	-	1	1	-	-	-	-	-	-	-
-E908	Pøírodní katastrofa	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E909	Jiné	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E908	PÅ™Ã­rodnÃ­ katastrofa	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E909	JinÃ©	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Jiné úrazy	801	55	20	9	8	11	42	30	46	72	73	53	45	49	38	45	26	48	56	29	24	15	7
-E910	Tonutí a utonutí	261	-	9	5	4	7	32	17	20	27	24	15	13	4	6	12	9	16	22	8	6	3	2
-E911	Dušení vdechnutím nebo polknutím potravy	108	42	2	2	1	2	-	-	3	3	7	4	1	11	5	7	2	2	8	3	1	2	-
-E912	Dušení vdechnutím nebo polknutím jiného pøedmìtu	8	1	1	-	1	-	1	-	1	1	-	1	1	-	-	-	-	-	-	-	-	-	-
-E913	Náhodné mechanické zadušení	27	8	6	2	1	-	-	2	-	1	1	1	-	-	-	2	-	1	-	-	1	-	1
-E914	Vniknutí cizího tìlesa do oka nebo jeho adnex	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E915	Vniknutí cizího tìlesa do jiného otvoru tìla	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E916	Udeøení padajícím pøedmìtem	65	-	2	-	-	-	3	2	2	2	11	10	8	9	3	3	2	5	-	-	3	-	-
-E917	Náraz na pøedmìt nebo udeøení pøedmìtem 	17	1	-	-	-	-	-	1	-	1	2	4	-	2	4	1	-	-	1	-	-	-	-
-E918	Zachycení v pøedmìtech nebo mezi nimi	18	-	-	-	-	-	-	-	1	-	3	1	3	5	2	1	1	1	-	-	-	-	-
-E919	Pøepìtí, namoení	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-E920	Zranìní  øeznımi nebo bodnımi nástroji	9	-	-	-	-	-	-	-	1	1	-	-	1	-	-	-	1	3	2	-	-	-	-
-E921	Vıbuchy tlakovıch nádob	7	-	-	-	-	-	-	1	-	1	1	-	-	-	1	1	1	1	-	-	-	-	-
-E922	Støelné zbranì 	12	-	-	-	-	-	-	3	4	1	1	1	1	-	1	-	-	-	-	-	-	-	-
-E923	Vıbušnı materiál	29	-	-	-	-	-	-	-	-	9	2	4	2	3	1	5	1	1	1	-	-	-	-
-E924	Horké látky, leptavé tekutiny, páry	6	-	-	-	-	1	1	-	-	2	-	-	-	-	-	1	-	-	-	-	-	1	-
-E925	Elektrickı proud	56	-	-	-	-	-	2	3	8	11	11	5	3	4	4	-	2	1	2	-	-	-	-
-E926	Záøení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E927	Úrazy zpùsobené vozidly a nezaøaditelné jinam	4	-	-	-	-	-	-	-	-	1	-	-	-	-	1	2	-	-	-	-	-	-	-
-E928	Úrazy zpùsobené stroji a nezaøaditelné jinam	4	-	-	-	-	-	-	-	1	-	-	-	2	-	1	-	-	-	-	-	-	-	-
-E929	Úrazy jiné a NS	169	3	-	-	1	1	3	1	5	11	10	7	10	11	9	9	7	17	20	18	13	9	4
+	JinÃ© Ãºrazy	801	55	20	9	8	11	42	30	46	72	73	53	45	49	38	45	26	48	56	29	24	15	7
+E910	TonutÃ­ a utonutÃ­	261	-	9	5	4	7	32	17	20	27	24	15	13	4	6	12	9	16	22	8	6	3	2
+E911	DuÅ¡enÃ­ vdechnutÃ­m nebo polknutÃ­m potravy	108	42	2	2	1	2	-	-	3	3	7	4	1	11	5	7	2	2	8	3	1	2	-
+E912	DuÅ¡enÃ­ vdechnutÃ­m nebo polknutÃ­m jinÃ©ho pÅ™edmÄ›tu	8	1	1	-	1	-	1	-	1	1	-	1	1	-	-	-	-	-	-	-	-	-	-
+E913	NÃ¡hodnÃ© mechanickÃ© zaduÅ¡enÃ­	27	8	6	2	1	-	-	2	-	1	1	1	-	-	-	2	-	1	-	-	1	-	1
+E914	VniknutÃ­ cizÃ­ho tÄ›lesa do oka nebo jeho adnex	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E915	VniknutÃ­ cizÃ­ho tÄ›lesa do jinÃ©ho otvoru tÄ›la	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E916	UdeÅ™enÃ­ padajÃ­cÃ­m pÅ™edmÄ›tem	65	-	2	-	-	-	3	2	2	2	11	10	8	9	3	3	2	5	-	-	3	-	-
+E917	NÃ¡raz na pÅ™edmÄ›t nebo udeÅ™enÃ­ pÅ™edmÄ›tem 	17	1	-	-	-	-	-	1	-	1	2	4	-	2	4	1	-	-	1	-	-	-	-
+E918	ZachycenÃ­ v pÅ™edmÄ›tech nebo mezi nimi	18	-	-	-	-	-	-	-	1	-	3	1	3	5	2	1	1	1	-	-	-	-	-
+E919	PÅ™epÄ›tÃ­, namoÅ¾enÃ­	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+E920	ZranÄ›nÃ­  Å™eznÃ½mi nebo bodnÃ½mi nÃ¡stroji	9	-	-	-	-	-	-	-	1	1	-	-	1	-	-	-	1	3	2	-	-	-	-
+E921	VÃ½buchy tlakovÃ½ch nÃ¡dob	7	-	-	-	-	-	-	1	-	1	1	-	-	-	1	1	1	1	-	-	-	-	-
+E922	StÅ™elnÃ© zbranÄ› 	12	-	-	-	-	-	-	3	4	1	1	1	1	-	1	-	-	-	-	-	-	-	-
+E923	VÃ½buÅ¡nÃ½ materiÃ¡l	29	-	-	-	-	-	-	-	-	9	2	4	2	3	1	5	1	1	1	-	-	-	-
+E924	HorkÃ© lÃ¡tky, leptavÃ© tekutiny, pÃ¡ry	6	-	-	-	-	1	1	-	-	2	-	-	-	-	-	1	-	-	-	-	-	1	-
+E925	ElektrickÃ½ proud	56	-	-	-	-	-	2	3	8	11	11	5	3	4	4	-	2	1	2	-	-	-	-
+E926	ZÃ¡Å™enÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E927	Ãšrazy zpÅ¯sobenÃ© vozidly a nezaÅ™aditelnÃ© jinam	4	-	-	-	-	-	-	-	-	1	-	-	-	-	1	2	-	-	-	-	-	-	-
+E928	Ãšrazy zpÅ¯sobenÃ© stroji a nezaÅ™aditelnÃ© jinam	4	-	-	-	-	-	-	-	1	-	-	-	2	-	1	-	-	-	-	-	-	-	-
+E929	Ãšrazy jinÃ© a NS	169	3	-	-	1	1	3	1	5	11	10	7	10	11	9	9	7	17	20	18	13	9	4
 																								
-	Léèebné komplikace a nehody	6	2	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	1	-	-
-E930	Komplikace a nehody pøi operaèních léèebnıch vıkonech	2	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-
-E931	Komplikace a nehody pøi jinıch a NS léèebnıch vıkonech	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-
-E932	Komplikace a nehody pøi diagnostickıch vıkonech	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E933	Nehody pøi oèkování proti bakteriálním nemocem	1	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E934	Nehody pøi oèkování proti jinım nemocem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-
-E935	Nehody pøi jinıch preventivních vıkonech	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E936	Nehody pøi jinıch vıkonech 	1	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	LÃ©ÄebnÃ© komplikace a nehody	6	2	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	1	-	-
+E930	Komplikace a nehody pÅ™i operaÄnÃ­ch lÃ©ÄebnÃ½ch vÃ½konech	2	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-
+E931	Komplikace a nehody pÅ™i jinÃ½ch a NS lÃ©ÄebnÃ½ch vÃ½konech	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-
+E932	Komplikace a nehody pÅ™i diagnostickÃ½ch vÃ½konech	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E933	Nehody pÅ™i oÄkovÃ¡nÃ­ proti bakteriÃ¡lnÃ­m nemocem	1	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E934	Nehody pÅ™i oÄkovÃ¡nÃ­ proti jinÃ½m nemocem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-
+E935	Nehody pÅ™i jinÃ½ch preventivnÃ­ch vÃ½konech	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E936	Nehody pÅ™i jinÃ½ch vÃ½konech 	1	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Pozdní následky úrazù a jinıch vnìjších pøíèin	20	-	-	-	-	-	-	-	-	1	3	1	1	-	-	-	2	3	3	2	2	1	1
-E940	Pozdní následky úrazù motorovımi vozidly	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-E941	Pozdní následky jinıch dopravních úrazù	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E942	Pozdní následky náhodnıch otrav	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E943	Pozdní následky náhodnıch pádù	3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	1	-	1
-E944	Pozdní následky úrazù zpùsobenıch ohnìm	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E945	Pozdní následky úrazù zpùsobenıch vlivy pøírodními nebo vlivy ivotního prostøedí 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E946	Pozdní následky jinıch úrazù 	16	-	-	-	-	-	-	-	-	-	3	1	1	-	-	-	2	2	3	2	1	1	-
-E947	Pozdní následky chirurgickıch operací	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E948	Pozdní následky záøení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E949	Pozdní následky jinıch lékaøskıch vıkonù	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	PozdnÃ­ nÃ¡sledky ÃºrazÅ¯ a jinÃ½ch vnÄ›jÅ¡Ã­ch pÅ™Ã­Äin	20	-	-	-	-	-	-	-	-	1	3	1	1	-	-	-	2	3	3	2	2	1	1
+E940	PozdnÃ­ nÃ¡sledky ÃºrazÅ¯ motorovÃ½mi vozidly	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+E941	PozdnÃ­ nÃ¡sledky jinÃ½ch dopravnÃ­ch ÃºrazÅ¯	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E942	PozdnÃ­ nÃ¡sledky nÃ¡hodnÃ½ch otrav	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E943	PozdnÃ­ nÃ¡sledky nÃ¡hodnÃ½ch pÃ¡dÅ¯	3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	1	-	1
+E944	PozdnÃ­ nÃ¡sledky ÃºrazÅ¯ zpÅ¯sobenÃ½ch ohnÄ›m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E945	PozdnÃ­ nÃ¡sledky ÃºrazÅ¯ zpÅ¯sobenÃ½ch vlivy pÅ™Ã­rodnÃ­mi nebo vlivy Å¾ivotnÃ­ho prostÅ™edÃ­ 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E946	PozdnÃ­ nÃ¡sledky jinÃ½ch ÃºrazÅ¯ 	16	-	-	-	-	-	-	-	-	-	3	1	1	-	-	-	2	2	3	2	1	1	-
+E947	PozdnÃ­ nÃ¡sledky chirurgickÃ½ch operacÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E948	PozdnÃ­ nÃ¡sledky zÃ¡Å™enÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E949	PozdnÃ­ nÃ¡sledky jinÃ½ch lÃ©kaÅ™skÃ½ch vÃ½konÅ¯	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-SE	Sebevrady a sebepoškození	1679	-	-	-	-	-	-	20	67	109	147	134	112	132	134	154	84	154	117	142	85	53	35
-E950	Otrava pevnou nebo tekutou látkou	75	-	-	-	-	-	-	-	9	6	11	5	7	5	5	9	2	3	6	1	2	2	2
-E951	Otrava plynem pouívanım v domácnosti	295	-	-	-	-	-	-	3	20	31	45	23	16	27	27	21	9	15	15	20	14	7	2
-E952	Otrava jinım plynem	6	-	-	-	-	-	-	-	-	-	-	1	4	-	1	-	-	-	-	-	-	-	-
-E953	Obìšení nebo uškrcení	1001	-	-	-	-	-	-	16	25	46	63	82	67	77	79	98	55	108	76	99	48	40	22
-E954	Utonutí 	30	-	-	-	-	-	-	-	-	1	3	-	2	2	1	2	1	4	1	4	5	-	4
-E955	Støelné zbranì a vıbušniny	108	-	-	-	-	-	-	1	5	14	10	8	7	10	8	9	9	7	5	10	4	1	-
-E956	Øezné a bodné nástroje 	42	-	-	-	-	-	-	-	-	1	4	4	1	2	3	7	2	4	3	2	6	1	2
-E957	Skok s vıše	65	-	-	-	-	-	-	-	3	3	3	4	2	7	5	2	3	10	10	4	5	2	2
-E958	Jiné a NS zpùsoby	57	-	-	-	-	-	-	-	5	7	8	7	6	2	5	6	3	3	1	2	1	-	1
-E959	Pozdní následky pokusu o sebevradu nebo sebepoškození 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+SE	SebevraÅ¾dy a sebepoÅ¡kozenÃ­	1679	-	-	-	-	-	-	20	67	109	147	134	112	132	134	154	84	154	117	142	85	53	35
+E950	Otrava pevnou nebo tekutou lÃ¡tkou	75	-	-	-	-	-	-	-	9	6	11	5	7	5	5	9	2	3	6	1	2	2	2
+E951	Otrava plynem pouÅ¾Ã­vanÃ½m v domÃ¡cnosti	295	-	-	-	-	-	-	3	20	31	45	23	16	27	27	21	9	15	15	20	14	7	2
+E952	Otrava jinÃ½m plynem	6	-	-	-	-	-	-	-	-	-	-	1	4	-	1	-	-	-	-	-	-	-	-
+E953	ObÄ›Å¡enÃ­ nebo uÅ¡krcenÃ­	1001	-	-	-	-	-	-	16	25	46	63	82	67	77	79	98	55	108	76	99	48	40	22
+E954	UtonutÃ­ 	30	-	-	-	-	-	-	-	-	1	3	-	2	2	1	2	1	4	1	4	5	-	4
+E955	StÅ™elnÃ© zbranÄ› a vÃ½buÅ¡niny	108	-	-	-	-	-	-	1	5	14	10	8	7	10	8	9	9	7	5	10	4	1	-
+E956	Å˜eznÃ© a bodnÃ© nÃ¡stroje 	42	-	-	-	-	-	-	-	-	1	4	4	1	2	3	7	2	4	3	2	6	1	2
+E957	Skok s vÃ½Å¡e	65	-	-	-	-	-	-	-	3	3	3	4	2	7	5	2	3	10	10	4	5	2	2
+E958	JinÃ© a NS zpÅ¯soby	57	-	-	-	-	-	-	-	5	7	8	7	6	2	5	6	3	3	1	2	1	-	1
+E959	PozdnÃ­ nÃ¡sledky pokusu o sebevraÅ¾du nebo sebepoÅ¡kozenÃ­ 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-NA	Usmrcení nebo poranìní zpùsobená úmyslnì jinımi osobami	57	8	-	-	-	-	1	2	5	5	7	3	3	3	5	4	3	3	4	3	-	-	1
-E960	Zápas, rvaèka, znásilnìní	11	-	-	-	-	-	-	-	2	1	-	1	-	1	-	-	1	1	1	2	-	-	1
-E961	íravé a leptavé látky, mimo otravy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+NA	UsmrcenÃ­ nebo poranÄ›nÃ­ zpÅ¯sobenÃ¡ ÃºmyslnÄ› jinÃ½mi osobami	57	8	-	-	-	-	1	2	5	5	7	3	3	3	5	4	3	3	4	3	-	-	1
+E960	ZÃ¡pas, rvaÄka, znÃ¡silnÄ›nÃ­	11	-	-	-	-	-	-	-	2	1	-	1	-	1	-	-	1	1	1	2	-	-	1
+E961	Å½Ã­ravÃ© a leptavÃ© lÃ¡tky, mimo otravy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 E962	Otravy	4	1	-	-	-	-	-	1	-	-	1	-	1	-	-	-	-	-	-	-	-	-	-
-E963	Obìšení, uškrcení	6	1	-	-	-	-	1	-	-	-	1	-	-	1	-	1	1	-	-	-	-	-	-
-E964	Utopení	3	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-E965	Støelné zbranì a vıbušniny	4	-	-	-	-	-	-	-	-	2	1	-	-	-	-	1	-	-	-	-	-	-	-
-E966	Øezné a bodné nástroje 	13	3	-	-	-	-	-	1	2	1	2	-	1	-	1	-	1	1	-	-	-	-	-
-E967	Shození s vıše	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E968	Jiné a NS zpùsoby	13	1	-	-	-	-	-	-	-	-	2	2	1	-	2	-	-	1	3	1	-	-	-
-E969	Pozdní následky poranìní zpùsobeného úmyslnì jinou osobou	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-
+E963	ObÄ›Å¡enÃ­, uÅ¡krcenÃ­	6	1	-	-	-	-	1	-	-	-	1	-	-	1	-	1	1	-	-	-	-	-	-
+E964	UtopenÃ­	3	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+E965	StÅ™elnÃ© zbranÄ› a vÃ½buÅ¡niny	4	-	-	-	-	-	-	-	-	2	1	-	-	-	-	1	-	-	-	-	-	-	-
+E966	Å˜eznÃ© a bodnÃ© nÃ¡stroje 	13	3	-	-	-	-	-	1	2	1	2	-	1	-	1	-	1	1	-	-	-	-	-
+E967	ShozenÃ­ s vÃ½Å¡e	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E968	JinÃ© a NS zpÅ¯soby	13	1	-	-	-	-	-	-	-	-	2	2	1	-	2	-	-	1	3	1	-	-	-
+E969	PozdnÃ­ nÃ¡sledky poranÄ›nÃ­ zpÅ¯sobenÃ©ho ÃºmyslnÄ› jinou osobou	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-
 																								
-	Zákonnı zákrok	3	-	-	-	-	-	-	-	-	1	-	-	-	1	1	-	-	-	-	-	-	-	-
-E970	Støelné zbranì	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
-E971	Vıbušniny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	ZÃ¡konnÃ½ zÃ¡krok	3	-	-	-	-	-	-	-	-	1	-	-	-	1	1	-	-	-	-	-	-	-	-
+E970	StÅ™elnÃ© zbranÄ›	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
+E971	VÃ½buÅ¡niny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 E972	Plyn	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E973	Tupı pøedmìt	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E974	Øezné a bodné nástroje	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E975	Jiné urèené prostøedky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E976	Prostøedky NS	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E977	Pozdní následky poranìní zpùsobenıch zákonnım zákrokem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-E978	Zákonná poprava	2	-	-	-	-	-	-	-	-	1	-	-	-	1	-	-	-	-	-	-	-	-	-
+E973	TupÃ½ pÅ™edmÄ›t	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E974	Å˜eznÃ© a bodnÃ© nÃ¡stroje	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E975	JinÃ© urÄenÃ© prostÅ™edky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E976	ProstÅ™edky NS	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E977	PozdnÃ­ nÃ¡sledky poranÄ›nÃ­ zpÅ¯sobenÃ½ch zÃ¡konnÃ½m zÃ¡krokem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+E978	ZÃ¡konnÃ¡ poprava	2	-	-	-	-	-	-	-	-	1	-	-	-	1	-	-	-	-	-	-	-	-	-
 																								
-	Poranìní a otravy , o nich nebylo zjištìno, zda byly náhodnì èi  úmyslnì zpùsobené	100	2	2	-	-	-	1	4	4	9	10	8	6	9	6	2	2	7	8	9	6	3	2
-E980	Otrava pevnou nebo tekutou látkou	8	-	-	-	-	-	-	-	-	-	1	1	2	1	-	-	-	3	-	-	-	-	-
-E981	Otrava plynem pouívanım v domácnosti	29	-	-	-	-	-	1	-	-	2	3	1	-	3	-	-	1	1	6	3	4	2	2
-E982	Otrava jinım plynem 	2	-	-	-	-	-	-	-	-	-	-	-	-	-	2	-	-	-	-	-	-	-	-
-E983	Obìšení nebo uškrcení	4	-	-	-	-	-	-	1	-	-	1	1	-	-	1	-	-	-	-	-	-	-	-
-E984	Utopení	28	-	-	-	-	-	-	1	2	4	2	1	2	4	1	1	-	2	2	5	1	-	-
-E985	Støelné zbranì a vıbušniny	5	-	-	-	-	-	-	-	1	-	-	1	1	-	-	-	1	-	-	1	-	-	-
-E986	Øezné a bodné nástroje	3	-	-	-	-	-	-	-	1	1	-	1	-	-	-	-	-	-	-	-	-	-	-
-E987	Pád s vıše	4	-	-	-	-	-	-	-	-	2	1	1	-	-	-	-	-	-	-	-	-	-	-
-E988	Jiné a NS zpùsoby	17	2	2	-	-	-	-	2	-	-	2	1	1	1	2	1	-	1	-	-	1	1	-
-E989	Pozdní následky poranìní nezjištìného pùvodu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	PoranÄ›nÃ­ a otravy , o nichÅ¾ nebylo zjiÅ¡tÄ›no, zda byly nÃ¡hodnÄ› Äi  ÃºmyslnÄ› zpÅ¯sobenÃ©	100	2	2	-	-	-	1	4	4	9	10	8	6	9	6	2	2	7	8	9	6	3	2
+E980	Otrava pevnou nebo tekutou lÃ¡tkou	8	-	-	-	-	-	-	-	-	-	1	1	2	1	-	-	-	3	-	-	-	-	-
+E981	Otrava plynem pouÅ¾Ã­vanÃ½m v domÃ¡cnosti	29	-	-	-	-	-	1	-	-	2	3	1	-	3	-	-	1	1	6	3	4	2	2
+E982	Otrava jinÃ½m plynem 	2	-	-	-	-	-	-	-	-	-	-	-	-	-	2	-	-	-	-	-	-	-	-
+E983	ObÄ›Å¡enÃ­ nebo uÅ¡krcenÃ­	4	-	-	-	-	-	-	1	-	-	1	1	-	-	1	-	-	-	-	-	-	-	-
+E984	UtopenÃ­	28	-	-	-	-	-	-	1	2	4	2	1	2	4	1	1	-	2	2	5	1	-	-
+E985	StÅ™elnÃ© zbranÄ› a vÃ½buÅ¡niny	5	-	-	-	-	-	-	-	1	-	-	1	1	-	-	-	1	-	-	1	-	-	-
+E986	Å˜eznÃ© a bodnÃ© nÃ¡stroje	3	-	-	-	-	-	-	-	1	1	-	1	-	-	-	-	-	-	-	-	-	-	-
+E987	PÃ¡d s vÃ½Å¡e	4	-	-	-	-	-	-	-	-	2	1	1	-	-	-	-	-	-	-	-	-	-	-
+E988	JinÃ© a NS zpÅ¯soby	17	2	2	-	-	-	-	2	-	-	2	1	1	1	2	1	-	1	-	-	1	1	-
+E989	PozdnÃ­ nÃ¡sledky poranÄ›nÃ­ nezjiÅ¡tÄ›nÃ©ho pÅ¯vodu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Poranìní vzniklá váleènımi operacemi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	PoranÄ›nÃ­ vzniklÃ¡ vÃ¡leÄnÃ½mi operacemi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

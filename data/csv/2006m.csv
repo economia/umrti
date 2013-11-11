@@ -1,1143 +1,1143 @@
-2006;Zemøelí mui podle podrobného seznamu pøíèin smrti a vìku;"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-MKN (1993);Název;Celkem;0;1;2;3;4;5-9;10-14;15-19;20-24;25-29;30-34;35-39;40-44;45-49;50-54;55-59;60-64;65-69;70-74;75-79;80-84;85+
+2006;ZemÅ™elÃ­ muÅ¾i podle podrobnÃ©ho seznamu pÅ™Ã­Äin smrti a vÄ›ku;"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
+MKN (1993);NÃ¡zev;Celkem;0;1;2;3;4;5-9;10-14;15-19;20-24;25-29;30-34;35-39;40-44;45-49;50-54;55-59;60-64;65-69;70-74;75-79;80-84;85+
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-"";CELKEM ZEMØELİCH MUÙ;52 706;214;13;8;12;9;44;49;189;325;348;437;542;877;1 549;3 000;4 622;5 683;5 531;6 658;8 325;7 999;6 272
+"";CELKEM ZEMÅ˜ELÃCH MUÅ½Å®;52Â 706;214;13;8;12;9;44;49;189;325;348;437;542;877;1Â 549;3Â 000;4Â 622;5Â 683;5Â 531;6Â 658;8Â 325;7Â 999;6Â 272
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-I;Nìkteré infekèní a parazitární nemoci;232;1;1;-;-;-;1;-;1;1;3;4;1;4;5;19;25;20;21;32;39;39;15
-A02;Jiné infekce zpùsobené salmonelami;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-
+I;NÄ›kterÃ© infekÄnÃ­ a parazitÃ¡rnÃ­ nemoci;232;1;1;-;-;-;1;-;1;1;3;4;1;4;5;19;25;20;21;32;39;39;15
+A02;JinÃ© infekce zpÅ¯sobenÃ© salmonelami;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-
 A03;Shigellosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A04;Jiné bakteriální støevní infekce;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
-A05;"Jiné bakteriální otravy (intoxikace) ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A06;Amoebiasis - amébóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A08;Virové a jiné specifikované støevní infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A09;Prùjem-diarrhoea a gastroenteritida pøedpokládaného infekèního pùvodu;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;-
-A15;"TBC dıchacího ústrojí bakteriologicky
-a histologicky ovìøená ";22;-;-;-;-;-;-;-;-;-;1;-;-;1;-;5;3;1;2;1;3;3;2
-A16;"TBC dıchacího ústrojí bakteriologicky 
-a histologicky neovìøená ";10;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;2;1;1;2;-;1;-
-A17;Tuberkulóza nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A18;TBC jinıch orgánù;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-
-A19;Miliární tuberkulóza;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;1;-
+A04;JinÃ© bakteriÃ¡lnÃ­ stÅ™evnÃ­ infekce;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+A05;"JinÃ© bakteriÃ¡lnÃ­ otravy (intoxikace) ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A06;Amoebiasis - amÃ©bÃ³za;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A08;VirovÃ© a jinÃ© specifikovanÃ© stÅ™evnÃ­ infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A09;PrÅ¯jem-diarrhoea a gastroenteritida pÅ™edpoklÃ¡danÃ©ho infekÄnÃ­ho pÅ¯vodu;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;-
+A15;"TBC dÃ½chacÃ­ho ÃºstrojÃ­ bakteriologicky
+a histologicky ovÄ›Å™enÃ¡ ";22;-;-;-;-;-;-;-;-;-;1;-;-;1;-;5;3;1;2;1;3;3;2
+A16;"TBC dÃ½chacÃ­ho ÃºstrojÃ­ bakteriologicky 
+a histologicky neovÄ›Å™enÃ¡ ";10;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;2;1;1;2;-;1;-
+A17;TuberkulÃ³za nervovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A18;TBC jinÃ½ch orgÃ¡nÅ¯;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-
+A19;MiliÃ¡rnÃ­ tuberkulÃ³za;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;1;-
 A20;Mor-pestis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A21;Tularémie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A23;Brucellosis - vlnivá horeèka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A24;"Malleus - vozhøivka a pseudomalleus 
+A21;TularÃ©mie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A23;Brucellosis - vlnivÃ¡ horeÄka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A24;"Malleus - vozhÅ™ivka a pseudomalleus 
 - meliodosis";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 A26;Erysipeloid;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
-A27;Leptospiróza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A31;Nemoci zpùsobené jinımi mykobakteriemi;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-A32;Listerióza - listeriosis;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-A33;Tetanus novorozencù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A35;Tetanus jinı;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A39;Meningokokové infekce;2;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A40;Streptokoková septikémie;6;-;-;-;-;-;-;-;-;-;-;2;-;-;-;1;-;2;-;-;1;-;-
-A41;Jiná septikémie;148;-;-;-;-;-;1;-;-;-;2;2;1;1;2;5;15;13;15;23;30;28;10
-A42;Aktinomykóza - actinomycosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A46;Rùe - erysipelas;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A48;Jiné bakteriální nemoci jinde nezaøazené;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-A49;Bakteriální infekce neurèené lokalizace;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;1;1;1
-A50;Vrozená syfilis - pøíjice - lues;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A51;Èasná syfilis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A52;Pozdní syfilis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A54;Gonokoková infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A27;LeptospirÃ³za;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A31;Nemoci zpÅ¯sobenÃ© jinÃ½mi mykobakteriemi;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+A32;ListeriÃ³za - listeriosis;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+A33;Tetanus novorozencÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A35;Tetanus jinÃ½;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A39;MeningokokovÃ© infekce;2;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A40;StreptokokovÃ¡ septikÃ©mie;6;-;-;-;-;-;-;-;-;-;-;2;-;-;-;1;-;2;-;-;1;-;-
+A41;JinÃ¡ septikÃ©mie;148;-;-;-;-;-;1;-;-;-;2;2;1;1;2;5;15;13;15;23;30;28;10
+A42;AktinomykÃ³za - actinomycosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A46;RÅ¯Å¾e - erysipelas;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A48;JinÃ© bakteriÃ¡lnÃ­ nemoci jinde nezaÅ™azenÃ©;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+A49;BakteriÃ¡lnÃ­ infekce neurÄenÃ© lokalizace;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;1;1;1
+A50;VrozenÃ¡ syfilis - pÅ™Ã­jice - lues;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A51;ÄŒasnÃ¡ syfilis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A52;PozdnÃ­ syfilis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A54;GonokokovÃ¡ infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 A55;"Lymphogranuloma venereum ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A68;Návratná horeèka - typhus recurrens;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A69;Jiné spirochétové infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A70;Infekce pùvodce: Chlamydia psittaci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A79;Jiné rickettsiózy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A80;"Akutní poliomyelitida - akutní dìtská obrna ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A81;Pomalé virové infekce centrální nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A83;Virová encefalitida pøenášená komáry;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A84;Virová encefalitida pøenášená klíšaty;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;1;-;-
-A85;"Jiná virová encefalitida jinde nezaøazená ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A86;Neurèená virová encefalitida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A87;Virová meningitida;2;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-A88;"Jiné virové infekce centrální nervové 
-soustavy, jinde nezaøazené";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-A89;Neurèená virová infekce centrální nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A68;NÃ¡vratnÃ¡ horeÄka - typhus recurrens;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A69;JinÃ© spirochÃ©tovÃ© infekce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A70;Infekce pÅ¯vodce: Chlamydia psittaci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A79;JinÃ© rickettsiÃ³zy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A80;"AkutnÃ­ poliomyelitida - akutnÃ­ dÄ›tskÃ¡ obrna ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A81;PomalÃ© virovÃ© infekce centrÃ¡lnÃ­ nervovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A83;VirovÃ¡ encefalitida pÅ™enÃ¡Å¡enÃ¡ komÃ¡ry;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A84;VirovÃ¡ encefalitida pÅ™enÃ¡Å¡enÃ¡ klÃ­Å¡Å¥aty;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;1;-;-
+A85;"JinÃ¡ virovÃ¡ encefalitida jinde nezaÅ™azenÃ¡ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A86;NeurÄenÃ¡ virovÃ¡ encefalitida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A87;VirovÃ¡ meningitida;2;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+A88;"JinÃ© virovÃ© infekce centrÃ¡lnÃ­ nervovÃ© 
+soustavy, jinde nezaÅ™azenÃ©";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+A89;NeurÄenÃ¡ virovÃ¡ infekce centrÃ¡lnÃ­ nervovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 B00;Infekce virem Herpes simplex;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B01;Varicella - plané neštovice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B02;Herpes zoster - pásovı opar;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
-B06;Zardìnky - rubeola;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
-B15;Akutní hepatitida A;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
-B16;Akutní hepatitida B;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-B17;Jiná akutní virová hepatitida;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
-B18;Chronická virová hepatitida;6;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;-;-;-;1;-;2;-
-B19;Neurèená virová hepatitida;1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
-B20;"Onemocnìní HIV projevující se infekèními 
-a parazitárními nemocemi";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B21;"Onemocnìní HIV projevující se zhoubnımi novotvary ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B22;"Onemocnìní HIV projevující se jinımi urèenımi nemocemi ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B23;Onemocnìní HIV projevující se jinımi stavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B24;Neurèené onemocnìní virem HIV;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B25;Cytomegalovirová nemoc;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B26;"Epidemickı zánìt pøíušnic - parotitis epidemica ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B27;Infekèní mononukleóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B33;Jiné virové nemoci nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B34;Virové nemoci neurèené lokalizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B37;Kandidóza - candidiasis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B40;Blastomykóza - blastomycosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B42;Sporotrichóza - sporotrichosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B44;Aspergilóza - aspergillosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B45;Kryptokokóza - cryptococcosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B49;Neurèená mykóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B50;"Malárie, pùvodce: Plasmodium falciparum ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B51;Malárie, pùvodce: Plasmodium vivax;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B58;Toxoplazmóza - toxoplasmosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B83;Jiné helmintózy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B90;Následky tuberkulózy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-B91;Následky poliomyelitidy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-B94;"Následky jinıch a neurèenıch infekèních 
-a parazitárních nemocí";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-B99;Jiné a neurèené infekèní nemoci;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-
+B01;Varicella - planÃ© neÅ¡tovice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B02;Herpes zoster - pÃ¡sovÃ½ opar;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+B06;ZardÄ›nky - rubeola;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+B15;AkutnÃ­ hepatitida A;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+B16;AkutnÃ­ hepatitida B;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+B17;JinÃ¡ akutnÃ­ virovÃ¡ hepatitida;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+B18;ChronickÃ¡ virovÃ¡ hepatitida;6;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;-;-;-;1;-;2;-
+B19;NeurÄenÃ¡ virovÃ¡ hepatitida;1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
+B20;"OnemocnÄ›nÃ­ HIV projevujÃ­cÃ­ se infekÄnÃ­mi 
+a parazitÃ¡rnÃ­mi nemocemi";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B21;"OnemocnÄ›nÃ­ HIV projevujÃ­cÃ­ se zhoubnÃ½mi novotvary ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B22;"OnemocnÄ›nÃ­ HIV projevujÃ­cÃ­ se jinÃ½mi urÄenÃ½mi nemocemi ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B23;OnemocnÄ›nÃ­ HIV projevujÃ­cÃ­ se jinÃ½mi stavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B24;NeurÄenÃ© onemocnÄ›nÃ­ virem HIV;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B25;CytomegalovirovÃ¡ nemoc;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B26;"EpidemickÃ½ zÃ¡nÄ›t pÅ™Ã­uÅ¡nic - parotitis epidemica ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B27;InfekÄnÃ­ mononukleÃ³za;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B33;JinÃ© virovÃ© nemoci nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B34;VirovÃ© nemoci neurÄenÃ© lokalizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B37;KandidÃ³za - candidiasis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B40;BlastomykÃ³za - blastomycosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B42;SporotrichÃ³za - sporotrichosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B44;AspergilÃ³za - aspergillosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B45;KryptokokÃ³za - cryptococcosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B49;NeurÄenÃ¡ mykÃ³za;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B50;"MalÃ¡rie, pÅ¯vodce: Plasmodium falciparum ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B51;MalÃ¡rie, pÅ¯vodce: Plasmodium vivax;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B58;ToxoplazmÃ³za - toxoplasmosis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B83;JinÃ© helmintÃ³zy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B90;NÃ¡sledky tuberkulÃ³zy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+B91;NÃ¡sledky poliomyelitidy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+B94;"NÃ¡sledky jinÃ½ch a neurÄenÃ½ch infekÄnÃ­ch 
+a parazitÃ¡rnÃ­ch nemocÃ­";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+B99;JinÃ© a neurÄenÃ© infekÄnÃ­ nemoci;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-II;Novotvary;15 492;3;1;3;5;1;13;4;12;26;28;56;69;160;412;1 004;1 679;2 276;2 169;2 296;2 489;1 880;906
-C00;Zhoubnı novotvar rtu;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-
-C01;Zhoubnı novotvar koøene jazyka;47;-;-;-;-;-;-;-;-;-;-;-;1;1;4;10;7;12;2;2;5;1;2
-C02;Zhoubnı novotvar jinıch a neurèenıch èástí jazyka;75;-;-;-;-;-;-;-;-;-;-;-;-;1;9;14;16;19;7;4;4;1;-
-C03;Zhoubnı novotvar dásnì - gingivy;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;1;-;-
-C04;Zhoubnı novotvar ústní spodiny;62;-;-;-;-;-;-;-;-;-;-;-;-;2;3;15;16;17;2;3;3;1;-
-C05;Zhoubnı novotvar patra;14;-;-;-;-;-;-;-;-;-;-;-;-;-;2;3;3;3;3;-;-;-;-
-C06;"Zhoubnı novotvar jinıch a neurèenıch èástí úst ";15;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;3;2;1;1;2;1;1
-C07;"Zhoubnı novotvar pøíušní (parotické) lázy ";26;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;6;1;4;1;2;3;4
-C08;Zhoubnı novotvar jinıch a neurèenıch slinnıch láz;14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;2;-;2;4;2
-C09;Zhoubnı novotvar mandle - tonzily;70;-;-;-;-;-;-;-;-;-;-;-;1;-;5;14;15;15;4;5;4;4;3
-C10;"Zhoubnı novotvar ústní èásti hltanu 
+II;Novotvary;15Â 492;3;1;3;5;1;13;4;12;26;28;56;69;160;412;1Â 004;1Â 679;2Â 276;2Â 169;2Â 296;2Â 489;1Â 880;906
+C00;ZhoubnÃ½ novotvar rtu;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-
+C01;ZhoubnÃ½ novotvar koÅ™ene jazyka;47;-;-;-;-;-;-;-;-;-;-;-;1;1;4;10;7;12;2;2;5;1;2
+C02;ZhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch ÄÃ¡stÃ­ jazyka;75;-;-;-;-;-;-;-;-;-;-;-;-;1;9;14;16;19;7;4;4;1;-
+C03;ZhoubnÃ½ novotvar dÃ¡snÄ› - gingivy;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;1;-;-
+C04;ZhoubnÃ½ novotvar ÃºstnÃ­ spodiny;62;-;-;-;-;-;-;-;-;-;-;-;-;2;3;15;16;17;2;3;3;1;-
+C05;ZhoubnÃ½ novotvar patra;14;-;-;-;-;-;-;-;-;-;-;-;-;-;2;3;3;3;3;-;-;-;-
+C06;"ZhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch ÄÃ¡stÃ­ Ãºst ";15;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;3;2;1;1;2;1;1
+C07;"ZhoubnÃ½ novotvar pÅ™Ã­uÅ¡nÃ­ (parotickÃ©) Å¾lÃ¡zy ";26;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;6;1;4;1;2;3;4
+C08;ZhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch slinnÃ½ch Å¾lÃ¡z;14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;1;2;-;2;4;2
+C09;ZhoubnÃ½ novotvar mandle - tonzily;70;-;-;-;-;-;-;-;-;-;-;-;1;-;5;14;15;15;4;5;4;4;3
+C10;"ZhoubnÃ½ novotvar ÃºstnÃ­ ÄÃ¡sti hltanu 
 - orofaryngu ";72;-;-;-;-;-;-;-;-;-;-;-;-;2;8;9;16;24;8;1;2;1;1
-C11;"Zhoubnı novotvar nosohltanu 
+C11;"ZhoubnÃ½ novotvar nosohltanu 
 - nazofaryngu";20;-;-;-;-;-;-;-;-;-;-;1;-;2;-;1;4;2;2;5;1;1;1
-C12;Zhoubnı novotvar pyriformního sinu;11;-;-;-;-;-;-;-;-;-;-;-;-;2;1;2;1;2;-;2;-;-;1
-C13;Zhoubnı novotvar hypofaryngu;61;-;-;-;-;-;-;-;-;-;-;1;-;-;8;11;16;11;6;4;2;1;1
-C14;Zhoubnı novotvar jinıch a nepøímo urèenıch lokalizací rtu, ústní dutiny a hltanu;26;-;-;-;-;-;-;-;-;-;-;-;-;1;1;5;5;6;3;3;2;-;-
-C15;Zhoubnı novotvar jícnu;383;-;-;-;-;-;-;-;-;-;-;-;1;8;19;55;77;69;50;33;41;22;8
-C16;Zhoubnı novotvar aludku;755;-;-;-;-;-;-;-;-;-;-;2;8;11;24;53;76;92;92;116;133;96;52
-C17;Zhoubnı novotvar tenkého støeva;37;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;6;11;5;5;5;1
-C18;Zhoubnı novotvar tlustého støeva;1397;-;-;-;-;-;-;-;-;1;2;-;9;12;24;60;115;160;199;218;272;228;97
-C19;"Zhoubnı novotvar 
-rektosigmoideálního spojení ";330;-;-;-;-;-;-;-;-;-;-;-;1;-;8;16;35;55;52;57;45;38;23
-C20;Zhoubnı novotvar koneèníku - recta;689;-;-;-;-;-;-;-;-;-;-;1;4;6;15;51;83;106;103;86;116;76;42
-C21;Zhoubnı novotvar øiti a øitního kanálu;33;-;-;-;-;-;-;-;-;-;-;1;-;-;1;2;4;7;7;5;3;2;1
-C22;Zhoubnı novotvar jater a intrahepatálních luèovıch cest;553;1;-;1;-;-;-;1;1;-;-;2;1;4;21;34;70;100;74;64;90;64;25
-C23;Zhoubnı novotvar luèníku;116;-;-;-;-;-;-;-;-;-;-;-;-;1;2;3;9;14;16;18;25;19;9
-C24;Zhoubnı novotvar jinıch a neurèenıch èástí luèovıch cest;142;-;-;-;-;-;-;-;-;-;-;1;-;1;3;8;10;18;17;26;27;20;11
-C25;Zhoubnı novotvar slinivky bøišní;886;-;-;-;-;-;-;-;-;-;-;3;2;12;31;81;92;125;133;140;131;94;42
-C26;"Zhoubnı novotvar jinıch a nepøesnì urèenıch trávících orgánù ";68;-;-;-;-;-;-;-;-;-;-;-;-;3;1;1;6;4;9;8;16;14;6
-C30;"Zhoubnı novotvar nosní dutiny 
-a støedního ucha";4;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;-;1;-
-C31;Zhoubnı novotvar vedlejších dutin;15;-;-;-;-;-;-;-;-;-;-;3;-;1;2;2;-;1;3;2;1;-;-
-C32;Zhoubnı novotvar hrtanu;240;-;-;-;-;-;-;-;-;-;-;-;-;4;14;40;45;50;31;24;18;11;3
-C33;Zhoubnı novotvar prùdušnice - trachey;9;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;2;2;-;1;-
-C34;"Zhoubnı novotvar prùdušky 
-- bronchu a plíce";4065;-;-;-;-;-;-;-;-;-;3;3;4;30;81;262;526;760;683;680;584;343;106
-C37;Zhoubnı novotvar brzlíku - thymu;8;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;1;1;1;-;-;2
-C38;"Zhoubnı novotvar srdce, mezihrudí 
+C12;ZhoubnÃ½ novotvar pyriformnÃ­ho sinu;11;-;-;-;-;-;-;-;-;-;-;-;-;2;1;2;1;2;-;2;-;-;1
+C13;ZhoubnÃ½ novotvar hypofaryngu;61;-;-;-;-;-;-;-;-;-;-;1;-;-;8;11;16;11;6;4;2;1;1
+C14;ZhoubnÃ½ novotvar jinÃ½ch a nepÅ™Ã­mo urÄenÃ½ch lokalizacÃ­ rtu, ÃºstnÃ­ dutiny a hltanu;26;-;-;-;-;-;-;-;-;-;-;-;-;1;1;5;5;6;3;3;2;-;-
+C15;ZhoubnÃ½ novotvar jÃ­cnu;383;-;-;-;-;-;-;-;-;-;-;-;1;8;19;55;77;69;50;33;41;22;8
+C16;ZhoubnÃ½ novotvar Å¾aludku;755;-;-;-;-;-;-;-;-;-;-;2;8;11;24;53;76;92;92;116;133;96;52
+C17;ZhoubnÃ½ novotvar tenkÃ©ho stÅ™eva;37;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;6;11;5;5;5;1
+C18;ZhoubnÃ½ novotvar tlustÃ©ho stÅ™eva;1397;-;-;-;-;-;-;-;-;1;2;-;9;12;24;60;115;160;199;218;272;228;97
+C19;"ZhoubnÃ½ novotvar 
+rektosigmoideÃ¡lnÃ­ho spojenÃ­ ";330;-;-;-;-;-;-;-;-;-;-;-;1;-;8;16;35;55;52;57;45;38;23
+C20;ZhoubnÃ½ novotvar koneÄnÃ­ku - recta;689;-;-;-;-;-;-;-;-;-;-;1;4;6;15;51;83;106;103;86;116;76;42
+C21;ZhoubnÃ½ novotvar Å™iti a Å™itnÃ­ho kanÃ¡lu;33;-;-;-;-;-;-;-;-;-;-;1;-;-;1;2;4;7;7;5;3;2;1
+C22;ZhoubnÃ½ novotvar jater a intrahepatÃ¡lnÃ­ch Å¾luÄovÃ½ch cest;553;1;-;1;-;-;-;1;1;-;-;2;1;4;21;34;70;100;74;64;90;64;25
+C23;ZhoubnÃ½ novotvar Å¾luÄnÃ­ku;116;-;-;-;-;-;-;-;-;-;-;-;-;1;2;3;9;14;16;18;25;19;9
+C24;ZhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch ÄÃ¡stÃ­ Å¾luÄovÃ½ch cest;142;-;-;-;-;-;-;-;-;-;-;1;-;1;3;8;10;18;17;26;27;20;11
+C25;ZhoubnÃ½ novotvar slinivky bÅ™iÅ¡nÃ­;886;-;-;-;-;-;-;-;-;-;-;3;2;12;31;81;92;125;133;140;131;94;42
+C26;"ZhoubnÃ½ novotvar jinÃ½ch a nepÅ™esnÄ› urÄenÃ½ch trÃ¡vÃ­cÃ­ch orgÃ¡nÅ¯ ";68;-;-;-;-;-;-;-;-;-;-;-;-;3;1;1;6;4;9;8;16;14;6
+C30;"ZhoubnÃ½ novotvar nosnÃ­ dutiny 
+a stÅ™ednÃ­ho ucha";4;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;-;1;-
+C31;ZhoubnÃ½ novotvar vedlejÅ¡Ã­ch dutin;15;-;-;-;-;-;-;-;-;-;-;3;-;1;2;2;-;1;3;2;1;-;-
+C32;ZhoubnÃ½ novotvar hrtanu;240;-;-;-;-;-;-;-;-;-;-;-;-;4;14;40;45;50;31;24;18;11;3
+C33;ZhoubnÃ½ novotvar prÅ¯duÅ¡nice - trachey;9;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;2;2;-;1;-
+C34;"ZhoubnÃ½ novotvar prÅ¯duÅ¡ky 
+- bronchu a plÃ­ce";4065;-;-;-;-;-;-;-;-;-;3;3;4;30;81;262;526;760;683;680;584;343;106
+C37;ZhoubnÃ½ novotvar brzlÃ­ku - thymu;8;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;1;1;1;1;-;-;2
+C38;"ZhoubnÃ½ novotvar srdce, mezihrudÃ­ 
 - mediastina a pohrudnice - pluery ";51;-;-;-;-;-;-;-;-;1;-;-;1;1;1;5;2;12;9;8;5;3;3
-C39;"Zhoubnı novotvar jinıch a nepøímo urèenıch lokalizací v dıchací soustavì 
-a nitrohrudních orgánech ";26;-;-;-;-;-;-;-;-;-;-;-;-;1;-;5;1;4;7;1;5;-;2
-C40;"Zhoubnı novotvar kosti a kloubní chrupavky konèetin ";18;-;-;-;-;-;-;-;2;1;1;2;1;-;1;-;3;2;1;1;1;2;-
-C41;"Zhoubnı novotvar kosti a kloubní chrupavky jinıch a neurèenıch lokalizací ";28;-;-;-;-;-;-;-;-;1;2;2;2;-;1;4;4;6;1;1;4;-;-
-C43;Zhoubnı melanom kùe;199;-;-;-;-;-;-;-;1;-;-;2;2;5;7;15;23;24;34;24;29;22;11
-C44;Jinı zhoubnı novotvar kùe;83;-;-;-;-;-;-;-;-;-;-;-;-;1;1;5;4;8;10;4;14;19;17
+C39;"ZhoubnÃ½ novotvar jinÃ½ch a nepÅ™Ã­mo urÄenÃ½ch lokalizacÃ­ v dÃ½chacÃ­ soustavÄ› 
+a nitrohrudnÃ­ch orgÃ¡nech ";26;-;-;-;-;-;-;-;-;-;-;-;-;1;-;5;1;4;7;1;5;-;2
+C40;"ZhoubnÃ½ novotvar kosti a kloubnÃ­ chrupavky konÄetin ";18;-;-;-;-;-;-;-;2;1;1;2;1;-;1;-;3;2;1;1;1;2;-
+C41;"ZhoubnÃ½ novotvar kosti a kloubnÃ­ chrupavky jinÃ½ch a neurÄenÃ½ch lokalizacÃ­ ";28;-;-;-;-;-;-;-;-;1;2;2;2;-;1;4;4;6;1;1;4;-;-
+C43;ZhoubnÃ½ melanom kÅ¯Å¾e;199;-;-;-;-;-;-;-;1;-;-;2;2;5;7;15;23;24;34;24;29;22;11
+C44;JinÃ½ zhoubnÃ½ novotvar kÅ¯Å¾e;83;-;-;-;-;-;-;-;-;-;-;-;-;1;1;5;4;8;10;4;14;19;17
 C45;Mezoteliom - mesothelioma;20;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;3;2;2;1;7;-;-
 C46;Kaposiho sarkom;5;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;1;1;1;-
-C47;"Zhoubnı novotvar periferních nervù 
-a autonomní nervové soustavy ";11;-;-;-;1;-;2;-;-;-;-;-;-;1;1;2;1;-;-;2;1;-;-
-C48;"Zhoubnı novotvar retroperitonea 
+C47;"ZhoubnÃ½ novotvar perifernÃ­ch nervÅ¯ 
+a autonomnÃ­ nervovÃ© soustavy ";11;-;-;-;1;-;2;-;-;-;-;-;-;1;1;2;1;-;-;2;1;-;-
+C48;"ZhoubnÃ½ novotvar retroperitonea 
 a peritonea ";34;-;-;-;1;1;2;-;-;-;-;2;-;2;-;4;-;4;3;6;2;4;3
-C49;"Zhoubnı novotvar jiné pojivové 
-a mìkké tkánì";47;-;-;-;-;-;1;-;1;1;1;1;1;-;-;-;7;9;3;5;9;3;5
-C50;Zhoubnı novotvar prsu;21;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;3;3;5;2;2;1
-C51;Zhoubnı novotvar vulvy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C52;Zhoubnı novotvar pochvy - vaginy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C53;"Zhoubnı novotvar hrdla dìloního 
+C49;"ZhoubnÃ½ novotvar jinÃ© pojivovÃ© 
+a mÄ›kkÃ© tkÃ¡nÄ›";47;-;-;-;-;-;1;-;1;1;1;1;1;-;-;-;7;9;3;5;9;3;5
+C50;ZhoubnÃ½ novotvar prsu;21;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;3;3;5;2;2;1
+C51;ZhoubnÃ½ novotvar vulvy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C52;ZhoubnÃ½ novotvar pochvy - vaginy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C53;"ZhoubnÃ½ novotvar hrdla dÄ›loÅ¾nÃ­ho 
 - cervicis uteri";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C54;Zhoubnı novotvar tìla dìloního;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C55;Zhoubnı novotvar dìlohy, èást NS;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C56;Zhoubnı novotvar vajeèníku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C57;Zhoubnı novotvar jinıch a neurèenıch enskıch pohlavních orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C58;Zhoubnı novotvar placenty;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-C60;Zhoubnı novotvar pyje;19;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;1;3;1;3;5;1;2
-C61;"Zhoubnı novotvar pøedstojné lázy 
+C54;ZhoubnÃ½ novotvar tÄ›la dÄ›loÅ¾nÃ­ho;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C55;ZhoubnÃ½ novotvar dÄ›lohy, ÄÃ¡st NS;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C56;ZhoubnÃ½ novotvar vajeÄnÃ­ku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C57;ZhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch Å¾enskÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C58;ZhoubnÃ½ novotvar placenty;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C60;ZhoubnÃ½ novotvar pyje;19;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;1;3;1;3;5;1;2
+C61;"ZhoubnÃ½ novotvar pÅ™edstojnÃ© Å¾lÃ¡zy 
 - prostaty ";1365;-;-;-;-;-;-;-;-;-;-;-;-;-;2;10;39;103;134;216;315;346;200
-C62;Zhoubnı novotvar varlete;32;-;-;-;-;-;-;-;1;7;4;1;5;-;4;1;2;2;1;1;1;1;1
-C63;Zhoubnı novotvar jinıch a neurèenıch muskıch pohlavních orgánù;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;4;3;2
-C64;"Zhoubnı novotvar ledviny mimo pánvièku ";683;-;1;-;-;-;-;-;-;-;-;2;5;5;22;45;79;105;103;117;89;78;32
-C65;Zhoubnı novotvar ledvinné pánvièky;45;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;7;5;4;7;10;4;5
-C66;Zhoubnı novotvar moèovodu - ureteru;8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;1;2;2;-
-C67;"Zhoubnı novotvar moèového mìchıøe 
+C62;ZhoubnÃ½ novotvar varlete;32;-;-;-;-;-;-;-;1;7;4;1;5;-;4;1;2;2;1;1;1;1;1
+C63;ZhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch muÅ¾skÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;4;3;2
+C64;"ZhoubnÃ½ novotvar ledviny mimo pÃ¡nviÄku ";683;-;1;-;-;-;-;-;-;-;-;2;5;5;22;45;79;105;103;117;89;78;32
+C65;ZhoubnÃ½ novotvar ledvinnÃ© pÃ¡nviÄky;45;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;7;5;4;7;10;4;5
+C66;ZhoubnÃ½ novotvar moÄovodu - ureteru;8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;1;2;2;-
+C67;"ZhoubnÃ½ novotvar moÄovÃ©ho mÄ›chÃ½Å™e 
 - vesicae urinariae";528;-;-;-;-;-;-;-;-;-;-;-;-;-;5;14;34;31;69;85;119;108;63
-C68;Zhoubnı novotvar jinıch a neurèenıch moèovıch orgánù;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;1;-;4;1;1
-C69;Zhoubnı novotvar oka a oèních adnex;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;1;3;2;1;1;-
-C70;Zhoubnı novotvar mozkomíšních plen;8;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2;2;1;-;1;-;1
-C71;Zhoubnı novotvar mozku;376;1;-;-;1;-;3;2;1;2;5;11;10;15;30;37;43;62;55;39;33;22;4
-C72;"Zhoubní novotvar míchy, mozkovıch nervù a jinıch èástí CNS ";11;-;-;1;-;-;-;-;-;2;-;1;-;1;-;-;-;2;3;-;-;1;-
-C73;Zhoubnı novotvar štítné lázy;28;-;-;-;-;-;-;-;-;-;-;-;1;-;2;2;4;2;5;1;5;3;3
-C74;Zhoubnı novotvar nadledviny;17;-;-;-;-;-;1;-;-;-;-;-;1;-;1;4;3;2;-;2;1;1;1
-C75;Zhoubnı novotvar jinıch láz s vnitøní sekrecí a pøíbuznıch struktur;4;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;2;-;-
-C76;"Zhoubnı novotvar jinıch a nepøesnì urèenıch lokalizací ";49;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;4;6;10;6;9;5;4
-C77;Sekundární a neurèenı zhoubnı novotvar mízních uzlin;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-
-C78;"Sekundární zhoubnı novotvar dıchací 
-a trávicí soustavy ";14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;1;5;1;2;1
-C79;Sekundární zhoubnı novotvar jinıch lokalizací;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;-;-;1;-;-
-C80;Zhoubnı novotvar bez urèení lokalizace;385;-;-;-;-;-;1;-;-;1;2;2;-;5;16;20;52;56;45;64;50;42;29
+C68;ZhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch moÄovÃ½ch orgÃ¡nÅ¯;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;1;-;4;1;1
+C69;ZhoubnÃ½ novotvar oka a oÄnÃ­ch adnex;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;1;3;2;1;1;-
+C70;ZhoubnÃ½ novotvar mozkomÃ­Å¡nÃ­ch plen;8;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;2;2;1;-;1;-;1
+C71;ZhoubnÃ½ novotvar mozku;376;1;-;-;1;-;3;2;1;2;5;11;10;15;30;37;43;62;55;39;33;22;4
+C72;"ZhoubnÃ­ novotvar mÃ­chy, mozkovÃ½ch nervÅ¯ a jinÃ½ch ÄÃ¡stÃ­ CNS ";11;-;-;1;-;-;-;-;-;2;-;1;-;1;-;-;-;2;3;-;-;1;-
+C73;ZhoubnÃ½ novotvar Å¡tÃ­tnÃ© Å¾lÃ¡zy;28;-;-;-;-;-;-;-;-;-;-;-;1;-;2;2;4;2;5;1;5;3;3
+C74;ZhoubnÃ½ novotvar nadledviny;17;-;-;-;-;-;1;-;-;-;-;-;1;-;1;4;3;2;-;2;1;1;1
+C75;ZhoubnÃ½ novotvar jinÃ½ch Å¾lÃ¡z s vnitÅ™nÃ­ sekrecÃ­ a pÅ™Ã­buznÃ½ch struktur;4;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;2;-;-
+C76;"ZhoubnÃ½ novotvar jinÃ½ch a nepÅ™esnÄ› urÄenÃ½ch lokalizacÃ­ ";49;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;4;6;10;6;9;5;4
+C77;SekundÃ¡rnÃ­ a neurÄenÃ½ zhoubnÃ½ novotvar mÃ­znÃ­ch uzlin;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-
+C78;"SekundÃ¡rnÃ­ zhoubnÃ½ novotvar dÃ½chacÃ­ 
+a trÃ¡vicÃ­ soustavy ";14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;1;5;1;2;1
+C79;SekundÃ¡rnÃ­ zhoubnÃ½ novotvar jinÃ½ch lokalizacÃ­;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;-;-;1;-;-
+C80;ZhoubnÃ½ novotvar bez urÄenÃ­ lokalizace;385;-;-;-;-;-;1;-;-;1;2;2;-;5;16;20;52;56;45;64;50;42;29
 C81;Hodgkinova nemoc;32;-;-;-;-;-;-;-;1;1;-;2;-;3;1;-;3;4;4;5;3;4;1
-C82;"Ne-Hodgkinùv folikulární (nodulární) lymfom ";38;-;-;-;-;-;-;-;-;-;-;1;-;1;1;3;2;2;2;7;9;8;2
-C83;Ne-Hodgkinùv (difúzní) lymfom;91;-;-;1;-;-;1;-;-;2;-;1;-;1;1;7;15;9;16;12;19;5;1
-C84;Periferní a koní T- bunìèné lymfomy;21;-;-;-;-;-;-;-;-;2;1;-;-;-;1;3;2;5;-;3;1;3;-
-C85;Ne-Hodgkinùv lymfom, jinıch a neurèenıch typù;101;-;-;-;-;-;-;-;-;1;-;1;-;-;1;6;9;9;15;18;19;19;3
-C88;Zhoubné imunoproliferativní nemoci;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2;2;3;2;2
-C90;Mnohoèetnı myelom a plasmocytární  novotvary;145;-;-;-;-;-;-;-;-;-;-;-;-;3;6;6;12;16;18;22;38;17;7
-C91;Lymfoidní leukémie;214;1;-;-;2;-;2;-;1;2;2;3;3;-;1;4;15;23;28;30;46;31;20
-C92;Myeloidní leukémie;184;-;-;-;-;-;-;1;-;-;3;1;4;1;3;12;11;33;20;32;29;24;10
-C93;Monocytární leukémie;10;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;3;2;2;-;-;1
-C94;Jiné leukémie urèenıch bunìènıch typù;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;-;1;2
-C95;Leukémie neurèeného bunìèného typu;38;-;-;-;-;-;-;-;1;-;-;-;-;1;-;1;3;2;4;6;9;8;3
-C96;"Jiné zhoubné novotvary mízní, krvetvorné 
-a pøíbuzné tkánì";18;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;2;2;1;4;1;4;2
-C97;"Zhoubné novotvary mnohoèetnıch samostatnıch (primárních) lokalit ";35;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;4;3;5;11;3;5
-D00;"Carcinoma in situ dutiny ústní, jícnu 
-a aludku";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-
-D01;"Carcinoma in situ jinıch a neurèenıch trávicích orgánù ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D02;"Carcinoma in situ støedního ucha ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+C82;"Ne-HodgkinÅ¯v folikulÃ¡rnÃ­ (nodulÃ¡rnÃ­) lymfom ";38;-;-;-;-;-;-;-;-;-;-;1;-;1;1;3;2;2;2;7;9;8;2
+C83;Ne-HodgkinÅ¯v (difÃºznÃ­) lymfom;91;-;-;1;-;-;1;-;-;2;-;1;-;1;1;7;15;9;16;12;19;5;1
+C84;PerifernÃ­ a koÅ¾nÃ­ T- bunÄ›ÄnÃ© lymfomy;21;-;-;-;-;-;-;-;-;2;1;-;-;-;1;3;2;5;-;3;1;3;-
+C85;Ne-HodgkinÅ¯v lymfom, jinÃ½ch a neurÄenÃ½ch typÅ¯;101;-;-;-;-;-;-;-;-;1;-;1;-;-;1;6;9;9;15;18;19;19;3
+C88;ZhoubnÃ© imunoproliferativnÃ­ nemoci;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2;2;3;2;2
+C90;MnohoÄetnÃ½ myelom a plasmocytÃ¡rnÃ­  novotvary;145;-;-;-;-;-;-;-;-;-;-;-;-;3;6;6;12;16;18;22;38;17;7
+C91;LymfoidnÃ­ leukÃ©mie;214;1;-;-;2;-;2;-;1;2;2;3;3;-;1;4;15;23;28;30;46;31;20
+C92;MyeloidnÃ­ leukÃ©mie;184;-;-;-;-;-;-;1;-;-;3;1;4;1;3;12;11;33;20;32;29;24;10
+C93;MonocytÃ¡rnÃ­ leukÃ©mie;10;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;3;2;2;-;-;1
+C94;JinÃ© leukÃ©mie urÄenÃ½ch bunÄ›ÄnÃ½ch typÅ¯;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;-;1;2
+C95;LeukÃ©mie neurÄenÃ©ho bunÄ›ÄnÃ©ho typu;38;-;-;-;-;-;-;-;1;-;-;-;-;1;-;1;3;2;4;6;9;8;3
+C96;"JinÃ© zhoubnÃ© novotvary mÃ­znÃ­, krvetvornÃ© 
+a pÅ™Ã­buznÃ© tkÃ¡nÄ›";18;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;2;2;1;4;1;4;2
+C97;"ZhoubnÃ© novotvary mnohoÄetnÃ½ch samostatnÃ½ch (primÃ¡rnÃ­ch) lokalit ";35;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;4;3;5;11;3;5
+D00;"Carcinoma in situ dutiny ÃºstnÃ­, jÃ­cnu 
+a Å¾aludku";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-
+D01;"Carcinoma in situ jinÃ½ch a neurÄenÃ½ch trÃ¡vicÃ­ch orgÃ¡nÅ¯ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D02;"Carcinoma in situ stÅ™ednÃ­ho ucha ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 D03;Melanoma in situ;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-D04;Carcinoma in situ kùe;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+D04;Carcinoma in situ kÅ¯Å¾e;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
 D05;Carcinoma in situ prsu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D06;"Carcinoma in situ - hrdla dìloního 
+D06;"Carcinoma in situ - hrdla dÄ›loÅ¾nÃ­ho 
 - cervicis uteri ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D07;"Carcinoma in situ jinıch a neurèenıch pohlavních orgánù ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D09;"Carcinoma in situ jinıch a neurèenıch lokalizací ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D10;Nezhoubnı novotvar úst a hltanu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D11;Nezhoubnı novotvar velké slinné lázy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-D12;Nezhoubnı novotvar tlustého støeva, koneèníku, øitního kanálu a øiti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D13;Nezhoubnı novotvar jinıch a nepøesnì urèenıch èástí trávicí soustavy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-
-D14;"Nezhoubnı novotvar støedního ucha 
-a dıchací soustavy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D15;"Nezhoubnı novotvar jinıch neurèenıch nitrohrudních orgánù ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
-D16;Nezhoubnı novotvar kosti a kloubní chrupavky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D17;Nezhoubnı lipomatózní novotvar;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-D18;Hemangiom a lymfangiom kterékoliv lokalizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D21;"Jiné nezhoubné nádory pojivové 
-a jinıch mìkkıch tkání";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
-D22;Melanocytové névy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D23;Jiné nezhoubné novotvary kùe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D24;Nezhoubné novotvary prsu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D25;Leiomyom dìlohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D26;Jiné nezhoubné novotvary dìlohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D27;Nezhoubnı novotvar vajeèníku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D28;Nezhoubnı novotvar jinıch a neurèenıch enskıch pohlavních orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D29;"Nezhoubné novotvary muskıch 
-pohlavních orgánù ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D30;Nezhoubnı novotvar moèovıch orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D32;"Nezhoubnı novotvar mozkomíšních plen ";11;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;4;2;1;-
-D33;"Nezhoubnı novotvar mozku a jinıch èástí centrální nervové soustavy ";3;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;1;-;-
-D34;Nezhoubnı novotvar štítné lázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D35;"Nezhoubnı novotvar jinıch 
-a neurèenıch láz s vnitøní sekrecí";4;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;1;1;-;-;-
-D36;"Nezhoubnı novotvar jinıch 
-a neurèenıch lokalizací ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D37;"Novotvar nejistého nebo neznámého chování dutiny ústní a trávících  orgánù ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;1;1;-
-D38;"Novotvar nejistého nebo neznámého chování støedního ucha, dıchacích 
-a nitrohrudních orgánù";8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;1;2;2;-
-D39;"Novotvar nejistého nebo neznámého chování enskıch pohlavních orgánù ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D40;Novotvar nejistého nebo neznámého chování muskıch pohlavních orgánù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-D41;Novotvar nejistého nebo neznámého chování mozkomíšních plen;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-D42;"Novotvar nejistého nebo neznámého chování mozkomíšních plen ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D43;"Novotvar nejistého nebo neznámého chování mozku a CNS ";9;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;1;-;3;1;-
-D44;"Novotvar nejistého nebo neznámého chování láz s vnitøní sekrecí ";3;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;1
+D07;"Carcinoma in situ jinÃ½ch a neurÄenÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D09;"Carcinoma in situ jinÃ½ch a neurÄenÃ½ch lokalizacÃ­ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D10;NezhoubnÃ½ novotvar Ãºst a hltanu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D11;NezhoubnÃ½ novotvar velkÃ© slinnÃ© Å¾lÃ¡zy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+D12;NezhoubnÃ½ novotvar tlustÃ©ho stÅ™eva, koneÄnÃ­ku, Å™itnÃ­ho kanÃ¡lu a Å™iti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D13;NezhoubnÃ½ novotvar jinÃ½ch a nepÅ™esnÄ› urÄenÃ½ch ÄÃ¡stÃ­ trÃ¡vicÃ­ soustavy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-
+D14;"NezhoubnÃ½ novotvar stÅ™ednÃ­ho ucha 
+a dÃ½chacÃ­ soustavy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D15;"NezhoubnÃ½ novotvar jinÃ½ch neurÄenÃ½ch nitrohrudnÃ­ch orgÃ¡nÅ¯ ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+D16;NezhoubnÃ½ novotvar kosti a kloubnÃ­ chrupavky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D17;NezhoubnÃ½ lipomatÃ³znÃ­ novotvar;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+D18;Hemangiom a lymfangiom kterÃ©koliv lokalizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D21;"JinÃ© nezhoubnÃ© nÃ¡dory pojivovÃ© 
+a jinÃ½ch mÄ›kkÃ½ch tkÃ¡nÃ­";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+D22;MelanocytovÃ© nÃ©vy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D23;JinÃ© nezhoubnÃ© novotvary kÅ¯Å¾e;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D24;NezhoubnÃ© novotvary prsu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D25;Leiomyom dÄ›lohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D26;JinÃ© nezhoubnÃ© novotvary dÄ›lohy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D27;NezhoubnÃ½ novotvar vajeÄnÃ­ku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D28;NezhoubnÃ½ novotvar jinÃ½ch a neurÄenÃ½ch Å¾enskÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D29;"NezhoubnÃ© novotvary muÅ¾skÃ½ch 
+pohlavnÃ­ch orgÃ¡nÅ¯ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D30;NezhoubnÃ½ novotvar moÄovÃ½ch orgÃ¡nÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D32;"NezhoubnÃ½ novotvar mozkomÃ­Å¡nÃ­ch plen ";11;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;4;2;1;-
+D33;"NezhoubnÃ½ novotvar mozku a jinÃ½ch ÄÃ¡stÃ­ centrÃ¡lnÃ­ nervovÃ© soustavy ";3;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;1;-;-
+D34;NezhoubnÃ½ novotvar Å¡tÃ­tnÃ© Å¾lÃ¡zy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D35;"NezhoubnÃ½ novotvar jinÃ½ch 
+a neurÄenÃ½ch Å¾lÃ¡z s vnitÅ™nÃ­ sekrecÃ­";4;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;1;1;-;-;-
+D36;"NezhoubnÃ½ novotvar jinÃ½ch 
+a neurÄenÃ½ch lokalizacÃ­ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D37;"Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ dutiny ÃºstnÃ­ a trÃ¡vÃ­cÃ­ch  orgÃ¡nÅ¯ ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;1;1;-
+D38;"Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ stÅ™ednÃ­ho ucha, dÃ½chacÃ­ch 
+a nitrohrudnÃ­ch orgÃ¡nÅ¯";8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;1;2;2;-
+D39;"Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ Å¾enskÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D40;Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ muÅ¾skÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+D41;Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ mozkomÃ­Å¡nÃ­ch plen;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+D42;"Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ mozkomÃ­Å¡nÃ­ch plen ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D43;"Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ mozku a CNS ";9;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;1;-;3;1;-
+D44;"Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ Å¾lÃ¡z s vnitÅ™nÃ­ sekrecÃ­ ";3;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;1;1
 D45;Polycythaemia vera;4;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;1;-;-;-;1;-
-D46;Myelodysplastické syndromy;50;-;-;-;-;-;-;-;-;-;1;-;-;1;2;1;2;2;7;9;11;7;7
-D47;Jiné novotvary nejistého nebo neznámého chování mízní, krvetvorné a pøíbuzné tkánì;20;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;3;2;1;5;3;3
-D48;"Novotvar nejistého nebo neznámého chování jinıch a neurèenıch lokalizací ";8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;2;2;1;-
+D46;MyelodysplastickÃ© syndromy;50;-;-;-;-;-;-;-;-;-;1;-;-;1;2;1;2;2;7;9;11;7;7
+D47;JinÃ© novotvary nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ mÃ­znÃ­, krvetvornÃ© a pÅ™Ã­buznÃ© tkÃ¡nÄ›;20;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;3;2;1;5;3;3
+D48;"Novotvar nejistÃ©ho nebo neznÃ¡mÃ©ho chovÃ¡nÃ­ jinÃ½ch a neurÄenÃ½ch lokalizacÃ­ ";8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;2;2;1;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-III;"Nemoci krve, krvetvornıch orgánù 
-a nìkteré poruchy tıkající se mechanismu imunity";43;-;-;-;-;-;-;-;-;-;1;2;1;-;2;2;-;4;2;9;9;5;6
-D50;Anémie z nedostatku eleza;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1
-D51;Anémie z nedostatku vitaminu  B12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D52;Anémie z nedostatku kyseliny listové;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D53;Jiné nutrièní anémie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-D55;Anémie zpùsobená poruchami enzymù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D56;Thalasémie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D57;Srpkovité poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D58;Jiné dìdièné hemolytické anémie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D59;Získané hemolytické anémie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-D60;"Získaná èistá aplasie èervenıch krvinek (erytroblastopenie) ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D61;Jiné aplastické anémie;3;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;1;-;-
-D62;Akutní posthemorragická anémie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D64;Jiné anémie;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;1;2
-D65;"Diseminovaná intravaskulární koagulace (Defibrinaèní syndrom) ";4;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;1;1;-;-;-
-D66;Dìdiènı nedostatek faktoru VIII.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D67;Dìdiènı nedostatek faktoru IX.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D68;Jiné vady koagulace;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;-;2
-D69;Purpura a jiné krvácivé stavy;8;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;2;1;1;-
-D70;Agranulocytóza;2;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-
-D72;Jiné poruchy bílıch krvinek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+III;"Nemoci krve, krvetvornÃ½ch orgÃ¡nÅ¯ 
+a nÄ›kterÃ© poruchy tÃ½kajÃ­cÃ­ se mechanismu imunity";43;-;-;-;-;-;-;-;-;-;1;2;1;-;2;2;-;4;2;9;9;5;6
+D50;AnÃ©mie z nedostatku Å¾eleza;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1
+D51;AnÃ©mie z nedostatku vitaminu  B12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D52;AnÃ©mie z nedostatku kyseliny listovÃ©;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D53;JinÃ© nutriÄnÃ­ anÃ©mie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+D55;AnÃ©mie zpÅ¯sobenÃ¡ poruchami enzymÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D56;ThalasÃ©mie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D57;SrpkovitÃ© poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D58;JinÃ© dÄ›diÄnÃ© hemolytickÃ© anÃ©mie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D59;ZÃ­skanÃ© hemolytickÃ© anÃ©mie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+D60;"ZÃ­skanÃ¡ ÄistÃ¡ aplasie ÄervenÃ½ch krvinek (erytroblastopenie) ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D61;JinÃ© aplastickÃ© anÃ©mie;3;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;1;-;-
+D62;AkutnÃ­ posthemorragickÃ¡ anÃ©mie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D64;JinÃ© anÃ©mie;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;1;2
+D65;"DiseminovanÃ¡ intravaskulÃ¡rnÃ­ koagulace (DefibrinaÄnÃ­ syndrom) ";4;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;1;1;-;-;-
+D66;DÄ›diÄnÃ½ nedostatek faktoru VIII.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D67;DÄ›diÄnÃ½ nedostatek faktoru IX.;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D68;JinÃ© vady koagulace;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;-;2
+D69;Purpura a jinÃ© krvÃ¡civÃ© stavy;8;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;1;2;1;1;-
+D70;AgranulocytÃ³za;2;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-
+D72;JinÃ© poruchy bÃ­lÃ½ch krvinek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 D73;Nemoci sleziny;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-
-D75;"Jiné nemoci krve a krvetvornıch orgánù ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;-;1
-D76;"Nìkteré nemoci postihující lymforetikulární tkáò a retikulohistiocytární systém ";2;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1;-
-D80;"Imunodeficience s pøevahou poruch protilátek ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D81;Kombinované poruchy imunity;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D82;Imunodeficience spojené s jinımi velkımi poruchami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D83;Bìná variabilní imunodeficience (CVID);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-D84;Jiné poruchy imunity;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
-D86;Sarkoidóza - sarcoidosis;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-D89;"Jiné poruchy imunitního mechanismu jinde nezaøazené ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D75;"JinÃ© nemoci krve a krvetvornÃ½ch orgÃ¡nÅ¯ ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;-;1
+D76;"NÄ›kterÃ© nemoci postihujÃ­cÃ­ lymforetikulÃ¡rnÃ­ tkÃ¡Åˆ a retikulohistiocytÃ¡rnÃ­ systÃ©m ";2;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;1;-
+D80;"Imunodeficience s pÅ™evahou poruch protilÃ¡tek ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D81;KombinovanÃ© poruchy imunity;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D82;Imunodeficience spojenÃ© s jinÃ½mi velkÃ½mi poruchami;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D83;BÄ›Å¾nÃ¡ variabilnÃ­ imunodeficience (CVID);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+D84;JinÃ© poruchy imunity;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+D86;SarkoidÃ³za - sarcoidosis;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+D89;"JinÃ© poruchy imunitnÃ­ho mechanismu jinde nezaÅ™azenÃ© ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-IV;"Nemoci endokrinní, vıivy a pøemìny látek ";691;-;1;2;1;-;1;1;3;-;3;3;6;6;11;26;52;75;79;102;143;122;54
-E00;Vrozenı syndrom z jodové karence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E01;"Poruchy štítné lázy a pøíbuzné stavy spojené s jodovou karencí ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E03;Jiná hypotyreóza;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-E04;Jiná netoxická struma;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E05;Tyreotoxikóza (Hypertyreóza);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E06;Thyreoiditis - zánìt štítné lázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E07;Jiné poruchy štítné lázy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E10;Diabetes mellitus závislı na insulinu;396;-;-;-;-;-;-;-;-;-;3;3;5;3;8;16;36;52;53;56;78;60;23
-E11;Diabetes mellitus nezávislı na insulinu;221;-;-;-;-;-;-;-;-;-;-;-;-;2;1;6;11;16;19;34;53;52;27
-E12;Diabetes mellitus spojenı s podvıivou;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-
-E13;Jinı urèenı diabetes mellitus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E14;Neurèenı diabetes mellitus;37;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;3;5;6;9;7;3
-E15;Nediabetické hypoglykemické koma;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E16;"Jiné poruchy vnitøní sekrece slinivky bøišní ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E20;Hypoparatyreóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E21;Hyperparatyreóza a jiné nemoci pøíštipnıch tìlísek - paratyreoidey;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-E22;Hyperfunkce hypofızy - glandulae pituitariae - podvìsku mozkového;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E23;Hypofunkce a jiné poruchy hypofızy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-E24;Cushingùv syndrom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E25;Adrenogenitální poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+IV;"Nemoci endokrinnÃ­, vÃ½Å¾ivy a pÅ™emÄ›ny lÃ¡tek ";691;-;1;2;1;-;1;1;3;-;3;3;6;6;11;26;52;75;79;102;143;122;54
+E00;VrozenÃ½ syndrom z jodovÃ© karence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E01;"Poruchy Å¡tÃ­tnÃ© Å¾lÃ¡zy a pÅ™Ã­buznÃ© stavy spojenÃ© s jodovou karencÃ­ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E03;JinÃ¡ hypotyreÃ³za;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+E04;JinÃ¡ netoxickÃ¡ struma;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E05;TyreotoxikÃ³za (HypertyreÃ³za);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E06;Thyreoiditis - zÃ¡nÄ›t Å¡tÃ­tnÃ© Å¾lÃ¡zy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E07;JinÃ© poruchy Å¡tÃ­tnÃ© Å¾lÃ¡zy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E10;Diabetes mellitus zÃ¡vislÃ½ na insulinu;396;-;-;-;-;-;-;-;-;-;3;3;5;3;8;16;36;52;53;56;78;60;23
+E11;Diabetes mellitus nezÃ¡vislÃ½ na insulinu;221;-;-;-;-;-;-;-;-;-;-;-;-;2;1;6;11;16;19;34;53;52;27
+E12;Diabetes mellitus spojenÃ½ s podvÃ½Å¾ivou;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-
+E13;JinÃ½ urÄenÃ½ diabetes mellitus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E14;NeurÄenÃ½ diabetes mellitus;37;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;3;5;6;9;7;3
+E15;NediabetickÃ© hypoglykemickÃ© koma;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E16;"JinÃ© poruchy vnitÅ™nÃ­ sekrece slinivky bÅ™iÅ¡nÃ­ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E20;HypoparatyreÃ³za;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E21;HyperparatyreÃ³za a jinÃ© nemoci pÅ™Ã­Å¡tipnÃ½ch tÄ›lÃ­sek - paratyreoidey;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+E22;Hyperfunkce hypofÃ½zy - glandulae pituitariae - podvÄ›sku mozkovÃ©ho;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E23;Hypofunkce a jinÃ© poruchy hypofÃ½zy;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+E24;CushingÅ¯v syndrom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E25;AdrenogenitÃ¡lnÃ­ poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 E26;Hyperaldosteronismus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E27;"Jiné poruchy nadledviny - glandulae suprarenalis ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E32;Nemoci thymu - brzlíku;1;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E34;Jiné endokrinní poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E27;"JinÃ© poruchy nadledviny - glandulae suprarenalis ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E32;Nemoci thymu - brzlÃ­ku;1;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E34;JinÃ© endokrinnÃ­ poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 E40;Kvashiorkor;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E41;Nutrièní marasmus;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
-E42;Marasmickı kvashiorkor;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E43;"Nespecifikovaná tìká protein 
-- energetická podvıiva ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E46;Neurèená podvıiva;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-
+E41;NutriÄnÃ­ marasmus;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
+E42;MarasmickÃ½ kvashiorkor;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E43;"NespecifikovanÃ¡ tÄ›Å¾kÃ¡ protein 
+- energetickÃ¡ podvÃ½Å¾iva ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E46;NeurÄenÃ¡ podvÃ½Å¾iva;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-
 E51;Karence thiaminu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E54;Karence kyseliny askorbové;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E58;Nutrièní karence kalcia;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E63;Jiné nutrièní karence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E64;Následky podvıivy a jinıch nutrièních karencí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E54;Karence kyseliny askorbovÃ©;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E58;NutriÄnÃ­ karence kalcia;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E63;JinÃ© nutriÄnÃ­ karence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E64;NÃ¡sledky podvÃ½Å¾ivy a jinÃ½ch nutriÄnÃ­ch karencÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 E66;Obezita - otylost;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-;-
-E70;Poruchy metabolismu aromatickıch aminokyselin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E70;Poruchy metabolismu aromatickÃ½ch aminokyselin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 E71;"Poruchy metabolismu aminokyselin 
-s rozvìtvenım øetìzcem a metabolismu mastnıch kyselin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E72;Jiné poruchy metabolismu aminokyselin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E74;Jiné poruchy metabolismu uhlovodanù;2;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E75;"Poruchy metabolismu sfingolipidù 
-a jiné poruchy ukládání lipidù ";2;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+s rozvÄ›tvenÃ½m Å™etÄ›zcem a metabolismu mastnÃ½ch kyselin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E72;JinÃ© poruchy metabolismu aminokyselin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E74;JinÃ© poruchy metabolismu uhlovodanÅ¯;2;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E75;"Poruchy metabolismu sfingolipidÅ¯ 
+a jinÃ© poruchy uklÃ¡dÃ¡nÃ­ lipidÅ¯ ";2;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 E76;Poruchy metabolismu glykosaminoglykanu;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E77;Poruchy metabolismu glykoproteinù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E78;"Poruchy metabolismu lipoproteinù 
-a jiné lipidémie ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+E77;Poruchy metabolismu glykoproteinÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E78;"Poruchy metabolismu lipoproteinÅ¯ 
+a jinÃ© lipidÃ©mie ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
 E79;"Poruchy metabolismu purinu a pyrimidinu ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 E80;"Poruchy metabolismu porfyrinu a bilirubinu ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E83;Poruchy metabolismu minerálù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E84;Cystická fibróza;2;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-
-E85;Amyloidóza;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;2;-;-
-E86;Sníení objemu plazmy nebo extracelulární tekutiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-E87;"Jiné poruchy tekutin, elektrolytù 
-a acidobasické rovnováhy ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;2;-;-;-;-
-E88;Jiné poruchy metabolismu;6;-;1;1;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;-;1
+E83;Poruchy metabolismu minerÃ¡lÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E84;CystickÃ¡ fibrÃ³za;2;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-
+E85;AmyloidÃ³za;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;2;-;-
+E86;SnÃ­Å¾enÃ­ objemu plazmy nebo extracelulÃ¡rnÃ­ tekutiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+E87;"JinÃ© poruchy tekutin, elektrolytÅ¯ 
+a acidobasickÃ© rovnovÃ¡hy ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;2;-;-;-;-
+E88;JinÃ© poruchy metabolismu;6;-;1;1;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;-;1
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-V;"Poruchy duševní a poruchy chování ";167;-;-;-;-;-;-;-;-;-;1;1;7;19;20;34;33;21;14;9;7;1;-
-F01;Vaskulární demence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F03;Neurèená demence;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-F05;"Delirium, které není vyvolané alkoholem 
-nebo jinımi psychoaktivními látkami";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
-F10;Poruchy duševní a poruchy chování zpùsobené uíváním alkoholu;157;-;-;-;-;-;-;-;-;-;-;1;7;18;20;31;32;19;14;8;6;1;-
-F11;"Poruchy duševní a poruchy chování zpùsobené uíváním opioidù ";1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
-F12;Poruchy duševní a poruchy chování zpùsobené uíváním kanabinoidù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-F13;"Poruchy duševní a poruchy chování zpùsobené uíváním sedativ nebo hypnotik ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F15;"Poruchy duševní a poruchy chování 
-zpùsobené uíváním jinıch stimulancií vèetnì kofeinu";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F18;Poruchy duševní a poruchy chování zpùsobené uíváním  prchavıch rozpustidel;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F19;"Poruchy duševní a poruchy chování zpùsobené uíváním více drog 
-a psychoaktivních látek";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+V;"Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ ";167;-;-;-;-;-;-;-;-;-;1;1;7;19;20;34;33;21;14;9;7;1;-
+F01;VaskulÃ¡rnÃ­ demence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F03;NeurÄenÃ¡ demence;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+F05;"Delirium, kterÃ© nenÃ­ vyvolanÃ© alkoholem 
+nebo jinÃ½mi psychoaktivnÃ­mi lÃ¡tkami";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+F10;Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ zpÅ¯sobenÃ© uÅ¾Ã­vÃ¡nÃ­m alkoholu;157;-;-;-;-;-;-;-;-;-;-;1;7;18;20;31;32;19;14;8;6;1;-
+F11;"Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ zpÅ¯sobenÃ© uÅ¾Ã­vÃ¡nÃ­m opioidÅ¯ ";1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+F12;Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ zpÅ¯sobenÃ© uÅ¾Ã­vÃ¡nÃ­m kanabinoidÅ¯;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+F13;"Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ zpÅ¯sobenÃ© uÅ¾Ã­vÃ¡nÃ­m sedativ nebo hypnotik ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F15;"Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ 
+zpÅ¯sobenÃ© uÅ¾Ã­vÃ¡nÃ­m jinÃ½ch stimulanciÃ­ vÄetnÄ› kofeinu";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F18;Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ zpÅ¯sobenÃ© uÅ¾Ã­vÃ¡nÃ­m  prchavÃ½ch rozpustidel;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F19;"Poruchy duÅ¡evnÃ­ a poruchy chovÃ¡nÃ­ zpÅ¯sobenÃ© uÅ¾Ã­vÃ¡nÃ­m vÃ­ce drog 
+a psychoaktivnÃ­ch lÃ¡tek";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 F20;Schizofrenie;6;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;1;2;-;-;-;-;-
-F32;Depresivní fáze;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F33;Periodická depresivní porucha;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F50;Poruchy pøijímání jídla;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F71;Støední mentální retardace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F72;Tìká mentální retardace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F73;Hluboká mentální retardace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-F84;Pervazivní vıvojové poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F32;DepresivnÃ­ fÃ¡ze;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F33;PeriodickÃ¡ depresivnÃ­ porucha;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F50;Poruchy pÅ™ijÃ­mÃ¡nÃ­ jÃ­dla;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F71;StÅ™ednÃ­ mentÃ¡lnÃ­ retardace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F72;TÄ›Å¾kÃ¡ mentÃ¡lnÃ­ retardace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F73;HlubokÃ¡ mentÃ¡lnÃ­ retardace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+F84;PervazivnÃ­ vÃ½vojovÃ© poruchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-VI;Nemoci nervové soustavy;913;7;3;1;1;2;4;7;10;17;12;9;21;26;38;51;55;74;74;110;152;153;86
-G00;"Bakteriální zánìt mozkovıch a míšních plen 
-- bakteriální meningitida 
-- nezaøaditelnı(-á) jinam ";24;-;-;-;-;-;-;1;2;-;-;-;-;2;2;4;5;1;2;2;1;2;-
-G03;"Meningitis zpùsobená jinımi a neurèenımi pøíèinami ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-G04;Zánìt mozku, míchy a mozku i míchy - encefalitis myelitis a encefalomyelitis;11;-;-;-;-;-;-;-;-;-;-;-;-;1;4;-;1;1;1;1;1;1;-
-G06;"Nitrolební a nitropáteøní hlíza a granulom ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;-;-;1;-;-
-G08;"Flebitis a tromboflebitis intrakraniální 
-a intraspinální";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G09;Následky zánìtlivıch nemocí cévní nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+VI;Nemoci nervovÃ© soustavy;913;7;3;1;1;2;4;7;10;17;12;9;21;26;38;51;55;74;74;110;152;153;86
+G00;"BakteriÃ¡lnÃ­ zÃ¡nÄ›t mozkovÃ½ch a mÃ­Å¡nÃ­ch plen 
+- bakteriÃ¡lnÃ­ meningitida 
+- nezaÅ™aditelnÃ½(-Ã¡) jinam ";24;-;-;-;-;-;-;1;2;-;-;-;-;2;2;4;5;1;2;2;1;2;-
+G03;"Meningitis zpÅ¯sobenÃ¡ jinÃ½mi a neurÄenÃ½mi pÅ™Ã­Äinami ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+G04;ZÃ¡nÄ›t mozku, mÃ­chy a mozku i mÃ­chy - encefalitis myelitis a encefalomyelitis;11;-;-;-;-;-;-;-;-;-;-;-;-;1;4;-;1;1;1;1;1;1;-
+G06;"NitrolebnÃ­ a nitropÃ¡teÅ™nÃ­ hlÃ­za a granulom ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;3;-;-;1;-;-
+G08;"Flebitis a tromboflebitis intrakraniÃ¡lnÃ­ 
+a intraspinÃ¡lnÃ­";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G09;NÃ¡sledky zÃ¡nÄ›tlivÃ½ch nemocÃ­ cÃ©vnÃ­ nervovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 G10;Huntingtonova nemoc;8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;-;3;1;-;1;-
-G11;Dìdièná ataxie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-G12;"Míšní svalová atrofie a pøíbuzné syndromy ";33;2;-;-;-;-;-;-;-;1;-;1;-;-;-;2;1;10;5;4;5;2;-
+G11;DÄ›diÄnÃ¡ ataxie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+G12;"MÃ­Å¡nÃ­ svalovÃ¡ atrofie a pÅ™Ã­buznÃ© syndromy ";33;2;-;-;-;-;-;-;-;1;-;1;-;-;-;2;1;10;5;4;5;2;-
 G20;Parkinsonova nemoc;126;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;5;5;24;38;35;19
-G21;Sekundární parkinsonismus;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;3
-G23;Jiné degenerativní nemoci  bazálních ganglií;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1
+G21;SekundÃ¡rnÃ­ parkinsonismus;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;2;3
+G23;JinÃ© degenerativnÃ­ nemoci  bazÃ¡lnÃ­ch gangliÃ­;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1
 G24;Dystonie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G25;Jiné extrapyramidové a pohybové  poruchy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-
+G25;JinÃ© extrapyramidovÃ© a pohybovÃ©  poruchy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-
 G30;Alzheimerova nemoc;298;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;4;15;22;48;66;88;54
-G31;"Jiné degenerativní nemoci nervové soustavy, nezaøazené jinde ";22;1;1;-;1;-;-;-;-;-;-;-;-;1;-;1;2;4;2;3;4;1;1
-G35;Roztroušená skleróza - sclerosis multiplex;36;-;-;-;-;-;-;-;-;-;-;1;3;1;3;7;3;5;4;4;3;2;-
-G36;Jiná akutní roztroušená demyelinizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G37;"Jiné demyelinizující nemoci centrální 
-nervové soustavy ";9;-;-;-;-;-;-;-;-;-;2;-;-;-;-;3;1;1;-;2;-;-;-
+G31;"JinÃ© degenerativnÃ­ nemoci nervovÃ© soustavy, nezaÅ™azenÃ© jinde ";22;1;1;-;1;-;-;-;-;-;-;-;-;1;-;1;2;4;2;3;4;1;1
+G35;RoztrouÅ¡enÃ¡ sklerÃ³za - sclerosis multiplex;36;-;-;-;-;-;-;-;-;-;-;1;3;1;3;7;3;5;4;4;3;2;-
+G36;JinÃ¡ akutnÃ­ roztrouÅ¡enÃ¡ demyelinizace;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G37;"JinÃ© demyelinizujÃ­cÃ­ nemoci centrÃ¡lnÃ­ 
+nervovÃ© soustavy ";9;-;-;-;-;-;-;-;-;-;2;-;-;-;-;3;1;1;-;2;-;-;-
 G40;Epilepsie - padoucnice;86;1;1;-;-;-;1;1;-;7;3;4;8;11;12;11;8;4;5;4;2;1;2
 G41;Status epilepticus;9;-;-;-;-;-;-;-;-;-;-;-;2;1;1;1;2;1;1;-;-;-;-
-G45;"Pøechodné mozkové ischemické záchvaty 
-a pøíbuzné syndromy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G50;Poruchy trojklanného nervu - nervi trigemini;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G52;Poruchy jinıch mozkovıch nervù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G56;Mononeuropatie horní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G57;Mononeuropatie dolní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G60;Dìdièná a idiopatická neuropatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-G61;Zánìtlivá polyneuropatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
-G62;Jiné polyneuropatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G64;Jiné nemoci periferní nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G70;"Myasthenia gravis a jiné myoneurální poruchy ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;-;1;-;-
-G71;Primární poruchy svalù;8;-;-;-;-;-;-;1;2;3;1;-;-;-;-;1;-;-;-;-;-;-;-
-G72;Jiné myopatie;2;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-G80;Dìtská mozková obrna;10;-;-;1;-;-;3;3;2;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+G45;"PÅ™echodnÃ© mozkovÃ© ischemickÃ© zÃ¡chvaty 
+a pÅ™Ã­buznÃ© syndromy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G50;Poruchy trojklannÃ©ho nervu - nervi trigemini;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G52;Poruchy jinÃ½ch mozkovÃ½ch nervÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G56;Mononeuropatie hornÃ­ konÄetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G57;Mononeuropatie dolnÃ­ konÄetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G60;DÄ›diÄnÃ¡ a idiopatickÃ¡ neuropatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+G61;ZÃ¡nÄ›tlivÃ¡ polyneuropatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+G62;JinÃ© polyneuropatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G64;JinÃ© nemoci perifernÃ­ nervovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G70;"Myasthenia gravis a jinÃ© myoneurÃ¡lnÃ­ poruchy ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;3;-;1;-;-
+G71;PrimÃ¡rnÃ­ poruchy svalÅ¯;8;-;-;-;-;-;-;1;2;3;1;-;-;-;-;1;-;-;-;-;-;-;-
+G72;JinÃ© myopatie;2;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+G80;DÄ›tskÃ¡ mozkovÃ¡ obrna;10;-;-;1;-;-;3;3;2;-;1;-;-;-;-;-;-;-;-;-;-;-;-
 G81;Hemiplegie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 G82;Paraplegie a tetraplegie;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
-G83;Jiné paralytické syndromy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-G90;Poruchy autonomní nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G83;JinÃ© paralytickÃ© syndromy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+G90;Poruchy autonomnÃ­ nervovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 G91;Hydrocefalus;11;1;-;-;-;1;-;1;-;1;-;-;-;-;-;1;-;-;-;4;2;-;-
-G92;Toxická encefalopatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-G93;Jiné poruchy mozku;179;2;1;-;-;-;-;-;3;4;5;2;8;8;14;16;21;21;19;12;23;14;6
-G95;Jiné nemoci míchy;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;-;1;-;1;-
-G96;"Jiné poruchy centrální nervové soustavy ";7;-;-;-;-;1;-;-;-;1;-;-;-;-;-;1;-;-;1;-;1;2;-
-G98;"Jiné poruchy nervové soustavy 
-nezaøazené jinam ";1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
+G92;ToxickÃ¡ encefalopatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+G93;JinÃ© poruchy mozku;179;2;1;-;-;-;-;-;3;4;5;2;8;8;14;16;21;21;19;12;23;14;6
+G95;JinÃ© nemoci mÃ­chy;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;-;1;-;1;-
+G96;"JinÃ© poruchy centrÃ¡lnÃ­ nervovÃ© soustavy ";7;-;-;-;-;1;-;-;-;1;-;-;-;-;-;1;-;-;1;-;1;2;-
+G98;"JinÃ© poruchy nervovÃ© soustavy 
+nezaÅ™azenÃ© jinam ";1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-VII;Nemoci oka a oèních adnex;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-H44;Nemoci oèního bulbu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+VII;Nemoci oka a oÄnÃ­ch adnex;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+H44;Nemoci oÄnÃ­ho bulbu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-VIII;Nemoci ucha a bradavkového vıbìku;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-H60;Zánìt zevního ucha - otitis externa;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-H66;"Hnisavı a neurèenı zánìt støedního ucha ";1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+VIII;Nemoci ucha a bradavkovÃ©ho vÃ½bÄ›Å¾ku;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+H60;ZÃ¡nÄ›t zevnÃ­ho ucha - otitis externa;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+H66;"HnisavÃ½ a neurÄenÃ½ zÃ¡nÄ›t stÅ™ednÃ­ho ucha ";1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-IX;Nemoci obìhové soustavy;23 810;5;1;-;-;2;2;5;8;9;22;48;88;192;419;890;1 612;2 092;2 272;3 120;4 268;4 586;4 169
-I01;Revmatická horeèka s postiením srdce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I02;Revmatická chorea;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I05;Revmatická vada mitrální chlopnì;11;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;1;4;2;1
-I06;Revmatická vada aortální chlopnì;17;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;3;3;4;1;3
-I07;"Revmatické nemoci -  trojcípé chlopnì 
+IX;Nemoci obÄ›hovÃ© soustavy;23Â 810;5;1;-;-;2;2;5;8;9;22;48;88;192;419;890;1Â 612;2Â 092;2Â 272;3Â 120;4Â 268;4Â 586;4Â 169
+I01;RevmatickÃ¡ horeÄka s postiÅ¾enÃ­m srdce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I02;RevmatickÃ¡ chorea;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I05;RevmatickÃ¡ vada mitrÃ¡lnÃ­ chlopnÄ›;11;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;1;4;2;1
+I06;RevmatickÃ¡ vada aortÃ¡lnÃ­ chlopnÄ›;17;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;3;3;4;1;3
+I07;"RevmatickÃ© nemoci -  trojcÃ­pÃ© chlopnÄ› 
 - valvulae tricuspidalis";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-I08;Mnohoèetná onemocnìní chlopní;22;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;3;2;1;4;4;3;2
-I09;Jiné revmatické nemoci srdce;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-
-I10;Esenciální (primární) hypertenze;108;-;-;-;-;-;-;-;-;-;-;1;-;-;2;1;12;9;10;22;24;17;10
-I11;Postiení srdce pøi hypertenzi;427;-;-;-;-;-;-;-;-;-;-;-;-;7;12;7;36;53;46;50;87;77;52
-I12;Postiení ledvin pøi hypertenzi;13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;-;3;1;5
-I13;Hypertenzní nemoc srdce a ledvin;33;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;3;3;2;6;8;4;4
-I15;Sekundární hypertenze;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I08;MnohoÄetnÃ¡ onemocnÄ›nÃ­ chlopnÃ­;22;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;3;2;1;4;4;3;2
+I09;JinÃ© revmatickÃ© nemoci srdce;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-
+I10;EsenciÃ¡lnÃ­ (primÃ¡rnÃ­) hypertenze;108;-;-;-;-;-;-;-;-;-;-;1;-;-;2;1;12;9;10;22;24;17;10
+I11;PostiÅ¾enÃ­ srdce pÅ™i hypertenzi;427;-;-;-;-;-;-;-;-;-;-;-;-;7;12;7;36;53;46;50;87;77;52
+I12;PostiÅ¾enÃ­ ledvin pÅ™i hypertenzi;13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;-;3;1;5
+I13;HypertenznÃ­ nemoc srdce a ledvin;33;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;3;3;2;6;8;4;4
+I15;SekundÃ¡rnÃ­ hypertenze;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 I20;Angina pectoris;27;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;2;1;4;3;1;7;6
-I21;Akutní infarkt myokardu;3781;-;-;-;-;-;-;-;-;3;2;3;16;40;110;218;380;459;444;585;588;563;370
-I22;Pokraèující infarkt myokardu;39;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;4;9;6;2;7;7;3
-I23;"Nìkteré komplikace následující akutní infarkt myokardu ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I24;Jiné akutní ischemické nemoci srdeèní;144;-;-;-;-;-;-;-;-;-;-;1;2;3;8;20;20;25;18;12;12;11;12
-I25;Chronická ischemická nemoc (choroba) srdeèní;7226;-;-;-;-;-;-;-;1;-;-;4;16;42;89;224;436;598;679;916;1293;1495;1433
-I26;Plicní embolie;623;-;-;-;-;-;-;-;1;1;3;3;4;11;15;34;41;68;55;79;119;109;80
-I27;Jiné kardiopulmonální nemoci;130;-;-;-;-;-;-;-;-;-;-;2;1;1;4;6;11;19;15;16;30;13;12
-I28;Jiné nemoci plicních cév;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;1
-I30;"Akutní zánìt osrdeèníku - pericarditis acuta ";7;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;3;-;2
-I31;Jiné nemoci - osrdeèníku - perikardu;34;-;-;-;-;-;-;-;-;-;-;-;-;1;3;4;4;3;3;3;8;3;2
-I33;"Akutní a subakutní - zánìt srdeèní nitroblány - endokarditis ";32;-;-;-;-;-;-;-;-;1;-;3;-;-;2;2;6;4;3;5;4;2;-
-I34;Nerevmatická onemocnìní - dvojcípé chlopnì - valvulae mitralis;26;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;1;3;3;3;7;4
-I35;"Nerevmatická onemocnìní aortální chlopnì ";96;-;-;-;-;-;-;-;-;-;1;1;2;-;-;2;6;5;8;9;25;26;11
-I36;"Nerevmatická onemocnìní - trojcípé chlopnì - valvulae tricuspidalis ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;2
-I37;Onemocnìní pulmonální chlopnì;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I38;Endokarditis neurèené chlopnì;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;1;-
-I40;"Akutní zánìt srdeèního svalu 
+I21;AkutnÃ­ infarkt myokardu;3781;-;-;-;-;-;-;-;-;3;2;3;16;40;110;218;380;459;444;585;588;563;370
+I22;PokraÄujÃ­cÃ­ infarkt myokardu;39;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;4;9;6;2;7;7;3
+I23;"NÄ›kterÃ© komplikace nÃ¡sledujÃ­cÃ­ akutnÃ­ infarkt myokardu ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I24;JinÃ© akutnÃ­ ischemickÃ© nemoci srdeÄnÃ­;144;-;-;-;-;-;-;-;-;-;-;1;2;3;8;20;20;25;18;12;12;11;12
+I25;ChronickÃ¡ ischemickÃ¡ nemoc (choroba) srdeÄnÃ­;7226;-;-;-;-;-;-;-;1;-;-;4;16;42;89;224;436;598;679;916;1293;1495;1433
+I26;PlicnÃ­ embolie;623;-;-;-;-;-;-;-;1;1;3;3;4;11;15;34;41;68;55;79;119;109;80
+I27;JinÃ© kardiopulmonÃ¡lnÃ­ nemoci;130;-;-;-;-;-;-;-;-;-;-;2;1;1;4;6;11;19;15;16;30;13;12
+I28;JinÃ© nemoci plicnÃ­ch cÃ©v;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;1
+I30;"AkutnÃ­ zÃ¡nÄ›t osrdeÄnÃ­ku - pericarditis acuta ";7;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;3;-;2
+I31;JinÃ© nemoci - osrdeÄnÃ­ku - perikardu;34;-;-;-;-;-;-;-;-;-;-;-;-;1;3;4;4;3;3;3;8;3;2
+I33;"AkutnÃ­ a subakutnÃ­ - zÃ¡nÄ›t srdeÄnÃ­ nitroblÃ¡ny - endokarditis ";32;-;-;-;-;-;-;-;-;1;-;3;-;-;2;2;6;4;3;5;4;2;-
+I34;NerevmatickÃ¡ onemocnÄ›nÃ­ - dvojcÃ­pÃ© chlopnÄ› - valvulae mitralis;26;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;1;3;3;3;7;4
+I35;"NerevmatickÃ¡ onemocnÄ›nÃ­ aortÃ¡lnÃ­ chlopnÄ› ";96;-;-;-;-;-;-;-;-;-;1;1;2;-;-;2;6;5;8;9;25;26;11
+I36;"NerevmatickÃ¡ onemocnÄ›nÃ­ - trojcÃ­pÃ© chlopnÄ› - valvulae tricuspidalis ";5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;-;2
+I37;OnemocnÄ›nÃ­ pulmonÃ¡lnÃ­ chlopnÄ›;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I38;Endokarditis neurÄenÃ© chlopnÄ›;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;1;1;-
+I40;"AkutnÃ­ zÃ¡nÄ›t srdeÄnÃ­ho svalu 
 - myokarditis acuta";7;1;-;-;-;-;-;-;-;-;-;1;1;1;-;-;1;-;-;1;-;-;1
 I42;Kardiomyopatie;173;2;-;-;-;-;1;2;2;-;1;4;4;5;8;22;28;28;18;15;17;11;5
-I44;Blokáda atrioventrikulární a levého raménka;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;2;-;1;1
-I45;"Jiné poruchy vedení srdeèních vzruchù ";3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-
-I46;Srdeèní zástava;357;-;-;-;-;-;-;-;1;-;1;3;3;4;11;19;30;42;38;53;44;60;48
-I47;Paroxysmální tachykardie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I48;Fibrilace a flutter síní;97;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;3;8;6;22;28;28
-I49;Jiné srdeèní arytmie;58;-;-;-;-;-;-;-;1;-;-;-;2;1;1;2;5;3;4;6;11;12;10
-I50;Selhání srdce;1292;2;-;-;-;1;-;2;1;1;7;9;14;25;39;71;98;108;125;165;208;226;190
-I51;Komplikace a nepøesnì urèené a popsané nemoci srdce;108;-;-;-;-;-;-;-;-;1;-;1;1;5;6;12;12;15;13;17;8;9;8
-I60;Subarachnoidální krvácení;106;-;-;-;-;-;-;-;-;1;3;3;3;4;6;10;10;10;17;13;15;9;2
-I61;Intracerebrální krvácení;585;-;1;-;-;-;1;-;1;-;-;3;4;11;31;39;61;74;72;88;96;72;31
-I62;Jiné neúrazové intrakraniální krvácení;44;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;4;4;7;6;7;10;3
-I63;Mozkovı infarkt;930;-;-;-;-;-;-;-;-;-;-;1;4;5;7;23;54;60;100;139;183;190;164
-I64;Cévní pøíhoda mozková  (mrtvice) neurèená jako krvácení nebo infarkt;2032;-;-;-;-;-;-;-;-;-;-;2;1;5;7;31;72;110;151;274;454;488;437
-I65;Uzávìr (okluze) a zúení (stenóza) pøívodnıch mozkovıch tepen nekonèící mozkovım infarktem;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I66;Uzávìrka (okluze) a zúení (stenóza) mozkovıch tepen nekonèící mozkovım infarktem;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I67;Jiná cévní onemocnìní mozku;1694;-;-;-;-;-;-;1;-;-;1;-;-;3;4;11;35;57;101;169;333;478;501
-I69;Následky cévních nemocí mozku;147;-;-;-;-;1;-;-;-;-;-;-;-;-;-;4;5;12;13;28;37;22;25
-I70;Ateroskleróza;2700;-;-;-;-;-;-;-;-;-;-;1;1;7;32;77;146;223;225;328;476;540;644
-I71;"Vıdu aorty - aneurysma aortae - a disekce ";322;-;-;-;-;-;-;-;-;1;3;-;1;3;8;16;30;25;42;58;76;38;21
-I72;Jiné - vıdutì - aneurysmata;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;-;3;3;1
-I73;Jiné nemoci periferních cév;8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;3;1;1
-I74;"Tepennı vmetek - arteriální embolie 
-- a trombóza  ";66;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;6;10;6;6;14;13;10
-I77;Jiná onemocnìní tepen a tepének;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
-I78;Nemoci vláseènic;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I80;Zánìt il - flebitis a tromboflebitis;154;-;-;-;-;-;-;-;-;-;-;1;4;3;5;11;23;20;14;19;24;15;15
-I81;"Trombosis venae portae - trombóza vrátnice ";4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;-;-;-;-;-
-I82;Jiná ilní embolie a trombóza;35;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;6;7;4;3;3;7;2
-I83;ilní mìstky - varices - dolních konèetin;26;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;4;4;1;3;3;6
+I44;BlokÃ¡da atrioventrikulÃ¡rnÃ­ a levÃ©ho ramÃ©nka;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;-;2;-;1;1
+I45;"JinÃ© poruchy vedenÃ­ srdeÄnÃ­ch vzruchÅ¯ ";3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-
+I46;SrdeÄnÃ­ zÃ¡stava;357;-;-;-;-;-;-;-;1;-;1;3;3;4;11;19;30;42;38;53;44;60;48
+I47;ParoxysmÃ¡lnÃ­ tachykardie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I48;Fibrilace a flutter sÃ­nÃ­;97;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;3;8;6;22;28;28
+I49;JinÃ© srdeÄnÃ­ arytmie;58;-;-;-;-;-;-;-;1;-;-;-;2;1;1;2;5;3;4;6;11;12;10
+I50;SelhÃ¡nÃ­ srdce;1292;2;-;-;-;1;-;2;1;1;7;9;14;25;39;71;98;108;125;165;208;226;190
+I51;Komplikace a nepÅ™esnÄ› urÄenÃ© a popsanÃ© nemoci srdce;108;-;-;-;-;-;-;-;-;1;-;1;1;5;6;12;12;15;13;17;8;9;8
+I60;SubarachnoidÃ¡lnÃ­ krvÃ¡cenÃ­;106;-;-;-;-;-;-;-;-;1;3;3;3;4;6;10;10;10;17;13;15;9;2
+I61;IntracerebrÃ¡lnÃ­ krvÃ¡cenÃ­;585;-;1;-;-;-;1;-;1;-;-;3;4;11;31;39;61;74;72;88;96;72;31
+I62;JinÃ© neÃºrazovÃ© intrakraniÃ¡lnÃ­ krvÃ¡cenÃ­;44;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;4;4;7;6;7;10;3
+I63;MozkovÃ½ infarkt;930;-;-;-;-;-;-;-;-;-;-;1;4;5;7;23;54;60;100;139;183;190;164
+I64;CÃ©vnÃ­ pÅ™Ã­hoda mozkovÃ¡  (mrtvice) neurÄenÃ¡ jako krvÃ¡cenÃ­ nebo infarkt;2032;-;-;-;-;-;-;-;-;-;-;2;1;5;7;31;72;110;151;274;454;488;437
+I65;UzÃ¡vÄ›r (okluze) a zÃºÅ¾enÃ­ (stenÃ³za) pÅ™Ã­vodnÃ½ch mozkovÃ½ch tepen nekonÄÃ­cÃ­ mozkovÃ½m infarktem;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I66;UzÃ¡vÄ›rka (okluze) a zÃºÅ¾enÃ­ (stenÃ³za) mozkovÃ½ch tepen nekonÄÃ­cÃ­ mozkovÃ½m infarktem;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I67;JinÃ¡ cÃ©vnÃ­ onemocnÄ›nÃ­ mozku;1694;-;-;-;-;-;-;1;-;-;1;-;-;3;4;11;35;57;101;169;333;478;501
+I69;NÃ¡sledky cÃ©vnÃ­ch nemocÃ­ mozku;147;-;-;-;-;1;-;-;-;-;-;-;-;-;-;4;5;12;13;28;37;22;25
+I70;AterosklerÃ³za;2700;-;-;-;-;-;-;-;-;-;-;1;1;7;32;77;146;223;225;328;476;540;644
+I71;"VÃ½duÅ¥ aorty - aneurysma aortae - a disekce ";322;-;-;-;-;-;-;-;-;1;3;-;1;3;8;16;30;25;42;58;76;38;21
+I72;JinÃ© - vÃ½dutÄ› - aneurysmata;12;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;-;3;3;1
+I73;JinÃ© nemoci perifernÃ­ch cÃ©v;8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;3;1;1
+I74;"TepennÃ½ vmetek - arteriÃ¡lnÃ­ embolie 
+- a trombÃ³za  ";66;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;6;10;6;6;14;13;10
+I77;JinÃ¡ onemocnÄ›nÃ­ tepen a tepÃ©nek;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+I78;Nemoci vlÃ¡seÄnic;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I80;ZÃ¡nÄ›t Å¾il - flebitis a tromboflebitis;154;-;-;-;-;-;-;-;-;-;-;1;4;3;5;11;23;20;14;19;24;15;15
+I81;"Trombosis venae portae - trombÃ³za vrÃ¡tnice ";4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;3;1;-;-;-;-;-
+I82;JinÃ¡ Å¾ilnÃ­ embolie a trombÃ³za;35;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;6;7;4;3;3;7;2
+I83;Å½ilnÃ­ mÄ›stky - varices - dolnÃ­ch konÄetin;26;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;4;4;1;3;3;6
 I84;Hemoroidy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I85;Mìstky jícnu - esofageální varixy;30;-;-;-;-;-;-;-;-;-;-;1;2;2;5;4;8;2;3;2;1;-;-
-I86;ilní mìstky jinıch lokalizací;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I87;Jiná onemocnìní il;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
-I88;Nespecifická lymfadenitis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I89;"Jiná neinfekèní onemocnìní mízních cév 
-a mízních uzlin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I85;MÄ›stky jÃ­cnu - esofageÃ¡lnÃ­ varixy;30;-;-;-;-;-;-;-;-;-;-;1;2;2;5;4;8;2;3;2;1;-;-
+I86;Å½ilnÃ­ mÄ›stky jinÃ½ch lokalizacÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I87;JinÃ¡ onemocnÄ›nÃ­ Å¾il;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+I88;NespecifickÃ¡ lymfadenitis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I89;"JinÃ¡ neinfekÄnÃ­ onemocnÄ›nÃ­ mÃ­znÃ­ch cÃ©v 
+a mÃ­znÃ­ch uzlin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 I95;Hypotenze;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I97;"Onemocnìní obìhové soustavy 
-po vıkonech nezaøazené jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-I99;Jiná a neurèená onemocnìní obìhové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I97;"OnemocnÄ›nÃ­ obÄ›hovÃ© soustavy 
+po vÃ½konech nezaÅ™azenÃ© jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+I99;JinÃ¡ a neurÄenÃ¡ onemocnÄ›nÃ­ obÄ›hovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-X;Nemoci dıchací soustavy;3 013;7;1;-;-;1;3;3;6;8;10;13;21;28;61;108;212;269;280;371;538;569;504
-J00;"Akutní zánìt nosohltanu - nasopharyngitis acuta (prosté nachlazení) ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J02;"Akutní zánìt hltanu - pharyngitis
+X;Nemoci dÃ½chacÃ­ soustavy;3Â 013;7;1;-;-;1;3;3;6;8;10;13;21;28;61;108;212;269;280;371;538;569;504
+J00;"AkutnÃ­ zÃ¡nÄ›t nosohltanu - nasopharyngitis acuta (prostÃ© nachlazenÃ­) ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J02;"AkutnÃ­ zÃ¡nÄ›t hltanu - pharyngitis
 acuta";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J03;Akutní zánìt mandlí - tonsillitis acuta;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J04;"Akutní zánìt hrtanu a prùdušnice - laryngitis et tracheitis acuta ";4;-;-;-;-;1;-;-;-;-;-;-;-;-;1;1;-;1;-;-;-;-;-
-J05;"Akutní obstruktivní zánìt hrtanu (krup)  
+J03;AkutnÃ­ zÃ¡nÄ›t mandlÃ­ - tonsillitis acuta;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J04;"AkutnÃ­ zÃ¡nÄ›t hrtanu a prÅ¯duÅ¡nice - laryngitis et tracheitis acuta ";4;-;-;-;-;1;-;-;-;-;-;-;-;-;1;1;-;1;-;-;-;-;-
+J05;"AkutnÃ­ obstruktivnÃ­ zÃ¡nÄ›t hrtanu (krup)  
 a epiglotis";2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-
-J06;"Akutní infekce horních cest dıchacích 
-na více místech a neurèenıch lokalizací ";7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;-;2
-J10;"Chøipka zpùsobená identifikovanım chøipkovım virem ";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
-J11;Chøipka, virus neidentifikován;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-J12;"Virovı zánìt plic  - pneumonie 
-- nezaøazenı jinde";12;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;1;-;4;3;-
-J13;Zánìt plic, pùvodce: Streptococcus pneumoniae;4;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;1;-;1;-;-
-J14;"Zánìt plic, pùvodce: Haemophilus influenzae ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J15;Bakteriální zánìt plic, nezaøazenı jinde;115;-;-;-;-;-;-;-;-;-;1;2;1;-;3;2;8;5;11;6;25;24;27
-J16;Zánìt plic zpùsobenı jinımi infekèními organismy, nezaøazenı jinde;11;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;2;4;1
-J18;Pneumonie, pùvodce NS;1298;7;-;-;-;-;3;3;2;3;7;7;13;14;30;52;64;75;99;145;204;260;310
-J20;Akutní zánìt prùdušek - bronchitis acuta;38;-;1;-;-;-;-;-;1;-;-;-;-;1;1;-;2;5;1;2;5;7;12
-J21;Akutní zánìt prùdušinek - bronchiolitis acuta;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
-J22;"Neurèená akutní infekce dolní èásti dıchacího ústrojí ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
-J34;Jiné nemoci nosu a vedlejších nosních dutin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J35;"Chronické nemoci mandlí a adenoidní tkánì ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J36;"Peritonzilární hlíza 
+J06;"AkutnÃ­ infekce hornÃ­ch cest dÃ½chacÃ­ch 
+na vÃ­ce mÃ­stech a neurÄenÃ½ch lokalizacÃ­ ";7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;-;2
+J10;"ChÅ™ipka zpÅ¯sobenÃ¡ identifikovanÃ½m chÅ™ipkovÃ½m virem ";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
+J11;ChÅ™ipka, virus neidentifikovÃ¡n;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+J12;"VirovÃ½ zÃ¡nÄ›t plic  - pneumonie 
+- nezaÅ™azenÃ½ jinde";12;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;2;1;-;4;3;-
+J13;ZÃ¡nÄ›t plic, pÅ¯vodce: Streptococcus pneumoniae;4;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;1;-;1;-;-
+J14;"ZÃ¡nÄ›t plic, pÅ¯vodce: Haemophilus influenzae ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J15;BakteriÃ¡lnÃ­ zÃ¡nÄ›t plic, nezaÅ™azenÃ½ jinde;115;-;-;-;-;-;-;-;-;-;1;2;1;-;3;2;8;5;11;6;25;24;27
+J16;ZÃ¡nÄ›t plic zpÅ¯sobenÃ½ jinÃ½mi infekÄnÃ­mi organismy, nezaÅ™azenÃ½ jinde;11;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;2;4;1
+J18;Pneumonie, pÅ¯vodce NS;1298;7;-;-;-;-;3;3;2;3;7;7;13;14;30;52;64;75;99;145;204;260;310
+J20;AkutnÃ­ zÃ¡nÄ›t prÅ¯duÅ¡ek - bronchitis acuta;38;-;1;-;-;-;-;-;1;-;-;-;-;1;1;-;2;5;1;2;5;7;12
+J21;AkutnÃ­ zÃ¡nÄ›t prÅ¯duÅ¡inek - bronchiolitis acuta;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+J22;"NeurÄenÃ¡ akutnÃ­ infekce dolnÃ­ ÄÃ¡sti dÃ½chacÃ­ho ÃºstrojÃ­ ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+J34;JinÃ© nemoci nosu a vedlejÅ¡Ã­ch nosnÃ­ch dutin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J35;"ChronickÃ© nemoci mandlÃ­ a adenoidnÃ­ tkÃ¡nÄ› ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J36;"PeritonzilÃ¡rnÃ­ hlÃ­za 
 - abscessus peritonsillaris";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J38;Nemoci hlasivek a hrtanu, nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J39;Jiné onemocnìní horních dıchacích cest;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J40;"Zánìt prùdušek - bronchitis 
-- neurèenı jako akutní nebo chronickı";23;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;6;-;1;5;3;5
-J41;"Prostá a mukopurulentní chronická bronchitida ";22;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;5;1;3;3;3;6
-J42;Neurèená chronická bronchitida;76;-;-;-;-;-;-;-;-;-;-;-;-;-;4;-;7;7;3;10;8;22;15
+J38;Nemoci hlasivek a hrtanu, nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J39;JinÃ© onemocnÄ›nÃ­ hornÃ­ch dÃ½chacÃ­ch cest;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J40;"ZÃ¡nÄ›t prÅ¯duÅ¡ek - bronchitis 
+- neurÄenÃ½ jako akutnÃ­ nebo chronickÃ½";23;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;6;-;1;5;3;5
+J41;"ProstÃ¡ a mukopurulentnÃ­ chronickÃ¡ bronchitida ";22;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;5;1;3;3;3;6
+J42;NeurÄenÃ¡ chronickÃ¡ bronchitida;76;-;-;-;-;-;-;-;-;-;-;-;-;-;4;-;7;7;3;10;8;22;15
 J43;Rozedma plic - emphysema pulmonum;53;-;-;-;-;-;-;-;-;-;-;-;1;-;1;3;4;7;4;5;8;13;7
-J44;Jiná chronická obstruktivní plicní nemoc;942;-;-;-;-;-;-;-;-;-;1;1;1;7;9;31;75;108;104;127;214;176;88
+J44;JinÃ¡ chronickÃ¡ obstruktivnÃ­ plicnÃ­ nemoc;942;-;-;-;-;-;-;-;-;-;1;1;1;7;9;31;75;108;104;127;214;176;88
 J45;Astma;43;-;-;-;-;-;-;-;-;-;-;2;2;-;2;1;2;6;6;9;3;8;2
-J46;Astmatickı stav - status asthmaticus;5;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;2;1;-;-;1;-;-
-J47;Bronchiektazie - rozšíøení prùdušek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J60;Pneumokonióza uhlokopù;33;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;1;4;7;7;7;4
-J61;"Pneumokonióza zpùsobená azbestem 
-a jinımi minerálními vlákny ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J62;Pneumokonióza zpùsobená prachem obsahujícím køemík;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;-
-J63;"Pneumokonióza zpùsobená jinımi anorganickımi prachy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J64;Neurèená pneumokonióza;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;3;-;1
-J65;Pneumokonióza spojená s tuberkulózou;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J66;Onemocnìní dıchacích cest zpùsobené urèenımi organickımi prachy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J67;"Hypersensitivní pneumonie 
-zpùsobená organickımi prachy";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-
-J68;"Stavy dıchací soustavy zpùsobené inhalací chemikálií, plynù, dımù a par ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-J69;"Pneumonie zpùsobená pevnımi 
-a tekutımi látkami ";3;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;1;-;-;-;-;-;-
-J70;"Stavy dıchací soustavy zpùsobené 
-jinımi zevními èiniteli";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
-J80;Syndrom respiraèní tísnì dospìlıch;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;-
-J81;Plicní edém;26;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;3;2;7;2;3;4;3
-J82;Plicní eozinofilie, nezaøazená jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
-J84;Jiné intersticiální plicní nemoci;88;-;-;-;-;-;-;-;-;1;-;-;-;1;2;6;12;16;12;15;12;8;3
+J46;AstmatickÃ½ stav - status asthmaticus;5;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;2;1;-;-;1;-;-
+J47;Bronchiektazie - rozÅ¡Ã­Å™enÃ­ prÅ¯duÅ¡ek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J60;PneumokoniÃ³za uhlokopÅ¯;33;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;1;4;7;7;7;4
+J61;"PneumokoniÃ³za zpÅ¯sobenÃ¡ azbestem 
+a jinÃ½mi minerÃ¡lnÃ­mi vlÃ¡kny ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J62;PneumokoniÃ³za zpÅ¯sobenÃ¡ prachem obsahujÃ­cÃ­m kÅ™emÃ­k;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;-
+J63;"PneumokoniÃ³za zpÅ¯sobenÃ¡ jinÃ½mi anorganickÃ½mi prachy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J64;NeurÄenÃ¡ pneumokoniÃ³za;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;3;-;1
+J65;PneumokoniÃ³za spojenÃ¡ s tuberkulÃ³zou;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J66;OnemocnÄ›nÃ­ dÃ½chacÃ­ch cest zpÅ¯sobenÃ© urÄenÃ½mi organickÃ½mi prachy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J67;"HypersensitivnÃ­ pneumonie 
+zpÅ¯sobenÃ¡ organickÃ½mi prachy";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-
+J68;"Stavy dÃ½chacÃ­ soustavy zpÅ¯sobenÃ© inhalacÃ­ chemikÃ¡liÃ­, plynÅ¯, dÃ½mÅ¯ a par ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+J69;"Pneumonie zpÅ¯sobenÃ¡ pevnÃ½mi 
+a tekutÃ½mi lÃ¡tkami ";3;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;1;-;-;-;-;-;-
+J70;"Stavy dÃ½chacÃ­ soustavy zpÅ¯sobenÃ© 
+jinÃ½mi zevnÃ­mi Äiniteli";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+J80;Syndrom respiraÄnÃ­ tÃ­snÄ› dospÄ›lÃ½ch;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;-
+J81;PlicnÃ­ edÃ©m;26;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;3;2;7;2;3;4;3
+J82;PlicnÃ­ eozinofilie, nezaÅ™azenÃ¡ jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+J84;JinÃ© intersticiÃ¡lnÃ­ plicnÃ­ nemoci;88;-;-;-;-;-;-;-;-;1;-;-;-;1;2;6;12;16;12;15;12;8;3
 J85;Absces plic a mediastina;17;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;4;3;1;3;2;2;-
 J86;Pyothorax;10;-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;2;-;1;1;1;-;1
-J90;Pohrudnièní vıpotek, nezaøazenı jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-J92;Pohrudnièní povlaky (pláty);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J90;PohrudniÄnÃ­ vÃ½potek, nezaÅ™azenÃ½ jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+J92;PohrudniÄnÃ­ povlaky (plÃ¡ty);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 J93;Pneumothorax;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;1;-
-J94;Jiné pohrudnièní stavy;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;1
-J95;"Poruchy dıchací soustavy po vıkonech, nezaøazené jinde ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-J96;Respiraèní selhání, nezaøazené jinde;137;-;-;-;-;-;-;-;2;1;-;-;3;1;2;4;14;12;16;27;20;22;13
-J98;Jiné poruchy dıchací soustavy;9;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;3;-;1;-;1;-;1
+J94;JinÃ© pohrudniÄnÃ­ stavy;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;1
+J95;"Poruchy dÃ½chacÃ­ soustavy po vÃ½konech, nezaÅ™azenÃ© jinde ";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+J96;RespiraÄnÃ­ selhÃ¡nÃ­, nezaÅ™azenÃ© jinde;137;-;-;-;-;-;-;-;2;1;-;-;3;1;2;4;14;12;16;27;20;22;13
+J98;JinÃ© poruchy dÃ½chacÃ­ soustavy;9;-;-;-;-;-;-;-;-;-;-;1;-;-;1;1;3;-;1;-;1;-;1
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XI;Nemoci trávicí soustavy;2 695;6;-;-;-;-;-;-;2;6;13;30;45;101;207;327;418;405;289;256;232;221;137
-K11;Nemoci slinnıch láz;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K12;"Stomatitis - zánìt ústní sliznice 
-- a pøíbuzná onemocnìní";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K20;Zánìt jícnu - oesophagitis;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;1;1
-K21;Gastroezofageální refluxní onemocnìní;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-K22;Jiné nemoci jícnu;39;-;-;-;-;-;-;-;-;-;-;-;1;1;4;6;8;3;2;5;4;4;1
-K25;aludeèní vøed - ulcus ventriculi;137;-;-;-;-;-;-;-;-;-;-;2;-;5;5;6;14;17;17;14;19;20;18
-K26;Dvanáctníkovı vøed - ulcus duodení;146;-;-;-;-;-;-;-;-;-;-;2;-;5;5;16;19;20;21;11;15;17;15
-K27;Peptickı vøed neurèené lokalizace;19;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;2;4;2;1;1;6
-K28;Gastrojejunální vøed;9;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;2;1;-;1;-
-K29;"Zánìt aludku a dvanáctníku 
+XI;Nemoci trÃ¡vicÃ­ soustavy;2Â 695;6;-;-;-;-;-;-;2;6;13;30;45;101;207;327;418;405;289;256;232;221;137
+K11;Nemoci slinnÃ½ch Å¾lÃ¡z;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K12;"Stomatitis - zÃ¡nÄ›t ÃºstnÃ­ sliznice 
+- a pÅ™Ã­buznÃ¡ onemocnÄ›nÃ­";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K20;ZÃ¡nÄ›t jÃ­cnu - oesophagitis;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;1;1
+K21;GastroezofageÃ¡lnÃ­ refluxnÃ­ onemocnÄ›nÃ­;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+K22;JinÃ© nemoci jÃ­cnu;39;-;-;-;-;-;-;-;-;-;-;-;1;1;4;6;8;3;2;5;4;4;1
+K25;Å½aludeÄnÃ­ vÅ™ed - ulcus ventriculi;137;-;-;-;-;-;-;-;-;-;-;2;-;5;5;6;14;17;17;14;19;20;18
+K26;DvanÃ¡ctnÃ­kovÃ½ vÅ™ed - ulcus duodenÃ­;146;-;-;-;-;-;-;-;-;-;-;2;-;5;5;16;19;20;21;11;15;17;15
+K27;PeptickÃ½ vÅ™ed neurÄenÃ© lokalizace;19;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;2;4;2;1;1;6
+K28;GastrojejunÃ¡lnÃ­ vÅ™ed;9;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;2;1;-;1;-
+K29;"ZÃ¡nÄ›t Å¾aludku a dvanÃ¡ctnÃ­ku 
 - gastritis et duodenitis ";20;-;-;-;-;-;-;-;-;-;1;-;-;-;1;2;-;4;1;2;3;6;-
 K30;Dyspepsie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K31;Jiné nemoci aludku a dvanáctníku;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;2;2;2
-K35;"Akutní apendicitida - akutní zánìt èervovitého pøívìsku ";12;-;-;-;-;-;-;-;-;2;-;-;-;-;-;1;-;-;1;2;3;3;-
-K36;Jiná apendicitida;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-
-K37;Neurèená apendicitida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K38;Jiné nemoci apendixu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K40;Tøíselná kıla - hernia inguinalis;16;1;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;2;-;6;2
-K41;Stehenní kıla - hernia femoralis;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1
-K42;Pupeèní kıla - hernia umbilicalis;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-;-;-
-K43;Bøišní kıla - hernia vantralis;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;3;-
-K44;Bránièní kıla - hernia diaphragmatica;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-
-K45;Jiné bøišní kıly;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-K46;Neurèená bøišní kıla;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;-
-K50;Crohnova nemoc [regionální enteritida];11;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;2;1;1;1;3;1;-
-K51;"Colitis ulcerosa - vøedovı zánìt traèníku 
-- idiopatická proktokolitida ";13;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;3;-;1;2;3;1;2
-K52;Jiná neinfekèní gastroenteritida a kolitida;6;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1
-K55;Vaskulární onemocnìní støeva;89;-;-;-;-;-;-;-;-;-;-;2;1;1;1;5;4;13;8;9;19;17;9
-K56;"Paralytickı ileus a støevní neprùchodnost bez kıly ";77;1;-;-;-;-;-;-;-;1;-;-;-;-;1;4;-;7;7;9;13;20;14
-K57;Divertikulární nemoc støeva;36;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;8;4;5;4;4;6
-K60;Trhlina a píštìl øitní a koneèníkové krajiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K61;Absces øitní a koneèníkové krajiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K62;Jiné nemoci øiti a koneèníku;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;-
-K63;Jiné nemoci støev;30;1;-;-;-;-;-;-;1;-;1;1;1;-;-;-;5;-;3;4;5;3;5
-K65;Zánìt pobøišnice - peritonitida;89;-;-;-;-;-;-;-;-;1;2;2;1;1;3;7;6;13;10;14;9;12;8
-K66;Jiná onemocnìní pobøišnice;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;2;1;2;1
-K70;Alkoholické onemocnìní jater;768;-;-;-;-;-;-;-;-;-;2;3;27;35;96;131;177;154;76;37;26;4;-
-K71;Toxická nemoc jater;25;-;-;-;-;-;-;-;-;-;2;-;2;1;1;4;4;2;5;3;1;-;-
-K72;Selhání jater nezaøazené jinde;87;1;-;-;-;-;-;-;1;-;-;-;2;4;9;7;17;12;10;11;6;5;2
-K73;Chronickı zánìt jater - hepatitis chronika, nezaøazenı jinde;23;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;5;5;4;1;4;1;-
-K74;Fibróza a cirhóza jater;518;-;-;-;-;-;-;-;-;-;2;10;4;25;49;80;96;92;51;55;28;14;12
-K75;Jiné zánìtlivé nemoci jater;13;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;2;1;1;1;3;2;1
-K76;Jiné nemoci jater;81;-;-;-;-;-;-;-;-;-;1;-;-;3;7;14;7;15;9;7;8;9;1
-K80;luèové kameny - cholelithiasis;44;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;1;1;11;13;8;7
-K81;Zánìt luèníku - cholecystitis;22;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;3;4;3;4;4
-K82;Jiné nemoci luèníku;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;1;2;1
-K83;"Jiné nemoci luèovıch cest 
-(luèového stromu) ";26;1;-;-;-;-;-;-;-;-;-;-;-;2;-;2;1;4;4;2;2;4;4
-K85;"Akutní zánìt slinivky bøišní 
+K31;JinÃ© nemoci Å¾aludku a dvanÃ¡ctnÃ­ku;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;2;2;2
+K35;"AkutnÃ­ apendicitida - akutnÃ­ zÃ¡nÄ›t ÄervovitÃ©ho pÅ™Ã­vÄ›sku ";12;-;-;-;-;-;-;-;-;2;-;-;-;-;-;1;-;-;1;2;3;3;-
+K36;JinÃ¡ apendicitida;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-
+K37;NeurÄenÃ¡ apendicitida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K38;JinÃ© nemoci apendixu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K40;TÅ™Ã­selnÃ¡ kÃ½la - hernia inguinalis;16;1;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1;2;-;6;2
+K41;StehennÃ­ kÃ½la - hernia femoralis;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1
+K42;PupeÄnÃ­ kÃ½la - hernia umbilicalis;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-;-;-
+K43;BÅ™iÅ¡nÃ­ kÃ½la - hernia vantralis;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;3;-
+K44;BrÃ¡niÄnÃ­ kÃ½la - hernia diaphragmatica;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-
+K45;JinÃ© bÅ™iÅ¡nÃ­ kÃ½ly;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+K46;NeurÄenÃ¡ bÅ™iÅ¡nÃ­ kÃ½la;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;1;-
+K50;Crohnova nemoc [regionÃ¡lnÃ­ enteritida];11;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;2;1;1;1;3;1;-
+K51;"Colitis ulcerosa - vÅ™edovÃ½ zÃ¡nÄ›t traÄnÃ­ku 
+- idiopatickÃ¡ proktokolitida ";13;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;3;-;1;2;3;1;2
+K52;JinÃ¡ neinfekÄnÃ­ gastroenteritida a kolitida;6;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;-;1
+K55;VaskulÃ¡rnÃ­ onemocnÄ›nÃ­ stÅ™eva;89;-;-;-;-;-;-;-;-;-;-;2;1;1;1;5;4;13;8;9;19;17;9
+K56;"ParalytickÃ½ ileus a stÅ™evnÃ­ neprÅ¯chodnost bez kÃ½ly ";77;1;-;-;-;-;-;-;-;1;-;-;-;-;1;4;-;7;7;9;13;20;14
+K57;DivertikulÃ¡rnÃ­ nemoc stÅ™eva;36;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;2;8;4;5;4;4;6
+K60;Trhlina a pÃ­Å¡tÄ›l Å™itnÃ­ a koneÄnÃ­kovÃ© krajiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K61;Absces Å™itnÃ­ a koneÄnÃ­kovÃ© krajiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K62;JinÃ© nemoci Å™iti a koneÄnÃ­ku;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;-;-
+K63;JinÃ© nemoci stÅ™ev;30;1;-;-;-;-;-;-;1;-;1;1;1;-;-;-;5;-;3;4;5;3;5
+K65;ZÃ¡nÄ›t pobÅ™iÅ¡nice - peritonitida;89;-;-;-;-;-;-;-;-;1;2;2;1;1;3;7;6;13;10;14;9;12;8
+K66;JinÃ¡ onemocnÄ›nÃ­ pobÅ™iÅ¡nice;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1;-;2;1;2;1
+K70;AlkoholickÃ© onemocnÄ›nÃ­ jater;768;-;-;-;-;-;-;-;-;-;2;3;27;35;96;131;177;154;76;37;26;4;-
+K71;ToxickÃ¡ nemoc jater;25;-;-;-;-;-;-;-;-;-;2;-;2;1;1;4;4;2;5;3;1;-;-
+K72;SelhÃ¡nÃ­ jater nezaÅ™azenÃ© jinde;87;1;-;-;-;-;-;-;1;-;-;-;2;4;9;7;17;12;10;11;6;5;2
+K73;ChronickÃ½ zÃ¡nÄ›t jater - hepatitis chronika, nezaÅ™azenÃ½ jinde;23;-;-;-;-;-;-;-;-;-;-;-;-;-;1;2;5;5;4;1;4;1;-
+K74;FibrÃ³za a cirhÃ³za jater;518;-;-;-;-;-;-;-;-;-;2;10;4;25;49;80;96;92;51;55;28;14;12
+K75;JinÃ© zÃ¡nÄ›tlivÃ© nemoci jater;13;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;2;1;1;1;3;2;1
+K76;JinÃ© nemoci jater;81;-;-;-;-;-;-;-;-;-;1;-;-;3;7;14;7;15;9;7;8;9;1
+K80;Å½luÄovÃ© kameny - cholelithiasis;44;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;2;1;1;11;13;8;7
+K81;ZÃ¡nÄ›t Å¾luÄnÃ­ku - cholecystitis;22;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;3;3;4;3;4;4
+K82;JinÃ© nemoci Å¾luÄnÃ­ku;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;1;2;1
+K83;"JinÃ© nemoci Å¾luÄovÃ½ch cest 
+(Å¾luÄovÃ©ho stromu) ";26;1;-;-;-;-;-;-;-;-;-;-;-;2;-;2;1;4;4;2;2;4;4
+K85;"AkutnÃ­ zÃ¡nÄ›t slinivky bÅ™iÅ¡nÃ­ 
 - pancreatitis acuta ";149;-;-;-;-;-;-;-;-;-;1;5;3;8;12;18;17;12;23;15;14;16;5
-K86;Jiné nemoci slinivky bøišní;47;-;-;-;-;-;-;-;-;-;-;1;2;6;7;5;4;6;4;4;3;5;-
-K90;Støevní malabsorpce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K91;Stavy po operaci na trávicím ústrojí, nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-K92;Jiné nemoci trávicí soustavy;91;-;-;-;-;-;-;-;-;-;1;1;-;4;1;7;12;5;10;12;10;20;8
+K86;JinÃ© nemoci slinivky bÅ™iÅ¡nÃ­;47;-;-;-;-;-;-;-;-;-;-;1;2;6;7;5;4;6;4;4;3;5;-
+K90;StÅ™evnÃ­ malabsorpce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K91;Stavy po operaci na trÃ¡vicÃ­m ÃºstrojÃ­, nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+K92;JinÃ© nemoci trÃ¡vicÃ­ soustavy;91;-;-;-;-;-;-;-;-;-;1;1;-;4;1;7;12;5;10;12;10;20;8
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XII;Nemoci kùe a podkoního vaziva;10;-;-;-;-;-;-;-;-;-;-;-;-;2;1;-;1;4;-;1;-;1;-
-L02;Koní absces, furunkl a karbunkl;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-L03;Flegmóna - cellulitis;4;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;1;-;1;-
-L08;Jiná místní infekce kùe a podkoního vaziva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+XII;Nemoci kÅ¯Å¾e a podkoÅ¾nÃ­ho vaziva;10;-;-;-;-;-;-;-;-;-;-;-;-;2;1;-;1;4;-;1;-;1;-
+L02;KoÅ¾nÃ­ absces, furunkl a karbunkl;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+L03;FlegmÃ³na - cellulitis;4;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;1;-;1;-
+L08;JinÃ¡ mÃ­stnÃ­ infekce kÅ¯Å¾e a podkoÅ¾nÃ­ho vaziva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 L10;Pemfigus - pemphigus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 L12;Pemfigoid - pemphigoid;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 L51;Erythema multiforme;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 L88;Pyoderma gangrenosum;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-L89;Dekubitální vøed;6;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;3;-;-;-;-;-
+L89;DekubitÃ¡lnÃ­ vÅ™ed;6;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;1;3;-;-;-;-;-
 L93;Lupus erythematosus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-L94;"Jiná lokalizovaná onemocnìní pojivové tkánì ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-L97;Vøed dolní konèetiny, nezaøazenı jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-L98;Jiné nemoci kùe a podkoního vaziva nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+L94;"JinÃ¡ lokalizovanÃ¡ onemocnÄ›nÃ­ pojivovÃ© tkÃ¡nÄ› ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+L97;VÅ™ed dolnÃ­ konÄetiny, nezaÅ™azenÃ½ jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+L98;JinÃ© nemoci kÅ¯Å¾e a podkoÅ¾nÃ­ho vaziva nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XIII;"Nemoci svalové a kosterní soustavy 
-a pojivové tkánì";18;-;-;-;-;-;-;-;-;1;1;1;-;2;-;2;2;4;-;3;2;-;-
-M00;Hnisavı zánìt kloubu - pyogenní artritida;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
-M05;Seropozitivní revmatická artritida;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
-M06;Jiná revmatická artritida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M08;Juvenilní artritida;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
-M13;Jiná artritida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M30;Polyarteritis nodosa a pøíbuzné stavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M31;Jiné nekrotizující vaskulopatie;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-
-M32;Systémovı lupus erytematosus;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-
+XIII;"Nemoci svalovÃ© a kosternÃ­ soustavy 
+a pojivovÃ© tkÃ¡nÄ›";18;-;-;-;-;-;-;-;-;1;1;1;-;2;-;2;2;4;-;3;2;-;-
+M00;HnisavÃ½ zÃ¡nÄ›t kloubu - pyogennÃ­ artritida;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+M05;SeropozitivnÃ­ revmatickÃ¡ artritida;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+M06;JinÃ¡ revmatickÃ¡ artritida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M08;JuvenilnÃ­ artritida;1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
+M13;JinÃ¡ artritida;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M30;Polyarteritis nodosa a pÅ™Ã­buznÃ© stavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M31;JinÃ© nekrotizujÃ­cÃ­ vaskulopatie;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-
+M32;SystÃ©movÃ½ lupus erytematosus;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-
 M33;Dermatopolymyositis;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M34;Systémová skleróza;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-M35;Jiné systémové postiení pojivové tkánì;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-
-M41;Skolióza;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-
-M43;Jiné deformující dorzopatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M45;Ankylozující spondylitida;3;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;1;-;-
-M46;Jiné zánìtlivé spondylopatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-M47;Spondylóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M48;Jiné spondylopatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M50;"Onemocnìní krèních meziobratlovıch plotének ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M51;"Onemocnìní jinıch meziobratlovıch plotének ";1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
-M53;Jiné dorzopatie, nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M60;Myositis - zánìt svalu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M34;SystÃ©movÃ¡ sklerÃ³za;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+M35;JinÃ© systÃ©movÃ© postiÅ¾enÃ­ pojivovÃ© tkÃ¡nÄ›;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-
+M41;SkoliÃ³za;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-
+M43;JinÃ© deformujÃ­cÃ­ dorzopatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M45;AnkylozujÃ­cÃ­ spondylitida;3;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;-;1;-;-
+M46;JinÃ© zÃ¡nÄ›tlivÃ© spondylopatie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+M47;SpondylÃ³za;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M48;JinÃ© spondylopatie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M50;"OnemocnÄ›nÃ­ krÄnÃ­ch meziobratlovÃ½ch plotÃ©nek ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M51;"OnemocnÄ›nÃ­ jinÃ½ch meziobratlovÃ½ch plotÃ©nek ";1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+M53;JinÃ© dorzopatie, nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M60;Myositis - zÃ¡nÄ›t svalu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 M61;Kalcifikace a osifikace svalu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M80;Osteoporóza s patologickou zlomeninou;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M81;Osteoporóza bez patologické zlomeniny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M84;Poruchy - kontinuity - soudrnosti kosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M86;Osteomyelitis - zánìt kostní døenì;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+M80;OsteoporÃ³za s patologickou zlomeninou;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M81;OsteoporÃ³za bez patologickÃ© zlomeniny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M84;Poruchy - kontinuity - soudrÅ¾nosti kosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M86;Osteomyelitis - zÃ¡nÄ›t kostnÃ­ dÅ™enÄ›;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
 M88;Pagetova nemoc kosti (osteitis deformans);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-M89;Jiná onemocnìní kosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+M89;JinÃ¡ onemocnÄ›nÃ­ kosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XIV;Nemoci pohlavní a moèové soustavy;785;1;-;-;-;-;-;-;-;-;2;2;4;9;10;30;48;71;78;98;143;145;144
-N00;Akutní nefritickı syndrom;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-N01;Rychle postupující nefritickı syndrom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N02;Recidivující a pøetrvávající hematurie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
-N03;Chronickı nefritickı syndrom;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;-;-;-
-N04;Nefrotickı syndrom;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
-N05;Neurèenı nefritickı syndrom;2;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-
-N07;Dìdièná nefropatie nezaøazená jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N10;Akutní tubulo-intersticiální nefritida;37;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;3;4;2;4;11;7;3
-N11;Chronická tubulo-intersticiální nefritida;39;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;7;2;4;11;6;6
-N12;"Tubulo-intersticiální nefritida, 
-neurèená jako akutní nebo chronická";15;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;2;2;3;1;1;3
-N13;Obstruktivní a refluxní uropatie;10;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;2;5;-
-N14;"Tubulo-intersticiální a tubulární onemocnìní zpùsobené léèivy a tìkımi kovy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N15;Jiná tubulo-intersticiální onemocnìní ledvin;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
-N17;Akutní selhání ledvin;136;-;-;-;-;-;-;-;-;-;-;1;2;1;2;2;10;14;15;16;28;24;21
-N18;Chronické selhání ledvin;387;-;-;-;-;-;-;-;-;-;1;-;1;5;7;16;25;37;44;51;55;72;73
-N19;Neurèené selhání ledvin;18;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;3;2;1;3;2;2;3
-N20;Kámen ledviny a moèovodu;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;1
-N21;Kámen v dolním moèovém traktu;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
-N23;Neurèená ledvinová kolika;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-N25;Poruchy vyplıvající z porušené funkce renálních tubulù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N26;Neurèená svraštìlá ledvina;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;-
-N28;"Jiné poruchy ledviny a ureteru, 
-nezaøazené jinde";13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;1;4;1;5
-N30;Zánìt moèového mìchıøe - cystitis;15;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;3;5;5
-N31;Nervovì svalová dysfunkce moèového mìchıøe neuvedené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N32;Jiné poruchy moèového mìchıøe;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-
-N34;"Zánìt moèové trubice - urethritida 
-a uretrální syndrom";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
-N35;Zúení moèové trubice - strictura urethrae;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-N36;Jiná onemocnìní moèové trubice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N39;Jiná onemocnìní moèové soustavy;45;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;1;4;2;12;10;13
-N40;Zbytnìní prostaty - hyperplasia prostatae;36;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;2;6;10;9;6
-N41;Zánìtlivé nemoci prostaty;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
-N42;Jiná onemocnìní prostaty;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-N43;Hydrokéla a spermatokéla;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N45;"Zánìt varlete - orchitis - a nadvarlete 
+XIV;Nemoci pohlavnÃ­ a moÄovÃ© soustavy;785;1;-;-;-;-;-;-;-;-;2;2;4;9;10;30;48;71;78;98;143;145;144
+N00;AkutnÃ­ nefritickÃ½ syndrom;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+N01;Rychle postupujÃ­cÃ­ nefritickÃ½ syndrom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N02;RecidivujÃ­cÃ­ a pÅ™etrvÃ¡vajÃ­cÃ­ hematurie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+N03;ChronickÃ½ nefritickÃ½ syndrom;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;2;1;-;-;-
+N04;NefrotickÃ½ syndrom;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+N05;NeurÄenÃ½ nefritickÃ½ syndrom;2;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-
+N07;DÄ›diÄnÃ¡ nefropatie nezaÅ™azenÃ¡ jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N10;AkutnÃ­ tubulo-intersticiÃ¡lnÃ­ nefritida;37;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;3;4;2;4;11;7;3
+N11;ChronickÃ¡ tubulo-intersticiÃ¡lnÃ­ nefritida;39;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;7;2;4;11;6;6
+N12;"Tubulo-intersticiÃ¡lnÃ­ nefritida, 
+neurÄenÃ¡ jako akutnÃ­ nebo chronickÃ¡";15;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;2;2;3;1;1;3
+N13;ObstruktivnÃ­ a refluxnÃ­ uropatie;10;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;2;5;-
+N14;"Tubulo-intersticiÃ¡lnÃ­ a tubulÃ¡rnÃ­ onemocnÄ›nÃ­ zpÅ¯sobenÃ© lÃ©Äivy a tÄ›Å¾kÃ½mi kovy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N15;JinÃ¡ tubulo-intersticiÃ¡lnÃ­ onemocnÄ›nÃ­ ledvin;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+N17;AkutnÃ­ selhÃ¡nÃ­ ledvin;136;-;-;-;-;-;-;-;-;-;-;1;2;1;2;2;10;14;15;16;28;24;21
+N18;ChronickÃ© selhÃ¡nÃ­ ledvin;387;-;-;-;-;-;-;-;-;-;1;-;1;5;7;16;25;37;44;51;55;72;73
+N19;NeurÄenÃ© selhÃ¡nÃ­ ledvin;18;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;3;2;1;3;2;2;3
+N20;KÃ¡men ledviny a moÄovodu;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;1
+N21;KÃ¡men v dolnÃ­m moÄovÃ©m traktu;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+N23;NeurÄenÃ¡ ledvinovÃ¡ kolika;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+N25;Poruchy vyplÃ½vajÃ­cÃ­ z poruÅ¡enÃ© funkce renÃ¡lnÃ­ch tubulÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N26;NeurÄenÃ¡ svraÅ¡tÄ›lÃ¡ ledvina;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;-
+N28;"JinÃ© poruchy ledviny a ureteru, 
+nezaÅ™azenÃ© jinde";13;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;1;4;1;5
+N30;ZÃ¡nÄ›t moÄovÃ©ho mÄ›chÃ½Å™e - cystitis;15;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;3;5;5
+N31;NervovÄ› svalovÃ¡ dysfunkce moÄovÃ©ho mÄ›chÃ½Å™e neuvedenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N32;JinÃ© poruchy moÄovÃ©ho mÄ›chÃ½Å™e;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-
+N34;"ZÃ¡nÄ›t moÄovÃ© trubice - urethritida 
+a uretrÃ¡lnÃ­ syndrom";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+N35;ZÃºÅ¾enÃ­ moÄovÃ© trubice - strictura urethrae;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+N36;JinÃ¡ onemocnÄ›nÃ­ moÄovÃ© trubice;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N39;JinÃ¡ onemocnÄ›nÃ­ moÄovÃ© soustavy;45;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;1;1;4;2;12;10;13
+N40;ZbytnÄ›nÃ­ prostaty - hyperplasia prostatae;36;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;2;6;10;9;6
+N41;ZÃ¡nÄ›tlivÃ© nemoci prostaty;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+N42;JinÃ¡ onemocnÄ›nÃ­ prostaty;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+N43;HydrokÃ©la a spermatokÃ©la;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N45;"ZÃ¡nÄ›t varlete - orchitis - a nadvarlete 
 - epididymitis";3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;-;-
-N48;Jiné poruchy pyje;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
-N49;Zánìtlivá onemocnìní muskıch pohlavních orgánù, nezaøazená jinde;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
-N50;Jiné poruchy muskıch pohlavních orgánù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N70;"Zánìt vejcovodù a vajeèníkù 
+N48;JinÃ© poruchy pyje;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+N49;ZÃ¡nÄ›tlivÃ¡ onemocnÄ›nÃ­ muÅ¾skÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯, nezaÅ™azenÃ¡ jinde;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1
+N50;JinÃ© poruchy muÅ¾skÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N70;"ZÃ¡nÄ›t vejcovodÅ¯ a vajeÄnÃ­kÅ¯ 
 - salpingitis a oophoritis";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N71;Zánìtlivé nemoci dìlohy, mimo cervix;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N72;Zánìtlivé nemoci hrdla dìloního;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N73;"Jiné zánìtlivé nemoci enskıch 
-pánevních orgánù";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N76;Jiné zánìty pochvy a vulvy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N81;"Vıhøez - prolaps - enskıch pohlavních orgánù ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N82;Píštìle postihující enské pohlavní ústrojí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-N83;Nezánìtlivá onemocnìní vajeèníku, vejcovodu a širokého vazu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N71;ZÃ¡nÄ›tlivÃ© nemoci dÄ›lohy, mimo cervix;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N72;ZÃ¡nÄ›tlivÃ© nemoci hrdla dÄ›loÅ¾nÃ­ho;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N73;"JinÃ© zÃ¡nÄ›tlivÃ© nemoci Å¾enskÃ½ch 
+pÃ¡nevnÃ­ch orgÃ¡nÅ¯";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N76;JinÃ© zÃ¡nÄ›ty pochvy a vulvy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N81;"VÃ½hÅ™ez - prolaps - Å¾enskÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N82;PÃ­Å¡tÄ›le postihujÃ­cÃ­ Å¾enskÃ© pohlavnÃ­ ÃºstrojÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+N83;NezÃ¡nÄ›tlivÃ¡ onemocnÄ›nÃ­ vajeÄnÃ­ku, vejcovodu a Å¡irokÃ©ho vazu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XV;Tìhotenství, porod a šestinedìlí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O00;Mimodìloní tìhotenství;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O02;Jiné anomálie plodového vejce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O03;Samovolnı potrat - abortus spontaneus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O04;Lékaøskı potrat;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+XV;TÄ›hotenstvÃ­, porod a Å¡estinedÄ›lÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O00;MimodÄ›loÅ¾nÃ­ tÄ›hotenstvÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O02;JinÃ© anomÃ¡lie plodovÃ©ho vejce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O03;SamovolnÃ½ potrat - abortus spontaneus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O04;LÃ©kaÅ™skÃ½ potrat;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 O06;Potrat NS;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O07;Nezdaøenı pokus o potrat;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O08;"Komplikace po potratu, mimodìloním  tìhotenství a mola hydatidosa ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O14;Gestaèní (vyvolaná tìhotenstvím) hypertenze s vıznamnou proteinurií;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O07;NezdaÅ™enÃ½ pokus o potrat;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O08;"Komplikace po potratu, mimodÄ›loÅ¾nÃ­m  tÄ›hotenstvÃ­ a mola hydatidosa ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O14;GestaÄnÃ­ (vyvolanÃ¡ tÄ›hotenstvÃ­m) hypertenze s vÃ½znamnou proteinuriÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 O15;Eklampsie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O22;ilní komplikace v tìhotenství;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O45;Pøedèasné odluèování placenty (abruptio placentae praecox);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O46;Pøedporodní krvácení jinde neuvedené;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O67;Porod komplikovanı porodním krvácením nezaøazenım jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O68;Porod komplikovanı tísní plodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O71;Jiné porodní poranìní;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O72;Poporodní krvácení;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O75;"Jiné komplikace porodu nezaøazené jinde ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O85;Puerperální sepse;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O87;ilní komplikace v šestinedìlí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O22;Å½ilnÃ­ komplikace v tÄ›hotenstvÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O45;PÅ™edÄasnÃ© odluÄovÃ¡nÃ­ placenty (abruptio placentae praecox);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O46;PÅ™edporodnÃ­ krvÃ¡cenÃ­ jinde neuvedenÃ©;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O67;Porod komplikovanÃ½ porodnÃ­m krvÃ¡cenÃ­m nezaÅ™azenÃ½m jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O68;Porod komplikovanÃ½ tÃ­snÃ­ plodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O71;JinÃ© porodnÃ­ poranÄ›nÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O72;PoporodnÃ­ krvÃ¡cenÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O75;"JinÃ© komplikace porodu nezaÅ™azenÃ© jinde ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O85;PuerperÃ¡lnÃ­ sepse;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O87;Å½ilnÃ­ komplikace v Å¡estinedÄ›lÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 O88;Embolie v gestaci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O90;Komplikace šestinedìlí nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O95;"Smrt (matky) z neznámé porodnické pøíèiny ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-O96;Smrt (matky) z kterékoli porodnické pøíèiny od 42 dnù do 1 roku po porodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O90;Komplikace Å¡estinedÄ›lÃ­ nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O95;"Smrt (matky) z neznÃ¡mÃ© porodnickÃ© pÅ™Ã­Äiny ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+O96;Smrt (matky) z kterÃ©koli porodnickÃ© pÅ™Ã­Äiny od 42 dnÅ¯ do 1 roku po porodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XVI;Nìkteré stavy vzniklé v perinatálním období;116;116;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P00;Postiení plodu a novorozence onemocnìním matky, které nemusí souviset s nynìjším tìhotenstvím;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P01;"Postiení plodu a novorozence ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P02;Postiení plodu a novorozence komplikacemi lùka, pupeèníku a blan;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P03;Postiení plodu a novorozence jinımi komplikacemi porodní èinnosti a porodu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P05;Pomalı rùst a podvıiva plodu;18;18;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P07;"Poruchy v souvislosti se zkrácením trváním tìhotenství a nízkou porodní hmotností, nezaøazené jinde ";5;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P08;Poruchy související s prodlouenım tìhotenstvím a velkou porodní hmotností;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P10;"Nitrolební poranìní a krvácení 
-zpùsobené za porodu";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P11;"Jiná poranìní centrální nervové soustavy 
+XVI;NÄ›kterÃ© stavy vzniklÃ© v perinatÃ¡lnÃ­m obdobÃ­;116;116;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P00;PostiÅ¾enÃ­ plodu a novorozence onemocnÄ›nÃ­m matky, kterÃ© nemusÃ­ souviset s nynÄ›jÅ¡Ã­m tÄ›hotenstvÃ­m;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P01;"PostiÅ¾enÃ­ plodu a novorozence ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P02;PostiÅ¾enÃ­ plodu a novorozence komplikacemi lÅ¯Å¾ka, pupeÄnÃ­ku a blan;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P03;PostiÅ¾enÃ­ plodu a novorozence jinÃ½mi komplikacemi porodnÃ­ Äinnosti a porodu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P05;PomalÃ½ rÅ¯st a podvÃ½Å¾iva plodu;18;18;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P07;"Poruchy v souvislosti se zkrÃ¡cenÃ­m trvÃ¡nÃ­m tÄ›hotenstvÃ­ a nÃ­zkou porodnÃ­ hmotnostÃ­, nezaÅ™azenÃ© jinde ";5;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P08;Poruchy souvisejÃ­cÃ­ s prodlouÅ¾enÃ½m tÄ›hotenstvÃ­m a velkou porodnÃ­ hmotnostÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P10;"NitrolebnÃ­ poranÄ›nÃ­ a krvÃ¡cenÃ­ 
+zpÅ¯sobenÃ© za porodu";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P11;"JinÃ¡ poranÄ›nÃ­ centrÃ¡lnÃ­ nervovÃ© soustavy 
 za porodu ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P12;Poranìní vlasové èásti hlavy za porodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P13;Poranìní kostry za porodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P15;Jiné poranìní za porodu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P20;Nitrodìloní hypoxie;7;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P21;Porodní asfyxie;20;20;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P22;Respiraèní tíseò novorozence;14;14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P23;Vrozenı zánìt plic;4;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P24;Novorozenecké aspiraèní syndromy;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P25;Intersticiální emfyzém a pøíbuzné stavy vzniklé v perinatálním období;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P26;"Plicní krvácení vzniklé v perinatálním období ";2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P27;"Chronické respiraèní nemoci vzniklé 
-v perinatálním období ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P28;"Jiné poruchy respirace 
-vzniklé v perinatálním období";3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P29;"Kardiovaskulární poruchy 
-vzniklé v perinatálním období ";4;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P35;Vrozené virové nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P36;Bakteriální sepse novorozence;9;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P37;Jiné vrozené infekèní a parazitární nemoci;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P38;Zánìt pupeèníku - omphatilis - s mírnım krvácením nebo bez nìho;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P39;Jiné infekce specifické pro perinatální období;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P50;Fetální ztráta krve;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P51;Krvácení z pupeèníku novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P52;"Nitrolební neúrazové krvácení plodu 
+P12;PoranÄ›nÃ­ vlasovÃ© ÄÃ¡sti hlavy za porodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P13;PoranÄ›nÃ­ kostry za porodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P15;JinÃ© poranÄ›nÃ­ za porodu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P20;NitrodÄ›loÅ¾nÃ­ hypoxie;7;7;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P21;PorodnÃ­ asfyxie;20;20;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P22;RespiraÄnÃ­ tÃ­seÅˆ novorozence;14;14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P23;VrozenÃ½ zÃ¡nÄ›t plic;4;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P24;NovorozeneckÃ© aspiraÄnÃ­ syndromy;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P25;IntersticiÃ¡lnÃ­ emfyzÃ©m a pÅ™Ã­buznÃ© stavy vzniklÃ© v perinatÃ¡lnÃ­m obdobÃ­;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P26;"PlicnÃ­ krvÃ¡cenÃ­ vzniklÃ© v perinatÃ¡lnÃ­m obdobÃ­ ";2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P27;"ChronickÃ© respiraÄnÃ­ nemoci vzniklÃ© 
+v perinatÃ¡lnÃ­m obdobÃ­ ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P28;"JinÃ© poruchy respirace 
+vzniklÃ© v perinatÃ¡lnÃ­m obdobÃ­";3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P29;"KardiovaskulÃ¡rnÃ­ poruchy 
+vzniklÃ© v perinatÃ¡lnÃ­m obdobÃ­ ";4;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P35;VrozenÃ© virovÃ© nemoci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P36;BakteriÃ¡lnÃ­ sepse novorozence;9;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P37;JinÃ© vrozenÃ© infekÄnÃ­ a parazitÃ¡rnÃ­ nemoci;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P38;ZÃ¡nÄ›t pupeÄnÃ­ku - omphatilis - s mÃ­rnÃ½m krvÃ¡cenÃ­m nebo bez nÄ›ho;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P39;JinÃ© infekce specifickÃ© pro perinatÃ¡lnÃ­ obdobÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P50;FetÃ¡lnÃ­ ztrÃ¡ta krve;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P51;KrvÃ¡cenÃ­ z pupeÄnÃ­ku novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P52;"NitrolebnÃ­ neÃºrazovÃ© krvÃ¡cenÃ­ plodu 
 a novorozence";14;14;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P53;Hemoragická nemoc u plodu a novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P54;Jiná krvácení u novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P55;Hemolytická nemoc plodu a novorozence;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P56;Hydrops plodu zpùsobenı hemolytickou nemocí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P58;"Novorozenecká loutenka zpùsobená 
-jinou nadmìrnou hemolızou ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P59;"Novorozenecká loutenka z jinıch 
-a neurèenım pøíèin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P60;"Disseminovaná intravaskulární koagulace 
+P53;HemoragickÃ¡ nemoc u plodu a novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P54;JinÃ¡ krvÃ¡cenÃ­ u novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P55;HemolytickÃ¡ nemoc plodu a novorozence;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P56;Hydrops plodu zpÅ¯sobenÃ½ hemolytickou nemocÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P58;"NovorozeneckÃ¡ Å¾loutenka zpÅ¯sobenÃ¡ 
+jinou nadmÄ›rnou hemolÃ½zou ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P59;"NovorozeneckÃ¡ Å¾loutenka z jinÃ½ch 
+a neurÄenÃ½m pÅ™Ã­Äin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P60;"DisseminovanÃ¡ intravaskulÃ¡rnÃ­ koagulace 
 u plodu nebo novorozence";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P61;Jiné perinatální hematologické poruchy;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P70;"Pøechodné poruchy metabolismu uhlovodanù specifické pro plod 
+P61;JinÃ© perinatÃ¡lnÃ­ hematologickÃ© poruchy;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P70;"PÅ™echodnÃ© poruchy metabolismu uhlovodanÅ¯ specifickÃ© pro plod 
 a novorozence";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P72;"Jiné pøechodné novorozenecké
-endokrinní poruchy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P74;Jiné pøechodné novorozenecké poruchy elektrolytù a metabolismu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P76;Jiná støevní neprùchodnost u novorozencù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P77;"Nekrotizující enterokolitis 
+P72;"JinÃ© pÅ™echodnÃ© novorozeneckÃ©
+endokrinnÃ­ poruchy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P74;JinÃ© pÅ™echodnÃ© novorozeneckÃ© poruchy elektrolytÅ¯ a metabolismu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P76;JinÃ¡ stÅ™evnÃ­ neprÅ¯chodnost u novorozencÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P77;"NekrotizujÃ­cÃ­ enterokolitis 
 u plodu a novorozence ";2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P78;Jiná perinatální onemocnìní trávicí soustavy;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P83;"Jiné poruchy koního krytu 
-(vèetnì podkoí a amnia)";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P90;Køeèe u novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P91;Jiné poruchy stavu mozku novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P92;"Problémy s krmením ze strany
+P78;JinÃ¡ perinatÃ¡lnÃ­ onemocnÄ›nÃ­ trÃ¡vicÃ­ soustavy;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P83;"JinÃ© poruchy koÅ¾nÃ­ho krytu 
+(vÄetnÄ› podkoÅ¾Ã­ a amnia)";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P90;KÅ™eÄe u novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P91;JinÃ© poruchy stavu mozku novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P92;"ProblÃ©my s krmenÃ­m ze strany
 novorozence";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P94;Poruchy svalového tonu novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P95;Smrt plodu z neurèené pøíèiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-P96;Jiné stavy vzniklé v perinatálním období;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P94;Poruchy svalovÃ©ho tonu novorozence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P95;Smrt plodu z neurÄenÃ© pÅ™Ã­Äiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+P96;JinÃ© stavy vzniklÃ© v perinatÃ¡lnÃ­m obdobÃ­;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XVII;"Vrozené vady, deformace 
-a chromosomální abnormality";69;48;2;1;1;-;5;3;1;-;3;-;2;-;1;-;1;1;-;-;-;-;-
-Q00;Anencephalie a podobné vrozené vady;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+XVII;"VrozenÃ© vady, deformace 
+a chromosomÃ¡lnÃ­ abnormality";69;48;2;1;1;-;5;3;1;-;3;-;2;-;1;-;1;1;-;-;-;-;-
+Q00;Anencephalie a podobnÃ© vrozenÃ© vady;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 Q01;Encephalocele;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 Q02;Microcephalia;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q03;Vrozenı hydrocefalus;6;1;-;1;-;-;3;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q04;Jiné vrozené vady mozku;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q05;Spina bifida - rozštìp páteøe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q06;Jiné vrozené vady míchy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q07;Jiné vrozené vady nervové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q20;Vrozené vady srdeèních komor a spojení;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q21;Vrozené vady srdeèní pøepáky;4;2;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
-Q22;"Vrozené vady pulmonální a trojcípé chlopnì ";2;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q23;Vrozené vady aortální a mitrální chlopnì;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q24;Jiné vrozené vady srdce;8;7;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q25;Vrozené vady velkıch arterií;7;6;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
-Q26;Vrozené vady velkıch il;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q27;Jiné vrozené vady periferní cévní soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q28;Jiné vrozené vady obìhové soustavy;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q30;Vrozené vady nosu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q31;Vrozené vady hrtanu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q32;Vrozené vady prùdušnice a prùdušky;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
-Q33;Vrozené vady plic;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q34;Jiné vrozené vady dıchací soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q35;Rozštìp patra;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q36;Rozštìp rtu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q37;Rozštìp patra s rozštìpem rtu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q38;Jiné vrozené vady jazyka, úst a hltanu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q39;Vrozené vady jícnu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q40;Jiné vrozené vady horní èásti trávicí soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q41;"Vrozené chybìní, atrézie 
-a stenóza tenkého støeva ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q42;"Vrozené chybìní, atrézie 
-a stenóza tlustého støeva";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q43;Jiné vrozené vady støeva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q44;Vrozené vady luèníku, luèovodù a jater;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q45;Jiné vrozené vady trávicí soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q51;Vrozené vady dìlohy a dìloního hrdla;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q60;Renální ageneze a hypoplazie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q61;Cystická nemoc ledvin;4;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;-
-Q62;Vrozené obstrukèní defekty ledvinové pánvièky a vrozené vady moèovodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q63;Jiné vrozené vady ledvin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q64;Jiné vrozené vady moèové soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q74;Jiné vrozené vady konèetin(-y);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q75;Jiné vrozené vady kostí lebky a oblièeje;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q76;"Vrozené vady páteøe a kostìného hrudníku ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q77;Osteochondrodysplazie s poruchou rùstu dlouhıch kostí a páteøe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q78;Jiné osteochondrodysplazie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q79;"Vrozené vady svalové a kosterní soustavy, nezaøazené jinde ";1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q80;Vrozená ichtyóza;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q03;VrozenÃ½ hydrocefalus;6;1;-;1;-;-;3;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q04;JinÃ© vrozenÃ© vady mozku;2;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q05;Spina bifida - rozÅ¡tÄ›p pÃ¡teÅ™e;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q06;JinÃ© vrozenÃ© vady mÃ­chy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q07;JinÃ© vrozenÃ© vady nervovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q20;VrozenÃ© vady srdeÄnÃ­ch komor a spojenÃ­;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q21;VrozenÃ© vady srdeÄnÃ­ pÅ™epÃ¡Å¾ky;4;2;1;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+Q22;"VrozenÃ© vady pulmonÃ¡lnÃ­ a trojcÃ­pÃ© chlopnÄ› ";2;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q23;VrozenÃ© vady aortÃ¡lnÃ­ a mitrÃ¡lnÃ­ chlopnÄ›;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q24;JinÃ© vrozenÃ© vady srdce;8;7;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q25;VrozenÃ© vady velkÃ½ch arteriÃ­;7;6;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
+Q26;VrozenÃ© vady velkÃ½ch Å¾il;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q27;JinÃ© vrozenÃ© vady perifernÃ­ cÃ©vnÃ­ soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q28;JinÃ© vrozenÃ© vady obÄ›hovÃ© soustavy;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q30;VrozenÃ© vady nosu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q31;VrozenÃ© vady hrtanu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q32;VrozenÃ© vady prÅ¯duÅ¡nice a prÅ¯duÅ¡ky;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
+Q33;VrozenÃ© vady plic;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q34;JinÃ© vrozenÃ© vady dÃ½chacÃ­ soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q35;RozÅ¡tÄ›p patra;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q36;RozÅ¡tÄ›p rtu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q37;RozÅ¡tÄ›p patra s rozÅ¡tÄ›pem rtu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q38;JinÃ© vrozenÃ© vady jazyka, Ãºst a hltanu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q39;VrozenÃ© vady jÃ­cnu;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q40;JinÃ© vrozenÃ© vady hornÃ­ ÄÃ¡sti trÃ¡vicÃ­ soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q41;"VrozenÃ© chybÄ›nÃ­, atrÃ©zie 
+a stenÃ³za tenkÃ©ho stÅ™eva ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q42;"VrozenÃ© chybÄ›nÃ­, atrÃ©zie 
+a stenÃ³za tlustÃ©ho stÅ™eva";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q43;JinÃ© vrozenÃ© vady stÅ™eva;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q44;VrozenÃ© vady Å¾luÄnÃ­ku, Å¾luÄovodÅ¯ a jater;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q45;JinÃ© vrozenÃ© vady trÃ¡vicÃ­ soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q51;VrozenÃ© vady dÄ›lohy a dÄ›loÅ¾nÃ­ho hrdla;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q60;RenÃ¡lnÃ­ ageneze a hypoplazie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q61;CystickÃ¡ nemoc ledvin;4;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-;-
+Q62;VrozenÃ© obstrukÄnÃ­ defekty ledvinovÃ© pÃ¡nviÄky a vrozenÃ© vady moÄovodu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q63;JinÃ© vrozenÃ© vady ledvin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q64;JinÃ© vrozenÃ© vady moÄovÃ© soustavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q74;JinÃ© vrozenÃ© vady konÄetin(-y);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q75;JinÃ© vrozenÃ© vady kostÃ­ lebky a obliÄeje;1;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q76;"VrozenÃ© vady pÃ¡teÅ™e a kostÄ›nÃ©ho hrudnÃ­ku ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q77;Osteochondrodysplazie s poruchou rÅ¯stu dlouhÃ½ch kostÃ­ a pÃ¡teÅ™e;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q78;JinÃ© osteochondrodysplazie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q79;"VrozenÃ© vady svalovÃ© a kosternÃ­ soustavy, nezaÅ™azenÃ© jinde ";1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q80;VrozenÃ¡ ichtyÃ³za;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 Q81;Epidermolysis bullosa;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q82;Jiné vrozené vady kùe;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q85;Fakomatózy, nezaøazené jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-Q86;"Vrozené malformaèní syndromy zpùsobené známımi zevními pøíèinami, 
-nezaøazené jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q87;Jiné urèené vrozené malformaèní syndromy postihující více systémù;3;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
-Q89;Jiné vrozené vady, nezaøazené jinde;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q90;Downùv syndrom;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-Q91;Syndromy Edwardsùv a Patauùv;5;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q92;"Jiné trisomie a èásteèné trisomie 
-autosomù, nezaøazené jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q93;"Monosomie a delece autosomù, 
-nezaøazená jinde";3;2;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q95;"Balancované pøestavby a strukturální 
-zvláštnosti (markery) nezaøazené jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q96;Turnerùv syndrom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q98;Jiné abnormality pohlavních chromosomù, muskı fenotyp, nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-Q99;"Jiné abnormality chromosomù, 
-nezaøazené jinde";2;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q82;JinÃ© vrozenÃ© vady kÅ¯Å¾e;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q85;FakomatÃ³zy, nezaÅ™azenÃ© jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+Q86;"VrozenÃ© malformaÄnÃ­ syndromy zpÅ¯sobenÃ© znÃ¡mÃ½mi zevnÃ­mi pÅ™Ã­Äinami, 
+nezaÅ™azenÃ© jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q87;JinÃ© urÄenÃ© vrozenÃ© malformaÄnÃ­ syndromy postihujÃ­cÃ­ vÃ­ce systÃ©mÅ¯;3;2;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+Q89;JinÃ© vrozenÃ© vady, nezaÅ™azenÃ© jinde;3;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q90;DownÅ¯v syndrom;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+Q91;Syndromy EdwardsÅ¯v a PatauÅ¯v;5;5;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q92;"JinÃ© trisomie a ÄÃ¡steÄnÃ© trisomie 
+autosomÅ¯, nezaÅ™azenÃ© jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q93;"Monosomie a delece autosomÅ¯, 
+nezaÅ™azenÃ¡ jinde";3;2;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q95;"BalancovanÃ© pÅ™estavby a strukturÃ¡lnÃ­ 
+zvlÃ¡Å¡tnosti (markery) nezaÅ™azenÃ© jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q96;TurnerÅ¯v syndrom;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q98;JinÃ© abnormality pohlavnÃ­ch chromosomÅ¯, muÅ¾skÃ½ fenotyp, nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Q99;"JinÃ© abnormality chromosomÅ¯, 
+nezaÅ™azenÃ© jinde";2;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XVIII;"Pøíznaky, znaky a abnormální klinické 
-a laboratorní nálezy nezaøazené jinde";569;9;-;-;-;-;-;2;3;12;11;12;19;29;24;60;63;68;45;52;68;45;47
-R00;Abnormality srdeèní èinnosti (tepu);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R02;Gangréna nezaøazená jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-R03;"Zjištìní abnormálního krevního tlaku 
-bez diagnózy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R04;Krvácení z dıchacích cest;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
-R06;Nepravidelnosti dıchání;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-R09;"Jiné pøíznaky a znaky tıkající se obìhové 
-a dıchací soustavy";20;2;-;-;-;-;-;-;-;-;-;1;-;1;-;2;-;1;1;3;3;3;3
-R10;Bøišní a pánevní bolest;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+XVIII;"PÅ™Ã­znaky, znaky a abnormÃ¡lnÃ­ klinickÃ© 
+a laboratornÃ­ nÃ¡lezy nezaÅ™azenÃ© jinde";569;9;-;-;-;-;-;2;3;12;11;12;19;29;24;60;63;68;45;52;68;45;47
+R00;Abnormality srdeÄnÃ­ Äinnosti (tepu);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R02;GangrÃ©na nezaÅ™azenÃ¡ jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+R03;"ZjiÅ¡tÄ›nÃ­ abnormÃ¡lnÃ­ho krevnÃ­ho tlaku 
+bez diagnÃ³zy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R04;KrvÃ¡cenÃ­ z dÃ½chacÃ­ch cest;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-
+R06;Nepravidelnosti dÃ½chÃ¡nÃ­;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+R09;"JinÃ© pÅ™Ã­znaky a znaky tÃ½kajÃ­cÃ­ se obÄ›hovÃ© 
+a dÃ½chacÃ­ soustavy";20;2;-;-;-;-;-;-;-;-;-;1;-;1;-;2;-;1;1;3;3;3;3
+R10;BÅ™iÅ¡nÃ­ a pÃ¡nevnÃ­ bolest;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 R16;"Hepatomegalie a splenomegalie, 
-nezaøazená jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R17;Neurèená loutenka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+nezaÅ™azenÃ¡ jinde";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R17;NeurÄenÃ¡ Å¾loutenka;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 R18;Ascites;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R19;Jiné pøíznaky a znaky tıkající se trávicí soustavy a bøicha;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
-R29;"Jiné pøíznaky a znaky tıkající se nervové 
-a svalové a kosterní soustavy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R31;Neurèená hematurie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R39;"Jiné  pøíznaky a znaky tıkající 
-se moèové soustavy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R19;JinÃ© pÅ™Ã­znaky a znaky tÃ½kajÃ­cÃ­ se trÃ¡vicÃ­ soustavy a bÅ™icha;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-
+R29;"JinÃ© pÅ™Ã­znaky a znaky tÃ½kajÃ­cÃ­ se nervovÃ© 
+a svalovÃ© a kosternÃ­ soustavy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R31;NeurÄenÃ¡ hematurie;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R39;"JinÃ©  pÅ™Ã­znaky a znaky tÃ½kajÃ­cÃ­ 
+se moÄovÃ© soustavy";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 R40;"Spavost - somnolence, ztrnulost - stupor 
-a bezvìdomí - koma";3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;1
-R50;Horeèka neznámého pùvodu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-R52;Bolest nezaøazená jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R53;Nevolnost a únava;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R54;Stáøí - senilita;27;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;5;18
-R55;Mdloba - synkopa a kolaps - zhroucení;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-R56;Køeèe, nezaøazené jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R57;Šok, nezaøazenı jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-R58;Krvácení, nezaøazené jinde;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-;1;-;-
-R59;Zvìtšené mízní uzliny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R60;Edém - otok, nezaøazenı jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R63;"Pøíznaky a znaky tıkající se potravy 
-a pøíjmu tekutin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+a bezvÄ›domÃ­ - koma";3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;1
+R50;HoreÄka neznÃ¡mÃ©ho pÅ¯vodu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+R52;Bolest nezaÅ™azenÃ¡ jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R53;Nevolnost a Ãºnava;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R54;StÃ¡Å™Ã­ - senilita;27;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;4;5;18
+R55;Mdloba - synkopa a kolaps - zhroucenÃ­;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+R56;KÅ™eÄe, nezaÅ™azenÃ© jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R57;Å ok, nezaÅ™azenÃ½ jinde;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+R58;KrvÃ¡cenÃ­, nezaÅ™azenÃ© jinde;4;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;1;-;1;-;-
+R59;ZvÄ›tÅ¡enÃ© mÃ­znÃ­ uzliny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R60;EdÃ©m - otok, nezaÅ™azenÃ½ jinde;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R63;"PÅ™Ã­znaky a znaky tÃ½kajÃ­cÃ­ se potravy 
+a pÅ™Ã­jmu tekutin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
 R64;Kachexie;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-R69;Neznámé a neurèené pøíèiny nemocnosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R76;"Jiné abnormální imunologické nálezy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R90;"Abnormální nálezy pøi diagnostickém zobrazení centrální nervové soustavy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R93;"Abnormální nálezy pøi diagnostickém zobrazení jinıch tìlesnıch struktur ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R94;Abnormální vısledky funkèního vyšetøení;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R95;Syndrom náhlé smrti dítìte (kojence);6;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-R96;Jiná náhlá smrt z neznámé pøíèiny;28;-;-;-;-;-;-;-;-;-;-;-;-;3;1;2;2;5;4;1;2;2;6
-R98;Smrt bez svìdkù;183;-;-;-;-;-;-;1;-;4;2;2;9;6;7;13;25;22;21;14;28;21;8
-R99;"Jiné nepøesnì urèené a neurèené pøíèiny smrti ";290;1;-;-;-;-;-;1;3;8;9;9;10;19;15;41;35;37;18;33;26;14;11
+R69;NeznÃ¡mÃ© a neurÄenÃ© pÅ™Ã­Äiny nemocnosti;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R76;"JinÃ© abnormÃ¡lnÃ­ imunologickÃ© nÃ¡lezy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R90;"AbnormÃ¡lnÃ­ nÃ¡lezy pÅ™i diagnostickÃ©m zobrazenÃ­ centrÃ¡lnÃ­ nervovÃ© soustavy ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R93;"AbnormÃ¡lnÃ­ nÃ¡lezy pÅ™i diagnostickÃ©m zobrazenÃ­ jinÃ½ch tÄ›lesnÃ½ch struktur ";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R94;AbnormÃ¡lnÃ­ vÃ½sledky funkÄnÃ­ho vyÅ¡etÅ™enÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R95;Syndrom nÃ¡hlÃ© smrti dÃ­tÄ›te (kojence);6;6;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+R96;JinÃ¡ nÃ¡hlÃ¡ smrt z neznÃ¡mÃ© pÅ™Ã­Äiny;28;-;-;-;-;-;-;-;-;-;-;-;-;3;1;2;2;5;4;1;2;2;6
+R98;Smrt bez svÄ›dkÅ¯;183;-;-;-;-;-;-;1;-;4;2;2;9;6;7;13;25;22;21;14;28;21;8
+R99;"JinÃ© nepÅ™esnÄ› urÄenÃ© a neurÄenÃ© pÅ™Ã­Äiny smrti ";290;1;-;-;-;-;-;1;3;8;9;9;10;19;15;41;35;37;18;33;26;14;11
 "";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";""
-XIX;Poranìní, otravy a nìkteré jiné následky vnìjších pøíèin;4 082;10;3;1;4;3;15;24;143;245;238;256;258;299;338;447;421;299;208;199;235;232;204
-S00;Povrchní poranìní hlavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S01;Otevøená rána hlavy;23;-;-;-;-;-;-;-;1;-;2;2;1;-;1;3;-;3;4;2;3;1;-
-S02;Zlomenina kostí lebky a oblièeje;263;1;-;-;-;1;1;2;9;16;15;13;21;17;30;31;34;14;18;14;14;5;7
-S04;Poranìní mozkovıch nervù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S06;Nitrolební poranìní;721;-;1;-;-;-;1;3;34;53;32;30;31;42;50;83;82;73;45;42;45;41;33
-S07;Drtivé poranìní (rozdrcení) hlavy;40;-;-;-;-;-;1;1;3;4;7;3;3;3;2;2;5;1;1;1;1;1;1
-S08;Traumatická amputace èásti hlavy;6;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;1;-;-;-;2;-;-
-S09;Jiná a neurèená poranìní hlavy;15;-;-;-;-;-;-;-;2;-;1;1;2;1;1;1;1;2;1;1;-;1;-
-S10;Povrchní poranìní krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S11;Otevøená rána krku;5;-;-;-;-;-;-;-;-;-;-;2;1;1;1;-;-;-;-;-;-;-;-
+XIX;PoranÄ›nÃ­, otravy a nÄ›kterÃ© jinÃ© nÃ¡sledky vnÄ›jÅ¡Ã­ch pÅ™Ã­Äin;4Â 082;10;3;1;4;3;15;24;143;245;238;256;258;299;338;447;421;299;208;199;235;232;204
+S00;PovrchnÃ­ poranÄ›nÃ­ hlavy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S01;OtevÅ™enÃ¡ rÃ¡na hlavy;23;-;-;-;-;-;-;-;1;-;2;2;1;-;1;3;-;3;4;2;3;1;-
+S02;Zlomenina kostÃ­ lebky a obliÄeje;263;1;-;-;-;1;1;2;9;16;15;13;21;17;30;31;34;14;18;14;14;5;7
+S04;PoranÄ›nÃ­ mozkovÃ½ch nervÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S06;NitrolebnÃ­ poranÄ›nÃ­;721;-;1;-;-;-;1;3;34;53;32;30;31;42;50;83;82;73;45;42;45;41;33
+S07;DrtivÃ© poranÄ›nÃ­ (rozdrcenÃ­) hlavy;40;-;-;-;-;-;1;1;3;4;7;3;3;3;2;2;5;1;1;1;1;1;1
+S08;TraumatickÃ¡ amputace ÄÃ¡sti hlavy;6;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;1;-;-;-;2;-;-
+S09;JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ hlavy;15;-;-;-;-;-;-;-;2;-;1;1;2;1;1;1;1;2;1;1;-;1;-
+S10;PovrchnÃ­ poranÄ›nÃ­ krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S11;OtevÅ™enÃ¡ rÃ¡na krku;5;-;-;-;-;-;-;-;-;-;-;2;1;1;1;-;-;-;-;-;-;-;-
 S12;Zlomenina krku;26;-;-;-;-;-;-;-;2;-;-;3;3;3;1;2;4;2;3;-;2;1;-
-S13;"Vymknutí, podvrtnutí a nataení kloubù 
-a vazù v úrovni krku";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S14;Poranìní nervù a míchy v úrovni krku;11;-;-;-;-;-;-;-;-;-;1;1;1;1;-;1;1;1;2;1;-;-;1
-S15;Poranìní krevních cév v úrovni krku;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-
-S16;Poranìní svalu a šlachy v úrovni krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S17;Drtivé poranìní (rozdrcení) krku;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
-S18;Traumatická amputace v úrovni krku;7;-;-;-;-;-;-;-;-;1;-;1;-;-;2;1;-;-;2;-;-;-;-
-S19;Jiná a neurèená poranìní krku;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-
-S20;Povrchní poranìní hrudníku;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
-S21;Otevøená rána hrudníku;15;-;-;-;-;-;-;1;-;-;1;4;1;3;1;-;-;2;-;-;1;1;-
-S22;"Zlomenina ebra (eber), hrudní kosti 
-a hrudní páteøe";71;-;-;-;-;-;-;-;3;3;3;3;1;6;3;5;9;5;2;6;7;8;7
-S23;"Vymknutí, podvrtnutí a nataení kloubù 
-a vazù hrudníku";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S24;Poranìní nervù a míchy v úrovni hrudníku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S25;Poranìní krevních cév hrudníku;32;-;-;-;-;-;-;-;-;4;9;1;4;5;3;1;4;-;1;-;-;-;-
-S26;Poranìní srdce;51;-;-;-;1;-;-;-;5;8;1;3;2;5;1;8;4;2;4;3;2;2;-
-S27;Poranìní jinıch a neurèenıch nitrohrudních orgánù;65;-;-;-;-;-;1;2;4;8;3;6;7;6;5;7;4;5;3;-;1;2;1
-S28;Rozdrcení hrudníku a traumatická amputace èásti hrudníku;7;-;-;-;-;-;-;-;-;1;1;-;1;1;-;1;1;-;1;-;-;-;-
-S29;Jiná a neurèená poranìní hrudníku;8;-;-;-;-;-;-;-;-;-;-;-;3;-;1;1;-;1;1;-;1;-;-
-S30;"Povrchní poranìní bøicha, dolní èásti zad 
-a pánve";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S31;"Otevøená rána bøicha, dolní èásti zad 
-a pánve";1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
-S32;Zlomenina bederní páteøe a pánve;36;-;-;-;-;-;-;-;-;1;1;1;1;2;-;4;2;-;3;4;5;6;6
-S33;"Vymknutí, podvrtnutí a nataení kloubù 
-a vazù bederní páteøe a pánve";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S34;Poranìní nervù a míchy v úrovni bøicha, dolní èásti zad a pánve;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S35;"Poranìní krevních cév v úrovni bøicha,  
-dolní èásti zad a pánve";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-S36;Poranìní nitrobøišních orgánù;22;-;-;-;-;-;-;1;-;1;1;4;3;2;2;2;2;2;-;-;1;1;-
-S37;Poranìní pánevních orgánù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-S38;Rozdrcení a traumatická amputace èásti bøicha, dolní èásti zad a pánve;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-S39;"Jiná a neurèená poranìní bøicha, 
-dolní èásti zad a pánve";2;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-
-S40;Povrchní poranìní ramene a pae (nadloktí);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S41;Otevøená rána ramene a pae (nadloktí);3;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;1
-S42;Zlomenina ramene a pae (nadloktí);8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;2;4
-S43;"Vymknutí, podvrtnutí a nataení kloubù 
-a vazù ramenního pletence";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S45;"Poranìní krevních cév v úrovni ramene 
-a pae (nadloktí)";3;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2;-;-;-;-;-;-
-S47;Drtivé poranìní (rozdrcení) ramene;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S48;"Traumatická amputace ramene 
-a pae (nadloktí)";1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
-S49;"Jiná a neurèená poranìní ramene 
-a pae (nadloktí)";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S50;Povrchní poranìní lokte a pøedloktí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S51;Otevøená rána pøedloktí;2;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-;-;-
-S52;Zlomenina lokte a pøedloktí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S54;Poranìní nervù v úrovni pøedloktí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S55;Poranìní krevních cév v úrovni pøedloktí;10;-;-;-;-;-;-;-;-;2;-;2;-;3;-;-;2;-;-;-;-;-;1
-S57;Drtivé poranìní (rozdrcení) pøedloktí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S58;Traumatická amputace pøedloktí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S59;Jiná a neurèená poranìní pøedloktí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S61;Otevøená rána zápìstí a ruky;8;-;-;-;-;-;-;-;-;1;-;1;-;-;2;3;-;-;-;-;-;1;-
-S62;Zlomenina v úrovni zápìstí a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S63;"Vymknutí, podvrtnutí a nataení kloubù 
-a vazù v úrovni zápìstí a ruky";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S65;"Poranìní krevních cév v úrovni zápìstí 
+S13;"VymknutÃ­, podvrtnutÃ­ a nataÅ¾enÃ­ kloubÅ¯ 
+a vazÅ¯ v Ãºrovni krku";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S14;PoranÄ›nÃ­ nervÅ¯ a mÃ­chy v Ãºrovni krku;11;-;-;-;-;-;-;-;-;-;1;1;1;1;-;1;1;1;2;1;-;-;1
+S15;PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni krku;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;-
+S16;PoranÄ›nÃ­ svalu a Å¡lachy v Ãºrovni krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S17;DrtivÃ© poranÄ›nÃ­ (rozdrcenÃ­) krku;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
+S18;TraumatickÃ¡ amputace v Ãºrovni krku;7;-;-;-;-;-;-;-;-;1;-;1;-;-;2;1;-;-;2;-;-;-;-
+S19;JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ krku;2;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;1;-
+S20;PovrchnÃ­ poranÄ›nÃ­ hrudnÃ­ku;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+S21;OtevÅ™enÃ¡ rÃ¡na hrudnÃ­ku;15;-;-;-;-;-;-;1;-;-;1;4;1;3;1;-;-;2;-;-;1;1;-
+S22;"Zlomenina Å¾ebra (Å¾eber), hrudnÃ­ kosti 
+a hrudnÃ­ pÃ¡teÅ™e";71;-;-;-;-;-;-;-;3;3;3;3;1;6;3;5;9;5;2;6;7;8;7
+S23;"VymknutÃ­, podvrtnutÃ­ a nataÅ¾enÃ­ kloubÅ¯ 
+a vazÅ¯ hrudnÃ­ku";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S24;PoranÄ›nÃ­ nervÅ¯ a mÃ­chy v Ãºrovni hrudnÃ­ku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S25;PoranÄ›nÃ­ krevnÃ­ch cÃ©v hrudnÃ­ku;32;-;-;-;-;-;-;-;-;4;9;1;4;5;3;1;4;-;1;-;-;-;-
+S26;PoranÄ›nÃ­ srdce;51;-;-;-;1;-;-;-;5;8;1;3;2;5;1;8;4;2;4;3;2;2;-
+S27;PoranÄ›nÃ­ jinÃ½ch a neurÄenÃ½ch nitrohrudnÃ­ch orgÃ¡nÅ¯;65;-;-;-;-;-;1;2;4;8;3;6;7;6;5;7;4;5;3;-;1;2;1
+S28;RozdrcenÃ­ hrudnÃ­ku a traumatickÃ¡ amputace ÄÃ¡sti hrudnÃ­ku;7;-;-;-;-;-;-;-;-;1;1;-;1;1;-;1;1;-;1;-;-;-;-
+S29;JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ hrudnÃ­ku;8;-;-;-;-;-;-;-;-;-;-;-;3;-;1;1;-;1;1;-;1;-;-
+S30;"PovrchnÃ­ poranÄ›nÃ­ bÅ™icha, dolnÃ­ ÄÃ¡sti zad 
+a pÃ¡nve";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S31;"OtevÅ™enÃ¡ rÃ¡na bÅ™icha, dolnÃ­ ÄÃ¡sti zad 
+a pÃ¡nve";1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+S32;Zlomenina bedernÃ­ pÃ¡teÅ™e a pÃ¡nve;36;-;-;-;-;-;-;-;-;1;1;1;1;2;-;4;2;-;3;4;5;6;6
+S33;"VymknutÃ­, podvrtnutÃ­ a nataÅ¾enÃ­ kloubÅ¯ 
+a vazÅ¯ bedernÃ­ pÃ¡teÅ™e a pÃ¡nve";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S34;PoranÄ›nÃ­ nervÅ¯ a mÃ­chy v Ãºrovni bÅ™icha, dolnÃ­ ÄÃ¡sti zad a pÃ¡nve;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S35;"PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni bÅ™icha,  
+dolnÃ­ ÄÃ¡sti zad a pÃ¡nve";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+S36;PoranÄ›nÃ­ nitrobÅ™iÅ¡nÃ­ch orgÃ¡nÅ¯;22;-;-;-;-;-;-;1;-;1;1;4;3;2;2;2;2;2;-;-;1;1;-
+S37;PoranÄ›nÃ­ pÃ¡nevnÃ­ch orgÃ¡nÅ¯;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+S38;RozdrcenÃ­ a traumatickÃ¡ amputace ÄÃ¡sti bÅ™icha, dolnÃ­ ÄÃ¡sti zad a pÃ¡nve;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+S39;"JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ bÅ™icha, 
+dolnÃ­ ÄÃ¡sti zad a pÃ¡nve";2;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;-;-
+S40;PovrchnÃ­ poranÄ›nÃ­ ramene a paÅ¾e (nadloktÃ­);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S41;OtevÅ™enÃ¡ rÃ¡na ramene a paÅ¾e (nadloktÃ­);3;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;1
+S42;Zlomenina ramene a paÅ¾e (nadloktÃ­);8;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;2;4
+S43;"VymknutÃ­, podvrtnutÃ­ a nataÅ¾enÃ­ kloubÅ¯ 
+a vazÅ¯ ramennÃ­ho pletence";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S45;"PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni ramene 
+a paÅ¾e (nadloktÃ­)";3;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;2;-;-;-;-;-;-
+S47;DrtivÃ© poranÄ›nÃ­ (rozdrcenÃ­) ramene;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S48;"TraumatickÃ¡ amputace ramene 
+a paÅ¾e (nadloktÃ­)";1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
+S49;"JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ ramene 
+a paÅ¾e (nadloktÃ­)";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S50;PovrchnÃ­ poranÄ›nÃ­ lokte a pÅ™edloktÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S51;OtevÅ™enÃ¡ rÃ¡na pÅ™edloktÃ­;2;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-;-;-
+S52;Zlomenina lokte a pÅ™edloktÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S54;PoranÄ›nÃ­ nervÅ¯ v Ãºrovni pÅ™edloktÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S55;PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni pÅ™edloktÃ­;10;-;-;-;-;-;-;-;-;2;-;2;-;3;-;-;2;-;-;-;-;-;1
+S57;DrtivÃ© poranÄ›nÃ­ (rozdrcenÃ­) pÅ™edloktÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S58;TraumatickÃ¡ amputace pÅ™edloktÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S59;JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ pÅ™edloktÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S61;OtevÅ™enÃ¡ rÃ¡na zÃ¡pÄ›stÃ­ a ruky;8;-;-;-;-;-;-;-;-;1;-;1;-;-;2;3;-;-;-;-;-;1;-
+S62;Zlomenina v Ãºrovni zÃ¡pÄ›stÃ­ a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S63;"VymknutÃ­, podvrtnutÃ­ a nataÅ¾enÃ­ kloubÅ¯ 
+a vazÅ¯ v Ãºrovni zÃ¡pÄ›stÃ­ a ruky";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S65;"PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni zÃ¡pÄ›stÃ­ 
 a ruky";10;-;-;-;-;-;-;-;-;1;-;1;1;1;-;1;2;-;1;1;-;1;-
-S67;Drtivé poranìní  (rozdrcení) zápìstí a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S68;"Traumatická amputace v úrovni zápìstí 
+S67;DrtivÃ© poranÄ›nÃ­  (rozdrcenÃ­) zÃ¡pÄ›stÃ­ a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S68;"TraumatickÃ¡ amputace v Ãºrovni zÃ¡pÄ›stÃ­ 
 a ruky";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S69;Jiná a neurèená poranìní  zápìstí a ruky;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
-S70;Povrchní poranìní kyèle a stehna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S71;Otevøená rána kyèle a stehna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S72;"Zlomenina kosti stehenní ";274;-;-;-;-;-;-;-;1;1;1;-;-;-;2;2;6;5;16;23;35;81;101
-S73;"Vymknutí, podvrtnutí a nataení kloubu 
-a vazù kyèle";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-S75;"Poranìní krevních cév v úrovni kyèle 
+S69;JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­  zÃ¡pÄ›stÃ­ a ruky;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+S70;PovrchnÃ­ poranÄ›nÃ­ kyÄle a stehna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S71;OtevÅ™enÃ¡ rÃ¡na kyÄle a stehna;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S72;"Zlomenina kosti stehennÃ­ ";274;-;-;-;-;-;-;-;1;1;1;-;-;-;2;2;6;5;16;23;35;81;101
+S73;"VymknutÃ­, podvrtnutÃ­ a nataÅ¾enÃ­ kloubu 
+a vazÅ¯ kyÄle";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+S75;"PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni kyÄle 
 a stehna";1;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-
-S76;"Poranìní svalu a šlachy v úrovni kyèle 
+S76;"PoranÄ›nÃ­ svalu a Å¡lachy v Ãºrovni kyÄle 
 a stehna";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
-S77;Drtivé poranìní (rozdrcení) kyèle a stehna;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-S78;Traumatická amputace kyèle a stehna;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-S79;Jiná a neurèená poranìní kyèle;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-S80;Povrchní poranìní bérce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S81;Otevøená rána bérce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S82;Zlomenina bérce, vèetnì kotníku;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;4;-;-;3
-S83;"Vymknutí, podvrtnutí a nataení 
-kloubù a vazù kolena";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S85;Poranìní krevních cév v úrovni bérce;5;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;1;1;1;-;-;-
-S87;Drtivé poranìní (rozdrcení) bérce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S88;Traumatická amputace bérce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S89;Jiná a neurèená poranìní bérce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S92;Zlomenina - fraktura - nohy pod kotníkem (kromì kotníku);1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-S95;"Poranìní krevních cév v úrovni kotníku 
-a  nohy pod ním";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S97;"Drtivé poranìní (rozdrcení) kotníku 
-a  nohy pod ním";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S98;"Traumatická amputace kotníku 
-a  nohy pod ním";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-S99;"Jiná a neurèená poranìní kotníku 
-a  nohy pod ním";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T00;"Povrchní poranìní postihující více 
-èástí tìla";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T01;Otevøené rány postihující více èástí tìla;5;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;3;-;-;-;-;-;-
-T02;Zlomeniny postihující více èástí tìla;17;-;-;-;-;-;-;1;-;-;1;-;1;1;1;1;1;2;3;1;1;1;2
-T04;"Drtivá poranìní (rozdrcení) postihující 
-více èástí tìla";20;-;-;-;-;-;-;-;1;4;3;3;1;-;2;1;4;-;1;-;-;-;-
-T05;"Traumatická amputace postihující 
-více èástí tìla";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-T06;Jiná poranìní postihující více èástí tìla, nezaøazená jinam;374;-;-;-;1;-;4;6;17;44;34;41;30;21;35;37;29;20;12;17;20;5;1
-T07;Neurèená mnohoèetná poranìní;156;-;-;-;-;-;1;1;9;19;18;13;11;11;8;14;15;8;8;10;6;4;-
-T08;Zlomenina páteøe, úroveò neurèena;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T09;"Jiná poranìní páteøe a trupu, 
-úroveò neurèena";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
-T10;Zlomenina horní konèetiny, úroveò neurèena;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T11;"Jiná poranìní horní konèetiny, 
-úroveò neurèena";1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
-T12;Zlomenina dolní konèetiny, úroveò neurèena;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T13;"Jiná poranìní dolní konèetiny, 
-úroveò neurèena";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-T14;Poranìní neurèené èásti tìla;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
-T15;Cizí tìleso v zevním oku;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
-T17;Cizí tìleso v dıchacím ústrojí;164;7;-;-;-;1;-;1;1;2;9;7;9;9;15;26;17;24;3;10;7;8;8
-T18;Cizí tìleso v trávicím ústrojí;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
-T20;Popálenina a poleptání hlavy a krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T21;Popálenina a poleptání trupu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
-T22;Popálenina a poleptání ramene a horní konèetiny, kromì zápìstí a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T23;Popálenina a poleptání zápìstí a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T24;Popálenina a poleptání kyèelní krajiny a dolní konèetiny, kromì kotníku a nohy pod ním;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
-T25;"Popálenina a poleptání kotníku 
-a nohy pod ním";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T27;Popálenina a poleptání dıchacího ústrojí;4;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;1;1;-
-T28;"Popálenina a poleptání jinıch 
-vnitøních orgánù";3;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;1;-;-;-;-;-
-T29;Popáleniny a poleptání více èástí tìla;34;-;1;-;-;-;-;-;-;1;1;1;3;3;1;3;3;3;2;2;5;4;1
-T30;Popálenina a poleptání, èást tìla neurèena;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-
-T31;Popáleniny tøídìné podle rozsahu postieného povrchu tìla;25;-;-;-;-;-;-;-;4;1;2;1;3;1;3;2;2;3;2;-;-;-;1
-T32;Poleptání tøídìné podle rozsahu postieného povrchu tìla;2;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-
-T34;Omrzlina s nekrózou tkánì;2;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-
-T35;"Omrzlina postihující více èástí tìla 
-a neurèená omrzlina";4;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;-;-;-;1;-
-T36;Otrava systémovımi antibiotiky (pùsobícími na celı organismus);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T37;Otrava systémovımi antibiotiky (pùsobícími na celı organismus);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T38;"Otrava hormony a jejich syntetickımi náhradami a antagonisty nezaøazenımi jinde ";1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
-T39;Otrava neopiátovımi analgetiky, antipyretiky a antirevmatiky;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
+S77;DrtivÃ© poranÄ›nÃ­ (rozdrcenÃ­) kyÄle a stehna;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+S78;TraumatickÃ¡ amputace kyÄle a stehna;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+S79;JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ kyÄle;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+S80;PovrchnÃ­ poranÄ›nÃ­ bÃ©rce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S81;OtevÅ™enÃ¡ rÃ¡na bÃ©rce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S82;Zlomenina bÃ©rce, vÄetnÄ› kotnÃ­ku;9;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;4;-;-;3
+S83;"VymknutÃ­, podvrtnutÃ­ a nataÅ¾enÃ­ 
+kloubÅ¯ a vazÅ¯ kolena";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S85;PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni bÃ©rce;5;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-;1;1;1;-;-;-
+S87;DrtivÃ© poranÄ›nÃ­ (rozdrcenÃ­) bÃ©rce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S88;TraumatickÃ¡ amputace bÃ©rce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S89;JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ bÃ©rce;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S92;Zlomenina - fraktura - nohy pod kotnÃ­kem (kromÄ› kotnÃ­ku);1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+S95;"PoranÄ›nÃ­ krevnÃ­ch cÃ©v v Ãºrovni kotnÃ­ku 
+a  nohy pod nÃ­m";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S97;"DrtivÃ© poranÄ›nÃ­ (rozdrcenÃ­) kotnÃ­ku 
+a  nohy pod nÃ­m";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S98;"TraumatickÃ¡ amputace kotnÃ­ku 
+a  nohy pod nÃ­m";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+S99;"JinÃ¡ a neurÄenÃ¡ poranÄ›nÃ­ kotnÃ­ku 
+a  nohy pod nÃ­m";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T00;"PovrchnÃ­ poranÄ›nÃ­ postihujÃ­cÃ­ vÃ­ce 
+ÄÃ¡stÃ­ tÄ›la";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T01;OtevÅ™enÃ© rÃ¡ny postihujÃ­cÃ­ vÃ­ce ÄÃ¡stÃ­ tÄ›la;5;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;3;-;-;-;-;-;-
+T02;Zlomeniny postihujÃ­cÃ­ vÃ­ce ÄÃ¡stÃ­ tÄ›la;17;-;-;-;-;-;-;1;-;-;1;-;1;1;1;1;1;2;3;1;1;1;2
+T04;"DrtivÃ¡ poranÄ›nÃ­ (rozdrcenÃ­) postihujÃ­cÃ­ 
+vÃ­ce ÄÃ¡stÃ­ tÄ›la";20;-;-;-;-;-;-;-;1;4;3;3;1;-;2;1;4;-;1;-;-;-;-
+T05;"TraumatickÃ¡ amputace postihujÃ­cÃ­ 
+vÃ­ce ÄÃ¡stÃ­ tÄ›la";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+T06;JinÃ¡ poranÄ›nÃ­ postihujÃ­cÃ­ vÃ­ce ÄÃ¡stÃ­ tÄ›la, nezaÅ™azenÃ¡ jinam;374;-;-;-;1;-;4;6;17;44;34;41;30;21;35;37;29;20;12;17;20;5;1
+T07;NeurÄenÃ¡ mnohoÄetnÃ¡ poranÄ›nÃ­;156;-;-;-;-;-;1;1;9;19;18;13;11;11;8;14;15;8;8;10;6;4;-
+T08;Zlomenina pÃ¡teÅ™e, ÃºroveÅˆ neurÄena;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T09;"JinÃ¡ poranÄ›nÃ­ pÃ¡teÅ™e a trupu, 
+ÃºroveÅˆ neurÄena";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-
+T10;Zlomenina hornÃ­ konÄetiny, ÃºroveÅˆ neurÄena;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T11;"JinÃ¡ poranÄ›nÃ­ hornÃ­ konÄetiny, 
+ÃºroveÅˆ neurÄena";1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
+T12;Zlomenina dolnÃ­ konÄetiny, ÃºroveÅˆ neurÄena;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T13;"JinÃ¡ poranÄ›nÃ­ dolnÃ­ konÄetiny, 
+ÃºroveÅˆ neurÄena";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+T14;PoranÄ›nÃ­ neurÄenÃ© ÄÃ¡sti tÄ›la;1;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-
+T15;CizÃ­ tÄ›leso v zevnÃ­m oku;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-
+T17;CizÃ­ tÄ›leso v dÃ½chacÃ­m ÃºstrojÃ­;164;7;-;-;-;1;-;1;1;2;9;7;9;9;15;26;17;24;3;10;7;8;8
+T18;CizÃ­ tÄ›leso v trÃ¡vicÃ­m ÃºstrojÃ­;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-
+T20;PopÃ¡lenina a poleptÃ¡nÃ­ hlavy a krku;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T21;PopÃ¡lenina a poleptÃ¡nÃ­ trupu;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+T22;PopÃ¡lenina a poleptÃ¡nÃ­ ramene a hornÃ­ konÄetiny, kromÄ› zÃ¡pÄ›stÃ­ a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T23;PopÃ¡lenina a poleptÃ¡nÃ­ zÃ¡pÄ›stÃ­ a ruky;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T24;PopÃ¡lenina a poleptÃ¡nÃ­ kyÄelnÃ­ krajiny a dolnÃ­ konÄetiny, kromÄ› kotnÃ­ku a nohy pod nÃ­m;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-
+T25;"PopÃ¡lenina a poleptÃ¡nÃ­ kotnÃ­ku 
+a nohy pod nÃ­m";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T27;PopÃ¡lenina a poleptÃ¡nÃ­ dÃ½chacÃ­ho ÃºstrojÃ­;4;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;-;-;1;1;-
+T28;"PopÃ¡lenina a poleptÃ¡nÃ­ jinÃ½ch 
+vnitÅ™nÃ­ch orgÃ¡nÅ¯";3;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1;1;-;-;-;-;-
+T29;PopÃ¡leniny a poleptÃ¡nÃ­ vÃ­ce ÄÃ¡stÃ­ tÄ›la;34;-;1;-;-;-;-;-;-;1;1;1;3;3;1;3;3;3;2;2;5;4;1
+T30;PopÃ¡lenina a poleptÃ¡nÃ­, ÄÃ¡st tÄ›la neurÄena;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-
+T31;PopÃ¡leniny tÅ™Ã­dÄ›nÃ© podle rozsahu postiÅ¾enÃ©ho povrchu tÄ›la;25;-;-;-;-;-;-;-;4;1;2;1;3;1;3;2;2;3;2;-;-;-;1
+T32;PoleptÃ¡nÃ­ tÅ™Ã­dÄ›nÃ© podle rozsahu postiÅ¾enÃ©ho povrchu tÄ›la;2;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-;-;-;-;-
+T34;Omrzlina s nekrÃ³zou tkÃ¡nÄ›;2;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;-;-;-;-
+T35;"Omrzlina postihujÃ­cÃ­ vÃ­ce ÄÃ¡stÃ­ tÄ›la 
+a neurÄenÃ¡ omrzlina";4;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;1;-;-;-;1;-
+T36;Otrava systÃ©movÃ½mi antibiotiky (pÅ¯sobÃ­cÃ­mi na celÃ½ organismus);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T37;Otrava systÃ©movÃ½mi antibiotiky (pÅ¯sobÃ­cÃ­mi na celÃ½ organismus);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T38;"Otrava hormony a jejich syntetickÃ½mi nÃ¡hradami a antagonisty nezaÅ™azenÃ½mi jinde ";1;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-
+T39;Otrava neopiÃ¡tovÃ½mi analgetiky, antipyretiky a antirevmatiky;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-
 T40;Otrava narkotiky a psychodysleptiky [halucinogeny];17;-;-;-;-;-;-;-;1;1;2;5;1;2;2;1;1;-;-;1;-;-;-
-T41;Otrava anestetiky a terapeutickımi plyny;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
+T41;Otrava anestetiky a terapeutickÃ½mi plyny;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-
 T42;"Otrava antiepileptiky, sedativy-hypnotiky 
 a antiparkinsoniky";17;-;-;-;-;-;-;-;-;-;2;2;1;1;4;5;2;-;-;-;-;-;-
-T43;Otrava psychotropními léèivy, nezaøazenımi jinde;9;-;-;-;-;-;-;-;-;2;1;-;1;2;1;1;1;-;-;-;-;-;-
-T44;"Otrava léèivy pùsobícími primárnì 
-na autonomní nervovou soustavu";2;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-
-T45;"Otrava prostøedky pùsobícími pøímo na celı organismus a prostøedky hematologickımi, nezaøazenımi jinde ";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-
-T46;"Otrava prostøedky pùsobícími primárnì 
-na kardiovaskulární soustavu";3;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;-;-;-;-
-T47;"Otrava prostøedky pùsobícími primárnì 
-na gastrointestinální soustavu";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T48;"Otrava prostøedky pùsobícími primárnì 
-na hladké a kosterní svalstvo a dıchací soustavu";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-T49;"Otrava lokálními prostøedky pùsobícími
-primárnì na kùi a sliznici a léèivy
-oèními, ušními, nosními, krèními
-a zubními";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T50;Otrava diuretiky a jinımi a neurèenımi léky, léèivy, návykovımi a biologickımi látkami;27;-;-;-;-;-;-;-;1;1;5;1;2;3;3;4;3;1;1;1;-;1;-
-T51;Toxickı úèinek alkoholu;122;-;-;-;-;-;-;-;1;1;1;7;10;24;19;20;19;11;6;2;1;-;-
-T52;Toxickı úèinek organickıch rozpustidel;13;-;-;-;-;-;-;-;-;-;3;3;-;-;3;1;-;-;1;1;1;-;-
-T53;Toxickı úèinek halogenovanıch alifatickıch a aromatickıch uhlovodíkù;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
-T54;Toxickı úèinek leptavıch (íravıch) látek;2;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-;-
-T55;Toxickı úèinek mıdel a - èisticích  prostøedkù - detergencí;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T56;Toxickı úèinek kovù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T57;Toxické úèinky jinıch anorganickıch látek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T58;Toxickı úèinek oxidu uhelnatého;78;-;-;-;-;-;1;-;2;5;6;6;5;9;11;8;7;6;3;5;2;2;-
-T59;Toxickı úèinek jinıch plynù, dımù a par;9;-;-;-;-;-;-;1;1;-;-;2;-;-;2;-;2;-;1;-;-;-;-
-T60;Toxickı úèinek pesticidù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
-T61;"Toxickı úèinek škodlivıch látek poitıch 
-v moøské potravì";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T62;Toxickı úèinek jinıch škodlivıch látek poitıch v potravì;3;-;-;-;-;-;-;1;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-
-T63;Toxickı úèinek styku s jedovatımi ivoèichy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-
-T64;Toxickı úèinek aflatoxinu a jinıch mykotoxinovıch kontaminací potravy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T65;Toxickı úèinek jinıch a neurèenıch látek;20;-;-;-;-;-;-;-;-;3;4;2;2;4;-;1;2;1;1;-;-;-;-
-T66;Neurèené úèinky záøení (radiace);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T67;Úèinky horka a svìtla;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+T43;Otrava psychotropnÃ­mi lÃ©Äivy, nezaÅ™azenÃ½mi jinde;9;-;-;-;-;-;-;-;-;2;1;-;1;2;1;1;1;-;-;-;-;-;-
+T44;"Otrava lÃ©Äivy pÅ¯sobÃ­cÃ­mi primÃ¡rnÄ› 
+na autonomnÃ­ nervovou soustavu";2;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-
+T45;"Otrava prostÅ™edky pÅ¯sobÃ­cÃ­mi pÅ™Ã­mo na celÃ½ organismus a prostÅ™edky hematologickÃ½mi, nezaÅ™azenÃ½mi jinde ";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-
+T46;"Otrava prostÅ™edky pÅ¯sobÃ­cÃ­mi primÃ¡rnÄ› 
+na kardiovaskulÃ¡rnÃ­ soustavu";3;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;1;-;1;-;-;-;-
+T47;"Otrava prostÅ™edky pÅ¯sobÃ­cÃ­mi primÃ¡rnÄ› 
+na gastrointestinÃ¡lnÃ­ soustavu";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T48;"Otrava prostÅ™edky pÅ¯sobÃ­cÃ­mi primÃ¡rnÄ› 
+na hladkÃ© a kosternÃ­ svalstvo a dÃ½chacÃ­ soustavu";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+T49;"Otrava lokÃ¡lnÃ­mi prostÅ™edky pÅ¯sobÃ­cÃ­mi
+primÃ¡rnÄ› na kÅ¯Å¾i a sliznici a lÃ©Äivy
+oÄnÃ­mi, uÅ¡nÃ­mi, nosnÃ­mi, krÄnÃ­mi
+a zubnÃ­mi";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T50;Otrava diuretiky a jinÃ½mi a neurÄenÃ½mi lÃ©ky, lÃ©Äivy, nÃ¡vykovÃ½mi a biologickÃ½mi lÃ¡tkami;27;-;-;-;-;-;-;-;1;1;5;1;2;3;3;4;3;1;1;1;-;1;-
+T51;ToxickÃ½ ÃºÄinek alkoholu;122;-;-;-;-;-;-;-;1;1;1;7;10;24;19;20;19;11;6;2;1;-;-
+T52;ToxickÃ½ ÃºÄinek organickÃ½ch rozpustidel;13;-;-;-;-;-;-;-;-;-;3;3;-;-;3;1;-;-;1;1;1;-;-
+T53;ToxickÃ½ ÃºÄinek halogenovanÃ½ch alifatickÃ½ch a aromatickÃ½ch uhlovodÃ­kÅ¯;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
+T54;ToxickÃ½ ÃºÄinek leptavÃ½ch (Å¾Ã­ravÃ½ch) lÃ¡tek;2;-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-;-
+T55;ToxickÃ½ ÃºÄinek mÃ½del a - ÄisticÃ­ch  prostÅ™edkÅ¯ - detergencÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T56;ToxickÃ½ ÃºÄinek kovÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T57;ToxickÃ© ÃºÄinky jinÃ½ch anorganickÃ½ch lÃ¡tek;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T58;ToxickÃ½ ÃºÄinek oxidu uhelnatÃ©ho;78;-;-;-;-;-;1;-;2;5;6;6;5;9;11;8;7;6;3;5;2;2;-
+T59;ToxickÃ½ ÃºÄinek jinÃ½ch plynÅ¯, dÃ½mÅ¯ a par;9;-;-;-;-;-;-;1;1;-;-;2;-;-;2;-;2;-;1;-;-;-;-
+T60;ToxickÃ½ ÃºÄinek pesticidÅ¯;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-
+T61;"ToxickÃ½ ÃºÄinek Å¡kodlivÃ½ch lÃ¡tek poÅ¾itÃ½ch 
+v moÅ™skÃ© potravÄ›";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T62;ToxickÃ½ ÃºÄinek jinÃ½ch Å¡kodlivÃ½ch lÃ¡tek poÅ¾itÃ½ch v potravÄ›;3;-;-;-;-;-;-;1;-;-;1;-;-;-;-;1;-;-;-;-;-;-;-
+T63;ToxickÃ½ ÃºÄinek styku s jedovatÃ½mi Å¾ivoÄichy;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1;-;-
+T64;ToxickÃ½ ÃºÄinek aflatoxinu a jinÃ½ch mykotoxinovÃ½ch kontaminacÃ­ potravy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T65;ToxickÃ½ ÃºÄinek jinÃ½ch a neurÄenÃ½ch lÃ¡tek;20;-;-;-;-;-;-;-;-;3;4;2;2;4;-;1;2;1;1;-;-;-;-
+T66;NeurÄenÃ© ÃºÄinky zÃ¡Å™enÃ­ (radiace);-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T67;ÃšÄinky horka a svÄ›tla;1;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-
 T68;Hypotermie;55;-;-;-;-;-;-;-;-;1;-;1;1;5;4;5;14;13;5;1;2;1;2
-T69;Jiné úèinky sníené teploty;33;-;-;-;-;-;-;-;-;-;1;-;1;2;8;8;5;1;1;1;4;1;-
-T70;Úèinky tlaku vzduchu a vody;2;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-
-T71;(Za)dušení;803;2;-;-;-;-;1;2;26;37;47;59;67;68;75;110;83;59;36;34;50;32;15
-T73;Úèinky jiné deprivace - újmy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T74;Syndromy tırání;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T75;Úèinky jinıch vnìjších pøíèin;219;-;1;1;1;1;4;-;13;13;12;13;15;23;19;28;25;19;6;5;9;5;6
-T78;Nepøíznivé úèinky, nezaøazené jinde;9;-;-;-;1;-;-;-;-;-;1;1;-;1;1;2;-;1;-;1;-;-;-
-T79;Nìkteré èasné komplikace úrazù, nezaøazené jinde;11;-;-;-;-;-;-;1;-;1;-;-;1;-;4;1;2;-;-;-;-;1;-
-T80;Komplikace po infúzi, transfúzi a injekci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T81;Komplikace vıkonù, nezaøazené jinde;8;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;1;2;-;3;-
-T82;Komplikace srdeèních a cévních protetickıch pomùcek, implantátù a štìpù;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
-T84;Komplikace vnitøních ortopedickıch protetickıch pomùcek, implantátù a štìpù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T85;Komplikace jinıch vnitøních protetickıch pomùcek, implantantù a štìpù;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T87;"Komplikace pøíznaèné pro znovu pøipojení 
+T69;JinÃ© ÃºÄinky snÃ­Å¾enÃ© teploty;33;-;-;-;-;-;-;-;-;-;1;-;1;2;8;8;5;1;1;1;4;1;-
+T70;ÃšÄinky tlaku vzduchu a vody;2;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-
+T71;(Za)duÅ¡enÃ­;803;2;-;-;-;-;1;2;26;37;47;59;67;68;75;110;83;59;36;34;50;32;15
+T73;ÃšÄinky jinÃ© deprivace - Ãºjmy;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T74;Syndromy tÃ½rÃ¡nÃ­;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T75;ÃšÄinky jinÃ½ch vnÄ›jÅ¡Ã­ch pÅ™Ã­Äin;219;-;1;1;1;1;4;-;13;13;12;13;15;23;19;28;25;19;6;5;9;5;6
+T78;NepÅ™Ã­znivÃ© ÃºÄinky, nezaÅ™azenÃ© jinde;9;-;-;-;1;-;-;-;-;-;1;1;-;1;1;2;-;1;-;1;-;-;-
+T79;NÄ›kterÃ© ÄasnÃ© komplikace ÃºrazÅ¯, nezaÅ™azenÃ© jinde;11;-;-;-;-;-;-;1;-;1;-;-;1;-;4;1;2;-;-;-;-;1;-
+T80;Komplikace po infÃºzi, transfÃºzi a injekci;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T81;Komplikace vÃ½konÅ¯, nezaÅ™azenÃ© jinde;8;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;1;2;-;3;-
+T82;Komplikace srdeÄnÃ­ch a cÃ©vnÃ­ch protetickÃ½ch pomÅ¯cek, implantÃ¡tÅ¯ a Å¡tÄ›pÅ¯;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+T84;Komplikace vnitÅ™nÃ­ch ortopedickÃ½ch protetickÃ½ch pomÅ¯cek, implantÃ¡tÅ¯ a Å¡tÄ›pÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T85;Komplikace jinÃ½ch vnitÅ™nÃ­ch protetickÃ½ch pomÅ¯cek, implantantÅ¯ a Å¡tÄ›pÅ¯;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T87;"Komplikace pÅ™Ã­znaÄnÃ© pro znovu pÅ™ipojenÃ­ 
 a amputaci";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T88;"Jiné komplikace zdravotní péèe, 
-nezaøazené jinde";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-
-T90;Následky poranìní hlavy;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;1;-
-T91;Následky poranìní krku a trupu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T92;Následky poranìní horní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T93;Následky poranìní dolní konèetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T94;Následky poranìní postihující mnohoèetné    a neurèené èásti tìla;3;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;1;-;-;-;-;-
-T95;"Následky popálenin, poleptání
+T88;"JinÃ© komplikace zdravotnÃ­ pÃ©Äe, 
+nezaÅ™azenÃ© jinde";2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1;-
+T90;NÃ¡sledky poranÄ›nÃ­ hlavy;3;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;-;-;-;1;-
+T91;NÃ¡sledky poranÄ›nÃ­ krku a trupu;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T92;NÃ¡sledky poranÄ›nÃ­ hornÃ­ konÄetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T93;NÃ¡sledky poranÄ›nÃ­ dolnÃ­ konÄetiny;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T94;NÃ¡sledky poranÄ›nÃ­ postihujÃ­cÃ­ mnohoÄetnÃ©    a neurÄenÃ© ÄÃ¡sti tÄ›la;3;-;-;-;-;-;-;-;-;-;1;-;-;1;-;-;-;1;-;-;-;-;-
+T95;"NÃ¡sledky popÃ¡lenin, poleptÃ¡nÃ­
 a omrzlin";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
-T98;Následky jinıch a neurèenıch úèinkù vnìjších pøíèin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+T98;NÃ¡sledky jinÃ½ch a neurÄenÃ½ch ÃºÄinkÅ¯ vnÄ›jÅ¡Ã­ch pÅ™Ã­Äin;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-

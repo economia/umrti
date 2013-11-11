@@ -1,436 +1,436 @@
-1994	Zemøelí mui podle podrobného seznamu pøíèin smrti a vìku - úrazy a otravy podle vnìjší pøíèiny																							
-MKN (1993)	Název	Celkem	0	1	2	3	4	5-9	10-14	15-19	20-24	25-29	30-34	35-39	40-44	45-49	50-54	55-59	60-64	65-69	70-74	75-79	80-84	85 +
+1994	ZemÅ™elÃ­ muÅ¾i podle podrobnÃ©ho seznamu pÅ™Ã­Äin smrti a vÄ›ku - Ãºrazy a otravy podle vnÄ›jÅ¡Ã­ pÅ™Ã­Äiny																							
+MKN (1993)	NÃ¡zev	Celkem	0	1	2	3	4	5-9	10-14	15-19	20-24	25-29	30-34	35-39	40-44	45-49	50-54	55-59	60-64	65-69	70-74	75-79	80-84	85 +
 																								
-VN	Vnìjší pøíèiny poranìní a otrav	5124	37	15	14	14	11	49	59	272	376	320	313	378	453	481	365	261	280	294	351	176	344	261
+VN	VnÄ›jÅ¡Ã­ pÅ™Ã­Äiny poranÄ›nÃ­ a otrav	5124	37	15	14	14	11	49	59	272	376	320	313	378	453	481	365	261	280	294	351	176	344	261
 																								
-DN	Dopravní nehody	1363	1	4	4	8	5	31	20	117	176	118	106	105	114	129	79	71	56	66	65	23	49	16
+DN	DopravnÃ­ nehody	1363	1	4	4	8	5	31	20	117	176	118	106	105	114	129	79	71	56	66	65	23	49	16
 																								
-	Chodec zranìnı pøi dopravní nehodì     V01-V09	357	-	3	3	5	2	14	3	23	30	15	23	24	27	37	26	23	17	14	26	10	24	8
-V01	Chodec zranìnı pøi sráce s jízdním kolem	6	-	-	-	-	-	-	-	-	2	1	-	-	-	-	-	-	-	-	1	-	2	-
-V02	Chodec zranìnı pøi sráce s 2 nebo 3 kolovım motorovım vozidlem	6	-	-	-	-	-	1	-	1	-	2	-	-	-	-	-	-	1	-	-	-	1	-
-V03	Chodec zranìnı pøi sráce s automobilem osobním, dodávkovım nebo lehkım nákladním	189	-	1	1	4	2	11	3	7	15	8	11	14	14	26	8	13	6	8	13	7	12	5
-V04	Chodec zranìnı pøi sráce s tìkım nákladním vozidlem nebo autobusem	36	-	1	1	-	-	2	-	3	2	1	1	2	2	-	7	1	5	1	4	1	2	-
-V05	Chodec zranìnı pøi sráce s eleznièním vlakem nebo s eleznièním vozidlem	98	-	-	1	1	-	-	-	8	8	3	11	7	9	10	9	8	2	3	7	2	6	3
-V06	Chodec zranìnı pøi sráce s jinım nemotorovım vozidlem	4	-	-	-	-	-	-	-	1	-	-	-	-	-	-	1	1	-	-	1	-	-	-
-V09	Chodec zranìnı pøi jinıch a neurèenıch dopravních nehodách	18	-	1	-	-	-	-	-	3	3	-	-	1	2	1	1	-	3	2	-	-	1	-
+	Chodec zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›     V01-V09	357	-	3	3	5	2	14	3	23	30	15	23	24	27	37	26	23	17	14	26	10	24	8
+V01	Chodec zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jÃ­zdnÃ­m kolem	6	-	-	-	-	-	-	-	-	2	1	-	-	-	-	-	-	-	-	1	-	2	-
+V02	Chodec zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s 2 nebo 3 kolovÃ½m motorovÃ½m vozidlem	6	-	-	-	-	-	1	-	1	-	2	-	-	-	-	-	-	1	-	-	-	1	-
+V03	Chodec zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m, dodÃ¡vkovÃ½m nebo lehkÃ½m nÃ¡kladnÃ­m	189	-	1	1	4	2	11	3	7	15	8	11	14	14	26	8	13	6	8	13	7	12	5
+V04	Chodec zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­m vozidlem nebo autobusem	36	-	1	1	-	-	2	-	3	2	1	1	2	2	-	7	1	5	1	4	1	2	-
+V05	Chodec zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo s Å¾elezniÄnÃ­m vozidlem	98	-	-	1	1	-	-	-	8	8	3	11	7	9	10	9	8	2	3	7	2	6	3
+V06	Chodec zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	4	-	-	-	-	-	-	-	1	-	-	-	-	-	-	1	1	-	-	1	-	-	-
+V09	Chodec zranÄ›nÃ½ pÅ™i jinÃ½ch a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	18	-	1	-	-	-	-	-	3	3	-	-	1	2	1	1	-	3	2	-	-	1	-
 																								
-	Cyklista zranìnı pøi dopravní nehodì     V10-V19	106	-	-	-	-	-	-	4	4	10	5	7	2	11	11	11	5	4	10	13	1	6	2
-V10	Cyklista zranìnı pøi sráce s chodcem nebo zvíøetem	5	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-	1	-	-	1	-	1	-
-V11	Cyklista zranìnı pøi sráce s jinım jízdním kolem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
-V12	Cyklista zranìnı pøi sráce s 2 nebo 3 kolovım motorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V13	Cyklista zranìnı pøi sráce s automobilem osobním,dodávkovım  nebo lehkım nákladním	50	-	-	-	-	-	-	1	3	5	3	5	1	3	5	3	3	1	5	8	1	3	-
-V14	Cyklista zranìnı pøi sráce s tìkım nákladním vozidlem nebo autobusem	17	-	-	-	-	-	-	-	-	2	-	1	-	1	4	2	-	-	2	2	-	2	1
-V15	Cyklista zranìnı pøi sráce s eleznièním vlakem nebo eleznièním vozidlem	3	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-	-	1	-	-	-	-
-V16	Cyklista zranìnı pøi sráce s jinım nemotorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V17	Cyklista zranìnı pøi sráce s pevnou pøekákou [s pøipevnìnım nebo stojícím pøedmìtem]	2	-	-	-	-	-	-	-	1	-	-	1	-	-	-	-	-	-	-	-	-	-	-
-V18	Cyklista zranìnı pøi dopravní nehodì bez sráky	18	-	-	-	-	-	-	-	-	1	2	-	1	4	2	4	1	-	1	1	-	-	1
-V19	Cyklista zranìnı pøi jinım a neurèenıch dopravních nehodách	10	-	-	-	-	-	-	1	-	1	-	-	-	2	-	2	-	3	-	1	-	-	-
+	Cyklista zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›     V10-V19	106	-	-	-	-	-	-	4	4	10	5	7	2	11	11	11	5	4	10	13	1	6	2
+V10	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s chodcem nebo zvÃ­Å™etem	5	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-	1	-	-	1	-	1	-
+V11	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m jÃ­zdnÃ­m kolem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
+V12	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s 2 nebo 3 kolovÃ½m motorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V13	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m,dodÃ¡vkovÃ½m  nebo lehkÃ½m nÃ¡kladnÃ­m	50	-	-	-	-	-	-	1	3	5	3	5	1	3	5	3	3	1	5	8	1	3	-
+V14	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­m vozidlem nebo autobusem	17	-	-	-	-	-	-	-	-	2	-	1	-	1	4	2	-	-	2	2	-	2	1
+V15	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo Å¾elezniÄnÃ­m vozidlem	3	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-	-	1	-	-	-	-
+V16	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V17	Cyklista zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s pevnou pÅ™ekÃ¡Å¾kou [s pÅ™ipevnÄ›nÃ½m nebo stojÃ­cÃ­m pÅ™edmÄ›tem]	2	-	-	-	-	-	-	-	1	-	-	1	-	-	-	-	-	-	-	-	-	-	-
+V18	Cyklista zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ› bez srÃ¡Å¾ky	18	-	-	-	-	-	-	-	-	1	2	-	1	4	2	4	1	-	1	1	-	-	1
+V19	Cyklista zranÄ›nÃ½ pÅ™i jinÃ½m a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	10	-	-	-	-	-	-	1	-	1	-	-	-	2	-	2	-	3	-	1	-	-	-
 																								
-	Jezdec na motocyklu zranìnı pøi dopravní nehodì    V20-V29	48	-	-	-	-	-	-	1	16	10	1	-	6	2	1	1	-	2	1	4	2	1	-
-V20	Jezdec na motocyklu zranìnı pøi sráce s chodcem nebo zvíøetem	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
-V21	Jezdec na motocyklu zranìnı pøi sráce s jízdním kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V22	Jezdec na motocyklu zranìnı pøi sráce s 2 nebo 3 kolovım motorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V23	Jezdec na motocyklu zranìnı pøi sráce s automobilem osobním, dodávkovım nebo lehkım nákladním	15	-	-	-	-	-	-	-	4	2	-	-	2	-	1	-	-	1	1	3	1	-	-
-V24	Jezdec na motocyklu zranìnı pøi sráce s tìkım nákladním vozidlem nebo autobusem	4	-	-	-	-	-	-	-	2	1	-	-	-	-	-	-	-	-	-	-	-	1	-
-V25	Jezdec na motocyklu zranìnı pøi sráce s eleznièním vlakem nebo  eleznièním vozidlem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
-V26	Jezdec na motocyklu zranìnı pøi sráce s jinım nemotorovım vozidlem	2	-	-	-	-	-	-	-	2	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V27	Jezdec na motocyklu zranìnı pøi sráce s pevnou pøekákou [s pøipevnìnım nebo stojícím pøedmìtem]	4	-	-	-	-	-	-	1	2	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-V28	Jezdec na motocyklu zranìnı pøi dopravní nehodì bez sráky	2	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-
-V29	Jezdec na motocyklu zranìnı pøi jinıch a neurèenıch dopravních nehodách	19	-	-	-	-	-	-	-	5	6	1	-	3	2	-	1	-	1	-	-	-	-	-
+	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›    V20-V29	48	-	-	-	-	-	-	1	16	10	1	-	6	2	1	1	-	2	1	4	2	1	-
+V20	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s chodcem nebo zvÃ­Å™etem	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
+V21	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jÃ­zdnÃ­m kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V22	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s 2 nebo 3 kolovÃ½m motorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V23	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m, dodÃ¡vkovÃ½m nebo lehkÃ½m nÃ¡kladnÃ­m	15	-	-	-	-	-	-	-	4	2	-	-	2	-	1	-	-	1	1	3	1	-	-
+V24	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­m vozidlem nebo autobusem	4	-	-	-	-	-	-	-	2	1	-	-	-	-	-	-	-	-	-	-	-	1	-
+V25	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo  Å¾elezniÄnÃ­m vozidlem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
+V26	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	2	-	-	-	-	-	-	-	2	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V27	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s pevnou pÅ™ekÃ¡Å¾kou [s pÅ™ipevnÄ›nÃ½m nebo stojÃ­cÃ­m pÅ™edmÄ›tem]	4	-	-	-	-	-	-	1	2	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+V28	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ› bez srÃ¡Å¾ky	2	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-
+V29	Jezdec na motocyklu zranÄ›nÃ½ pÅ™i jinÃ½ch a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	19	-	-	-	-	-	-	-	5	6	1	-	3	2	-	1	-	1	-	-	-	-	-
 																								
-	Èlen osádky tøíkolového motorového vozidla zranìnı pøi dopravní nehodì     V30-V39	5	-	-	-	-	-	-	-	-	2	-	-	1	1	-	-	1	-	-	-	-	-	-
-V30	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s chodcem nebo zvíøetem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-V31	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s jízdním kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V32	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s jinım 2 nebo 3 kolovım motorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V33	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s automobilem osobním, dodávkovım  nebo lehkım nákladním	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V34	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s tìkım nákladním vozidlem nebo autobusem	3	-	-	-	-	-	-	-	-	1	-	-	-	1	-	-	1	-	-	-	-	-	-
-V35	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s eleznièním vlakem nebo eleznièním vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V36	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s jinım nemotorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V37	Èlen osádky tøíkolového motorového vozidla zranìnı pøi sráce s pevnou pøekákou [s pøipevnìnım nebo stojícím pøedmìtem]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V38	Èlen osádky tøíkolového motorového vozidla zranìnı pøi dopravní nehodì bez sráky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V39	Èlen osádky tøíkolového motorového vozidla zranìnı pøi jinıch a neurèenıch dopravních nehodách	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
+	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›     V30-V39	5	-	-	-	-	-	-	-	-	2	-	-	1	1	-	-	1	-	-	-	-	-	-
+V30	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s chodcem nebo zvÃ­Å™etem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+V31	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jÃ­zdnÃ­m kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V32	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m 2 nebo 3 kolovÃ½m motorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V33	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m, dodÃ¡vkovÃ½m  nebo lehkÃ½m nÃ¡kladnÃ­m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V34	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­m vozidlem nebo autobusem	3	-	-	-	-	-	-	-	-	1	-	-	-	1	-	-	1	-	-	-	-	-	-
+V35	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo Å¾elezniÄnÃ­m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V36	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V37	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s pevnou pÅ™ekÃ¡Å¾kou [s pÅ™ipevnÄ›nÃ½m nebo stojÃ­cÃ­m pÅ™edmÄ›tem]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V38	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ› bez srÃ¡Å¾ky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V39	ÄŒlen osÃ¡dky tÅ™Ã­kolovÃ©ho motorovÃ©ho vozidla zranÄ›nÃ½ pÅ™i jinÃ½ch a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
 																								
-	Èlen osádky osobního automobilu zranìnı pøi dopravní nehodì     V40-V49	229	1	1	1	-	-	4	1	21	39	26	23	22	20	25	10	6	10	10	3	1	3	2
-V40	Èlen osádky osobního automobilu zranìnı pøi sráce chodcem nebo zvíøetem	14	-	-	-	-	-	-	-	1	1	-	1	2	-	4	4	-	-	-	-	-	-	1
-V41	Èlen osádky osobního automobilu zranìnı pøi sráce s jízdním kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V42	Èlen osádky osobního automobilu zranìnı pøi sráce s dvou nebo tøíkolovım motorovım vozidlem	4	-	-	-	-	-	-	-	-	-	2	-	-	-	-	-	-	2	-	-	-	-	-
-V43	Èlen osádky osobního automobilu zranìnı pøi sráce s automobilem osobním, dodávkovım nebo lehkım nákladním	50	1	1	-	-	-	2	-	2	7	5	5	4	7	7	2	2	1	4	-	-	-	-
-V44	Èlen osádky osobního automobilu zranìnı pøi sráce s tìkım nákladním vozidlem nebo autobusem	26	-	-	1	-	-	1	1	2	3	3	3	1	2	2	1	1	3	1	1	-	-	-
-V45	Èlen osádky osobního automobilu zranìnı pøi sráce s eleznièním vlakem nebo eleznièním vozidlem	8	-	-	-	-	-	-	-	-	1	-	-	2	-	1	-	-	2	1	-	1	-	-
-V46	Èlen osádky osobního automobilu zranìnı pøi sráce s jinım nemotorovım vozidlem	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
-V47	Èlen osádky osobního automobilu zranìnı pøi sráce s pevnou pøekákou [s pøipevnìnım nebo stojícím pøedmìtem]	43	-	-	-	-	-	-	-	4	13	8	5	5	1	3	2	1	-	-	-	-	-	1
-V48	Èlen osádky osobního automobilu zranìnı pøi dopravní nehodì bez sráky	17	-	-	-	-	-	-	-	1	2	3	2	2	2	2	-	2	-	1	-	-	-	-
-V49	Èlen osádky osobního automobilu zranìnı pøi jinıch a neurèenıch dopravních nehodách	66	-	-	-	-	-	1	-	11	12	5	7	5	8	6	1	-	2	3	2	-	3	-
+	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›     V40-V49	229	1	1	1	-	-	4	1	21	39	26	23	22	20	25	10	6	10	10	3	1	3	2
+V40	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce chodcem nebo zvÃ­Å™etem	14	-	-	-	-	-	-	-	1	1	-	1	2	-	4	4	-	-	-	-	-	-	1
+V41	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jÃ­zdnÃ­m kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V42	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s dvou nebo tÅ™Ã­kolovÃ½m motorovÃ½m vozidlem	4	-	-	-	-	-	-	-	-	-	2	-	-	-	-	-	-	2	-	-	-	-	-
+V43	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m, dodÃ¡vkovÃ½m nebo lehkÃ½m nÃ¡kladnÃ­m	50	1	1	-	-	-	2	-	2	7	5	5	4	7	7	2	2	1	4	-	-	-	-
+V44	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­m vozidlem nebo autobusem	26	-	-	1	-	-	1	1	2	3	3	3	1	2	2	1	1	3	1	1	-	-	-
+V45	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo Å¾elezniÄnÃ­m vozidlem	8	-	-	-	-	-	-	-	-	1	-	-	2	-	1	-	-	2	1	-	1	-	-
+V46	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
+V47	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s pevnou pÅ™ekÃ¡Å¾kou [s pÅ™ipevnÄ›nÃ½m nebo stojÃ­cÃ­m pÅ™edmÄ›tem]	43	-	-	-	-	-	-	-	4	13	8	5	5	1	3	2	1	-	-	-	-	-	1
+V48	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ› bez srÃ¡Å¾ky	17	-	-	-	-	-	-	-	1	2	3	2	2	2	2	-	2	-	1	-	-	-	-
+V49	ÄŒlen osÃ¡dky osobnÃ­ho automobilu zranÄ›nÃ½ pÅ™i jinÃ½ch a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	66	-	-	-	-	-	1	-	11	12	5	7	5	8	6	1	-	2	3	2	-	3	-
 																								
-	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi dopravní nehodì     V50-V59	7	-	-	-	-	-	-	-	-	1	2	-	2	1	-	1	-	-	-	-	-	-	-
-V50	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi sráce s chodcem nebo zvíøetem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-V51	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi sráce s jízdním kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V52	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi sráce s dvou nebo tøíkolovım motorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V53	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi sráce s automobilem osobním, dodávkovım èi lehkım nákladním	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
-V54	Èlen osádky dodávkového èi lehkého nákladního automobilu zranìnı pøi sráce s tìkım nákladním vozidlem nebo autobusem	2	-	-	-	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-	-	-	-	-
-V55	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi sráce s eleznièním vlakem nebo eleznièním vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V56	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi sráce s jinım nemotorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V57	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi sráce s pevnou pøekákou	2	-	-	-	-	-	-	-	-	-	1	-	-	-	-	1	-	-	-	-	-	-	-
-V58	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi dopravní nehodì bez sráky	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
-V59	Èlen osádky dodávkového nebo lehkého nákladního automobilu zranìnı pøi jinıch a neurèenıch dopravních nehodách	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›     V50-V59	7	-	-	-	-	-	-	-	-	1	2	-	2	1	-	1	-	-	-	-	-	-	-
+V50	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s chodcem nebo zvÃ­Å™etem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+V51	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jÃ­zdnÃ­m kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V52	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s dvou nebo tÅ™Ã­kolovÃ½m motorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V53	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m, dodÃ¡vkovÃ½m Äi lehkÃ½m nÃ¡kladnÃ­m	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
+V54	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho Äi lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­m vozidlem nebo autobusem	2	-	-	-	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-	-	-	-	-
+V55	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo Å¾elezniÄnÃ­m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V56	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V57	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s pevnou pÅ™ekÃ¡Å¾kou	2	-	-	-	-	-	-	-	-	-	1	-	-	-	-	1	-	-	-	-	-	-	-
+V58	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ› bez srÃ¡Å¾ky	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
+V59	ÄŒlen osÃ¡dky dodÃ¡vkovÃ©ho nebo lehkÃ©ho nÃ¡kladnÃ­ho automobilu zranÄ›nÃ½ pÅ™i jinÃ½ch a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Èlen osádky tìkého nákladního vozidla zranìnı pøi dopravní nehodì     V60-V69	6	-	-	-	-	-	-	-	-	1	2	-	1	1	-	1	-	-	-	-	-	-	-
-V60	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s chodcem nebo zvíøetem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V61	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s jizdním kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V62	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s dvou nebo tøíkolovım motorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V63	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s automobilem osobním, dodávkovım nebo lehkım nákladním	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
-V64	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s tìkım nákladní vozidlem nebo autobusem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-V65	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s eleznièním vlakem nebo eleznièním vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V66	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s jinım nemotorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V67	Èlen osádky tìkého nákladního vozidla zranìnı pøi sráce s pevnou pøekákou [s pøipevnìnım nebo stojícím pøedmìtem]	3	-	-	-	-	-	-	-	-	-	1	-	1	1	-	-	-	-	-	-	-	-	-
-V68	Èlen osádky tìkého nákladního vozidla zranìnı pøi dopravní nehodì bez sráky	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-V69	Èlen osádky tìkého nákladního vozidla zranìnı pøi jinıch a neurèenıch dopravních nehodách	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›     V60-V69	6	-	-	-	-	-	-	-	-	1	2	-	1	1	-	1	-	-	-	-	-	-	-
+V60	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s chodcem nebo zvÃ­Å™etem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V61	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jizdnÃ­m kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V62	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s dvou nebo tÅ™Ã­kolovÃ½m motorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V63	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m, dodÃ¡vkovÃ½m nebo lehkÃ½m nÃ¡kladnÃ­m	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
+V64	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­ vozidlem nebo autobusem	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+V65	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo Å¾elezniÄnÃ­m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V66	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V67	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s pevnou pÅ™ekÃ¡Å¾kou [s pÅ™ipevnÄ›nÃ½m nebo stojÃ­cÃ­m pÅ™edmÄ›tem]	3	-	-	-	-	-	-	-	-	-	1	-	1	1	-	-	-	-	-	-	-	-	-
+V68	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ› bez srÃ¡Å¾ky	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+V69	ÄŒlen osÃ¡dky tÄ›Å¾kÃ©ho nÃ¡kladnÃ­ho vozidla zranÄ›nÃ½ pÅ™i jinÃ½ch a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Èlen osádky autobusu zranìnı pøi dopravní nehodì     V70-V79	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
-V70	Èlen osádky autobusu zranìnı pøi sráce s chodcem nebo zvíøetem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V71	Èlen osádky autobusu zranìnı pøi sráce s jízdním kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V72	Èlen osádky autobusu zranìnı pøi sráce s dvou nebo tøíkolovım motorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V73	Èlen osádky autobusu zranìnı pøi sráce s automobilem osobním, dodávkovım nebo lehkım nákladním	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V74	Èlen osádky autobusu zranìnı pøi sráce s tìkım nákladním vozidlem nabo autobusem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V75	Èlen osádky autobusu zranìnı pøi sráce s eleznièním vlakem nebo eleznièním vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V76	Èlen osádky autobusu zranìnı pøi sráce s jinım nemotorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V77	Èlen osádky autobusu zranìnı pøi sráce s pevnou pøekákou [s pøipevnìnım nebo stojícím pøedmìtem]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V78	Èlen osádky autobusu zranìnı pøi dopravní nehodì bez sráky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V79	Èlen osádky autobusu zranìnı pøi jinıch a neurèenıch dopravních nehodách	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
+	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›     V70-V79	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
+V70	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s chodcem nebo zvÃ­Å™etem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V71	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jÃ­zdnÃ­m kolem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V72	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s dvou nebo tÅ™Ã­kolovÃ½m motorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V73	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s automobilem osobnÃ­m, dodÃ¡vkovÃ½m nebo lehkÃ½m nÃ¡kladnÃ­m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V74	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s tÄ›Å¾kÃ½m nÃ¡kladnÃ­m vozidlem nabo autobusem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V75	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s Å¾elezniÄnÃ­m vlakem nebo Å¾elezniÄnÃ­m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V76	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s jinÃ½m nemotorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V77	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i srÃ¡Å¾ce s pevnou pÅ™ekÃ¡Å¾kou [s pÅ™ipevnÄ›nÃ½m nebo stojÃ­cÃ­m pÅ™edmÄ›tem]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V78	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ› bez srÃ¡Å¾ky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V79	ÄŒlen osÃ¡dky autobusu zranÄ›nÃ½ pÅ™i jinÃ½ch a neurÄenÃ½ch dopravnÃ­ch nehodÃ¡ch	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Jiné nehody pøi pozemní dopravì     V80 - V89	26	-	-	-	-	-	3	-	3	1	2	-	-	1	8	1	1	1	3	1	-	1	-
-V80	Jezdec na zvíøeti nebo èlen osádky vozidla taeného zvíøetem zranìnı pøi dopravní nehodì	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
-V81	Èlen osádky eleznièního vlaku nebo eleznièního vozidla zranìnı pøi dopravní nehodì	5	-	-	-	-	-	-	-	1	-	1	-	-	-	1	-	-	-	1	1	-	-	-
-V82	Èlen osádky vozu poulièní dráhy zranìnı pøi dopravní nehodì	2	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-
-V83	Èlen osádky zvláštního vozidla urèeného zejména pro prùmyslové prostory zranìnı pøi dopravní nehodì	3	-	-	-	-	-	1	-	-	-	-	-	-	-	1	-	-	1	-	-	-	-	-
-V84	Èlen osádky zvláštního vozidla urèeného pøedevším pro zemìdìlství zranìnı pøi dopravní nehodì	7	-	-	-	-	-	-	-	1	-	1	-	-	1	3	-	-	-	1	-	-	-	-
-V85	Èlen osádky zvláštního stavebního vozidla zranìnı pøi dopravní nehodì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V86	Èlen osádky terénního èi jiného motorového vozidla urèeného hlavnì pro mimosilnièní provoz, zranìnı pøi dopravní nehodì	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-V87	Provozní [silnièní] nehoda urèeného typu, ale s neznámım zpùsobem dopravy obìti	1	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V88	Neprovozní [mimosilnièní] nehoda urèeného typu, ale s neznámım zpùsobem dopravy obìti	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-
-V89	Nehoda motorového nebo nemotorového vozidla, typ vozidla neurèen	4	-	-	-	-	-	1	-	-	1	-	-	-	-	2	-	-	-	-	-	-	-	-
+	JinÃ© nehody pÅ™i pozemnÃ­ dopravÄ›     V80 - V89	26	-	-	-	-	-	3	-	3	1	2	-	-	1	8	1	1	1	3	1	-	1	-
+V80	Jezdec na zvÃ­Å™eti nebo Älen osÃ¡dky vozidla taÅ¾enÃ©ho zvÃ­Å™etem zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
+V81	ÄŒlen osÃ¡dky Å¾elezniÄnÃ­ho vlaku nebo Å¾elezniÄnÃ­ho vozidla zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›	5	-	-	-	-	-	-	-	1	-	1	-	-	-	1	-	-	-	1	1	-	-	-
+V82	ÄŒlen osÃ¡dky vozu pouliÄnÃ­ drÃ¡hy zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›	2	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-
+V83	ÄŒlen osÃ¡dky zvlÃ¡Å¡tnÃ­ho vozidla urÄenÃ©ho zejmÃ©na pro prÅ¯myslovÃ© prostory zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›	3	-	-	-	-	-	1	-	-	-	-	-	-	-	1	-	-	1	-	-	-	-	-
+V84	ÄŒlen osÃ¡dky zvlÃ¡Å¡tnÃ­ho vozidla urÄenÃ©ho pÅ™edevÅ¡Ã­m pro zemÄ›dÄ›lstvÃ­ zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›	7	-	-	-	-	-	-	-	1	-	1	-	-	1	3	-	-	-	1	-	-	-	-
+V85	ÄŒlen osÃ¡dky zvlÃ¡Å¡tnÃ­ho stavebnÃ­ho vozidla zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V86	ÄŒlen osÃ¡dky terÃ©nnÃ­ho Äi jinÃ©ho motorovÃ©ho vozidla urÄenÃ©ho hlavnÄ› pro mimosilniÄnÃ­ provoz, zranÄ›nÃ½ pÅ™i dopravnÃ­ nehodÄ›	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+V87	ProvoznÃ­ [silniÄnÃ­] nehoda urÄenÃ©ho typu, ale s neznÃ¡mÃ½m zpÅ¯sobem dopravy obÄ›ti	1	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V88	NeprovoznÃ­ [mimosilniÄnÃ­] nehoda urÄenÃ©ho typu, ale s neznÃ¡mÃ½m zpÅ¯sobem dopravy obÄ›ti	2	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	-	-	-	-	-	-
+V89	Nehoda motorovÃ©ho nebo nemotorovÃ©ho vozidla, typ vozidla neurÄen	4	-	-	-	-	-	1	-	-	1	-	-	-	-	2	-	-	-	-	-	-	-	-
 																								
-	Nehody pøi vodní dopravì     V90 - V94	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V90	Nehoda plavidla jako pøíèina [u]tonutí a potopení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V91	Nehoda plavidla jako pøíèina jiného poranìní	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V92	(U)tonutí a potopení v souvislosti s vodní dopravou, bez nehody plavidla	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V93	Nehoda na palubì plavidla bez nehody plavidla, která není pøíèinou [u]tonutí a potopení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V94	Jiné a neurèené nehody pøi vodní dopravì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Nehody pÅ™i vodnÃ­ dopravÄ›     V90 - V94	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V90	Nehoda plavidla jako pÅ™Ã­Äina [u]tonutÃ­ a potopenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V91	Nehoda plavidla jako pÅ™Ã­Äina jinÃ©ho poranÄ›nÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V92	(U)tonutÃ­ a potopenÃ­ v souvislosti s vodnÃ­ dopravou, bez nehody plavidla	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V93	Nehoda na palubÄ› plavidla bez nehody plavidla, kterÃ¡ nenÃ­ pÅ™Ã­Äinou [u]tonutÃ­ a potopenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V94	JinÃ© a neurÄenÃ© nehody pÅ™i vodnÃ­ dopravÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Nehody pøi dopravì vzduchem a vesmírnım prostorem      V95 - V97	7	-	-	-	-	-	-	-	1	-	-	2	1	1	1	1	-	-	-	-	-	-	-
-V95	Nehoda letounu s pohonem jako pøíèina zranìní èlena osádky	5	-	-	-	-	-	-	-	-	-	-	1	1	1	1	1	-	-	-	-	-	-	-
-V96	Nehoda letounu bez pohonu jako pøíèina zranìní èlena osádky	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V97	Jiné urèené nehody pøi dopravì vzduchem	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
+	Nehody pÅ™i dopravÄ› vzduchem a vesmÃ­rnÃ½m prostorem      V95 - V97	7	-	-	-	-	-	-	-	1	-	-	2	1	1	1	1	-	-	-	-	-	-	-
+V95	Nehoda letounu s pohonem jako pÅ™Ã­Äina zranÄ›nÃ­ Älena osÃ¡dky	5	-	-	-	-	-	-	-	-	-	-	1	1	1	1	1	-	-	-	-	-	-	-
+V96	Nehoda letounu bez pohonu jako pÅ™Ã­Äina zranÄ›nÃ­ Älena osÃ¡dky	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V97	JinÃ© urÄenÃ© nehody pÅ™i dopravÄ› vzduchem	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Jiné a neurèené dopravní nehody     V98 - V99	571	-	-	-	3	3	10	11	49	82	64	51	46	49	46	27	35	22	28	18	9	14	4
-V98	Jiné urèené dopravní nehody	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-V99	Neurèená dopravní nehoda	571	-	-	-	3	3	10	11	49	82	64	51	46	49	46	27	35	22	28	18	9	14	4
+	JinÃ© a neurÄenÃ© dopravnÃ­ nehody     V98 - V99	571	-	-	-	3	3	10	11	49	82	64	51	46	49	46	27	35	22	28	18	9	14	4
+V98	JinÃ© urÄenÃ© dopravnÃ­ nehody	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+V99	NeurÄenÃ¡ dopravnÃ­ nehoda	571	-	-	-	3	3	10	11	49	82	64	51	46	49	46	27	35	22	28	18	9	14	4
 																								
-	Jiné vnìjší pøíèiny náhodnıch poranìní     W00 - X59	1800	31	7	7	5	6	16	26	62	69	69	79	105	134	138	126	80	91	118	154	82	200	195
+	JinÃ© vnÄ›jÅ¡Ã­ pÅ™Ã­Äiny nÃ¡hodnÃ½ch poranÄ›nÃ­     W00 - X59	1800	31	7	7	5	6	16	26	62	69	69	79	105	134	138	126	80	91	118	154	82	200	195
 																								
-	Pády       W00 - W19	834	3	2	-	-	-	-	5	13	15	14	12	20	38	47	44	26	40	70	95	53	166	171
-W00	Pád na rovinì na ledu a snìhu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W01	Pád na rovinì následkem uklouznutí, zakopnutí nebo klopıtnutí	438	1	-	-	-	-	-	-	2	1	1	1	3	5	12	11	3	12	33	56	37	125	135
-W02	Pád na ledních bruslích, lyích, koleèkovıch bruslích nebo skateboardech	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W03	Jiné pády na rovinì ze sráky s nebo strèení jinou osobou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W04	Pád pøi nesení nebo podpírání jinımi osobami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W05	Pád s invalidního vozíku	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
-W06	Pád s postele	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W07	Pád se idle	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W08	Pád s [tıkající se] jiného nábytku	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W09	Pád s [tıkající se] vybavení høištì	1	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W10	Pád na schodech a stupních nebo s nich	29	-	-	-	-	-	-	-	-	-	-	1	2	1	4	3	1	2	4	3	3	2	3
-W11	Pád na nebo se ebøíku	13	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	2	3	3	1	1	1	-
-W12	Pád na nebo s lešení	14	-	-	-	-	-	-	-	2	1	1	-	3	2	2	2	1	-	-	-	-	-	-
-W13	Pád s(z)budovy nebo konstrukce nebo propadnutí	33	-	-	-	-	-	-	-	1	4	3	1	2	4	5	4	1	3	2	1	-	1	1
-W14	Pád se stromu	10	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	3	3	2	-	-	-
-W15	Pád se skály	8	-	-	-	-	-	-	-	4	-	1	1	-	1	-	-	-	-	-	1	-	-	-
-W16	Potopení se nebo skok do vody jako pøíèina jiného poranìní, ne je [u]tonutí nebo potopení	4	-	-	-	-	-	-	-	-	2	2	-	-	-	-	-	-	-	-	-	-	-	-
-W17	Jinı pád z jedné úrovnì na druhou	26	-	-	-	-	-	-	1	1	3	1	1	1	5	3	3	-	-	4	2	-	1	-
-W18	Jinı pád na rovinì	9	1	-	-	-	-	-	-	-	-	-	-	1	-	-	3	1	1	2	-	-	-	-
-W19	Neurèenı pád	247	1	2	-	-	-	-	3	2	4	5	7	8	20	19	16	16	16	19	29	12	36	32
+	PÃ¡dy       W00 - W19	834	3	2	-	-	-	-	5	13	15	14	12	20	38	47	44	26	40	70	95	53	166	171
+W00	PÃ¡d na rovinÄ› na ledu a snÄ›hu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W01	PÃ¡d na rovinÄ› nÃ¡sledkem uklouznutÃ­, zakopnutÃ­ nebo klopÃ½tnutÃ­	438	1	-	-	-	-	-	-	2	1	1	1	3	5	12	11	3	12	33	56	37	125	135
+W02	PÃ¡d na lednÃ­ch bruslÃ­ch, lyÅ¾Ã­ch, koleÄkovÃ½ch bruslÃ­ch nebo skateboardech	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W03	JinÃ© pÃ¡dy na rovinÄ› ze srÃ¡Å¾ky s nebo strÄenÃ­ jinou osobou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W04	PÃ¡d pÅ™i nesenÃ­ nebo podpÃ­rÃ¡nÃ­ jinÃ½mi osobami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W05	PÃ¡d s invalidnÃ­ho vozÃ­ku	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
+W06	PÃ¡d s postele	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W07	PÃ¡d se Å¾idle	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W08	PÃ¡d s [tÃ½kajÃ­cÃ­ se] jinÃ©ho nÃ¡bytku	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W09	PÃ¡d s [tÃ½kajÃ­cÃ­ se] vybavenÃ­ hÅ™iÅ¡tÄ›	1	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W10	PÃ¡d na schodech a stupnÃ­ch nebo s nich	29	-	-	-	-	-	-	-	-	-	-	1	2	1	4	3	1	2	4	3	3	2	3
+W11	PÃ¡d na nebo se Å¾ebÅ™Ã­ku	13	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	2	3	3	1	1	1	-
+W12	PÃ¡d na nebo s leÅ¡enÃ­	14	-	-	-	-	-	-	-	2	1	1	-	3	2	2	2	1	-	-	-	-	-	-
+W13	PÃ¡d s(z)budovy nebo konstrukce nebo propadnutÃ­	33	-	-	-	-	-	-	-	1	4	3	1	2	4	5	4	1	3	2	1	-	1	1
+W14	PÃ¡d se stromu	10	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	1	3	3	2	-	-	-
+W15	PÃ¡d se skÃ¡ly	8	-	-	-	-	-	-	-	4	-	1	1	-	1	-	-	-	-	-	1	-	-	-
+W16	PotopenÃ­ se nebo skok do vody jako pÅ™Ã­Äina jinÃ©ho poranÄ›nÃ­, neÅ¾ je [u]tonutÃ­ nebo potopenÃ­	4	-	-	-	-	-	-	-	-	2	2	-	-	-	-	-	-	-	-	-	-	-	-
+W17	JinÃ½ pÃ¡d z jednÃ© ÃºrovnÄ› na druhou	26	-	-	-	-	-	-	1	1	3	1	1	1	5	3	3	-	-	4	2	-	1	-
+W18	JinÃ½ pÃ¡d na rovinÄ›	9	1	-	-	-	-	-	-	-	-	-	-	1	-	-	3	1	1	2	-	-	-	-
+W19	NeurÄenÃ½ pÃ¡d	247	1	2	-	-	-	-	3	2	4	5	7	8	20	19	16	16	16	19	29	12	36	32
 																								
-	Vystavení neivotnım mechanickım silám        W20 - W49	73	-	-	1	-	-	1	2	7	5	2	4	8	12	7	8	3	4	4	4	1	-	-
-W20	Udeøení hozenım, vrenım nebo padajícím pøedmìtem	18	-	-	-	-	-	-	-	-	-	1	2	3	5	1	2	1	-	2	-	1	-	-
-W21	Udeøení sportovním náøadím [vybavením] nabo náraz na nì	1	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W22	Udeøení jinımi pøedmìty nebo náraz na nì	4	-	-	1	-	-	-	-	-	-	-	-	-	-	1	-	1	-	-	1	-	-	-
-W23	Zachycení, rozdrcení, zmáèknutí nebo uskøípnutí do pøedmìtù nebo mezi nì	11	-	-	-	-	-	-	-	2	-	-	1	1	2	2	2	-	-	1	-	-	-	-
-W24	Kontakt se zaøízeními na zvedání a pøenos, nezaøazenımi jinde	2	-	-	-	-	-	-	-	-	-	-	-	-	2	-	-	-	-	-	-	-	-	-
-W25	Kontakt s ostrım sklem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-W26	Kontakt s noem, meèem nebo dıkou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W27	Kontakt s ruèním nástrojem bez pohonu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W28	Kontakt se sekaèkou trávy s pohonem	2	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-
-W29	Kontakt s jinımi ruèními nástroji na pohon a stroji v domácnosti	2	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	1	-	-	-	-	-
-W30	Kontakt se zemìdìlskımi stroji	3	-	-	-	-	-	-	-	-	1	-	-	-	-	1	1	-	-	-	-	-	-	-
-W31	Kontakt s jinım  a neurèenım strojem	7	-	-	-	-	-	1	-	-	1	1	-	-	-	1	1	1	-	-	1	-	-	-
-W32	Vıstøel z krátké jednoruèní støelné zbranì, pistole, revolveru	3	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	2	-	-	-	-	-
-W33	Vıstøel z pušky, brokovnice a vìtší ruèní støelné zbranì	4	-	-	-	-	-	-	-	2	-	-	-	-	1	-	-	-	1	-	-	-	-	-
-W34	Vıstøel z jinıch a neurèenıch støelnıch zbraní	5	-	-	-	-	-	-	-	1	2	-	1	1	-	-	-	-	-	-	-	-	-	-
-W35	Vıbuch a prasknutí kotle	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W36	Vıbuch a prasknutí tlakové nádoby na plyn	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W37	Vıbuch a prasknutí stlaèené pneumatiky, potrubí nebo hadice	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
-W38	Vıbuch a prasknutí jinıch urèenıch tlakovıch zaøízení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W39	Vıstøel ohòostroje	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W40	Vıbuch jinıch látek	7	-	-	-	-	-	-	1	-	1	-	-	1	2	-	1	-	-	-	1	-	-	-
-W41	Vystavení proudu pod vysokım tlakem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W42	Vystavení hluku	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W43	Vystavení vibracím	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W44	Cizí tìleso vniklé do oka nebo okem nebo pøirozenım otvorem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
-W45	Cizí tìleso nebo pøedmìt proniklı kùí	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W49	Vystavení jinım a neurèenım neivotnım mechanickım silám	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
+	VystavenÃ­ neÅ¾ivotnÃ½m mechanickÃ½m silÃ¡m        W20 - W49	73	-	-	1	-	-	1	2	7	5	2	4	8	12	7	8	3	4	4	4	1	-	-
+W20	UdeÅ™enÃ­ hozenÃ½m, vrÅ¾enÃ½m nebo padajÃ­cÃ­m pÅ™edmÄ›tem	18	-	-	-	-	-	-	-	-	-	1	2	3	5	1	2	1	-	2	-	1	-	-
+W21	UdeÅ™enÃ­ sportovnÃ­m nÃ¡Å™adÃ­m [vybavenÃ­m] nabo nÃ¡raz na nÄ›	1	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W22	UdeÅ™enÃ­ jinÃ½mi pÅ™edmÄ›ty nebo nÃ¡raz na nÄ›	4	-	-	1	-	-	-	-	-	-	-	-	-	-	1	-	1	-	-	1	-	-	-
+W23	ZachycenÃ­, rozdrcenÃ­, zmÃ¡ÄknutÃ­ nebo uskÅ™Ã­pnutÃ­ do pÅ™edmÄ›tÅ¯ nebo mezi nÄ›	11	-	-	-	-	-	-	-	2	-	-	1	1	2	2	2	-	-	1	-	-	-	-
+W24	Kontakt se zaÅ™Ã­zenÃ­mi na zvedÃ¡nÃ­ a pÅ™enos, nezaÅ™azenÃ½mi jinde	2	-	-	-	-	-	-	-	-	-	-	-	-	2	-	-	-	-	-	-	-	-	-
+W25	Kontakt s ostrÃ½m sklem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+W26	Kontakt s noÅ¾em, meÄem nebo dÃ½kou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W27	Kontakt s ruÄnÃ­m nÃ¡strojem bez pohonu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W28	Kontakt se sekaÄkou trÃ¡vy s pohonem	2	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-
+W29	Kontakt s jinÃ½mi ruÄnÃ­mi nÃ¡stroji na pohon a stroji v domÃ¡cnosti	2	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	1	-	-	-	-	-
+W30	Kontakt se zemÄ›dÄ›lskÃ½mi stroji	3	-	-	-	-	-	-	-	-	1	-	-	-	-	1	1	-	-	-	-	-	-	-
+W31	Kontakt s jinÃ½m  a neurÄenÃ½m strojem	7	-	-	-	-	-	1	-	-	1	1	-	-	-	1	1	1	-	-	1	-	-	-
+W32	VÃ½stÅ™el z krÃ¡tkÃ© jednoruÄnÃ­ stÅ™elnÃ© zbranÄ›, pistole, revolveru	3	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	2	-	-	-	-	-
+W33	VÃ½stÅ™el z puÅ¡ky, brokovnice a vÄ›tÅ¡Ã­ ruÄnÃ­ stÅ™elnÃ© zbranÄ›	4	-	-	-	-	-	-	-	2	-	-	-	-	1	-	-	-	1	-	-	-	-	-
+W34	VÃ½stÅ™el z jinÃ½ch a neurÄenÃ½ch stÅ™elnÃ½ch zbranÃ­	5	-	-	-	-	-	-	-	1	2	-	1	1	-	-	-	-	-	-	-	-	-	-
+W35	VÃ½buch a prasknutÃ­ kotle	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W36	VÃ½buch a prasknutÃ­ tlakovÃ© nÃ¡doby na plyn	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W37	VÃ½buch a prasknutÃ­ stlaÄenÃ© pneumatiky, potrubÃ­ nebo hadice	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
+W38	VÃ½buch a prasknutÃ­ jinÃ½ch urÄenÃ½ch tlakovÃ½ch zaÅ™Ã­zenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W39	VÃ½stÅ™el ohÅˆostroje	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W40	VÃ½buch jinÃ½ch lÃ¡tek	7	-	-	-	-	-	-	1	-	1	-	-	1	2	-	1	-	-	-	1	-	-	-
+W41	VystavenÃ­ proudu pod vysokÃ½m tlakem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W42	VystavenÃ­ hluku	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W43	VystavenÃ­ vibracÃ­m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W44	CizÃ­ tÄ›leso vniklÃ© do oka nebo okem nebo pÅ™irozenÃ½m otvorem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
+W45	CizÃ­ tÄ›leso nebo pÅ™edmÄ›t proniklÃ½ kÅ¯Å¾Ã­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W49	VystavenÃ­ jinÃ½m a neurÄenÃ½m neÅ¾ivotnÃ½m mechanickÃ½m silÃ¡m	1	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-
 																								
-	Vystavení ivotnım mechanickım silám       W50 - W64	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W50	Zasaení, úder, kopnutí, zkroucení, kousnutí nebo poškrábání jinou osobou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W51	Uhození se o jinou osobu nebo náraz do jiné osoby	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W52	Rozdrcení, umaèkání nebo ušlapání davem pøi lidské panice	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W53	Kousnutí krysou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W54	Kousnutí nebo úder psem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W55	Kousnutí nebo úder jinımi savci	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W56	Kontakt s moøskım ivoèichem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W57	Kousnutí nebo štípnutí [budnutí] nejedovatım hmyzem a jinımi nejedovatımi èlenovci	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W58	Kousnutí a úder krokodılem nebo aligátorem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W59	Kousnutí nebo rozdrcení jinım plazy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W60	Kontakt s rostlinnımi trny a ostny a ostrımi listy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W64	Vystavení jinım a neurèenım ivotním mechanickım silám	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	VystavenÃ­ Å¾ivotnÃ½m mechanickÃ½m silÃ¡m       W50 - W64	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W50	ZasaÅ¾enÃ­, Ãºder, kopnutÃ­, zkroucenÃ­, kousnutÃ­ nebo poÅ¡krÃ¡bÃ¡nÃ­ jinou osobou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W51	UhozenÃ­ se o jinou osobu nebo nÃ¡raz do jinÃ© osoby	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W52	RozdrcenÃ­, umaÄkÃ¡nÃ­ nebo uÅ¡lapÃ¡nÃ­ davem pÅ™i lidskÃ© panice	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W53	KousnutÃ­ krysou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W54	KousnutÃ­ nebo Ãºder psem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W55	KousnutÃ­ nebo Ãºder jinÃ½mi savci	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W56	Kontakt s moÅ™skÃ½m Å¾ivoÄichem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W57	KousnutÃ­ nebo Å¡tÃ­pnutÃ­ [budnutÃ­] nejedovatÃ½m hmyzem a jinÃ½mi nejedovatÃ½mi Älenovci	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W58	KousnutÃ­ a Ãºder krokodÃ½lem nebo aligÃ¡torem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W59	KousnutÃ­ nebo rozdrcenÃ­ jinÃ½m plazy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W60	Kontakt s rostlinnÃ½mi trny a ostny a ostrÃ½mi listy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W64	VystavenÃ­ jinÃ½m a neurÄenÃ½m Å¾ivotnÃ­m mechanickÃ½m silÃ¡m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Náhodné [u]tonutí a potopení       W65 - W74	247	-	3	1	2	1	10	10	20	16	22	14	22	23	16	11	19	12	15	14	5	9	2
-W65	(U)tonutí a potopení pøi pobytu ve vanì	6	-	-	-	-	-	-	-	-	-	1	1	-	-	1	-	-	1	-	1	-	1	-
-W66	(U)tonutí a potopení po pádu do vany	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-W67	(U)tonutí a potopení pøi pobytu v bazénu	1	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W68	(U)tonutí a potopení po pádu do bazénu	3	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	1	-	-	-
-W69	(U)tonutí a potopení pøi pobytu v pøírodní vodì	19	-	-	-	-	-	1	1	2	1	2	-	3	3	1	1	-	4	-	-	-	-	-
-W70	(U)tonutí a potopení pøi pádu do pøíodní vody	31	-	-	-	-	-	-	-	2	4	-	-	4	2	2	4	3	-	5	2	1	2	-
-W73	Jiné urèené (u)tonutí a potopení	7	-	1	-	-	-	1	-	1	-	1	-	1	1	-	-	1	-	-	-	-	-	-
-W74	Neurèené (u)tonutí a potopení	179	-	1	1	1	1	8	9	15	11	18	13	14	17	12	5	14	7	10	10	4	6	2
+	NÃ¡hodnÃ© [u]tonutÃ­ a potopenÃ­       W65 - W74	247	-	3	1	2	1	10	10	20	16	22	14	22	23	16	11	19	12	15	14	5	9	2
+W65	(U)tonutÃ­ a potopenÃ­ pÅ™i pobytu ve vanÄ›	6	-	-	-	-	-	-	-	-	-	1	1	-	-	1	-	-	1	-	1	-	1	-
+W66	(U)tonutÃ­ a potopenÃ­ po pÃ¡du do vany	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+W67	(U)tonutÃ­ a potopenÃ­ pÅ™i pobytu v bazÃ©nu	1	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W68	(U)tonutÃ­ a potopenÃ­ po pÃ¡du do bazÃ©nu	3	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	1	-	-	-
+W69	(U)tonutÃ­ a potopenÃ­ pÅ™i pobytu v pÅ™Ã­rodnÃ­ vodÄ›	19	-	-	-	-	-	1	1	2	1	2	-	3	3	1	1	-	4	-	-	-	-	-
+W70	(U)tonutÃ­ a potopenÃ­ pÅ™i pÃ¡du do pÅ™Ã­odnÃ­ vody	31	-	-	-	-	-	-	-	2	4	-	-	4	2	2	4	3	-	5	2	1	2	-
+W73	JinÃ© urÄenÃ© (u)tonutÃ­ a potopenÃ­	7	-	1	-	-	-	1	-	1	-	1	-	1	1	-	-	1	-	-	-	-	-	-
+W74	NeurÄenÃ© (u)tonutÃ­ a potopenÃ­	179	-	1	1	1	1	8	9	15	11	18	13	14	17	12	5	14	7	10	10	4	6	2
 																								
-	Jiná náhodná ohroení dıchání       W75 - W84	194	28	2	2	-	1	1	2	4	7	9	19	19	12	18	17	13	9	5	8	6	2	10
-W75	Náhodné (za)dušení a (u)škrcení v posteli	4	3	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-W76	Jiné náhodné obìšení a (u)škrcení	4	-	-	-	-	1	-	1	-	-	-	1	-	-	-	1	-	-	-	-	-	-	-
-W77	Ohroení dıchání zpùsobené zavalením [zasypáním] pdající zeminou a jinımi hmotami	13	-	-	-	-	-	-	1	-	2	2	3	2	2	-	-	1	-	-	-	-	-	-
-W78	Vdechnutí aludeèního obsahu	156	25	2	2	-	-	1	-	4	5	7	15	14	9	16	11	12	8	5	6	4	2	8
-W79	Vdechnutí nebo polknutí potravy jako pøíèina ucpání dıchacích cest	10	-	-	-	-	-	-	-	-	-	-	-	2	1	-	2	-	1	-	1	2	-	1
-W80	Vdechnutí nebo polknutí jinıch pøedmìtù jako pøíèina ucpání dıchacích cest	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-W81	Uzavøení nebo zachycení v prostøedí s nízkım obsahem kyslíku	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
-W83	Jiná urèená ohroení dıchání	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-W84	Neurèené ohroení dıchání	4	-	-	-	-	-	-	-	-	-	-	-	-	-	2	-	-	-	-	1	-	-	1
+	JinÃ¡ nÃ¡hodnÃ¡ ohroÅ¾enÃ­ dÃ½chÃ¡nÃ­       W75 - W84	194	28	2	2	-	1	1	2	4	7	9	19	19	12	18	17	13	9	5	8	6	2	10
+W75	NÃ¡hodnÃ© (za)duÅ¡enÃ­ a (u)Å¡krcenÃ­ v posteli	4	3	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+W76	JinÃ© nÃ¡hodnÃ© obÄ›Å¡enÃ­ a (u)Å¡krcenÃ­	4	-	-	-	-	1	-	1	-	-	-	1	-	-	-	1	-	-	-	-	-	-	-
+W77	OhroÅ¾enÃ­ dÃ½chÃ¡nÃ­ zpÅ¯sobenÃ© zavalenÃ­m [zasypÃ¡nÃ­m] pdajÃ­cÃ­ zeminou a jinÃ½mi hmotami	13	-	-	-	-	-	-	1	-	2	2	3	2	2	-	-	1	-	-	-	-	-	-
+W78	VdechnutÃ­ Å¾aludeÄnÃ­ho obsahu	156	25	2	2	-	-	1	-	4	5	7	15	14	9	16	11	12	8	5	6	4	2	8
+W79	VdechnutÃ­ nebo polknutÃ­ potravy jako pÅ™Ã­Äina ucpÃ¡nÃ­ dÃ½chacÃ­ch cest	10	-	-	-	-	-	-	-	-	-	-	-	2	1	-	2	-	1	-	1	2	-	1
+W80	VdechnutÃ­ nebo polknutÃ­ jinÃ½ch pÅ™edmÄ›tÅ¯ jako pÅ™Ã­Äina ucpÃ¡nÃ­ dÃ½chacÃ­ch cest	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+W81	UzavÅ™enÃ­ nebo zachycenÃ­ v prostÅ™edÃ­ s nÃ­zkÃ½m obsahem kyslÃ­ku	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
+W83	JinÃ¡ urÄenÃ¡ ohroÅ¾enÃ­ dÃ½chÃ¡nÃ­	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+W84	NeurÄenÃ© ohroÅ¾enÃ­ dÃ½chÃ¡nÃ­	4	-	-	-	-	-	-	-	-	-	-	-	-	-	2	-	-	-	-	1	-	-	1
 																								
-	Vystavení elektrickému proudu, ozáøení a extrémní okolní teplotì a tlaku vzduchu        W85 - W99	61	-	-	1	1	-	-	4	6	6	3	7	3	8	6	5	2	2	2	4	-	1	-
-W85	Dotyk elektrického vedení	29	-	-	1	-	-	-	1	3	3	2	6	1	4	3	1	1	2	-	1	-	-	-
-W86	Vystavení jinému urèenému elektrickému proudu	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
-W87	Vystavení neurèenému elektrickému proudu	31	-	-	-	1	-	-	3	3	3	-	1	2	4	3	4	1	-	2	3	-	1	-
-W88	Vystavení ionizujícímu záøení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W89	Vystavení umìle vytvoøenému viditelnému a ultrafialovému svìtlu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W90	Vystavení jinému neionizujícímu záøení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W91	Vystavení neurèenému typu záøení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W92	Vystavení nadmìrnému horku umìle vytvoøenému	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W93	Vystavení nadmìrnému chladu umìle vytvoøenému	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W94	Vystavení vysokému a nízkému tlaku vzduchu a jeho zmìnám	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-W99	Vystavení jinım a neurèenım faktorùm okolního prostøedí vytvoøenım umìle	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	VystavenÃ­ elektrickÃ©mu proudu, ozÃ¡Å™enÃ­ a extrÃ©mnÃ­ okolnÃ­ teplotÄ› a tlaku vzduchu        W85 - W99	61	-	-	1	1	-	-	4	6	6	3	7	3	8	6	5	2	2	2	4	-	1	-
+W85	Dotyk elektrickÃ©ho vedenÃ­	29	-	-	1	-	-	-	1	3	3	2	6	1	4	3	1	1	2	-	1	-	-	-
+W86	VystavenÃ­ jinÃ©mu urÄenÃ©mu elektrickÃ©mu proudu	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-
+W87	VystavenÃ­ neurÄenÃ©mu elektrickÃ©mu proudu	31	-	-	-	1	-	-	3	3	3	-	1	2	4	3	4	1	-	2	3	-	1	-
+W88	VystavenÃ­ ionizujÃ­cÃ­mu zÃ¡Å™enÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W89	VystavenÃ­ umÄ›le vytvoÅ™enÃ©mu viditelnÃ©mu a ultrafialovÃ©mu svÄ›tlu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W90	VystavenÃ­ jinÃ©mu neionizujÃ­cÃ­mu zÃ¡Å™enÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W91	VystavenÃ­ neurÄenÃ©mu typu zÃ¡Å™enÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W92	VystavenÃ­ nadmÄ›rnÃ©mu horku umÄ›le vytvoÅ™enÃ©mu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W93	VystavenÃ­ nadmÄ›rnÃ©mu chladu umÄ›le vytvoÅ™enÃ©mu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W94	VystavenÃ­ vysokÃ©mu a nÃ­zkÃ©mu tlaku vzduchu a jeho zmÄ›nÃ¡m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+W99	VystavenÃ­ jinÃ½m a neurÄenÃ½m faktorÅ¯m okolnÃ­ho prostÅ™edÃ­ vytvoÅ™enÃ½m umÄ›le	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Vystavení kouøi, ohni, dımu a plamenùm       X00 - X09	41	-	-	1	-	3	-	2	1	-	2	2	-	4	4	3	2	2	4	5	-	3	3
-X00	Vystavení nekontrolovanému ohni [poáru] v budovì nebo konstrukci	3	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	1	-
-X01	Vystavení nekontrolovanému ohni [poáru] mimo budovy a konstrukce	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X02	Vystavení kontrolovanému ohni v budovách a konstrukcích	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X03	Vystavení kontrolovanému ohni mimo budovy a konstrukce	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X04	Vystavení vznícení vysoce hoølavıch hmot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X05	Vystavení vznícení nebo tavení noèního prádla	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X06	Vystavení vznícení nebo tavení jiného šatstva a odìvù	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
-X08	Vystavení jinému urèenému kouøi, dımu, ohni a plamenùm	1	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X09	Vystavení neurèenému kouøi, dımu, ohni a plamenùm	36	-	-	-	-	2	-	2	1	-	2	2	-	4	4	3	1	2	3	5	-	2	3
+	VystavenÃ­ kouÅ™i, ohni, dÃ½mu a plamenÅ¯m       X00 - X09	41	-	-	1	-	3	-	2	1	-	2	2	-	4	4	3	2	2	4	5	-	3	3
+X00	VystavenÃ­ nekontrolovanÃ©mu ohni [poÅ¾Ã¡ru] v budovÄ› nebo konstrukci	3	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	1	-
+X01	VystavenÃ­ nekontrolovanÃ©mu ohni [poÅ¾Ã¡ru] mimo budovy a konstrukce	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X02	VystavenÃ­ kontrolovanÃ©mu ohni v budovÃ¡ch a konstrukcÃ­ch	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X03	VystavenÃ­ kontrolovanÃ©mu ohni mimo budovy a konstrukce	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X04	VystavenÃ­ vznÃ­cenÃ­ vysoce hoÅ™lavÃ½ch hmot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X05	VystavenÃ­ vznÃ­cenÃ­ nebo tavenÃ­ noÄnÃ­ho prÃ¡dla	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X06	VystavenÃ­ vznÃ­cenÃ­ nebo tavenÃ­ jinÃ©ho Å¡atstva a odÄ›vÅ¯	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-
+X08	VystavenÃ­ jinÃ©mu urÄenÃ©mu kouÅ™i, dÃ½mu, ohni a plamenÅ¯m	1	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X09	VystavenÃ­ neurÄenÃ©mu kouÅ™i, dÃ½mu, ohni a plamenÅ¯m	36	-	-	-	-	2	-	2	1	-	2	2	-	4	4	3	1	2	3	5	-	2	3
 																								
-	Kontakt s horkem a horkımi látkami      X10 - X19	4	-	-	-	-	-	-	-	-	-	-	-	1	2	-	-	-	-	-	-	-	1	-
-X10	Kontakt s horkımi nápoji, potravou, tukem a oleji na vaøení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Kontakt s horkem a horkÃ½mi lÃ¡tkami      X10 - X19	4	-	-	-	-	-	-	-	-	-	-	-	1	2	-	-	-	-	-	-	-	1	-
+X10	Kontakt s horkÃ½mi nÃ¡poji, potravou, tukem a oleji na vaÅ™enÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 X11	Kontakt s horkou vodou z vodovodu	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-
-X12	Kontakt s jinım horkımi tekutinami	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
-X13	Kontakt s vodní párou a jinımi horkımi vıpary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X14	Kontakt s horkım vzduchem a plyny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X15	Kontakt s horkımi zaøízeními v domácnosti	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X16	Kontakt s horkımi topnımi zaøízeními, radiátory a rourami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X17	Kontakt s horkımi stroji, pøístroji a nástroji	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X18	Kontakt s jinımi horkımi kovy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X19	Kontakt s jinım a neurèenım horkem a horkımi látkami	2	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-	-	-
+X12	Kontakt s jinÃ½m horkÃ½mi tekutinami	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
+X13	Kontakt s vodnÃ­ pÃ¡rou a jinÃ½mi horkÃ½mi vÃ½pary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X14	Kontakt s horkÃ½m vzduchem a plyny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X15	Kontakt s horkÃ½mi zaÅ™Ã­zenÃ­mi v domÃ¡cnosti	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X16	Kontakt s horkÃ½mi topnÃ½mi zaÅ™Ã­zenÃ­mi, radiÃ¡tory a rourami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X17	Kontakt s horkÃ½mi stroji, pÅ™Ã­stroji a nÃ¡stroji	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X18	Kontakt s jinÃ½mi horkÃ½mi kovy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X19	Kontakt s jinÃ½m a neurÄenÃ½m horkem a horkÃ½mi lÃ¡tkami	2	-	-	-	-	-	-	-	-	-	-	-	1	1	-	-	-	-	-	-	-	-	-
 																								
-	Kontakt s jedovatımi ivoèichy a rostlinami      X20 - X29	2	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-
-X20	Kontakt s jedovatımi hady a ještìrkami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X21	Kontakt s jedovatımi pavouky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X22	Kontakt se štíry (škorpiony)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X23	Kontakt se sršni,vosami a vèelami	2	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-
-X24	Kontakt se stonokami a jedovatımi [tropickımi] stonokami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X25	Kontakt s jinımi urèenımi jedovatımi èlenovci	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X26	Kontakt s jedovatım moøskım ivoèichem a rostlinou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X27	Kontakt s jinımi urèenımi jedovatımi ivoèichy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X28	Kontakt s jinımi urèenımi jedovatımi rostlinami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X29	Kontakt s neurèenım jedovatım ivoèichem nebo rostlinou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Kontakt s jedovatÃ½mi Å¾ivoÄichy a rostlinami      X20 - X29	2	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-
+X20	Kontakt s jedovatÃ½mi hady a jeÅ¡tÄ›rkami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X21	Kontakt s jedovatÃ½mi pavouky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X22	Kontakt se Å¡tÃ­ry (Å¡korpiony)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X23	Kontakt se srÅ¡ni,vosami a vÄelami	2	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	1	-	-	-
+X24	Kontakt se stonoÅ¾kami a jedovatÃ½mi [tropickÃ½mi] stonoÅ¾kami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X25	Kontakt s jinÃ½mi urÄenÃ½mi jedovatÃ½mi Älenovci	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X26	Kontakt s jedovatÃ½m moÅ™skÃ½m Å¾ivoÄichem a rostlinou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X27	Kontakt s jinÃ½mi urÄenÃ½mi jedovatÃ½mi Å¾ivoÄichy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X28	Kontakt s jinÃ½mi urÄenÃ½mi jedovatÃ½mi rostlinami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X29	Kontakt s neurÄenÃ½m jedovatÃ½m Å¾ivoÄichem nebo rostlinou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Vystavení pøírodním silám       X30 - X39	49	-	-	-	-	-	1	-	-	2	2	3	4	3	10	6	1	3	4	3	2	1	4
-X30	Vystavení nadmìrnému pøírodnímu horku	2	-	-	-	-	-	-	-	-	-	-	1	-	-	1	-	-	-	-	-	-	-	-
-X31	Vystavení nadmìrnému pøírodnímu chladu	44	-	-	-	-	-	-	-	-	2	1	2	4	2	9	6	1	3	4	3	2	1	4
-X32	Vystavení sluneènímu záøení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X33	Obì blesku	3	-	-	-	-	-	1	-	-	-	1	-	-	1	-	-	-	-	-	-	-	-	-
-X34	Obì zemìtøesení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X35	Obì vıbuchu sopky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X36	Obì laviny, sesuvu pùdy a jinıch zemskıch pohybù	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X37	Obì pøírodní katastrofické bouøe	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X38	Obì povodnì (záplavy)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X39	Vystavení jinım a neurèenım pøírodním silám	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	VystavenÃ­ pÅ™Ã­rodnÃ­m silÃ¡m       X30 - X39	49	-	-	-	-	-	1	-	-	2	2	3	4	3	10	6	1	3	4	3	2	1	4
+X30	VystavenÃ­ nadmÄ›rnÃ©mu pÅ™Ã­rodnÃ­mu horku	2	-	-	-	-	-	-	-	-	-	-	1	-	-	1	-	-	-	-	-	-	-	-
+X31	VystavenÃ­ nadmÄ›rnÃ©mu pÅ™Ã­rodnÃ­mu chladu	44	-	-	-	-	-	-	-	-	2	1	2	4	2	9	6	1	3	4	3	2	1	4
+X32	VystavenÃ­ sluneÄnÃ­mu zÃ¡Å™enÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X33	ObÄ›Å¥ blesku	3	-	-	-	-	-	1	-	-	-	1	-	-	1	-	-	-	-	-	-	-	-	-
+X34	ObÄ›Å¥ zemÄ›tÅ™esenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X35	ObÄ›Å¥ vÃ½buchu sopky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X36	ObÄ›Å¥ laviny, sesuvu pÅ¯dy a jinÃ½ch zemskÃ½ch pohybÅ¯	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X37	ObÄ›Å¥ pÅ™Ã­rodnÃ­ katastrofickÃ© bouÅ™e	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X38	ObÄ›Å¥ povodnÄ› (zÃ¡plavy)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X39	VystavenÃ­ jinÃ½m a neurÄenÃ½m pÅ™Ã­rodnÃ­m silÃ¡m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Náhodná otrava škodlivımi látkami      X40 - X49	219	-	-	1	2	-	1	1	8	13	14	16	24	25	24	18	11	12	12	13	11	10	3
-X40	Náhodná otrava neopiátovımi analgetiky, antipyretiky a antirevmatiky a expozice jejich pùsobení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X41	Náhodná otrava antiepileptiky, sedativy-hypnotiky, antiparkinsoniky, psychotropními léky a expozice, nezaøazená jinde	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
-X42	Náhodná otrava narkotiky a psychodysleptiky [halucinogeny] a expozice jejich pùsobení, nezaøazená jinde	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-X43	Náhodná otrava jinımi léèivy pùsobícími na autonomní nervovou soustavu a expozice jejich pùsobení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X44	Náhodná otrava jinımi a neurèenımi léky, léèivy, návykovımi a biologickımi látkami a expozice jejich pùsobení	14	-	-	-	-	-	-	-	2	1	3	1	2	3	-	1	1	-	-	-	-	-	-
-X45	Náhodná otrava alkoholem a expozice jeho pùsobení	63	-	-	-	-	-	-	-	-	2	4	8	13	10	13	7	1	4	1	-	-	-	-
-X46	Náhodná otrava organickımi rozpustidly a halogenovanımi uhlovodíky a jejich parami a expozice jejich pùsobení	10	-	-	-	-	-	-	-	2	3	1	2	-	-	2	-	-	-	-	-	-	-	-
-X47	Náhodná otrava jinımi plyny a parami a expozice jejich pùsobení	123	-	-	1	2	-	1	-	4	5	5	4	7	12	7	10	9	8	11	13	11	10	3
-X48	Náhodná otrava pesticidy a expozice jejich pùsobení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X49	Náhodná otrava jinımi a neurèenımi chemikáliemi a škodlivımi látkami a expozice jejich pùsobení	7	-	-	-	-	-	-	1	-	1	1	-	2	-	2	-	-	-	-	-	-	-	-
+	NÃ¡hodnÃ¡ otrava Å¡kodlivÃ½mi lÃ¡tkami      X40 - X49	219	-	-	1	2	-	1	1	8	13	14	16	24	25	24	18	11	12	12	13	11	10	3
+X40	NÃ¡hodnÃ¡ otrava neopiÃ¡tovÃ½mi analgetiky, antipyretiky a antirevmatiky a expozice jejich pÅ¯sobenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X41	NÃ¡hodnÃ¡ otrava antiepileptiky, sedativy-hypnotiky, antiparkinsoniky, psychotropnÃ­mi lÃ©ky a expozice, nezaÅ™azenÃ¡ jinde	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
+X42	NÃ¡hodnÃ¡ otrava narkotiky a psychodysleptiky [halucinogeny] a expozice jejich pÅ¯sobenÃ­, nezaÅ™azenÃ¡ jinde	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+X43	NÃ¡hodnÃ¡ otrava jinÃ½mi lÃ©Äivy pÅ¯sobÃ­cÃ­mi na autonomnÃ­ nervovou soustavu a expozice jejich pÅ¯sobenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X44	NÃ¡hodnÃ¡ otrava jinÃ½mi a neurÄenÃ½mi lÃ©ky, lÃ©Äivy, nÃ¡vykovÃ½mi a biologickÃ½mi lÃ¡tkami a expozice jejich pÅ¯sobenÃ­	14	-	-	-	-	-	-	-	2	1	3	1	2	3	-	1	1	-	-	-	-	-	-
+X45	NÃ¡hodnÃ¡ otrava alkoholem a expozice jeho pÅ¯sobenÃ­	63	-	-	-	-	-	-	-	-	2	4	8	13	10	13	7	1	4	1	-	-	-	-
+X46	NÃ¡hodnÃ¡ otrava organickÃ½mi rozpustidly a halogenovanÃ½mi uhlovodÃ­ky a jejich parami a expozice jejich pÅ¯sobenÃ­	10	-	-	-	-	-	-	-	2	3	1	2	-	-	2	-	-	-	-	-	-	-	-
+X47	NÃ¡hodnÃ¡ otrava jinÃ½mi plyny a parami a expozice jejich pÅ¯sobenÃ­	123	-	-	1	2	-	1	-	4	5	5	4	7	12	7	10	9	8	11	13	11	10	3
+X48	NÃ¡hodnÃ¡ otrava pesticidy a expozice jejich pÅ¯sobenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X49	NÃ¡hodnÃ¡ otrava jinÃ½mi a neurÄenÃ½mi chemikÃ¡liemi a Å¡kodlivÃ½mi lÃ¡tkami a expozice jejich pÅ¯sobenÃ­	7	-	-	-	-	-	-	1	-	1	1	-	2	-	2	-	-	-	-	-	-	-	-
 																								
-	Pøetíení, cestování a strádání       X50 - X57	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X50	Pøetíení a namáhavé nebo opakované pohyby	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X51	Cestování a pohyb	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X52	Prodlouenı pobyt v beztíném prostøedí	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	PÅ™etÃ­Å¾enÃ­, cestovÃ¡nÃ­ a strÃ¡dÃ¡nÃ­       X50 - X57	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X50	PÅ™etÃ­Å¾enÃ­ a namÃ¡havÃ© nebo opakovanÃ© pohyby	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X51	CestovÃ¡nÃ­ a pohyb	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X52	ProdlouÅ¾enÃ½ pobyt v beztÃ­Å¾nÃ©m prostÅ™edÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 X53	Nedostatek potravy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 X54	Nedostatek vody	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X57	Neurèené strádání	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X57	NeurÄenÃ© strÃ¡dÃ¡nÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Náhodné vystavení jinım a neurèenım faktorùm      X58 - X59	76	-	-	-	-	1	2	-	3	5	1	2	4	6	6	14	3	7	2	7	4	7	2
-X58	Vystavení jinım  urèenım faktorùm	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X59	Vystavení neurèenım faktorùm	76	-	-	-	-	1	2	-	3	5	1	2	4	6	6	14	3	7	2	7	4	7	2
+	NÃ¡hodnÃ© vystavenÃ­ jinÃ½m a neurÄenÃ½m faktorÅ¯m      X58 - X59	76	-	-	-	-	1	2	-	3	5	1	2	4	6	6	14	3	7	2	7	4	7	2
+X58	VystavenÃ­ jinÃ½m  urÄenÃ½m faktorÅ¯m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X59	VystavenÃ­ neurÄenÃ½m faktorÅ¯m	76	-	-	-	-	1	2	-	3	5	1	2	4	6	6	14	3	7	2	7	4	7	2
 																								
-SE	Úmyslné sebepoškození         X60 - X84	1341	-	-	-	-	-	1	10	60	88	93	84	114	146	156	106	71	94	78	90	49	62	39
-X60	Úmyslné sebeotrávení neopiátovımi analgetiky, antipyretiky a antirevmatiky a expozice jejich pùsobení	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-X61	Úmyslné sebeotrávení antiepileptiky, sedativy-hypnotiky, antiparkinsoniky, psychotropními léky a expozice, nezaøazené jinde	26	-	-	-	-	-	-	-	2	2	2	1	4	4	3	-	-	5	-	1	-	1	1
-X62	Úmyslné sebeotrávení narkotiky a psychodysleptiky [halucinogeny] a expozice jejich pùsobení, nezaøazené jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X63	Úmyslné sebeotrávení jinımi léèivy pùsobícími na autonomní nervovou soustavu a expozice jejich pùsobení	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X64	Úmyslné sebeotrávení jinımi a neurèenımi léky, léèivy, návykovımi a biologickımi látkami a expozice jejich pùsobení	17	-	-	-	-	-	-	-	2	2	3	1	2	-	3	-	1	-	2	-	-	1	-
-X65	Úmyslné sebeotrávení alkoholem a expozice jeho pùsobení	5	-	-	-	-	-	-	-	-	-	-	-	2	1	-	-	-	-	-	1	-	1	-
-X66	Úmyslné sebeotrávení organickımi rozpustidly a halogenovanımi uhlovodíky a jejich parami a expozice jejich pùsobení	5	-	-	-	-	-	-	-	-	-	2	1	-	-	2	-	-	-	-	-	-	-	-
-X67	Úmyslné sebeotrávení jinımi plyny a parami a expozice jejich pùsobení	77	-	-	-	-	-	-	-	2	6	8	6	7	10	11	5	2	7	8	2	1	-	2
-X68	Úmyslné sebeotrávení pesticidy a expozice jejich pùsobení	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
-X69	Úmyslné sebeotrávení jinımi a neurèenımi chemikáliemi a škodlivımi látkami a expozice jejich pùsobení	10	-	-	-	-	-	-	-	-	2	-	1	1	1	-	1	3	-	-	1	-	-	-
-X70	Úmyslné sebepoškození obìšením, [u]škrcením a [za]dušením	885	-	-	-	-	-	1	6	33	41	54	51	72	103	111	72	49	60	51	70	35	48	28
-X71	Úmyslné sebepoškození (u)topením a potopením	9	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	2	-	1	-	1	1	2
-X72	Úmyslné sebepoškození vıstøelem z pistole, revolveru	50	-	-	-	-	-	-	-	6	8	4	3	3	2	6	3	3	5	-	3	2	1	1
-X73	Úmyslné sebepoškození vıstøelem z pušky, brokovnice a vìtší ruèní støelné zbranì	16	-	-	-	-	-	-	-	-	2	1	-	2	3	3	-	1	2	1	-	-	1	-
-X74	Úmyslné sebepoškození vıstøelem z jiné a neurèené støelné zbranì	63	-	-	-	-	-	-	-	3	6	5	4	5	6	7	12	1	3	4	3	2	2	-
-X75	Úmyslné sebepoškození vıbušnou látkou	2	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	1	-	-
-X76	Úmyslné sebepoškození kouøem, dımem a ohnìm	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
-X77	Úmyslné sebepoškození vodní parou, horkımi vıpary a horkımi pøedmìty	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X78	Úmyslné sebepoškození ostrım pøedmìtem	36	-	-	-	-	-	-	-	-	-	2	5	7	4	3	4	2	2	3	2	1	-	1
-X79	Úmyslné sebepoškození tupım pøedmìtem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
-X80	Úmyslné sebepoškození skokem s vıše	84	-	-	-	-	-	-	3	7	10	7	6	4	5	4	5	6	4	4	7	5	4	3
-X81	Úmyslné sebepoškození skokem nebo lehnutím si pøed pohybující se pøedmìt	25	-	-	-	-	-	-	-	4	4	4	1	1	2	2	1	1	1	3	-	1	-	-
-X82	Úmyslné sebepoškození havárií motorového vozidla	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-
-X83	Úmyslné sebepoškození jinımi urèenımi prostøedky	6	-	-	-	-	-	-	-	-	3	-	1	1	1	-	-	-	-	-	-	-	-	-
-X84	Úmyslné sebepoškození neurèenımi prostøedky	20	-	-	-	-	-	-	1	1	-	1	2	3	2	1	1	-	5	1	-	-	1	1
+SE	ÃšmyslnÃ© sebepoÅ¡kozenÃ­         X60 - X84	1341	-	-	-	-	-	1	10	60	88	93	84	114	146	156	106	71	94	78	90	49	62	39
+X60	ÃšmyslnÃ© sebeotrÃ¡venÃ­ neopiÃ¡tovÃ½mi analgetiky, antipyretiky a antirevmatiky a expozice jejich pÅ¯sobenÃ­	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+X61	ÃšmyslnÃ© sebeotrÃ¡venÃ­ antiepileptiky, sedativy-hypnotiky, antiparkinsoniky, psychotropnÃ­mi lÃ©ky a expozice, nezaÅ™azenÃ© jinde	26	-	-	-	-	-	-	-	2	2	2	1	4	4	3	-	-	5	-	1	-	1	1
+X62	ÃšmyslnÃ© sebeotrÃ¡venÃ­ narkotiky a psychodysleptiky [halucinogeny] a expozice jejich pÅ¯sobenÃ­, nezaÅ™azenÃ© jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X63	ÃšmyslnÃ© sebeotrÃ¡venÃ­ jinÃ½mi lÃ©Äivy pÅ¯sobÃ­cÃ­mi na autonomnÃ­ nervovou soustavu a expozice jejich pÅ¯sobenÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X64	ÃšmyslnÃ© sebeotrÃ¡venÃ­ jinÃ½mi a neurÄenÃ½mi lÃ©ky, lÃ©Äivy, nÃ¡vykovÃ½mi a biologickÃ½mi lÃ¡tkami a expozice jejich pÅ¯sobenÃ­	17	-	-	-	-	-	-	-	2	2	3	1	2	-	3	-	1	-	2	-	-	1	-
+X65	ÃšmyslnÃ© sebeotrÃ¡venÃ­ alkoholem a expozice jeho pÅ¯sobenÃ­	5	-	-	-	-	-	-	-	-	-	-	-	2	1	-	-	-	-	-	1	-	1	-
+X66	ÃšmyslnÃ© sebeotrÃ¡venÃ­ organickÃ½mi rozpustidly a halogenovanÃ½mi uhlovodÃ­ky a jejich parami a expozice jejich pÅ¯sobenÃ­	5	-	-	-	-	-	-	-	-	-	2	1	-	-	2	-	-	-	-	-	-	-	-
+X67	ÃšmyslnÃ© sebeotrÃ¡venÃ­ jinÃ½mi plyny a parami a expozice jejich pÅ¯sobenÃ­	77	-	-	-	-	-	-	-	2	6	8	6	7	10	11	5	2	7	8	2	1	-	2
+X68	ÃšmyslnÃ© sebeotrÃ¡venÃ­ pesticidy a expozice jejich pÅ¯sobenÃ­	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
+X69	ÃšmyslnÃ© sebeotrÃ¡venÃ­ jinÃ½mi a neurÄenÃ½mi chemikÃ¡liemi a Å¡kodlivÃ½mi lÃ¡tkami a expozice jejich pÅ¯sobenÃ­	10	-	-	-	-	-	-	-	-	2	-	1	1	1	-	1	3	-	-	1	-	-	-
+X70	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ obÄ›Å¡enÃ­m, [u]Å¡krcenÃ­m a [za]duÅ¡enÃ­m	885	-	-	-	-	-	1	6	33	41	54	51	72	103	111	72	49	60	51	70	35	48	28
+X71	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ (u)topenÃ­m a potopenÃ­m	9	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	2	-	1	-	1	1	2
+X72	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ vÃ½stÅ™elem z pistole, revolveru	50	-	-	-	-	-	-	-	6	8	4	3	3	2	6	3	3	5	-	3	2	1	1
+X73	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ vÃ½stÅ™elem z puÅ¡ky, brokovnice a vÄ›tÅ¡Ã­ ruÄnÃ­ stÅ™elnÃ© zbranÄ›	16	-	-	-	-	-	-	-	-	2	1	-	2	3	3	-	1	2	1	-	-	1	-
+X74	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ vÃ½stÅ™elem z jinÃ© a neurÄenÃ© stÅ™elnÃ© zbranÄ›	63	-	-	-	-	-	-	-	3	6	5	4	5	6	7	12	1	3	4	3	2	2	-
+X75	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ vÃ½buÅ¡nou lÃ¡tkou	2	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	1	-	-
+X76	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ kouÅ™em, dÃ½mem a ohnÄ›m	1	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
+X77	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ vodnÃ­ parou, horkÃ½mi vÃ½pary a horkÃ½mi pÅ™edmÄ›ty	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X78	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ ostrÃ½m pÅ™edmÄ›tem	36	-	-	-	-	-	-	-	-	-	2	5	7	4	3	4	2	2	3	2	1	-	1
+X79	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ tupÃ½m pÅ™edmÄ›tem	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-
+X80	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ skokem s vÃ½Å¡e	84	-	-	-	-	-	-	3	7	10	7	6	4	5	4	5	6	4	4	7	5	4	3
+X81	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ skokem nebo lehnutÃ­m si pÅ™ed pohybujÃ­cÃ­ se pÅ™edmÄ›t	25	-	-	-	-	-	-	-	4	4	4	1	1	2	2	1	1	1	3	-	1	-	-
+X82	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ havÃ¡riÃ­ motorovÃ©ho vozidla	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-
+X83	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ jinÃ½mi urÄenÃ½mi prostÅ™edky	6	-	-	-	-	-	-	-	-	3	-	1	1	1	-	-	-	-	-	-	-	-	-
+X84	ÃšmyslnÃ© sebepoÅ¡kozenÃ­ neurÄenÃ½mi prostÅ™edky	20	-	-	-	-	-	-	1	1	-	1	2	3	2	1	1	-	5	1	-	-	1	1
 																								
-NA	Napadení [útok]           X85 - Y09	141	3	3	2	1	-	-	1	3	11	13	16	15	22	17	6	4	6	5	10	2	1	-
-X85	Napadení léky, léèivy, návykovımi a biologickımi látkami	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
-X86	Napadení íravou látkou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X87	Napadení pesticidy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X88	Napadení plyny a parami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X89	Napadení jinımi urèenımi chemikáliemi a škodlivımi látkami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X90	Napadení neurèenou chemickou nebo škodlivou látkou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X91	Napadení obìšením, (u)škrcením a (za)dušením	11	1	-	-	1	-	-	1	-	1	1	1	1	-	-	-	-	-	1	1	2	-	-
-X92	Napadení (u)topením a potopením	3	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	1	-	-	-	-
-X93	Napadení vıstøelem z pistole, revolveru	22	-	-	-	-	-	-	-	1	4	5	3	-	2	3	1	1	1	-	1	-	-	-
-X94	Napadení vıstøelem z pušky, brokovnice a vìtší ruèní støelné zbranì	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X95	Napadení vıstøelem z jiné a neurèené støelné zbranì	4	-	-	-	-	-	-	-	-	-	1	-	-	1	1	-	-	1	-	-	-	-	-
-X96	Napadení vıbušnou látkou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X97	Napadení kouøem, dımem a ohnìm	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X98	Napadení vodní parou, horkımi vıpary a horkımi pøedmìty	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-X99	Napadení ostrım pøedmìtem	58	-	-	-	-	-	-	-	1	5	4	8	8	12	7	2	2	2	3	3	-	1	-
-Y00	Napadení tupım pøedmìtem	5	-	-	-	-	-	-	-	-	-	1	2	-	1	-	-	-	-	-	1	-	-	-
-Y01	Napadení shozením s vıše	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y02	Napadení strèením nebo umístìním obìti pøed pohybující se pøedmìt	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y03	Napadení zasaením motorovım vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y04	Napadení tìlesnou silou	8	-	-	-	-	-	-	-	-	1	-	1	-	-	4	1	-	-	-	1	-	-	-
-Y05	Sexuální napadení s pouitím tìlesné síly	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y06	Zanedbání a opuštìní	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y07	Jiné syndromy špatného zacházení	3	-	3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y08	Napadení jinımi urèenımi zpùsoby	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-
-Y09	Napadení neurèenımi zpùsoby	24	1	-	2	-	-	-	-	-	-	1	-	6	6	2	2	1	1	-	2	-	-	-
+NA	NapadenÃ­ [Ãºtok]           X85 - Y09	141	3	3	2	1	-	-	1	3	11	13	16	15	22	17	6	4	6	5	10	2	1	-
+X85	NapadenÃ­ lÃ©ky, lÃ©Äivy, nÃ¡vykovÃ½mi a biologickÃ½mi lÃ¡tkami	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-
+X86	NapadenÃ­ Å¾Ã­ravou lÃ¡tkou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X87	NapadenÃ­ pesticidy	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X88	NapadenÃ­ plyny a parami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X89	NapadenÃ­ jinÃ½mi urÄenÃ½mi chemikÃ¡liemi a Å¡kodlivÃ½mi lÃ¡tkami	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X90	NapadenÃ­ neurÄenou chemickou nebo Å¡kodlivou lÃ¡tkou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X91	NapadenÃ­ obÄ›Å¡enÃ­m, (u)Å¡krcenÃ­m a (za)duÅ¡enÃ­m	11	1	-	-	1	-	-	1	-	1	1	1	1	-	-	-	-	-	1	1	2	-	-
+X92	NapadenÃ­ (u)topenÃ­m a potopenÃ­m	3	1	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	1	-	-	-	-
+X93	NapadenÃ­ vÃ½stÅ™elem z pistole, revolveru	22	-	-	-	-	-	-	-	1	4	5	3	-	2	3	1	1	1	-	1	-	-	-
+X94	NapadenÃ­ vÃ½stÅ™elem z puÅ¡ky, brokovnice a vÄ›tÅ¡Ã­ ruÄnÃ­ stÅ™elnÃ© zbranÄ›	1	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X95	NapadenÃ­ vÃ½stÅ™elem z jinÃ© a neurÄenÃ© stÅ™elnÃ© zbranÄ›	4	-	-	-	-	-	-	-	-	-	1	-	-	1	1	-	-	1	-	-	-	-	-
+X96	NapadenÃ­ vÃ½buÅ¡nou lÃ¡tkou	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X97	NapadenÃ­ kouÅ™em, dÃ½mem a ohnÄ›m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X98	NapadenÃ­ vodnÃ­ parou, horkÃ½mi vÃ½pary a horkÃ½mi pÅ™edmÄ›ty	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+X99	NapadenÃ­ ostrÃ½m pÅ™edmÄ›tem	58	-	-	-	-	-	-	-	1	5	4	8	8	12	7	2	2	2	3	3	-	1	-
+Y00	NapadenÃ­ tupÃ½m pÅ™edmÄ›tem	5	-	-	-	-	-	-	-	-	-	1	2	-	1	-	-	-	-	-	1	-	-	-
+Y01	NapadenÃ­ shozenÃ­m s vÃ½Å¡e	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y02	NapadenÃ­ strÄenÃ­m nebo umÃ­stÄ›nÃ­m obÄ›ti pÅ™ed pohybujÃ­cÃ­ se pÅ™edmÄ›t	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y03	NapadenÃ­ zasaÅ¾enÃ­m motorovÃ½m vozidlem	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y04	NapadenÃ­ tÄ›lesnou silou	8	-	-	-	-	-	-	-	-	1	-	1	-	-	4	1	-	-	-	1	-	-	-
+Y05	SexuÃ¡lnÃ­ napadenÃ­ s pouÅ¾itÃ­m tÄ›lesnÃ© sÃ­ly	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y06	ZanedbÃ¡nÃ­ a opuÅ¡tÄ›nÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y07	JinÃ© syndromy Å¡patnÃ©ho zachÃ¡zenÃ­	3	-	3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y08	NapadenÃ­ jinÃ½mi urÄenÃ½mi zpÅ¯soby	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-
+Y09	NapadenÃ­ neurÄenÃ½mi zpÅ¯soby	24	1	-	2	-	-	-	-	-	-	1	-	6	6	2	2	1	1	-	2	-	-	-
 																								
-	Pøípad [událost] nezjištìného úmyslu      Y10 - Y34	478	2	1	1	-	-	1	2	30	32	27	28	39	37	41	48	35	33	27	32	19	32	11
-Y10	Otrava neopiátovımi analgetiky, antipyretiky a antirevmatiky a expozice jejich pùsobení, nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y11	Otrava antiepileptiky, sedativy-hypnotiky, antiparkinsoniky a psychotropními léky a expozice nezaøazená jinde, nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y12	Otrava narkotiky a psychodysleptiky [halucinogeny] a expozice jejich pùsobení,nezaøazená jinde, nezjištìného úmyslu	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
-Y13	Otrava jinımi léèivy pùsobícími na autonomní nervovou soustavu, a expozice jejich pùsobení, nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y14	Otrava jinımi a neurèenımi léky, léèivy, návykovımi a biologickımi látkami a expozice jejich pùsobení, nezjištìného úmyslu	Vnìjší pøíèiny poranìní a otrav	-	-	-	-	-	-	-	-	1	1	-	2	-	-	-	1	-	-	-	-	1	-
-Y15	Otrava alkoholem a expozice jeho pùsobení, nezjištìného úmyslu	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y16	Otrava organickımi rozpustidly a halogenovanımi uhlovodíky a jejich parami a expozice jejich pùsobení, nezjištìného úmyslu	3	-	-	-	-	-	-	-	-	-	2	-	1	-	-	-	-	-	-	-	-	-	-
-Y17	Otrava jinımi plyny a parami a expozice jejich pùsobení, nezjištìného úmyslu	13	-	-	-	-	-	-	-	-	1	1	1	1	1	2	-	1	1	2	1	-	1	-
-Y18	Otrava pesticidy a expozice jejich pùsobení, nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y19	Otrava jinımi a neurèenımi chemikáliemi a škodlivımi látkami a expozice jejich pùsobení, nezjištìného úmyslu	17	-	-	-	-	-	-	-	-	1	2	2	4	2	-	4	-	-	-	-	-	1	1
-Y20	Obìšení, (u)škrcení a (za)dušení, nezjištìného úmyslu	4	-	-	-	-	-	-	-	-	1	1	1	-	-	-	1	-	-	-	-	-	-	-
-Y21	(U)topení a potopení, nezjištìného úmyslu	14	-	1	-	-	-	-	-	-	1	-	-	2	-	2	2	1	1	1	1	1	-	1
-Y22	Vıstøel z pistole, revolveru, nezjištìného úmyslu	6	-	-	-	-	-	-	-	1	-	-	1	1	2	1	-	-	-	-	-	-	-	-
-Y23	Vıstøel z pušky, brokovnice a vìtší ruèní støelné zbranì. nezjištìného úmyslu	1	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y24	Vıstøel z jiné a neurèené støelné zbranì, nezjištìného úmyslu	10	-	-	-	-	-	-	-	2	1	1	-	2	2	-	-	-	-	2	-	-	-	-
-Y25	Kontakt s vıbušnou látkou, nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y26	Vystavení kouøi, dımu a ohni, nezjištìného úmyslu	3	-	-	-	-	-	-	-	-	1	-	-	1	1	-	-	-	-	-	-	-	-	-
-Y27	Kontakt s vodní párou, horkımi vıpary a horkımi pøedmìty. nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y28	Kontakt s ostrım pøedmìtem, nezjištìného úmyslu	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
-Y29	Kontakt s tupım pøedmìtem, nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y30	Pád, skok nebo strèení s vıšky, nezjištìného úmyslu	5	-	-	-	-	-	-	-	-	-	-	1	2	2	-	-	-	-	-	-	-	-	-
-Y31	Pád, poloení nebo vbìhnutí pøed nebo do pohybující[ho] se pøedmìt[u], nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y32	Nehoda motorového vozidla, nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y33	Jiné urèené pøípady (události), nezjištìného úmyslu	3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	-	1	-	-
-Y34	Neurèenı pøípad (událost), nezjištìného úmyslu	390	2	-	1	-	-	1	1	27	24	19	22	22	26	36	41	31	31	21	30	17	29	9
+	PÅ™Ã­pad [udÃ¡lost] nezjiÅ¡tÄ›nÃ©ho Ãºmyslu      Y10 - Y34	478	2	1	1	-	-	1	2	30	32	27	28	39	37	41	48	35	33	27	32	19	32	11
+Y10	Otrava neopiÃ¡tovÃ½mi analgetiky, antipyretiky a antirevmatiky a expozice jejich pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y11	Otrava antiepileptiky, sedativy-hypnotiky, antiparkinsoniky a psychotropnÃ­mi lÃ©ky a expozice nezaÅ™azenÃ¡ jinde, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y12	Otrava narkotiky a psychodysleptiky [halucinogeny] a expozice jejich pÅ¯sobenÃ­,nezaÅ™azenÃ¡ jinde, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	1	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-
+Y13	Otrava jinÃ½mi lÃ©Äivy pÅ¯sobÃ­cÃ­mi na autonomnÃ­ nervovou soustavu, a expozice jejich pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y14	Otrava jinÃ½mi a neurÄenÃ½mi lÃ©ky, lÃ©Äivy, nÃ¡vykovÃ½mi a biologickÃ½mi lÃ¡tkami a expozice jejich pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	VnÄ›jÅ¡Ã­ pÅ™Ã­Äiny poranÄ›nÃ­ a otrav	-	-	-	-	-	-	-	-	1	1	-	2	-	-	-	1	-	-	-	-	1	-
+Y15	Otrava alkoholem a expozice jeho pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	1	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y16	Otrava organickÃ½mi rozpustidly a halogenovanÃ½mi uhlovodÃ­ky a jejich parami a expozice jejich pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	3	-	-	-	-	-	-	-	-	-	2	-	1	-	-	-	-	-	-	-	-	-	-
+Y17	Otrava jinÃ½mi plyny a parami a expozice jejich pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	13	-	-	-	-	-	-	-	-	1	1	1	1	1	2	-	1	1	2	1	-	1	-
+Y18	Otrava pesticidy a expozice jejich pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y19	Otrava jinÃ½mi a neurÄenÃ½mi chemikÃ¡liemi a Å¡kodlivÃ½mi lÃ¡tkami a expozice jejich pÅ¯sobenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	17	-	-	-	-	-	-	-	-	1	2	2	4	2	-	4	-	-	-	-	-	1	1
+Y20	ObÄ›Å¡enÃ­, (u)Å¡krcenÃ­ a (za)duÅ¡enÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	4	-	-	-	-	-	-	-	-	1	1	1	-	-	-	1	-	-	-	-	-	-	-
+Y21	(U)topenÃ­ a potopenÃ­, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	14	-	1	-	-	-	-	-	-	1	-	-	2	-	2	2	1	1	1	1	1	-	1
+Y22	VÃ½stÅ™el z pistole, revolveru, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	6	-	-	-	-	-	-	-	1	-	-	1	1	2	1	-	-	-	-	-	-	-	-
+Y23	VÃ½stÅ™el z puÅ¡ky, brokovnice a vÄ›tÅ¡Ã­ ruÄnÃ­ stÅ™elnÃ© zbranÄ›. nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	1	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y24	VÃ½stÅ™el z jinÃ© a neurÄenÃ© stÅ™elnÃ© zbranÄ›, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	10	-	-	-	-	-	-	-	2	1	1	-	2	2	-	-	-	-	2	-	-	-	-
+Y25	Kontakt s vÃ½buÅ¡nou lÃ¡tkou, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y26	VystavenÃ­ kouÅ™i, dÃ½mu a ohni, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	3	-	-	-	-	-	-	-	-	1	-	-	1	1	-	-	-	-	-	-	-	-	-
+Y27	Kontakt s vodnÃ­ pÃ¡rou, horkÃ½mi vÃ½pary a horkÃ½mi pÅ™edmÄ›ty. nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y28	Kontakt s ostrÃ½m pÅ™edmÄ›tem, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	1	-	-	-	-	-	-	-	-	-	-	-	1	-	-	-	-	-	-	-	-	-	-
+Y29	Kontakt s tupÃ½m pÅ™edmÄ›tem, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y30	PÃ¡d, skok nebo strÄenÃ­ s vÃ½Å¡ky, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	5	-	-	-	-	-	-	-	-	-	-	1	2	2	-	-	-	-	-	-	-	-	-
+Y31	PÃ¡d, poloÅ¾enÃ­ nebo vbÄ›hnutÃ­ pÅ™ed nebo do pohybujÃ­cÃ­[ho] se pÅ™edmÄ›t[u], nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y32	Nehoda motorovÃ©ho vozidla, nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y33	JinÃ© urÄenÃ© pÅ™Ã­pady (udÃ¡losti), nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	1	-	1	-	-
+Y34	NeurÄenÃ½ pÅ™Ã­pad (udÃ¡lost), nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	390	2	-	1	-	-	1	1	27	24	19	22	22	26	36	41	31	31	21	30	17	29	9
 																								
-	Zákonnı zákrok a váleèné operace       Y35 - Y36	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y35	Zákonnı zákrok	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y36	Váleèné operace	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	ZÃ¡konnÃ½ zÃ¡krok a vÃ¡leÄnÃ© operace       Y35 - Y36	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y35	ZÃ¡konnÃ½ zÃ¡krok	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y36	VÃ¡leÄnÃ© operace	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Komplikace zdravotní péèe        Y40 - Y84	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-
-Y40	Systémová antibiotika	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y41	Jiné systémové protiinfekèní a protiparazitární prostøedky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y42	Hormony a jejich syntetické náhrady a antagonisté, nezaøazené[-í] jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y43	Prostøedky pùsobící pøímo na celı organismus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y44	Prostøedky pùsobící primárnì na krevní sloky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y45	Analgetika, antipyretika a protizánìtlivá léèiva	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y46	Antiepileptika a antiparkinsonická léèiva	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y47	Sedativa, hypnotika a antianxiózní léèiva	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y48	Anestetika a terapeutické plyny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y49	Psychotropní léèiva, nezaøazená jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y50	Stimulancia centrální nervové soustavy, nezaøazená jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y51	Léèiva pùsobící primárnì na autonomní nervovou soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y52	Prostøedky pùsobící primárnì na kardiovaskulární soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y53	Prostøedky pùsobící primárnì na gastrointestinální soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y54	Prostøedky pùsobící primárnì na vodní rovnováhu, pøemìnu minerálù a metabolismus kyseliny moèové	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y55	Prostøedky pùsobící primárnì na hladké a kosterní svalstvo a dıchací soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y56	Lokální prostøedky pùsobící primárnì na kùi a sliznici a léèiva oèní ušní, nosní, krèní a zubní	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y57	Jiné a neurèené léky, léèiva a návykové látky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y58	Oèkovací látky proti bakteriím	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y59	Jiné a neurèené oèkovací a biologické látky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y60	Neúmyslné øíznutí, píchnutí, perforace nebo krvácení pøi zdravotní péèi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y61	Cizí tìleso náhodnì ponechané v tìle pøi zdravotní péèi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y62	Selhání sterilizaèních opatøení pøi zdravotní péèi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y63	Chyba v dávkování pøi zdravotní péèi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y64	Kontaminované léèebné a biologické látky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y65	Jiné nehody pøi zdravotní péèi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y66	Neposkytnutí lékaøské péèe [operaèní a léèebné]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y69	Neurèená nehoda pøi zdravotní péèi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y70	Neádoucí pøíhody související s anesteziologickımi pøístroji [pomùckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y71	Neádoucí pøíhody související s kardiovaskulárními pøístroji (pomùckami)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y72	Neádoucí pøíhody související s ušními, nosními, krèními pøístroji (pomùckami)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y73	Neádoucí pøíhody související s gastroenterologickımi a urologickımi pøístroji [pomùckami]	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-
-Y74	Neádoucí pøíhody související s pøístroji [pomùckami] pro celkové nemocnièní a osobní pouití	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y75	Neádoucí pøíhody související s neurologickımi pøístroji [pomùckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y76	Neádoucí pøíhody související s porodnickımi a gynekologickımi pøístroji [pomùckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y77	Neádoucí pøíhody související s oèními pøístroji (pomùckami)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y78	Neádoucí pøíhody související s radiologickımi pøístroji [pomùckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y79	Neádoucí pøíhody související s ortopedickımi pøístroji [pomùckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y80	Neádoucí pøíhody související s pøístroji [pomùckami] fyzikální medicíny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y81	Neádoucí pøíhody související s pøístroji [pomùckami] obecné a plastické chirurgie	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y82	Neádoucí pøíhody související s jinımi a neurèenımi lékaøskımi pøístroji [pomùckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y83	Operace a jiné operaèní vıkony jako pøíèina abnormální reakce nebo pozdìjší komplikace, bez zmínky o nehodì pøi vıkonu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y84	Jiné vyšetøovací a léèebné vıkony jako pøíèina abnormální reakce pacienta nebo pozdìjší komplikace, bez zmínky o nehodì pøi vıkonu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Komplikace zdravotnÃ­ pÃ©Äe        Y40 - Y84	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-
+Y40	SystÃ©movÃ¡ antibiotika	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y41	JinÃ© systÃ©movÃ© protiinfekÄnÃ­ a protiparazitÃ¡rnÃ­ prostÅ™edky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y42	Hormony a jejich syntetickÃ© nÃ¡hrady a antagonistÃ©, nezaÅ™azenÃ©[-Ã­] jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y43	ProstÅ™edky pÅ¯sobÃ­cÃ­ pÅ™Ã­mo na celÃ½ organismus	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y44	ProstÅ™edky pÅ¯sobÃ­cÃ­ primÃ¡rnÄ› na krevnÃ­ sloÅ¾ky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y45	Analgetika, antipyretika a protizÃ¡nÄ›tlivÃ¡ lÃ©Äiva	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y46	Antiepileptika a antiparkinsonickÃ¡ lÃ©Äiva	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y47	Sedativa, hypnotika a antianxiÃ³znÃ­ lÃ©Äiva	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y48	Anestetika a terapeutickÃ© plyny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y49	PsychotropnÃ­ lÃ©Äiva, nezaÅ™azenÃ¡ jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y50	Stimulancia centrÃ¡lnÃ­ nervovÃ© soustavy, nezaÅ™azenÃ¡ jinde	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y51	LÃ©Äiva pÅ¯sobÃ­cÃ­ primÃ¡rnÄ› na autonomnÃ­ nervovou soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y52	ProstÅ™edky pÅ¯sobÃ­cÃ­ primÃ¡rnÄ› na kardiovaskulÃ¡rnÃ­ soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y53	ProstÅ™edky pÅ¯sobÃ­cÃ­ primÃ¡rnÄ› na gastrointestinÃ¡lnÃ­ soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y54	ProstÅ™edky pÅ¯sobÃ­cÃ­ primÃ¡rnÄ› na vodnÃ­ rovnovÃ¡hu, pÅ™emÄ›nu minerÃ¡lÅ¯ a metabolismus kyseliny moÄovÃ©	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y55	ProstÅ™edky pÅ¯sobÃ­cÃ­ primÃ¡rnÄ› na hladkÃ© a kosternÃ­ svalstvo a dÃ½chacÃ­ soustavu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y56	LokÃ¡lnÃ­ prostÅ™edky pÅ¯sobÃ­cÃ­ primÃ¡rnÄ› na kÅ¯Å¾i a sliznici a lÃ©Äiva oÄnÃ­ uÅ¡nÃ­, nosnÃ­, krÄnÃ­ a zubnÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y57	JinÃ© a neurÄenÃ© lÃ©ky, lÃ©Äiva a nÃ¡vykovÃ© lÃ¡tky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y58	OÄkovacÃ­ lÃ¡tky proti bakteriÃ­m	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y59	JinÃ© a neurÄenÃ© oÄkovacÃ­ a biologickÃ© lÃ¡tky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y60	NeÃºmyslnÃ© Å™Ã­znutÃ­, pÃ­chnutÃ­, perforace nebo krvÃ¡cenÃ­ pÅ™i zdravotnÃ­ pÃ©Äi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y61	CizÃ­ tÄ›leso nÃ¡hodnÄ› ponechanÃ© v tÄ›le pÅ™i zdravotnÃ­ pÃ©Äi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y62	SelhÃ¡nÃ­ sterilizaÄnÃ­ch opatÅ™enÃ­ pÅ™i zdravotnÃ­ pÃ©Äi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y63	Chyba v dÃ¡vkovÃ¡nÃ­ pÅ™i zdravotnÃ­ pÃ©Äi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y64	KontaminovanÃ© lÃ©ÄebnÃ© a biologickÃ© lÃ¡tky	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y65	JinÃ© nehody pÅ™i zdravotnÃ­ pÃ©Äi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y66	NeposkytnutÃ­ lÃ©kaÅ™skÃ© pÃ©Äe [operaÄnÃ­ a lÃ©ÄebnÃ©]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y69	NeurÄenÃ¡ nehoda pÅ™i zdravotnÃ­ pÃ©Äi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y70	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s anesteziologickÃ½mi pÅ™Ã­stroji [pomÅ¯ckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y71	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s kardiovaskulÃ¡rnÃ­mi pÅ™Ã­stroji (pomÅ¯ckami)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y72	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s uÅ¡nÃ­mi, nosnÃ­mi, krÄnÃ­mi pÅ™Ã­stroji (pomÅ¯ckami)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y73	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s gastroenterologickÃ½mi a urologickÃ½mi pÅ™Ã­stroji [pomÅ¯ckami]	1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	-	-
+Y74	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s pÅ™Ã­stroji [pomÅ¯ckami] pro celkovÃ© nemocniÄnÃ­ a osobnÃ­ pouÅ¾itÃ­	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y75	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s neurologickÃ½mi pÅ™Ã­stroji [pomÅ¯ckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y76	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s porodnickÃ½mi a gynekologickÃ½mi pÅ™Ã­stroji [pomÅ¯ckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y77	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s oÄnÃ­mi pÅ™Ã­stroji (pomÅ¯ckami)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y78	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s radiologickÃ½mi pÅ™Ã­stroji [pomÅ¯ckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y79	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s ortopedickÃ½mi pÅ™Ã­stroji [pomÅ¯ckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y80	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s pÅ™Ã­stroji [pomÅ¯ckami] fyzikÃ¡lnÃ­ medicÃ­ny	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y81	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s pÅ™Ã­stroji [pomÅ¯ckami] obecnÃ© a plastickÃ© chirurgie	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y82	NeÅ¾Ã¡doucÃ­ pÅ™Ã­hody souvisejÃ­cÃ­ s jinÃ½mi a neurÄenÃ½mi lÃ©kaÅ™skÃ½mi pÅ™Ã­stroji [pomÅ¯ckami]	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y83	Operace a jinÃ© operaÄnÃ­ vÃ½kony jako pÅ™Ã­Äina abnormÃ¡lnÃ­ reakce nebo pozdÄ›jÅ¡Ã­ komplikace, bez zmÃ­nky o nehodÄ› pÅ™i vÃ½konu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y84	JinÃ© vyÅ¡etÅ™ovacÃ­ a lÃ©ÄebnÃ© vÃ½kony jako pÅ™Ã­Äina abnormÃ¡lnÃ­ reakce pacienta nebo pozdÄ›jÅ¡Ã­ komplikace, bez zmÃ­nky o nehodÄ› pÅ™i vÃ½konu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 																								
-	Následky vnìjších pøíèin nemocnosti a úmrtnosti (Y85-Y89) 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y85	Následky dopravních nehod	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y86	Následky jinıch nehod	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y87	Následky úmyslného sebepoškození, napadení [útoku] a pøípadù [událostí] nezjištìného úmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y88	Následky pøi zdravotní péèi jako vnìjší pøíèinì	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Y89	Následky jinıch vnìjších pøíèin	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	NÃ¡sledky vnÄ›jÅ¡Ã­ch pÅ™Ã­Äin nemocnosti a Ãºmrtnosti (Y85-Y89) 	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y85	NÃ¡sledky dopravnÃ­ch nehod	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y86	NÃ¡sledky jinÃ½ch nehod	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y87	NÃ¡sledky ÃºmyslnÃ©ho sebepoÅ¡kozenÃ­, napadenÃ­ [Ãºtoku] a pÅ™Ã­padÅ¯ [udÃ¡lostÃ­] nezjiÅ¡tÄ›nÃ©ho Ãºmyslu	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y88	NÃ¡sledky pÅ™i zdravotnÃ­ pÃ©Äi jako vnÄ›jÅ¡Ã­ pÅ™Ã­ÄinÄ›	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Y89	NÃ¡sledky jinÃ½ch vnÄ›jÅ¡Ã­ch pÅ™Ã­Äin	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
