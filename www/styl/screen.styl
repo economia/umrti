@@ -1,6 +1,49 @@
 @import prefixes
 @import colors
+leftColumn = 200px
+topRow     = 600px
 body
     margin 0px
     line-height 1.3em
     font-family arial, sans-serif
+    .reasonsList
+        position absolute
+        top 0px
+        left 0px
+        width leftColumn
+        height topRow
+        background red
+        margin 0px
+        padding 0px
+        li
+            background #eee
+            list-style-type none
+            font-size 0.9em
+            padding 5px 12px 5px 12px
+            position relative
+            &:first-child
+                display none
+            &:nth-child(odd)
+                background #ddd
+            .line
+                position absolute
+                top 7px
+                right 12px
+                width 20px
+                height 15px
+                background white
+                border-radius 2px
+                div
+                    position absolute
+                    top 6px
+                    left 3px
+                    width 14px
+                    height 3px
+
+    .reasonsGraph
+        position absolute
+        top 0px
+        left 0px
+        padding-left leftColumn
+        height topRow
+
