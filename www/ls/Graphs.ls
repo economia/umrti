@@ -15,7 +15,7 @@ window.Graphs = class Graphs
                 if normalized > maxValue
                     maxValue = normalized
 
-        @y = d3.scale.linear!
+        @y = d3.scale.sqrt!
             ..domain [maxValue, 0]
             ..range [0 @height]
 
