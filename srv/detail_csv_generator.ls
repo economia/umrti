@@ -31,7 +31,10 @@ generate-category-biggest-killers = (cb) ->
                     | index == 0 => cell
                     | otherwise  => cell + men[subcategoryIndex][index]
             [women, men, both].forEach -> it.sort (a, b) -> b.1 - a.1
-            header = <[subcategory total 0 1 2 3 4 5-9 10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 75-79 80-84 85]>
+            header =
+                | year < 1949 => <[subcategory total 0 1-4 5-9 10-14 15-19 20-29 30-39 40-59 60-79 80+ unknown]>
+                | year < 1960 => <[subcategory total 0 1 2 3 4 5-14 15-24 25-34 35-44 45-54 55-64 65-74 75-84 85+ unknown]>
+                | otherwise   => <[subcategory total 0 1 2 3 4 5-9 10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65-69 70-74 75-79 80-84 85]>
             parts =
                 *   name: \women
                     data: women
