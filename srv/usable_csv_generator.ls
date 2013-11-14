@@ -49,8 +49,9 @@ get-file-sums = (filename, range, cb) ->
     range.forEach ([lineFrom, lineTo]) ->
         for lineno in [lineFrom to lineTo]
             data = lines[lineno]
-            if parseInt data[2], 10 then sum += that
+            value = data[2].replace /[ ]+/g ""
+            if parseInt value, 10 then sum += that
     cb null sum
 
-# get-file-sums "#__dirname/../data/csv_normalized/1930m.csv", []
+# (err, v) <~ get-file-sums "#__dirname/../data/csv_normalized/1949m.csv", [[4 4]]
 generate-summary!
