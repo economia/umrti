@@ -1,6 +1,7 @@
 window.Graphs = class Graphs
     (@parentElement, @yearRange, @data, {@width, @height}:options) ->
         @data .= slice 1 # remove totals
+
         @svg = @parentElement.append \svg
             ..attr \width @width
             ..attr \height @height
@@ -9,15 +10,13 @@ window.Graphs = class Graphs
         @x = d3.scale.linear!
             ..domain @yearRange
             ..range [0 @width]
-        maxValue = -Infinity
+        @maxValue = -Infinity
         for {years}:category in @data
             for {normalized}:year in years
-                if normalized > maxValue
-                    maxValue = normalized
+                if normalized > @maxValue
+                    @maxValue = normalized
 
-        @y = d3.scale.sqrt!
-            ..domain [maxValue, 0]
-            ..range [0 @height]
+
 
         @lines = @linesGroup.selectAll \g.line
             .data @data
@@ -26,10 +25,34 @@ window.Graphs = class Graphs
                 ..append \path
 
     draw: ->
-        @lineDef = d3.svg.line!
+        y = d3.scale.sqrt!
+            ..domain [@maxValue, 0]
+            ..range [0 @height]
+        lineDef = d3.svg.line!
             ..x (point) ~> @x point.year
-            ..y (point) ~> @y point.normalized
+            ..y (point) ~> y point.normalized
 
         @lines.select \path
             ..attr \stroke (.color)
-            ..attr \d ~> @lineDef it.years
+            ..attr \fill \none
+            ..attr \d ~> lineDef it.years
+
+    drawStacked: ->
+        y = d3.scale.linear!
+            ..domain [0 1]
+            ..range [0 @height]
+
+        @areaDef = d3.svg.area!
+            ..x (point) ~> @x point.year
+            ..y1 (point) ~> point.y0 + point.y
+            ..y0 (point) ~> point.y0
+        stack = d3.layout.stack!
+            ..values (line) -> line.years
+            ..x (point) ~> @x point.year
+            ..y (point) ~> y point.normalized
+            ..order \inside-out
+        stack @data
+        @lines.select \path
+            ..attr \stroke (.color)
+            ..attr \fill (.color)
+            ..attr \d ~> @areaDef it.years
