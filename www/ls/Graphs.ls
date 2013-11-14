@@ -19,15 +19,17 @@ window.Graphs = class Graphs
             ..domain [maxValue, 0]
             ..range [0 @height]
 
-    draw: ->
-        @lineDef = d3.svg.line!
-            ..x (point) ~> @x point.year
-            ..y (point) ~> @y point.normalized
-
         @lines = @linesGroup.selectAll \g.line
             .data @data
             .enter!.append \g
                 ..attr \class \line
                 ..append \path
-                    ..attr \stroke (.color)
-                    ..attr \d ~> @lineDef it.years
+
+    draw: ->
+        @lineDef = d3.svg.line!
+            ..x (point) ~> @x point.year
+            ..y (point) ~> @y point.normalized
+
+        @lines.select \path
+            ..attr \stroke (.color)
+            ..attr \d ~> @lineDef it.years
