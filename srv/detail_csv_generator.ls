@@ -42,6 +42,7 @@ generate-category-biggest-killers = (cb) ->
                     data: men
                 *   name: \both
                     data: both
+            console.log "#{category.name}, #year"
             <~ async.each parts, ({name, data}, cb)->
                 data.unshift header
                 c2 = csv!.from.array data
