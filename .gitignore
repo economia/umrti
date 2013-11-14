@@ -1,4 +1,5 @@
 data/csv_details
+data/csv_histograms
 /node_modules
 /lib
 /www/screen.css
