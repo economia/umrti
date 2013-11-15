@@ -26,6 +26,7 @@ menu = new Menu do
 
 graphs = new Graphs do
     d3.select \.reasonsGraph
+    menu
     [1919 2006]
     basedata
     {width: windowWidth - 200, height: 600}

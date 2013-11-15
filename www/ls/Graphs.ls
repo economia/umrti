@@ -1,5 +1,5 @@
 window.Graphs = class Graphs
-    (@parentElement, @yearRange, @data, {@width, @height}:options) ->
+    (@parentElement, @menu, @yearRange, @data, {@width, @height}:options) ->
         @data .= slice 1 # remove totals
 
         @svg = @parentElement.append \svg
@@ -56,3 +56,5 @@ window.Graphs = class Graphs
             ..attr \stroke (.color)
             ..attr \fill (.color)
             ..attr \d ~> @areaDef it.years
+            ..on \mouseover ~> @menu.highlight it.id
+            ..on \mouseout ~> @menu.downlight it.id
