@@ -21,6 +21,9 @@ window.Graphs = class Graphs
             .enter!.append \g
                 ..attr \class \line
                 ..append \path
+                    ..attr \stroke (.color)
+                    ..on \mouseover ~> @menu.highlight it.id
+                    ..on \mouseout ~> @menu.downlight it.id
 
     draw: ->
         y = d3.scale.sqrt!
@@ -31,9 +34,11 @@ window.Graphs = class Graphs
             ..y (point) ~> y point.normalized
 
         @lines.select \path
-            ..attr \stroke (.color)
-            ..attr \fill \none
-            ..attr \d ~> lineDef it.years
+            ..transition!
+                ..duration 800
+                ..attr \stroke-width 2
+                ..attr \fill \none
+                ..attr \d ~> lineDef it.years
 
     drawStacked: ->
         y = d3.scale.linear!
@@ -51,11 +56,12 @@ window.Graphs = class Graphs
             ..order \inside-out
         stack @data
         @lines.select \path
-            ..attr \stroke (.color)
-            ..attr \fill (.color)
-            ..attr \d ~> @areaDef it.years
-            ..on \mouseover ~> @menu.highlight it.id
-            ..on \mouseout ~> @menu.downlight it.id
+            ..attr \fill \white
+            ..transition!
+                ..duration 800
+                ..attr \stroke-width 1
+                ..attr \fill (.color)
+                ..attr \d ~> @areaDef it.years
 
     highlight: (id) ->
         @lines.filter -> it.id == id
