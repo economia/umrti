@@ -47,6 +47,7 @@ window.Graphs = class Graphs
                 ..attr \class \line
                 ..append \path
                     ..attr \class \dataline
+                    ..on \click ~> @drawSingle it.id
                     ..attr \stroke (.color)
 
     draw: ->
