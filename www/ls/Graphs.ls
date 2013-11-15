@@ -12,9 +12,9 @@ window.Graphs = class Graphs
             ..range [0 @width]
         @maxValue = -Infinity
         for {years}:category in @data
-            for {normalized}:year in years
-                if normalized > @maxValue
-                    @maxValue = normalized
+            for {value}:year in years
+                if value > @maxValue
+                    @maxValue = value
 
         @lines = @linesGroup.selectAll \g.line
             .data @data
@@ -27,10 +27,10 @@ window.Graphs = class Graphs
         @parentElement.classed \hoverOn off
         y = d3.scale.sqrt!
             ..domain [@maxValue, 0]
-            ..range [0 @height]
+            ..range [10 @height]
         lineDef = d3.svg.line!
             ..x (point) ~> @x point.year
-            ..y (point) ~> y point.normalized
+            ..y (point) ~> y point.value
 
         @lines.select \path
             ..on \mouseover ~>
