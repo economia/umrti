@@ -1,7 +1,7 @@
 window.Graphs = class Graphs
     defaultYTicks : [200 1000 3000 5000 10000 20000 30000 40000 50000 60000 70000]
-    (@parentElement, @menu, @yearRange, @data, {@width, @height}:options) ->
-        @data .= slice 1 # remove totals
+    (@parentElement, @menu, @yearRange, data, {@width, @height}:options) ->
+
 
         @svg = @parentElement.append \svg
             ..attr \width @width
@@ -35,14 +35,10 @@ window.Graphs = class Graphs
             ..x (point) ~> @x point.year
             ..y (point) ~> @y point.value
 
-        @maxValue = -Infinity
-        for {years}:category in @data
-            for {value}:year in years
-                if value > @maxValue
-                    @maxValue = value
+        @recalculateData data
 
         @lines = @linesGroup.selectAll \g.line
-            .data @data
+            .data @data, (.id)
             .enter!.append \g
                 ..attr \class \line
                 ..append \path
@@ -52,7 +48,7 @@ window.Graphs = class Graphs
 
     draw: ->
         @clearDatapoints!
-        @drawn = \normal
+        @nowDrawn = [\normal]
         @x.range [3 @width]
         @redrawXAxis \non-stacked
         @parentElement.classed \hoverOn off
@@ -78,7 +74,8 @@ window.Graphs = class Graphs
                     ..attr \d ~> @absoluteLineDef it.years
 
     drawSingle: (id) ->
-        @drawn = \normal
+        @clearDatapoints!
+        @nowDrawn = [\normal id]
         @x.range [3 @width]
         @parentElement.classed \hoverOn off
         @redrawXAxis \non-stacked
@@ -118,8 +115,9 @@ window.Graphs = class Graphs
         @svg.selectAll \path.datapoint .remove!
 
     drawStacked: ->
+        lastDrawn = @nowDrawn
         @clearDatapoints!
-        @drawn = \stacked
+        @nowDrawn = [\stacked]
         @x.range [0 @width]
         @redrawXAxis \stacked
 
@@ -153,17 +151,37 @@ window.Graphs = class Graphs
             ..y (point) ~> @y point.normalized
             ..order \inside-out
         stack @data
-        @lines
-            ..classed \disabled off
-            ..select \path.dataline
+        datalines = @lines
+            .classed \disabled off
+            .select \path.dataline
+        if lastDrawn.0 != \stacked
+            datalines
                 ..attr \fill \white
                 ..on \mouseover ~> @menu.highlight it.id
                 ..on \mouseout ~> @menu.downlight it.id
+        datalines
                 ..transition!
                     ..duration 800
                     ..attr \stroke-width 1
                     ..attr \fill (.color)
                     ..attr \d ~> @areaDef it.years
+
+    redrawWithData: (data) ->
+        @recalculateData data
+        @lines = @linesGroup.selectAll \g.line
+            .data @data, (.id)
+        switch
+        | @nowDrawn.0 == \stacked => @drawStacked!
+        | @nowDrawn.1 is void => @draw!
+        | otherwise => @drawSingle @nowDrawn.1
+
+    recalculateData: (data) ->
+        @data = data.slice 1 # remove totals
+        @maxValue = -Infinity
+        for {years}:category in @data
+            for {value}:year in years
+                if value > @maxValue
+                    @maxValue = value
 
     redrawXAxis: (type) ->
         @xAxis
@@ -195,6 +213,6 @@ window.Graphs = class Graphs
             .classed \active yes
 
     downlight: (id) ->
-        @parentElement.classed \hoverOn off if @drawn isnt \stacked
+        @parentElement.classed \hoverOn off if @nowDrawn.0 isnt \stacked
         @lines.filter -> it.id == id
             .classed \active no
