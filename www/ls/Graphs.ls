@@ -45,7 +45,7 @@ window.Graphs = class Graphs
         @yAxis
             ..scale y
             ..tickValues [0.2 1 3 5 10 20 30 40 50 60 70].map -> it*1e3
-            ..tickFormat -> "#{formatPrice it}"
+            ..tickFormat -> "#{utils.formatPrice it}"
         @yAxisGroup
             ..attr \class "axis y non-stacked"
             ..call @yAxis
