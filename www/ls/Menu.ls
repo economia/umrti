@@ -1,5 +1,5 @@
 window.Menu = class Menu
-    (@parentElement, @data) ->
+    (@parentElement, @graphs, @data) ->
         @elements = @parentElement.selectAll \li
             .data @data
             .enter!append \li
@@ -10,6 +10,8 @@ window.Menu = class Menu
                     ..attr \class \line
                     ..append \div
                         ..style \background-color (.color)
+                ..on \mouseover ~> @graphs.highlight it.id
+                ..on \mouseout  ~> @graphs.downlight it.id
     highlight: (id) ->
         @elements.filter -> it.id == id
             .classed \active yes

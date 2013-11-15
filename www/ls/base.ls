@@ -22,9 +22,10 @@ yearsTotal = []
 
 menu = new Menu do
     d3.select \.reasonsList
+    null
     basedata
 
-graphs = new Graphs do
+menu.graphs = graphs = new Graphs do
     d3.select \.reasonsGraph
     menu
     [1919 2006]

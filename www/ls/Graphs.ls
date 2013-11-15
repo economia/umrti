@@ -58,3 +58,11 @@ window.Graphs = class Graphs
             ..attr \d ~> @areaDef it.years
             ..on \mouseover ~> @menu.highlight it.id
             ..on \mouseout ~> @menu.downlight it.id
+
+    highlight: (id) ->
+        @lines.filter -> it.id == id
+            .classed \active yes
+
+    downlight: (id) ->
+        @lines.filter -> it.id == id
+            .classed \active no

@@ -48,18 +48,22 @@ body
         height topRow
         path
             stroke-width 1px
-        &:hover
+    .mainReasons:hover
+        .reasonsList
+            li
+                color #888
+                background #ddd
+                .line
+                    background transparent
+                &.active
+                &:hover
+                    background white
+                    color black
+                    cursor pointer
+
+        .reasonsGraph
             path
                 opacity 0.2
-                &:hover
-                    opacity 1
-
-    .reasonsGraph:hover ~ .reasonsList
-        li
-            color #888
-            background #ddd
-            .line
-                background transparent
-            &.active
-                background white
-                color black
+            g.active path
+            path:hover
+                opacity 1
