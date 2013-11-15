@@ -89,7 +89,7 @@ window.Graphs = class Graphs
         @lines.select \path
             ..transition!
                 ..duration 800
-                ..attr \stroke-width 2
+                ..attr \stroke-width 4
                 ..attr \fill \none
                 ..attr \d ~> @absoluteLineDef it.years
 

@@ -88,9 +88,13 @@ body
             g.linesGroup
                 path
                     opacity 0.1
+                .disabled path
+                    opacity 0
                 .active path
                 path:hover
                     opacity 1
+                .active path
+                    stroke-width 2px
     .stackedOrNotSelector
         position absolute
         top 21px
