@@ -1,3 +1,4 @@
+new Tooltip!watchElements!
 d3.selectAll \.fallback .remove!
 yearRange = [1919 to 2006]
 windowWidth = window.innerWidth

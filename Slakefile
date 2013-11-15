@@ -9,8 +9,12 @@ externalScripts =
     \http://d3js.org/d3.geo.tile.v0.min.js
     \http://service.ihned.cz/js/topojson/v1.min.js
     \http://service.ihned.cz/js/moment/v2.2.1.min.js
+    \http://service.ihned.cz/js/tooltip/v1.1.2.d3.min.js
 
-externalStyles = []
+
+externalStyles =
+    \http://service.ihned.cz/js/tooltip/v1.1.2.css
+    ...
 
 deferScripts = <[ base.js ]>
 gzippable = <[ ]>

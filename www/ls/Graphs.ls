@@ -46,9 +46,11 @@ window.Graphs = class Graphs
             .enter!.append \g
                 ..attr \class \line
                 ..append \path
+                    ..attr \class \dataline
                     ..attr \stroke (.color)
 
     draw: ->
+        @clearDatapoints!
         @drawn = \normal
         @x.range [3 @width]
         @redrawXAxis \non-stacked
@@ -61,7 +63,7 @@ window.Graphs = class Graphs
 
         @lines
             ..classed \disabled off
-            ..select \path
+            ..select \path.dataline
                 ..on \mouseover ~>
                     @parentElement.classed \hoverOn on
                     @menu.highlight it.id
@@ -82,18 +84,39 @@ window.Graphs = class Graphs
         @lines.classed \disabled on
         line = @lines.filter -> it.id == id
         line.classed \disabled off
-        max = null
-        line.each -> max := Math.max ...it.years.map (.value)
+        datum = line.datum!
+        max = Math.max ...datum.years.map (.value)
         @y.domain [max, 0]
         @redrawYAxis @defaultYTicks.filter -> it < max
-        @lines.select \path
+        @lines.select \path.dataline
             ..transition!
                 ..duration 800
-                ..attr \stroke-width 4
+                ..attr \stroke-width 2
                 ..attr \fill \none
                 ..attr \d ~> @absoluteLineDef it.years
+        symbol = d3.svg.symbol!
+            ..size 55
+
+        <~ setTimeout _, 300
+        line
+            .selectAll \path.datapoint
+            .data datum.years
+            .enter!.append \path
+                ..attr \class \datapoint
+                ..attr \data-tooltip ~> escape "#{datum.name}, #{it.year}: #{utils.formatPrice it.value}<br />Klikněte pro rozpad na jednotlivé diagnózy"
+                ..attr \transform ~> "translate(#{@x it.year}, #{@y it.value}) scale(0)"
+                ..attr \stroke datum.color
+                ..attr \d symbol
+                ..transition!
+                    ..delay (d, i) -> i * 10
+                    ..duration 600
+                    ..attr \transform ~> "translate(#{@x it.year}, #{@y it.value}) scale(1)"
+
+    clearDatapoints: ->
+        @svg.selectAll \path.datapoint .remove!
 
     drawStacked: ->
+        @clearDatapoints!
         @drawn = \stacked
         @x.range [0 @width]
         @redrawXAxis \stacked
@@ -130,7 +153,7 @@ window.Graphs = class Graphs
         stack @data
         @lines
             ..classed \disabled off
-            ..select \path
+            ..select \path.dataline
                 ..attr \fill \white
                 ..on \mouseover ~> @menu.highlight it.id
                 ..on \mouseout ~> @menu.downlight it.id

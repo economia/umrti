@@ -68,6 +68,12 @@ body
                     line
                         stroke black
                         opacity 0.3
+        .datapoint
+            stroke-width 2
+            fill #eee
+            &:hover
+                fill #fff
+                cursor pointer
 
 
     .mainReasons:hover
@@ -86,11 +92,11 @@ body
 
         .reasonsGraph.hoverOn
             g.linesGroup
-                path
+                path.dataline
                     opacity 0.1
                 .disabled path
                     opacity 0
-                .active path
+                .active path.dataline
                 path:hover
                     opacity 1
                 .active path
