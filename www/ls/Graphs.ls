@@ -107,6 +107,7 @@ window.Graphs = class Graphs
                 ..attr \data-tooltip ~> escape "#{datum.name}, #{it.year}: #{utils.formatPrice it.value}<br />Klikněte pro rozpad na jednotlivé diagnózy"
                 ..attr \transform ~> "translate(#{@x it.year}, #{@y it.value}) scale(0)"
                 ..attr \stroke datum.color
+                ..attr \fill datum.color
                 ..attr \d symbol
                 ..transition!
                     ..delay (d, i) -> i * 10
