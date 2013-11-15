@@ -7,6 +7,13 @@ window.Graphs = class Graphs
             ..attr \height @height
         @linesGroup = @svg.append \g
             ..attr \class \linesGroup
+        @yAxisGroup = @svg.append \g
+            ..attr \class "axis y"
+        @yAxis = d3.svg.axis!
+            ..ticks 10
+            ..tickSize @width - 20
+            ..outerTickSize 0
+            ..orient \right
         @x = d3.scale.linear!
             ..domain @yearRange
 
@@ -29,6 +36,7 @@ window.Graphs = class Graphs
         y = d3.scale.sqrt!
             ..domain [@maxValue, 0]
             ..range [10 @height]
+
         lineDef = d3.svg.line!
             ..x (point) ~> @x point.year
             ..y (point) ~> y point.value
@@ -52,6 +60,19 @@ window.Graphs = class Graphs
         y = d3.scale.linear!
             ..domain [0 1]
             ..range [0 @height]
+
+        @yAxis
+            ..scale y
+            ..tickFormat -> "#{100 - it*100}%"
+        @yAxisGroup
+            ..call @yAxis
+            ..selectAll "text"
+                ..attr \x @width
+                ..attr \dy (d, index) ->
+                    | index == 0 => 10
+                    | index == 10 => 0
+                    | otherwise  => 5
+                ..style \text-anchor \end
 
         @areaDef = d3.svg.area!
             ..x (point) ~> @x point.year

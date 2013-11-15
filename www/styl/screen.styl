@@ -46,6 +46,17 @@ body
         left 0px
         padding-left leftColumn
         height topRow
+        .axis.y
+            font-size 0.8em
+            text
+                fill white
+            line
+                stroke white
+                stroke-width 2px
+                stroke-dasharray 2, 20
+                opacity 0.4
+
+
     .mainReasons:hover
         .reasonsList
             li
@@ -61,11 +72,12 @@ body
                     border-bottom-color HNBlue
 
         .reasonsGraph.hoverOn
-            path
-                opacity 0.1
-            g.active path
-            path:hover
-                opacity 1
+            g.linesGroup
+                path
+                    opacity 0.1
+                &.active path
+                path:hover
+                    opacity 1
     .stackedOrNotSelector
         position absolute
         top 10px
