@@ -14,8 +14,22 @@ window.Graphs = class Graphs
             ..tickSize @width - 20
             ..outerTickSize 0
             ..orient \right
+
+        @yAxisGroup.selectAll \text
+            ..attr \dy 9
+
+        @xAxisGroup = @svg.append \g
+            ..attr \class "x axis"
+
+        @xAxis = d3.svg.axis!
+                    ..tickSize 3
+                    ..tickFormat -> it
+                    ..outerTickSize 0
+                    ..orient \bottom
+
         @x = d3.scale.linear!
             ..domain @yearRange
+
 
         @maxValue = -Infinity
         for {years}:category in @data
@@ -33,6 +47,13 @@ window.Graphs = class Graphs
     draw: ->
         @drawn = \normal
         @x.range [3 @width]
+        @xAxis
+            ..scale @x
+        @xAxisGroup
+            ..attr \class "axis x non-stacked"
+            ..call @xAxis
+            ..selectAll \text
+                ..attr \dy 9
         @parentElement.classed \hoverOn off
         y = d3.scale.sqrt!
             ..domain [@maxValue, 0]
@@ -70,6 +91,14 @@ window.Graphs = class Graphs
     drawStacked: ->
         @drawn = \stacked
         @x.range [0 @width]
+        @xAxis
+            ..scale @x
+        @xAxisGroup
+            ..attr \class "axis x stacked"
+            ..call @xAxis
+            ..selectAll \text
+                ..attr \dy 9
+
         @parentElement.classed \hoverOn on
         y = d3.scale.linear!
             ..domain [0 1]
@@ -85,7 +114,7 @@ window.Graphs = class Graphs
             ..selectAll "text"
                 ..attr \x @width
                 ..attr \dy (d, index) ->
-                    | index == 0 => 10
+                    | index == 0 => 15
                     | index == 10 => 0
                     | otherwise  => 5
                 ..style \text-anchor \end

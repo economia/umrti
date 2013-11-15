@@ -31,8 +31,8 @@ menu.graphs = graphs = new Graphs do
     [1919 2006]
     basedata
     {width: windowWidth - 200, height: 600}
-graphs.drawStacked!
-# graphs.draw!
+# graphs.drawStacked!
+graphs.draw!
 
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
