@@ -41,6 +41,18 @@ window.Graphs = class Graphs
             ..x (point) ~> @x point.year
             ..y (point) ~> y point.value
 
+        @yAxis
+            ..scale y
+            ..tickValues [0.2 1 3 5 10 20 30 40 50 60 70].map -> it*1e3
+            ..tickFormat -> "#{formatPrice it}"
+        @yAxisGroup
+            ..attr \class "axis y non-stacked"
+            ..call @yAxis
+            ..selectAll "text"
+                ..attr \x @width
+                ..attr \dy 5
+                ..style \text-anchor \end
+
         @lines.select \path
             ..on \mouseover ~>
                 @parentElement.classed \hoverOn on
@@ -65,6 +77,7 @@ window.Graphs = class Graphs
             ..scale y
             ..tickFormat -> "#{100 - it*100}%"
         @yAxisGroup
+            ..attr \class "axis y stacked"
             ..call @yAxis
             ..selectAll "text"
                 ..attr \x @width
