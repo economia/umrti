@@ -6,6 +6,7 @@ window.Menu = class Menu
                 ..append \span
                     ..attr \class \txt
                     ..html (.abbreviation)
+                    ..attr \data-tooltip (.name)
                 ..append \div
                     ..attr \class \line
                     ..append \div
