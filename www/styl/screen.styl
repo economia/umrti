@@ -10,21 +10,21 @@ body
         position absolute
         top 0px
         left 0px
-        width leftColumn
+        width (leftColumn - 1px)
         height topRow
-        background red
         margin 0px
         padding 0px
+        border-right 1px dotted HNLink
         li
-            background #eee
+            background lighten(HNBlue, 95%)
             list-style-type none
             font-size 0.9em
-            padding 5px 12px 5px 12px
+            padding 4px 12px 4px 12px
+            border-top 1px solid lighten(HNBlue, 95%)
+            border-bottom 1px solid lighten(HNBlue, 95%)
             position relative
             &:first-child
                 display none
-            &:nth-child(odd)
-                background #ddd
             .line
                 position absolute
                 top 7px
@@ -49,8 +49,7 @@ body
     .mainReasons:hover
         .reasonsList
             li
-                color #888
-                background #ddd
+                color #ccc
                 .line
                     background transparent
                 &.active
@@ -58,6 +57,8 @@ body
                     background white
                     color black
                     cursor pointer
+                    border-top-color HNBlue
+                    border-bottom-color HNBlue
 
         .reasonsGraph.hoverOn
             path

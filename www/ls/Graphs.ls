@@ -9,7 +9,7 @@ window.Graphs = class Graphs
             ..attr \class \linesGroup
         @x = d3.scale.linear!
             ..domain @yearRange
-            ..range [0 @width]
+
         @maxValue = -Infinity
         for {years}:category in @data
             for {value}:year in years
@@ -24,6 +24,7 @@ window.Graphs = class Graphs
                     ..attr \stroke (.color)
 
     draw: ->
+        @x.range [3 @width]
         @parentElement.classed \hoverOn off
         y = d3.scale.sqrt!
             ..domain [@maxValue, 0]
@@ -46,6 +47,7 @@ window.Graphs = class Graphs
                 ..attr \d ~> lineDef it.years
 
     drawStacked: ->
+        @x.range [0 @width]
         @parentElement.classed \hoverOn on
         y = d3.scale.linear!
             ..domain [0 1]
