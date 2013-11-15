@@ -16,8 +16,6 @@ window.Graphs = class Graphs
                 if normalized > @maxValue
                     @maxValue = normalized
 
-
-
         @lines = @linesGroup.selectAll \g.line
             .data @data
             .enter!.append \g
