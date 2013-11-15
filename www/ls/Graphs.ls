@@ -1,4 +1,5 @@
 window.Graphs = class Graphs
+    defaultYTicks : [200 1000 3000 5000 10000 20000 30000 40000 50000 60000 70000]
     (@parentElement, @menu, @yearRange, @data, {@width, @height}:options) ->
         @data .= slice 1 # remove totals
 
@@ -30,6 +31,9 @@ window.Graphs = class Graphs
         @x = d3.scale.linear!
             ..domain @yearRange
 
+        @absoluteLineDef = d3.svg.line!
+            ..x (point) ~> @x point.year
+            ..y (point) ~> @y point.value
 
         @maxValue = -Infinity
         for {years}:category in @data
@@ -47,65 +51,60 @@ window.Graphs = class Graphs
     draw: ->
         @drawn = \normal
         @x.range [3 @width]
-        @xAxis
-            ..scale @x
-        @xAxisGroup
-            ..attr \class "axis x non-stacked"
-            ..call @xAxis
-            ..selectAll \text
-                ..attr \dy 9
+        @redrawXAxis \non-stacked
         @parentElement.classed \hoverOn off
-        y = d3.scale.sqrt!
+        @y = d3.scale.sqrt!
             ..domain [@maxValue, 0]
             ..range [10 @height]
 
-        lineDef = d3.svg.line!
-            ..x (point) ~> @x point.year
-            ..y (point) ~> y point.value
+        @redrawYAxis!
 
-        @yAxis
-            ..scale y
-            ..tickValues [0.2 1 3 5 10 20 30 40 50 60 70].map -> it*1e3
-            ..tickFormat -> "#{utils.formatPrice it}"
-        @yAxisGroup
-            ..attr \class "axis y non-stacked"
-            ..call @yAxis
-            ..selectAll "text"
-                ..attr \x @width
-                ..attr \dy 5
-                ..style \text-anchor \end
+        @lines
+            ..classed \disabled off
+            ..select \path
+                ..on \mouseover ~>
+                    @parentElement.classed \hoverOn on
+                    @menu.highlight it.id
+                ..on \mouseout ~>
+                    @parentElement.classed \hoverOn off
+                    @menu.downlight it.id
+                ..transition!
+                    ..duration 800
+                    ..attr \stroke-width 2
+                    ..attr \fill \none
+                    ..attr \d ~> @absoluteLineDef it.years
 
+    drawSingle: (id) ->
+        @drawn = \normal
+        @x.range [3 @width]
+        @parentElement.classed \hoverOn off
+        @redrawXAxis \non-stacked
+        @lines.classed \disabled on
+        line = @lines.filter -> it.id == id
+        line.classed \disabled off
+        max = null
+        line.each -> max := Math.max ...it.years.map (.value)
+        @y.domain [max, 0]
+        @redrawYAxis @defaultYTicks.filter -> it < max
         @lines.select \path
-            ..on \mouseover ~>
-                @parentElement.classed \hoverOn on
-                @menu.highlight it.id
-            ..on \mouseout ~>
-                @parentElement.classed \hoverOn off
-                @menu.downlight it.id
             ..transition!
                 ..duration 800
                 ..attr \stroke-width 2
                 ..attr \fill \none
-                ..attr \d ~> lineDef it.years
+                ..attr \d ~> @absoluteLineDef it.years
 
     drawStacked: ->
         @drawn = \stacked
         @x.range [0 @width]
-        @xAxis
-            ..scale @x
-        @xAxisGroup
-            ..attr \class "axis x stacked"
-            ..call @xAxis
-            ..selectAll \text
-                ..attr \dy 9
+        @redrawXAxis \stacked
 
         @parentElement.classed \hoverOn on
-        y = d3.scale.linear!
+        @y = d3.scale.linear!
             ..domain [0 1]
             ..range [0 @height]
 
         @yAxis
-            ..scale y
+            ..scale @y
             ..tickValues null
             ..tickFormat -> "#{100 - it*100}%"
         @yAxisGroup
@@ -126,18 +125,44 @@ window.Graphs = class Graphs
         stack = d3.layout.stack!
             ..values (line) -> line.years
             ..x (point) ~> @x point.year
-            ..y (point) ~> y point.normalized
+            ..y (point) ~> @y point.normalized
             ..order \inside-out
         stack @data
-        @lines.select \path
-            ..attr \fill \white
-            ..on \mouseover ~> @menu.highlight it.id
-            ..on \mouseout ~> @menu.downlight it.id
+        @lines
+            ..classed \disabled off
+            ..select \path
+                ..attr \fill \white
+                ..on \mouseover ~> @menu.highlight it.id
+                ..on \mouseout ~> @menu.downlight it.id
+                ..transition!
+                    ..duration 800
+                    ..attr \stroke-width 1
+                    ..attr \fill (.color)
+                    ..attr \d ~> @areaDef it.years
+
+    redrawXAxis: (type) ->
+        @xAxis
+            ..scale @x
+        @xAxisGroup
+            ..attr \class "axis x #type"
+            ..call @xAxis
+            ..selectAll \text
+                ..attr \dy 9
+
+    redrawYAxis: (yTicks = @defaultYTicks)->
+        @yAxis
+            ..scale @y
+            ..tickValues yTicks
+            ..tickFormat -> "#{utils.formatPrice it}"
+        @yAxisGroup
+            ..attr \class "axis y non-stacked"
             ..transition!
                 ..duration 800
-                ..attr \stroke-width 1
-                ..attr \fill (.color)
-                ..attr \d ~> @areaDef it.years
+                ..call @yAxis
+                ..selectAll "text"
+                    ..attr \x @width
+                    ..attr \dy 5
+                    ..style \text-anchor \end
 
     highlight: (id) ->
         @parentElement.classed \hoverOn on

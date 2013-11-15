@@ -37,4 +37,3 @@ graphs.draw!
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
     graphs
-
