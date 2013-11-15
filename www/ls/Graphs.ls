@@ -22,10 +22,9 @@ window.Graphs = class Graphs
                 ..attr \class \line
                 ..append \path
                     ..attr \stroke (.color)
-                    ..on \mouseover ~> @menu.highlight it.id
-                    ..on \mouseout ~> @menu.downlight it.id
 
     draw: ->
+        @parentElement.classed \hoverOn off
         y = d3.scale.sqrt!
             ..domain [@maxValue, 0]
             ..range [0 @height]
@@ -34,6 +33,12 @@ window.Graphs = class Graphs
             ..y (point) ~> y point.normalized
 
         @lines.select \path
+            ..on \mouseover ~>
+                @parentElement.classed \hoverOn on
+                @menu.highlight it.id
+            ..on \mouseout ~>
+                @parentElement.classed \hoverOn off
+                @menu.downlight it.id
             ..transition!
                 ..duration 800
                 ..attr \stroke-width 2
@@ -41,6 +46,7 @@ window.Graphs = class Graphs
                 ..attr \d ~> lineDef it.years
 
     drawStacked: ->
+        @parentElement.classed \hoverOn on
         y = d3.scale.linear!
             ..domain [0 1]
             ..range [0 @height]
@@ -57,6 +63,8 @@ window.Graphs = class Graphs
         stack @data
         @lines.select \path
             ..attr \fill \white
+            ..on \mouseover ~> @menu.highlight it.id
+            ..on \mouseout ~> @menu.downlight it.id
             ..transition!
                 ..duration 800
                 ..attr \stroke-width 1
@@ -64,9 +72,11 @@ window.Graphs = class Graphs
                 ..attr \d ~> @areaDef it.years
 
     highlight: (id) ->
+        @parentElement.classed \hoverOn on
         @lines.filter -> it.id == id
             .classed \active yes
 
     downlight: (id) ->
+        @parentElement.classed \hoverOn off
         @lines.filter -> it.id == id
             .classed \active no
