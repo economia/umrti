@@ -77,6 +77,7 @@ window.Graphs = class Graphs
 
         @yAxis
             ..scale y
+            ..tickValues null
             ..tickFormat -> "#{100 - it*100}%"
         @yAxisGroup
             ..attr \class "axis y stacked"
