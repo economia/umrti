@@ -91,12 +91,12 @@ body
 
         .reasonsGraph.hoverOn
             g.linesGroup
-                path.dataline
+                path
                     opacity 0.1
                 .disabled path
                     opacity 0
                 .active path.dataline
-                path:hover
+                .line:hover path
                     opacity 1
                 .active path
                     stroke-width 2px
