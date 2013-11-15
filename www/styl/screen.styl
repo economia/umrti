@@ -47,6 +47,7 @@ body
         padding-left leftColumn
         height topRow
         .axis.y
+            pointer-events none
             font-size 0.8em
             text
                 fill white
@@ -81,7 +82,7 @@ body
             g.linesGroup
                 path
                     opacity 0.1
-                &.active path
+                .active path
                 path:hover
                     opacity 1
     .stackedOrNotSelector

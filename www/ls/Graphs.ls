@@ -31,6 +31,7 @@ window.Graphs = class Graphs
                     ..attr \stroke (.color)
 
     draw: ->
+        @drawn = \normal
         @x.range [3 @width]
         @parentElement.classed \hoverOn off
         y = d3.scale.sqrt!
@@ -67,6 +68,7 @@ window.Graphs = class Graphs
                 ..attr \d ~> lineDef it.years
 
     drawStacked: ->
+        @drawn = \stacked
         @x.range [0 @width]
         @parentElement.classed \hoverOn on
         y = d3.scale.linear!
@@ -113,6 +115,6 @@ window.Graphs = class Graphs
             .classed \active yes
 
     downlight: (id) ->
-        @parentElement.classed \hoverOn off
+        @parentElement.classed \hoverOn off if @drawn isnt \stacked
         @lines.filter -> it.id == id
             .classed \active no
