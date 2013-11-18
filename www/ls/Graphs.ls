@@ -1,8 +1,7 @@
 window.Graphs = class Graphs
     defaultYTicks : [200 1000 3000 5000 10000 20000 30000 40000 50000 60000 70000]
-    (@parentElement, @menu, @yearRange, data, {@width, @height}:options) ->
-
-
+    displayedGender: \both
+    (@parentElement, @menu, @details, @yearRange, data, {@width, @height}:options) ->
         @svg = @parentElement.append \svg
             ..attr \width @width
             ..attr \height @height
@@ -106,6 +105,7 @@ window.Graphs = class Graphs
                 ..attr \stroke datum.color
                 ..attr \fill datum.color
                 ..attr \d symbol
+                ..on \click ~> @details.display datum.name, id, it.year, @displayedGender
                 ..transition!
                     ..delay (d, i) -> i * 10
                     ..duration 600
@@ -166,7 +166,7 @@ window.Graphs = class Graphs
                     ..attr \fill (.color)
                     ..attr \d ~> @areaDef it.years
 
-    redrawWithData: (data) ->
+    redrawWithData: (data, @displayedGender) ->
         @recalculateData data
         @lines = @linesGroup.selectAll \g.line
             .data @data, (.id)

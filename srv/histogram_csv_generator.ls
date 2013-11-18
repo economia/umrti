@@ -64,7 +64,7 @@ get-file-sums = (filename, range, cb) ->
     for [lineFrom, lineTo] in range
         for lineno in [lineFrom to lineTo]
             line = lines[lineno]
-            histo = line.slice 2 .map -> (parseInt it, 10) || 0
+            histo = line.slice 2 .map -> (parseInt (it.replace /[ ]+/g ""), 10) || 0
             if ouput
                 for val, i in ouput
                     ouput[i] += histo[i]

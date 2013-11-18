@@ -10,15 +10,20 @@ menu = new Menu do
     d3.select \.reasonsList
     null
     basedata
-
+details = new Details do
+    d3.select \.details
+    histogramWidth: windowWidth - 220
 menu.graphs = graphs = new Graphs do
     d3.select \.reasonsGraph
     menu
+    details
     [1919 2006]
     basedata
     {width: windowWidth - 200, height: 600}
 # graphs.drawStacked!
 graphs.draw!
+graphs.drawSingle 3
+# details.display "Novotvary" 2 1997 \both
 
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content

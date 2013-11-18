@@ -71,7 +71,7 @@ get-category-parts = (filename, range, cb) ->
                         if index == 0 # subcategory title
                             cell
                         else
-                            (parseInt cell, 10) || 0
+                            (parseInt (cell.replace /[ ]+/g ""), 10) || 0
                 output.push outputData
 
     cb null output

@@ -11,16 +11,16 @@ window.MaleFemaleBothSelector = class MaleFemaleBothSelector
                 ..html "M"
                 ..on \click ~>
                     <~ @getData \men
-                    @graphs.redrawWithData @data.men
+                    @graphs.redrawWithData @data.men, \men
             ..append \button
                 ..html "F"
                 ..on \click ~>
                     <~ @getData \women
-                    @graphs.redrawWithData @data.women
+                    @graphs.redrawWithData @data.women, \women
             ..append \button
                 ..html "B"
                 ..on \click ~>
-                    @graphs.redrawWithData @data.both
+                    @graphs.redrawWithData @data.both, \both
 
     getData: (gender, cb) ->
         if @data[gender]
