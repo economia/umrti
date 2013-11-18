@@ -14,6 +14,10 @@ details = new Details do
     d3.select \.details
     basedata
     histogramWidth: windowWidth - 220
+histogram = new Histogram do
+    d3.select \.histogram
+    {width: windowWidth - 200, height: 600}
+
 menu.graphs = graphs = new Graphs do
     d3.select \.reasonsGraph
     menu
@@ -21,10 +25,13 @@ menu.graphs = graphs = new Graphs do
     [1919 2006]
     basedata
     {width: windowWidth - 200, height: 600}
+
 # graphs.drawStacked!
-graphs.draw!
-# graphs.drawSingle 3
+# graphs.draw!
+# graphs.drawSingle 2
 # details.display 3 1997 \both
+
+histogram.draw 18, \both
 
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
