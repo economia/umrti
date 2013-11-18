@@ -1,11 +1,12 @@
 window.Details = class Details
-    (@parentElement, {@histogramWidth}) ->
+    (@parentElement, @basedata, {@histogramWidth}) ->
         @heading = @parentElement.append \h2
         @content = @parentElement.append \ul
 
-    display: (name, id, year, gender) ->
+    display: (id, year, gender) ->
         @parentElement.classed \active on
-        @heading.html "#name #year, #gender"
+        category =  @basedata[id]
+        @heading.html "#{category.name} #year, #gender"
         (err, data) <~ d3.csv "../data/csv_details/#id-#year-#gender.csv"
         data.sort (a, b) ->
             a = +a.total

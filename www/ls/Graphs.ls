@@ -105,7 +105,7 @@ window.Graphs = class Graphs
                 ..attr \stroke datum.color
                 ..attr \fill datum.color
                 ..attr \d symbol
-                ..on \click ~> @details.display datum.name, id, it.year, @displayedGender
+                ..on \click ~> @details.display id, it.year, @displayedGender
                 ..transition!
                     ..delay (d, i) -> i * 10
                     ..duration 600
