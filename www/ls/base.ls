@@ -22,9 +22,9 @@ menu.graphs = graphs = new Graphs do
     basedata
     {width: windowWidth - 200, height: 600}
 # graphs.drawStacked!
-# graphs.draw!
+graphs.draw!
 # graphs.drawSingle 3
-details.display 3 1997 \both
+# details.display 3 1997 \both
 
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content

@@ -59,7 +59,6 @@ window.Details = class Details
         if id > 20 => id = 1
         if year > 2006 => year = 1919
         if year < 1919 => year = 2006
-        console.log "#id, #year, #gender"
         @lastDisplay = [id, year, gender]
         @parentElement.classed \active on
         category =  @basedata[id]
