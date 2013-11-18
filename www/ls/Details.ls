@@ -1,6 +1,13 @@
 window.Details = class Details
     (@parentElement, @basedata, {@histogramWidth}) ->
         @heading = @parentElement.append \h2
+        @backButton = @parentElement.append \button
+            ..attr \class \backButton
+            ..attr \title \Zpět
+            ..append \img
+                ..attr \src \./img/back.png
+                ..attr \alt \Zpět
+            ..on \click @~hide
         @categoryContainer = @heading.append \span
         @categoryName = @categoryContainer.append \span
             ..attr \class "name"

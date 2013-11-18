@@ -56,6 +56,7 @@ window.Histogram = class Histogram
         @parentElement.style \width "#{@width}px"
 
     draw: (id, gender) ->
+        @parentElement.classed \active on
         (err, data) <~ d3.csv "../data/csv_histograms/#id-#gender.csv"
         x = d3.scale.linear!
             ..domain [0 data.length]

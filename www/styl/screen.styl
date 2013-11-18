@@ -140,10 +140,11 @@ body
         left 0px
         width 100%
         height topRow
-        transform translate(0px, topRow)
+        transform translate(-100%, 0px)
+        transition 0.8s
         background white
         &.active
-            transform translate(0px, 0px)
+            transform translate(0%, 0px)
         h2
             font-weight normal
             color #333
@@ -242,11 +243,16 @@ body
                             cursor help
                             div
                                 background-color lighten(#A50F15, 18%)
-    .histogram
+        .backButton
+            @import backButton
+    > .histogram
         position absolute
         top 0px
         right 0px
         height 600px
+        display none
+        &.active
+            display block
         div
             position absolute
             z-index 1
