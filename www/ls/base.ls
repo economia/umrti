@@ -1,4 +1,5 @@
 new Tooltip!watchElements!
+return unless Modernizr.svg
 d3.selectAll \.fallback .remove!
 windowWidth = window.innerWidth
 
