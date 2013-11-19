@@ -1,7 +1,7 @@
 window.Graphs = class Graphs
     defaultYTicks : [200 1000 3000 5000 10000 20000 30000 40000 50000 60000 70000]
     displayedGender: \both
-    (@parentElement, @menu, @details, @yearRange, data, {@width, @height}:options) ->
+    (@parentElement, @menu, @details, @histogram, @yearRange, data, {@width, @height}:options) ->
         @svg = @parentElement.append \svg
             ..attr \width @width
             ..attr \height @height
@@ -74,6 +74,12 @@ window.Graphs = class Graphs
 
     drawSingle: (id) ->
         @clearDatapoints!
+        if @nowDrawn.0 == \normal and @nowDrawn.1 == id
+            @histogram.draw id, \both
+            @nowDrawn = \histogram
+            return
+        if @nowDrawn == \histogram
+            @histogram.hide!
         @nowDrawn = [\normal id]
         @x.range [3 @width]
         @parentElement.classed \hoverOn off

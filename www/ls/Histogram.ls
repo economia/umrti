@@ -57,6 +57,7 @@ window.Histogram = class Histogram
 
     draw: (id, gender) ->
         @parentElement.classed \active on
+        @parentElement.html ""
         (err, data) <~ d3.csv "../data/csv_histograms/#id-#gender.csv"
         x = d3.scale.linear!
             ..domain [0 data.length]
@@ -101,3 +102,6 @@ window.Histogram = class Histogram
                 ..style \left -> "#{it.x}px"
                 ..style \background-color -> "#{color it.val}"
                 ..attr \data-tooltip -> "#{it.year}, #{it.category.0} - #{it.category.1}: #{it.val}"
+
+    hide: ->
+        @parentElement.classed \active off

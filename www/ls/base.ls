@@ -22,6 +22,7 @@ menu.graphs = graphs = new Graphs do
     d3.select \.reasonsGraph
     menu
     details
+    histogram
     [1919 2006]
     basedata
     {width: windowWidth - 200, height: 600}
