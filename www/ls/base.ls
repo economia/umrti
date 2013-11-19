@@ -29,9 +29,10 @@ menu.graphs = graphs = new Graphs do
 # graphs.drawStacked!
 graphs.draw!
 # graphs.drawSingle 2
-details.display 3 1997 \both
+# details.display 3 1997 \both
 
-# histogram.draw 18, \both
+# histogram.draw 20, \both
+
 
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
