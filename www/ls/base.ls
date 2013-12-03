@@ -39,9 +39,3 @@ graphs.draw!
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
     graphs
-
-
-maleFemaleBothSelector = new MaleFemaleBothSelector do
-    d3.select \#content
-    basedata
-    graphs
