@@ -11,15 +11,16 @@ body
         top 0px
         left 0px
         width (leftColumn - 1px)
-        height topRow
         margin 0px
         padding 0px
+        padding-top 30px
+        height (topRow - @padding-top)
         border-right 1px dotted HNLink
         li
             background lighten(HNBlue, 95%)
             list-style-type none
             font-size 0.9em
-            padding 4px 12px 4px 12px
+            padding 3px 12px 3px 12px
             border-top 1px solid lighten(HNBlue, 95%)
             border-bottom 1px solid lighten(HNBlue, 95%)
             position relative
@@ -103,8 +104,32 @@ body
                     stroke-width 2px
     .stackedOrNotSelector
         position absolute
-        top 21px
-        right 41px
+        top 0px
+        left 0px
+        width (leftColumn - 1px)
+        input
+            display none
+        label
+            box-sizing border-box
+            width 50%
+            display block
+            border-bottom 1px solid #aaa
+            background #f9f9f9
+            float left
+            padding 2px 8px
+            font-size 0.8em
+            text-align center
+            &:hover
+                cursor pointer
+                background lighten(HNBlue, 90%)
+                box-shadow 0px 0px 4px 1px HNBlue
+        input:first-child + label
+            border-right 1px solid #aaa
+        input:checked + label
+            background HNBlue
+            color white
+            font-weight bold
+            border-color HNBlue
     .maleFemaleBothSelector
         position absolute
         top 21px
