@@ -102,7 +102,7 @@ window.Graphs = class Graphs
             .data (.years)
             .enter!.append \path
                 ..attr \class \datapoint
-                ..attr \data-tooltip (it, i, parentIndex) ~> escape "#{data[parentIndex].name}, #{it.year}: #{utils.formatPrice it.value}<br />Klikněte pro rozpad na jednotlivé diagnózy"
+                ..attr \data-tooltip (it, i, parentIndex) ~> escape "#{it.year}, #{data[parentIndex].name}: #{utils.formatPrice it.value}&nbsp;mrtvých<br />Klikněte pro detailní pohled na přesné diagnózy a věkovou strukturu"
                 ..attr \transform ~> "translate(#{@x it.year}, #{@y it.value}) scale(0)"
                 ..attr \stroke (it, i, parentIndex) ~> data[parentIndex].color
                 ..attr \fill (it, i, parentIndex) ~> data[parentIndex].color
