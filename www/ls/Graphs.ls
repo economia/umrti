@@ -175,9 +175,11 @@ window.Graphs = class Graphs
         if @currentSelection
             stack.order \default
             @data.sort (a, b) ~>
-                a = if a.id in @currentSelection then 1 else 0
-                b = if b.id in @currentSelection then 1 else 0
-                a - b
+                aInSelection = if a.id in @currentSelection then 1 else 0
+                bInSelection = if b.id in @currentSelection then 1 else 0
+                switch
+                | aInSelection - bInSelection => that
+                | otherwise => a.id - b.id
             @lines.classed \selected ~> it.id in @currentSelection
         @linesGroup.classed \stackedSelection @currentSelection != null
         stack @data
