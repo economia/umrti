@@ -2,6 +2,7 @@ window.Menu = class Menu
     (@parentElement, @graphs, @data) ->
         @form = @parentElement.append \form
         @list = @form.append \ul
+        @manualMode = no
         idGenerator = -> "menuItem-#{it.id}"
         @elements = @list.selectAll \li
             .data @data
@@ -22,7 +23,29 @@ window.Menu = class Menu
                             ..style \background-color (.color)
                 ..on \mouseover ~> @graphs.highlight it.id
                 ..on \mouseout  ~> @graphs.downlight it.id
-                ..on \click ~> @graphs.drawSingle it.id
+        @form.on \change ~>
+            if not @manualMode
+                for input in @list.selectAll \input .0
+                    input.checked = no
+                d3.event.target.checked = yes
+                @manualMode = yes
+            @list.classed \manual yes
+
+            selectedIds = @elements.selectAll "input:checked"
+                .map -> if it.0 then d3.select that .datum!.id else null
+                .filter -> it
+
+            idsToDraw =
+                | selectedIds.length
+                    selectedIds
+                | otherwise
+                    @manualMode = no
+                    @list.classed \manual no
+                    for input in @list.selectAll \input .0
+                        input.checked = yes
+                    @data.map (.id)
+            @graphs.drawSelection idsToDraw
+        <~ setTimeout _, 200
 
     highlight: (id) ->
         @elements.filter -> it.id == id

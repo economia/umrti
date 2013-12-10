@@ -72,23 +72,19 @@ window.Graphs = class Graphs
                     ..attr \fill \none
                     ..attr \d ~> @absoluteLineDef it.years
 
-    drawSingle: (id) ->
+    drawSelection: (ids) ->
         @clearDatapoints!
-        if @nowDrawn.0 == \normal and @nowDrawn.1 == id
-            @histogram.draw id, \both
-            @nowDrawn = \histogram
-            return
-        if @nowDrawn == \histogram
-            @histogram.hide!
-        @nowDrawn = [\normal id]
+        @nowDrawn = [\normal ids]
         @x.range [3 @width]
         @parentElement.classed \hoverOn off
         @redrawXAxis \non-stacked
         @lines.classed \disabled on
-        line = @lines.filter -> it.id == id
-        line.classed \disabled off
-        datum = line.datum!
-        max = Math.max ...datum.years.map (.value)
+        lines = @lines.filter -> it.id in ids
+        lines.classed \disabled off
+        data = lines.data!
+        maxes = for datum in data
+            Math.max ...datum.years.map (.value)
+        max = Math.max ...maxes
         @y.domain [max, 0]
         @redrawYAxis @defaultYTicks.filter -> it < max
         @lines.select \path.dataline
@@ -101,17 +97,17 @@ window.Graphs = class Graphs
             ..size 55
 
         <~ setTimeout _, 300
-        line
+        lines
             .selectAll \path.datapoint
-            .data datum.years
+            .data (.years)
             .enter!.append \path
                 ..attr \class \datapoint
-                ..attr \data-tooltip ~> escape "#{datum.name}, #{it.year}: #{utils.formatPrice it.value}<br />Klikněte pro rozpad na jednotlivé diagnózy"
+                ..attr \data-tooltip (it, i, parentIndex) ~> escape "#{data[parentIndex].name}, #{it.year}: #{utils.formatPrice it.value}<br />Klikněte pro rozpad na jednotlivé diagnózy"
                 ..attr \transform ~> "translate(#{@x it.year}, #{@y it.value}) scale(0)"
-                ..attr \stroke datum.color
-                ..attr \fill datum.color
+                ..attr \stroke (it, i, parentIndex) ~> data[parentIndex].color
+                ..attr \fill (it, i, parentIndex) ~> data[parentIndex].color
                 ..attr \d symbol
-                ..on \click ~> @details.display id, it.year, @displayedGender
+                ..on \click (it, i, parentIndex) ~> @details.display data[parentIndex].id, it.year, @displayedGender
                 ..transition!
                     ..delay (d, i) -> i * 10
                     ..duration 600
