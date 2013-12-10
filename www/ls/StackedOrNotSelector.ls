@@ -3,8 +3,8 @@ window.StackedOrNotSelector = class StackedOrNotSelector
         formElement = @parentElement.append \form
             ..attr \class "stackedOrNotSelector"
             ..on \change ~>
-                | d3.event.target.value == \stacked => @graphs.drawStacked!
-                | otherwise                         => @graphs.draw!
+                | d3.event.target.value == \stacked => @graphs.setMethod \stacked
+                | otherwise                         => @graphs.setMethod \normal
             ..append \input
                 ..attr \type \radio
                 ..attr \name \stackedOrNot

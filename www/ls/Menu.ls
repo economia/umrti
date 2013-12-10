@@ -35,17 +35,14 @@ window.Menu = class Menu
                 .map -> if it.0 then d3.select that .datum!.id else null
                 .filter -> it
 
-
             if selectedIds.length
-                @graphs.drawSelection selectedIds
+                @graphs.setSelection selectedIds
             else
                 @manualMode = no
                 @list.classed \manual no
                 for input in @list.selectAll \input .0
                     input.checked = yes
-                @graphs.draw!
-
-        <~ setTimeout _, 200
+                @graphs.setSelection null
 
     highlight: (id) ->
         @elements.filter -> it.id == id

@@ -44,6 +44,22 @@ window.Graphs = class Graphs
                     ..attr \class \dataline
                     ..on \click ~> @drawSingle it.id
                     ..attr \stroke (.color)
+        @currentSelection = null
+        @currentMethod    = \normal
+
+    setSelection: (ids) ->
+        @currentSelection = ids
+        @redraw!
+
+    setMethod: (stackedOrNormal) ->
+        @currentMethod = stackedOrNormal
+        @redraw!
+
+    redraw: ->
+        | @currentMethod == \stacked => @drawStacked!
+        | @currentSelection is null => @draw!
+        | otherwise => @drawSelection!
+
 
     draw: ->
         @clearDatapoints!
@@ -72,7 +88,8 @@ window.Graphs = class Graphs
                     ..attr \fill \none
                     ..attr \d ~> @absoluteLineDef it.years
 
-    drawSelection: (ids) ->
+    drawSelection: ->
+        ids = @currentSelection
         @clearDatapoints!
         @nowDrawn = [\normal ids]
         @x.range [3 @width]
@@ -152,6 +169,14 @@ window.Graphs = class Graphs
             ..x (point) ~> @x point.year
             ..y (point) ~> @y point.normalized
             ..order \inside-out
+        if @currentSelection
+            stack.order \default
+            @data.sort (a, b) ~>
+                a = if a.id in @currentSelection then 1 else 0
+                b = if b.id in @currentSelection then 1 else 0
+                a - b
+            @lines.classed \selected ~> it.id in @currentSelection
+        @linesGroup.classed \stackedSelection @currentSelection != null
         stack @data
         datalines = @lines
             .classed \disabled off

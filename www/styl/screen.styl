@@ -86,21 +86,21 @@ body
                 fill #fff
                 cursor pointer
 
-    .mainReasons:hover .reasonsList
-    .reasonsList ul.manual
-        label
-            color #ccc
-            .line
-                background transparent
+    .reasonsList
+        ul.manual
+            label
+                color #ccc
+                .line
+                    background transparent
     .reasonsList ul.manual input:checked + label
     .reasonsList li.active label
     .reasonsList label:hover
             background white
-            color black !important
+            color black
             cursor pointer
             border-top-color HNBlue
             border-bottom-color HNBlue
-
+    .mainReasons:hover
         .reasonsGraph.hoverOn
             g.linesGroup
                 path
@@ -109,9 +109,14 @@ body
                     opacity 0
                 .active path.dataline
                 .line:hover path
-                    opacity 1
+                    opacity 1 !important
                 .active path
                     stroke-width 2px
+    .mainReasons .stackedSelection
+        g path
+            opacity 0.1
+        g.selected path
+            opacity 0.9 !important
     .stackedOrNotSelector
         position absolute
         top 0px
