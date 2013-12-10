@@ -22,10 +22,10 @@ window.Graphs = class Graphs
             ..attr \class "x axis"
 
         @xAxis = d3.svg.axis!
-                    ..tickSize 3
-                    ..tickFormat -> it
-                    ..outerTickSize 0
-                    ..orient \bottom
+            ..tickSize 3
+            ..tickFormat -> it
+            ..outerTickSize 0
+            ..orient \bottom
 
         @x = d3.scale.linear!
             ..domain @yearRange

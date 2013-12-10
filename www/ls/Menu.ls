@@ -14,6 +14,7 @@ window.Menu = class Menu
                 ..on \mouseover ~> @graphs.highlight it.id
                 ..on \mouseout  ~> @graphs.downlight it.id
                 ..on \click ~> @graphs.drawSingle it.id
+
     highlight: (id) ->
         @elements.filter -> it.id == id
             .classed \active yes
