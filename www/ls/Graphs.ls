@@ -42,7 +42,10 @@ window.Graphs = class Graphs
                 ..attr \class \line
                 ..append \path
                     ..attr \class \dataline
-                    ..on \click ~> @drawSingle it.id
+                    ..on \click ~>
+                        if not @currentSelection
+                            @setSelection [it.id]
+                        @setMethod \normal
                     ..attr \stroke (.color)
         @currentSelection = null
         @currentMethod    = \normal
