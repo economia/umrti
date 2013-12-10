@@ -28,14 +28,8 @@ menu.graphs = graphs = new Graphs do
     basedata
     {width: windowWidth - 200, height: 600}
 
-# graphs.drawStacked!
-graphs.draw!
-# graphs.drawSingle 2
-# details.display 3 1997 \both
-
-# histogram.draw 20, \both
-
-
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
     graphs
+
+menu.redraw!

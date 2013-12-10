@@ -29,6 +29,8 @@ window.Graphs = class Graphs
 
         @x = d3.scale.linear!
             ..domain @yearRange
+        @y = d3.scale.sqrt!
+            ..range [10 @height]
 
         @absoluteLineDef = d3.svg.line!
             ..x (point) ~> @x point.year
@@ -70,9 +72,7 @@ window.Graphs = class Graphs
         @x.range [3 @width]
         @redrawXAxis \non-stacked
         @parentElement.classed \hoverOn off
-        @y = d3.scale.sqrt!
-            ..domain [@maxValue, 0]
-            ..range [10 @height]
+        @y.domain [@maxValue, 0]
 
         @redrawYAxis!
 
