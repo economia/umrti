@@ -37,8 +37,6 @@ window.Menu = class Menu
             .map -> if it.0 then d3.select that .datum!.id else null
             .filter -> it
 
-        console.log selectedIds
-
         if selectedIds.length
             @graphs.setSelection selectedIds
         else
