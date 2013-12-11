@@ -37,3 +37,10 @@ curtain = new Curtain do
     d3.select \.reasonsGraph
     graphs~x
     200
+
+stories = new Stories do
+    d3.select \#story
+    curtain
+    menu
+    graphs
+    stackedOrNotSelector

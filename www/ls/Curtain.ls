@@ -10,8 +10,5 @@ window.Curtain = class Curtain
         @right.style \left "#{@offset + @x right}px"
 
     hide: ->
-        @left.classed \hidden yes
-        @right.classed \hidden yes
-        <~ setTimeout _, 400
-        @left.remove!
-        @right.remove!
+        @left.style \width "0px"
+        @right.style \left "100%"

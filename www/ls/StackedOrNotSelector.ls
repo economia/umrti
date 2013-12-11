@@ -1,6 +1,6 @@
 window.StackedOrNotSelector = class StackedOrNotSelector
     (@parentElement, @graphs) ->
-        formElement = @parentElement.append \form
+        @formElement = @parentElement.append \form
             ..attr \class "stackedOrNotSelector"
             ..on \change ~>
                 | d3.event.target.value == \stacked => @graphs.setMethod \stacked

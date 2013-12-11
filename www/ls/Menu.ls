@@ -27,9 +27,10 @@ window.Menu = class Menu
 
     redraw: ->
         if not @manualMode
-            for input in @list.selectAll \input .0
-                input.checked = no
-            d3.event.target.checked = yes
+            if d3.event
+                for input in @list.selectAll \input .0
+                    input.checked = no
+                d3.event.target.checked = yes
             @manualMode = yes
         @list.classed \manual yes
 
