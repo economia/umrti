@@ -29,7 +29,7 @@ window.Details = class Details
                 ..on \click ~>
                     @lastDisplay.0 += 1
                     @~display ...@lastDisplay
-        addText " zemřelo v roce "
+        addText " v roce "
         @yearContainer = @heading.append \span
         @yearName = @yearContainer.append \span
         @yearContainer
@@ -45,7 +45,7 @@ window.Details = class Details
                 ..on \click ~>
                     @lastDisplay.1 += 1
                     @~display ...@lastDisplay
-        addText " celkem "
+        addText " zemřelo "
             ..attr \class "text preTotal"
         @totalCount = addText "----"
             ..attr \class \total
@@ -105,14 +105,30 @@ window.Details = class Details
 
         y = d3.scale.linear!
             ..domain [0 maxSingleField]
-            ..range [0 31]
+            ..range [ 31]
+
+        color = d3.scale.linear!
+            ..domain [0, maxSingleField * 0.125, maxSingleField * 0.25, maxSingleField * 0.375, maxSingleField * 0.5, maxSingleField * 0.625, maxSingleField * 0.75, maxSingleField * 0.875, maxSingleField]
+            ..range <[ #fff5f0 #fee0d2 #fcbba1 #fc9272 #fb6a4a #ef3b2c #cb181d #99000d]>
 
         histoBarWidth = @histogramWidth / fields.length
         tooltip = (d, i) -> "Věková kategorie #{fields[i]} let: #d úmrtí"
-        @content.selectAll \li
+        @content.append \li
+            ..attr \class \header
+            ..append \h3
+                ..html "Diagnóza"
+            ..append \div
+                ..attr \class \total
+                ..html "Zemřelých"
+            ..append \div
+                ..attr \class \histogram
+                ..html "Věkové kategorie"
+                ..style \width "#{@histogramWidth}px"
+        @content.selectAll \li.datarow
             .remove!
             .data data
             .enter!append \li
+                ..attr \class \datarow
                 ..append \h3
                     ..html (.subcategory)
                     ..attr \data-tooltip (.subcategory)
@@ -129,9 +145,7 @@ window.Details = class Details
                             ..style \width "#{histoBarWidth}px"
                             ..style \left (d, index) -> "#{index * histoBarWidth}px"
                             ..attr \data-tooltip tooltip
-                            ..append \div
-                                ..style \height -> "#{y it}px"
-                                ..attr \data-tooltip tooltip
+                            ..style \background-color -> color it
 
     getYearFields: (data) ->
         fields = []
