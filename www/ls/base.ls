@@ -44,3 +44,4 @@ stories = new Stories do
     menu
     graphs
     stackedOrNotSelector
+    details

@@ -1,5 +1,5 @@
 window.Stories = class Stories
-    (@element, @curtain, @menu, @graphs, @stackedOrNotSelector) ->
+    (@element, @curtain, @menu, @graphs, @stackedOrNotSelector, @details) ->
         @heading = @element.select \h1
         @content = @element.select \p
         lbutton = @element.append \button
@@ -29,6 +29,7 @@ window.Stories = class Stories
         @heading.html heading
 
     display: (...ids) ->
+        @details.hide!
         if ids.length
             @menuInputs.each (d) ->
                 @checked =
