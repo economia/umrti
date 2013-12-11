@@ -33,4 +33,7 @@ stackedOrNotSelector = new StackedOrNotSelector do
     graphs
 
 menu.redraw!
-# details.display 6, 1995, \both
+curtain = new Curtain do
+    d3.select \.reasonsGraph
+    graphs~x
+    200
