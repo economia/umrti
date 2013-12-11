@@ -14,7 +14,7 @@ menu = new Menu do
 details = new Details do
     d3.select \.details
     basedata
-    histogramWidth: windowWidth - 220
+    histogramWidth: windowWidth - 280
 histogram = new Histogram do
     d3.select \.histogram
     {width: windowWidth - 200, height: 600}
@@ -33,3 +33,4 @@ stackedOrNotSelector = new StackedOrNotSelector do
     graphs
 
 menu.redraw!
+# details.display 6, 1995, \both
