@@ -2,8 +2,25 @@ window.Stories = class Stories
     (@element, @curtain, @menu, @graphs, @stackedOrNotSelector) ->
         @heading = @element.select \h1
         @content = @element.select \p
+        lbutton = @element.append \button
+            ..attr \class "arrow left"
+            ..on \click ~> @move -1
+            ..html "&lt;"
+        rbutton = @element.append \button
+            ..attr \class "arrow right"
+            ..on \click ~> @move +1
+            ..html "&gt;"
         @lastId = 0
         @stackedOrNotInputs = @stackedOrNotSelector.formElement.selectAll \input
+        @stories[@lastId]bind(@)!
+
+    move: (dir) ->
+        @lastId += dir
+        len = @stories.length
+        if @lastId >= len
+            @lastId -= len
+        if @lastId < 0
+            @lastId += len
         @stories[@lastId]bind(@)!
 
     setText: (heading, text)->
