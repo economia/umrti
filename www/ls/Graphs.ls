@@ -30,7 +30,7 @@ window.Graphs = class Graphs
         @x = d3.scale.linear!
             ..domain @yearRange
         @y = d3.scale.sqrt!
-            ..range [10 @height]
+            ..range [25 @height]
 
         @absoluteLineDef = d3.svg.line!
             ..x (point) ~> @x point.year
