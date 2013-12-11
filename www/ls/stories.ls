@@ -36,11 +36,12 @@ window.Stories = class Stories
                     | otherwise   => no
         else
             @menuInputs.each (d) -> @checked = no
-        @graphs.currentMethod = \normal
-        @stackedOrNotInputs.each ->
-            @checked =
-                | @value == \stacked => no
-                | otherwise          => yes
+        if @lastId != 16 # hack.. but too tired to think of a clean solution
+            @graphs.currentMethod = \normal
+            @stackedOrNotInputs.each ->
+                @checked =
+                    | @value == \stacked => no
+                    | otherwise          => yes
         @menu.redraw!
 
     stories:
@@ -112,11 +113,11 @@ window.Stories = class Stories
             @setText "Absolutní a relativní čísla" "Tlačítky absolutní / relativní (nad seznamem nemocí) můžete přepínat mezi absolutním počtem mrtvých a poměrným zastoupením zvolené příčiny."
             @curtain.hide!
             @graphs.currentMethod = \stacked
-            @display!
             @stackedOrNotInputs.each ->
                 @checked =
                     | @value == \stacked => yes
                     | otherwise          => no
+            @display!
 
 
 
