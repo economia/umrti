@@ -12,6 +12,7 @@ window.Stories = class Stories
             ..html "&gt;"
         @lastId = 0
         @stackedOrNotInputs = @stackedOrNotSelector.formElement.selectAll \input
+        @menuInputs = @menu.list.selectAll \input
         @stories[@lastId]bind(@)!
 
     move: (dir) ->
@@ -23,19 +24,18 @@ window.Stories = class Stories
             @lastId += len
         @stories[@lastId]bind(@)!
 
-    setText: (heading, text)->
+    setText: (heading, text) ->
         @content.html text
         @heading.html heading
 
     display: (...ids) ->
-        inputs = @menu.list.selectAll \input
         if ids.length
-            inputs.each (d) ->
+            @menuInputs.each (d) ->
                 @checked =
                     | d.id in ids => yes
                     | otherwise   => no
         else
-            inputs.each (d) -> @checked = no
+            @menuInputs.each (d) -> @checked = no
         @graphs.currentMethod = \normal
         @stackedOrNotInputs.each ->
             @checked =

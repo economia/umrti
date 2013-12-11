@@ -23,14 +23,14 @@ window.Menu = class Menu
                             ..style \background-color (.color)
                 ..on \mouseover ~> @graphs.highlight it.id
                 ..on \mouseout  ~> @graphs.downlight it.id
-        @form.on \change @~redraw
+        @form.on \change ~> @redraw d3.event.target
 
-    redraw: ->
+    redraw: (clickedCheckbox) ->
         if not @manualMode
-            if d3.event
+            if clickedCheckbox
                 for input in @list.selectAll \input .0
                     input.checked = no
-                d3.event.target.checked = yes
+                clickedCheckbox.checked = yes
             @manualMode = yes
         @list.classed \manual yes
 
