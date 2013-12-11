@@ -114,7 +114,7 @@ window.Graphs = class Graphs
                 ..attr \fill \none
                 ..attr \d ~> @absoluteLineDef it.years
         symbol = d3.svg.symbol!
-            ..size 55
+            ..size 45
 
         <~ setTimeout _, 300
         lines
