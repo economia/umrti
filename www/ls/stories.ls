@@ -2,14 +2,6 @@ window.Stories = class Stories
     (@element, @buttonsElement, @curtain, @menu, @graphs, @stackedOrNotSelector, @details) ->
         @heading = @element.select \h1
         @content = @element.select \p
-        lbutton = @element.append \button
-            ..attr \class "arrow left"
-            ..on \click ~> @move -1
-            ..html "&lt;"
-        rbutton = @element.append \button
-            ..attr \class "arrow right"
-            ..on \click ~> @move +1
-            ..html "&gt;"
         @lastId = 0
         @stackedOrNotInputs = @stackedOrNotSelector.formElement.selectAll \input
         @menuInputs = @menu.list.selectAll \input
@@ -32,7 +24,11 @@ window.Stories = class Stories
         @stories[id]bind(@)!
 
     setText: (heading, text) ->
-        @content.html text
+        @content.html text + " "
+        @content.append \a
+            ..html "Další zajímavý bod &raquo;"
+            ..attr \href \#
+            ..on \click ~> @move +1
         @heading.html heading
 
     display: (...ids) ->
@@ -71,10 +67,6 @@ window.Stories = class Stories
             ..on \click ~> @move +1
 
     stories:
-        ->
-            @setText "Nemoci, nehody a války" "Podívejte se, na co Češi ve 20. století umírali"
-            @display 1 2 3
-            @curtain.hide!
         ->
             @setText "Tuberkulosa ústrojí dýchacího" "Čtrtinu úmrtí v roce 1919 měly na svědomí infekční nemoci. Mezi nimi dominovala vůbec nejobávanější meziválečná diagnóza: tuberkulóza. Nemoc o to děsivější, že na ni nejčastěji umíraly děti a mladí lidé."
             @display 1 2 3
