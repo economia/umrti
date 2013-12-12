@@ -1,5 +1,5 @@
 window.Menu = class Menu
-    (@parentElement, @graphs, @data) ->
+    (@parentElement, @graphs, @curtain, @data) ->
         @form = @parentElement.append \form
         @list = @form.append \ul
         idGenerator = -> "menuItem-#{it.id}"
@@ -27,11 +27,13 @@ window.Menu = class Menu
 
     redraw: (clickedCheckbox) ->
         if not @manualMode
+            @manualMode = yes
             if clickedCheckbox
                 for input in @list.selectAll \input .0
                     input.checked = no
                 clickedCheckbox.checked = yes
-            @manualMode = yes
+        if clickedCheckbox
+            @curtain.hide!
         @list.classed \manual yes
 
         selectedIds = @elements.selectAll "input:checked"

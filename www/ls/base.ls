@@ -9,7 +9,8 @@ windowWidth = window.innerWidth
 
 menu = new Menu do
     d3.select \.reasonsList
-    null
+    null # graphs - monkey-patch later
+    null # curtain - monkey-patch later
     basedata
 details = new Details do
     d3.select \.details
@@ -33,7 +34,7 @@ stackedOrNotSelector = new StackedOrNotSelector do
     graphs
 
 menu.redraw!
-curtain = new Curtain do
+menu.curtain = curtain = new Curtain do
     d3.select \.reasonsGraph
     graphs~x
     200
