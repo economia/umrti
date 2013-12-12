@@ -8,6 +8,7 @@ body
     font-family arial, sans-serif
     .reasonsList
         position absolute
+        z-index 3
         top 0px
         left 0px
         width (leftColumn - 1px)
@@ -337,9 +338,10 @@ body
                 z-index 2
     .curtain
         position absolute
+        z-index 1
         top 0px
         width auto
-        bottom 0px
+        bottom 130px
         background rgba(0,0,0,0.2)
         transition 0.2s
         pointer-events none
@@ -350,10 +352,15 @@ body
         &.right
             right 0px
     #story
+        z-index 2
         color #333
-        padding 10px 34px
+        padding 10px 34px 10px 234px
         height 130px
-        position relative
+        position absolute
+        top 470px
+        right 0px
+        width 100%
+        box-sizing border-box
         .arrow
             border 0px none
             position absolute
@@ -368,7 +375,7 @@ body
             &:active
                 background #ccc
             &.left
-                left 0px
+                left 200px
             &.right
                 right 0px
         h1

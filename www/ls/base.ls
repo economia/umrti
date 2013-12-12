@@ -27,7 +27,7 @@ menu.graphs = graphs = new Graphs do
     histogram
     [1919 2006]
     basedata
-    {width: windowWidth - 200, height: 600}
+    {width: windowWidth - 200, height: 470}
 
 stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
