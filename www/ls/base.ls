@@ -15,7 +15,7 @@ menu = new Menu do
 details = new Details do
     d3.select \.details
     basedata
-    histogramWidth: windowWidth - 280
+    histogramWidth: 400
 histogram = new Histogram do
     d3.select \.histogram
     {width: windowWidth - 200, height: 600}
@@ -33,7 +33,6 @@ stackedOrNotSelector = new StackedOrNotSelector do
     d3.select \#content
     graphs
 
-menu.redraw!
 menu.curtain = curtain = new Curtain do
     d3.select \.reasonsGraph
     graphs~x
