@@ -382,6 +382,32 @@ body
         p
             margin 0px
             font-size 0.9em
+    #storyButtons
+        margin 0px
+        padding 0px
+        list-style-type none
+        li
+            box-sizing border-box
+            float left
+            padding 3px 0px
+            border 1px solid HNBlue
+            border-left 0px none
+            text-align center
+            font-size 0.9em
+            &:hover
+            &.active
+                cursor pointer
+                background HNBlue
+                color white
+                font-weight bold
+            &:hover
+                box-shadow 0px 0px 4px 1px HNBlue
+            &.active
+                transition background 0.8s
+            &.side
+                width 10%
+            &.story
+                width (80% / 17)
 .fallback
     position absolute
     top 0px

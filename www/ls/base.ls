@@ -41,6 +41,7 @@ menu.curtain = curtain = new Curtain do
 
 stories = new Stories do
     d3.select \#story
+    d3.select \#storyButtons
     curtain
     menu
     graphs

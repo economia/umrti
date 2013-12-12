@@ -1,5 +1,5 @@
 window.Stories = class Stories
-    (@element, @curtain, @menu, @graphs, @stackedOrNotSelector, @details) ->
+    (@element, @buttonsElement, @curtain, @menu, @graphs, @stackedOrNotSelector, @details) ->
         @heading = @element.select \h1
         @content = @element.select \p
         lbutton = @element.append \button
@@ -13,16 +13,23 @@ window.Stories = class Stories
         @lastId = 0
         @stackedOrNotInputs = @stackedOrNotSelector.formElement.selectAll \input
         @menuInputs = @menu.list.selectAll \input
-        @stories[@lastId]bind(@)!
+        @drawButtons!
+        @showStory 0
 
     move: (dir) ->
-        @lastId += dir
+        id = @lastId + dir
         len = @stories.length
-        if @lastId >= len
-            @lastId -= len
-        if @lastId < 0
-            @lastId += len
-        @stories[@lastId]bind(@)!
+        if id >= len
+            id -= len
+        if id < 0
+            id += len
+        @showStory id
+
+    showStory: (id) ->
+        @lastId = id
+        @buttons.classed \active no
+        d3.select @buttons[0][id] .classed \active yes
+        @stories[id]bind(@)!
 
     setText: (heading, text) ->
         @content.html text
@@ -44,6 +51,24 @@ window.Stories = class Stories
                     | @value == \stacked => no
                     | otherwise          => yes
         @menu.redraw!
+
+    drawButtons: ->
+        @buttonsElement.append \li
+            ..attr \class \side
+            ..html "&laquo; Zpět"
+            ..on \click ~> @move -1
+
+        @buttons = @buttonsElement.selectAll \li.story
+            .data @stories
+            .enter!append \li
+                ..attr \class \story
+                ..html (d, i) -> "#{i + 1}"
+                ..on \click (d, i) ~> @showStory i
+
+        @buttonsElement.append \li
+            ..attr \class \side
+            ..html "Dále &raquo;"
+            ..on \click ~> @move +1
 
     stories:
         ->
