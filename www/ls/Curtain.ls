@@ -1,14 +1,14 @@
 window.Curtain = class Curtain
     (@parentElement, @x, @offset) ->
-        @left = @parentElement.append \div
-            ..attr \class "curtain left"
-        @right = @parentElement.append \div
-            ..attr \class "curtain right"
+        @center = @parentElement.append \div
+            ..attr \class "curtain center"
 
     draw: (left, right) ->
-        @left.style \width "#{@offset + @x left}px"
-        @right.style \left "#{@offset + @x right}px"
+        leftX  = @x left
+        rightX = @x right
+        @center
+            .style \left "#{@offset + leftX}px"
+            .style \width "#{rightX - leftX}px"
 
     hide: ->
-        @left.style \width "0px"
-        @right.style \left "100%"
+        @center.style \width "0px"
