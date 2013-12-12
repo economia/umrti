@@ -56,6 +56,9 @@ body
         left 0px
         padding-left leftColumn
         height topRow
+        svg
+            position relative
+            z-index 2 // above curtain
         g.disabled
             pointer-events none
             path
@@ -344,7 +347,6 @@ body
         bottom 130px
         background rgba(0,0,0,0.2)
         transition 0.2s
-        pointer-events none
         &.hidden
             opacity 0
         &.left
