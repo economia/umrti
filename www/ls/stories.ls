@@ -54,7 +54,7 @@ window.Stories = class Stories
 
     drawButtons: ->
         @buttonsElement.append \li
-            ..attr \class \side
+            ..attr \class "side back"
             ..html "&laquo; Zpět"
             ..on \click ~> @move -1
 
@@ -62,11 +62,11 @@ window.Stories = class Stories
             .data @stories
             .enter!append \li
                 ..attr \class \story
-                ..html (d, i) -> "#{i + 1}"
+                ..html (d, i) -> i + 1
                 ..on \click (d, i) ~> @showStory i
 
         @buttonsElement.append \li
-            ..attr \class \side
+            ..attr \class "side forward"
             ..html "Dále &raquo;"
             ..on \click ~> @move +1
 
