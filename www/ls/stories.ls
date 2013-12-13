@@ -19,6 +19,7 @@ window.Stories = class Stories
         @graphs.setHeight 600px
         @graphs.draw!
         @element.attr \class \hiding
+        @curtain.hide!
         <~ setTimeout _, 800
         @element.attr \class \hidden
 
