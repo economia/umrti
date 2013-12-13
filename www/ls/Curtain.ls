@@ -4,6 +4,7 @@ window.Curtain = class Curtain
             ..attr \class "curtain center"
 
     draw: (left, right) ->
+        @center.classed \hidden no
         leftX  = @x left
         rightX = @x right
         @center
@@ -11,4 +12,4 @@ window.Curtain = class Curtain
             .style \width "#{rightX - leftX}px"
 
     hide: ->
-        @center.style \width "0px"
+        @center.classed \hidden yes
