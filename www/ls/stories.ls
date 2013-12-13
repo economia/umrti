@@ -122,11 +122,11 @@ window.Stories = class Stories
         ->
             @setText "9. Doly, lomy, úrazy" "V letech 1950 až 1954 přibylo úmrtí v důsledku nehody. Největší nárůst zaznamenaly nehody v dolech a lomech. Tábory nucených prací a pomocnými technickými prapory si po nástupu komunismu prošlo přes 40 tisíc lidí."
             @curtain.draw 1948 1954
-            @display 17 20
+            @display 17
         ->
             @setText "10. Změna klasifikace" "Zub v grafu v roce 1968 kupodivu nezpůsobila sovětská okupace, ale změna klasifikace. Konkrétně jde o přesun krvácení a embolie mozku z kategorie nervových onemocnění mezi oběhové nemoci. Podobná změna není ojedinělá - od roku 1919 se Mezinárodní statistická klasifikace nemocí měnila sedmkrát (1931, 1941, 1949, 1958, 1968, 1979 a 1994). Skokové změny tedy obvykle znamenají změnu číselníku, nikoliv reality."
             @curtain.draw 1966 1969
-            @display 2
+            @display 2 7
         ->
             @setText "11. Bůček, cigarety, infarkty" 'V polovině osmdesátých let dosáhl počet úmrtí na nemoci srdce maxima. Socialistickému lékařství se nedařilo jejich počet snížit, označila je tedy za "civilizační nemoci", nutně spojené s pokrokem. Kardiovaskulární nemoci jsou od té doby zodpovědné přibližně za polovinu všech úmrtí. Procento úmrtí na nemoci srdce se podařilo mírně snížit až po roce 2000.'
             @curtain.draw 1982 1987
