@@ -2,11 +2,30 @@ window.Stories = class Stories
     (@element, @buttonsElement, @curtain, @menu, @graphs, @stackedOrNotSelector, @details) ->
         @heading = @element.select \h1
         @content = @element.select \p
+        closeBtn = @element.append \span
+            ..attr \class \close
+            ..html "x"
+            ..attr \title "Schovat zajímavosti"
+            ..on \click @~hide
         @lastId = 0
         @stackedOrNotInputs = @stackedOrNotSelector.formElement.selectAll \input
         @menuInputs = @menu.list.selectAll \input
         @drawButtons!
         @showStory 0
+        @hidden = no
+
+    hide: ->
+        @hidden = yes
+        @graphs.setHeight 600px
+        @graphs.draw!
+        @element.attr \class \hiding
+        <~ setTimeout _, 800
+        @element.attr \class \hidden
+
+    unhide: ->
+        @hidden = no
+        @graphs.setHeight 470px
+        @element.attr \class ""
 
     move: (dir) ->
         id = @lastId + dir
@@ -18,6 +37,7 @@ window.Stories = class Stories
         @showStory id
 
     showStory: (id) ->
+        @unhide! if @hidden
         @lastId = id
         @buttons.classed \active no
         d3.select @buttons[0][id] .classed \active yes

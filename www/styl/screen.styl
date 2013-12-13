@@ -352,7 +352,7 @@ body
         z-index 1
         top 0px
         width auto
-        bottom 130px
+        bottom 0px
         background lighten(HNBlue, 70%)
         transition 0.2s
 
@@ -368,6 +368,31 @@ body
         right 0px
         width 100%
         box-sizing border-box
+        opacity 1
+        transition 0.4s
+        &.hiding
+            opacity 0
+        &.hidden
+            display none
+        .close
+            position absolute
+            top 0px
+            right 0px
+            border-left 1px solid HNBlue
+            border-bottom 1px solid HNBlue
+            box-sizing border-box
+            display block
+            width 20px
+            height 20px
+            font-size 0.7em
+            line-height 1.7em
+            background lighten(HNBlue, 70%)
+            text-align center
+            &:hover
+                background lighten(HNBlue, 50%)
+                cursor pointer
+            &:active
+                background lighten(HNBlue, 30%)
         .arrow
             border 0px none
             margin 0px

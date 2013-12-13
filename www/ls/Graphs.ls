@@ -52,6 +52,10 @@ window.Graphs = class Graphs
         @currentSelection = null
         @currentMethod    = \normal
 
+    setHeight: (@height) ->
+        @svg.attr \height @height
+        @y.range [25 @height]
+
     setSelection: (ids) ->
         @currentSelection = ids
         @redraw!
