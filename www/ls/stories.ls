@@ -89,7 +89,7 @@ window.Stories = class Stories
 
     stories:
         ->
-            @setText "1. Tuberkulosa ústrojí dýchacího" "Čtrtinu úmrtí v roce 1919 měly na svědomí infekční nemoci. Mezi nimi dominovala vůbec nejobávanější meziválečná diagnóza: tuberkulóza. Nemoc o to děsivější, že na ni nejčastěji umíraly děti a mladí lidé."
+            @setText "1. Tuberkulosa ústrojí dýchacího" "Čtrtinu úmrtí v roce 1919 měly na svědomí infekční nemoci. Mezi nimi dominovala vůbec nejobávanější meziválečná diagnóza: tuberkulóza. Nemoc o to děsivější, že na ni nejčastěji umírali děti a mladí lidé."
             @display 1 2 3
             @curtain.draw 1918 1921
         ->
