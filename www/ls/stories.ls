@@ -43,6 +43,7 @@ window.Stories = class Stories
         @buttons.classed \active no
         d3.select @buttons[0][id] .classed \active yes
         @stories[id]bind(@)!
+        window._gaq.push ['_trackEvent' 'umrti' 'story' "story-#id"]
 
     setText: (heading, text) ->
         @content.html text + " "
